@@ -1,0 +1,3 @@
+aws_region = "us-east-1"
+domain_name = "bible.jdfortress.com"
+openai_api_key = "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"

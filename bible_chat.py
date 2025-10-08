@@ -29,21 +29,26 @@ Guidelines:
     def generate_response(self, user_query):
         """Generate AI response with Bible references"""
         if not self.client.api_key:
-            return "Please set your OPENAI_API_KEY in the .env file to use this chat."
+            yield "Please set your OPENAI_API_KEY in the .env file to use this chat."
+            return
         
         try:
-            response = self.client.chat.completions.create(
-                model="gpt-4o-mini",
-                messages=[
-                    {"role": "system", "content": self.system_prompt},
+            stream = self.client.responses.create(
+                model="gpt-5-nano",
+                input=[
+                    {"role": "developer", "content": self.system_prompt},
                     {"role": "user", "content": user_query}
                 ],
-                max_tokens=600,
-                temperature=0.7
+                text={"verbosity": "low"}, # Set the response verbosity (low, medium, or high)
+                reasoning={"effort": "low"}, # Set the reasoning effort (minimal, low, medium, or high)
+                stream=True,
             )
-            return response.choices[0].message.content
+            for event in stream:
+                # Yield only the text delta events; ignore others like created/done
+                if event.type == "response.output_text.delta":
+                    yield event.delta
         except Exception as e:
-            return f"Error generating response: {str(e)}"
+            yield f"Error generating response: {str(e)}"
 
 def main():
     st.set_page_config(
@@ -137,13 +142,11 @@ def main():
         with st.chat_message("user"):
             st.markdown(prompt)
         
-        # Generate and display assistant response
+        # Generate and display assistant response  
         with st.chat_message("assistant"):
-            with st.spinner("Searching Scripture..."):
-                response = st.session_state.bible_chat.generate_response(prompt)
-                st.markdown(response)
-                st.session_state.messages.append({"role": "assistant", "content": response})
-        st.rerun()
+            response = st.write_stream(st.session_state.bible_chat.generate_response(prompt))
+            st.session_state.messages.append({"role": "assistant", "content": response})
+
     
     # Chat input
     if prompt := st.chat_input("Ask a Bible-related question..."):
@@ -155,9 +158,10 @@ def main():
         # Generate and display assistant response
         with st.chat_message("assistant"):
             with st.spinner("Searching Scripture..."):
-                response = st.session_state.bible_chat.generate_response(prompt)
-                st.markdown(response)
-                st.session_state.messages.append({"role": "assistant", "content": response})
+                full_response = st.write_stream(generate_response(user_query))
+        # Append full response to history for persistence
+        st.session_state.messages.append({"role": "assistant", "content": full_response})
+        st.rerun()
 
 if __name__ == "__main__":
     main()

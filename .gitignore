@@ -9,5 +9,18 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# AWS/Terraform files that should not be tracked
 aws/terraform.tfvars
 aws/.terraform/
+aws/.terraform.lock.hcl
+aws/terraform.tfstate
+aws/terraform.tfstate.backup
+aws/terraform.tfstate.*.backup
+aws/*.tfplan
+aws/crash.log
+aws/crash.*.log
+aws/override.tf
+aws/override.tf.json
+aws/*_override.tf
+aws/*_override.tf.json

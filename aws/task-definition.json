@@ -20,7 +20,7 @@
       "environment": [
         {
           "name": "OPENAI_API_KEY",
-          "value": "YOUR_OPENAI_API_KEY"
+          "value": "PLACEHOLDER_WILL_BE_REPLACED_BY_GITHUB_ACTIONS"
         }
       ],
       "logConfiguration": {

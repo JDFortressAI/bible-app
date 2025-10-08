@@ -35,10 +35,6 @@ data "aws_availability_zones" "available" {
   state = "available"
 }
 
-data "aws_route53_zone" "main" {
-  name = var.domain_name
-}
-
 # VPC
 resource "aws_vpc" "main" {
   cidr_block           = "10.0.0.0/16"
@@ -154,9 +150,10 @@ resource "aws_acm_certificate" "main" {
   domain_name       = var.domain_name
   validation_method = "DNS"
 
-  subject_alternative_names = [
-    "*.${var.domain_name}"
-  ]
+  # Removed wildcard subdomain - only need main domain
+  # subject_alternative_names = [
+  #   "*.${var.domain_name}"
+  # ]
 
   lifecycle {
     create_before_destroy = true
@@ -167,28 +164,9 @@ resource "aws_acm_certificate" "main" {
   }
 }
 
-# Certificate Validation
-resource "aws_route53_record" "cert_validation" {
-  for_each = {
-    for dvo in aws_acm_certificate.main.domain_validation_options : dvo.domain_name => {
-      name   = dvo.resource_record_name
-      record = dvo.resource_record_value
-      type   = dvo.resource_record_type
-    }
-  }
-
-  allow_overwrite = true
-  name            = each.value.name
-  records         = [each.value.record]
-  ttl             = 60
-  type            = each.value.type
-  zone_id         = data.aws_route53_zone.main.zone_id
-}
-
-resource "aws_acm_certificate_validation" "main" {
-  certificate_arn         = aws_acm_certificate.main.arn
-  validation_record_fqdns = [for record in aws_route53_record.cert_validation : record.fqdn]
-}
+# Certificate Validation (Manual - you'll need to add these DNS records)
+# The certificate will show validation records that you need to add to your DNS
+# Check AWS Console > Certificate Manager after running terraform
 
 # Application Load Balancer
 resource "aws_lb" "main" {
@@ -252,7 +230,7 @@ resource "aws_lb_listener" "https" {
   port              = "443"
   protocol          = "HTTPS"
   ssl_policy        = "ELBSecurityPolicy-TLS-1-2-2017-01"
-  certificate_arn   = aws_acm_certificate_validation.main.certificate_arn
+  certificate_arn   = aws_acm_certificate.main.arn
 
   default_action {
     type             = "forward"
@@ -260,18 +238,9 @@ resource "aws_lb_listener" "https" {
   }
 }
 
-# Route53 Record
-resource "aws_route53_record" "main" {
-  zone_id = data.aws_route53_zone.main.zone_id
-  name    = var.domain_name
-  type    = "A"
-
-  alias {
-    name                   = aws_lb.main.dns_name
-    zone_id                = aws_lb.main.zone_id
-    evaluate_target_health = true
-  }
-}
+# Route53 Record (Manual - you'll need to add this to your DNS)
+# Add an A record pointing bible.jdfortress.com to the ALB DNS name
+# Or add a CNAME record pointing to the ALB DNS name
 
 # ECR Repository
 resource "aws_ecr_repository" "main" {

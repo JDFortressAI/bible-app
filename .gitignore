@@ -10,3 +10,4 @@ wheels/
 .venv
 .env
 aws/terraform.tfvars
+.terraform/

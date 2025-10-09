@@ -20,7 +20,8 @@ Your role:
 
 Guidelines:
 - Use only NKJV text when quoting Scripture
-- Do not use neutral quotes. Use “Quote” always.
+- Convert all neutral quotes ("") into Proper Quotes (“”) always.
+- Convert all neutral apostrophe (') into Proper apostrophe (’). 
 - Include multiple relevant verses when helpful
 - Provide context and explanation for the verses
 - Offer practical application of biblical principles
@@ -158,10 +159,9 @@ def main():
         # Generate and display assistant response
         with st.chat_message("assistant"):
             with st.spinner("Searching Scripture..."):
-                full_response = st.write_stream(generate_response(user_query))
+                full_response = st.write_stream(st.session_state.bible_chat.generate_response(prompt))
         # Append full response to history for persistence
-        st.session_state.messages.append({"role": "assistant", "content": full_response})
-        st.rerun()
+            st.session_state.messages.append({"role": "assistant", "content": full_response})
 
 if __name__ == "__main__":
     main()

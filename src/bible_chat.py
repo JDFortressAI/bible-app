@@ -173,8 +173,6 @@ def display_reading_mode():
         st.code("python -m src.mccheyne --structured")
         return
     
-    # Display date
-    st.markdown(f"## 📅 M'Cheyne Reading Plan - {readings['date']}")
     
     # Get passage titles and all passages
     titles = st.session_state.mccheyne_reader.get_passage_titles(readings)
@@ -387,8 +385,21 @@ def main():
         layout="wide"
     )
     
-    # Main title
-    st.title("📖 Bible Reading & Chat")
+    # Dynamic date title
+    today = datetime.now()
+    day_name = today.strftime("%A")
+    day_num = today.day
+    month_name = today.strftime("%B")
+    year = today.year
+    
+    # Add ordinal suffix to day
+    if 10 <= day_num % 100 <= 20:
+        suffix = "th"
+    else:
+        suffix = {1: "st", 2: "nd", 3: "rd"}.get(day_num % 10, "th")
+    
+    date_title = f"🗓️ Today is {day_name}, {day_num}{suffix} of {month_name} {year}."
+    st.title(date_title)
     
     # Initialize mode in session state
     if 'current_mode' not in st.session_state:
@@ -402,7 +413,7 @@ def main():
     
     # Display appropriate interface based on mode
     if st.session_state.current_mode == "📖 Reading":
-        st.markdown("*Today's M'Cheyne Bible Reading Plan*")
+        st.markdown("*Today’s M’Cheyne Bible Reading Plan*")
         display_reading_mode()
     else:  # Chat mode
         st.markdown("*Ask questions and receive answers grounded in Scripture (NKJV)*")

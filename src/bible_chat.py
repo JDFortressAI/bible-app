@@ -184,7 +184,7 @@ def display_reading_mode():
     
     # Sidebar for passage selection and controls
     with st.sidebar:
-        st.header("📖 Today's Passages")
+        st.header("📖 Today’s Passages")
         st.markdown("*Select a passage to read:*")
         
         # Initialize selected passage
@@ -258,6 +258,15 @@ def display_reading_mode():
             
             # Display the passage content
             display_bible_passage(selected_passage, st.session_state.selected_passage_index)
+            
+            # Add NKJV copyright footnote at the bottom
+            st.markdown("---")
+            st.markdown(
+                '<p style="font-size: 12px; color: #888; text-align: center; margin-top: 2rem;">'
+                'Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. All rights reserved.'
+                '</p>', 
+                unsafe_allow_html=True
+            )
     else:
         st.error("Invalid passage selection or no passages available.")
 
@@ -381,7 +390,7 @@ def display_chat_mode():
 def main():
     st.set_page_config(
         page_title="Bible Reading & Chat",
-        page_icon="📖",
+        page_icon="assets/favicon.jpeg",
         layout="wide"
     )
     
@@ -398,8 +407,8 @@ def main():
     else:
         suffix = {1: "st", 2: "nd", 3: "rd"}.get(day_num % 10, "th")
     
-    date_title = f"🗓️ Today is {day_name}, {day_num}{suffix} of {month_name} {year}."
-    st.title(date_title)
+    date_title = f"🗓️ Today is {day_name}, {day_num}<sup>{suffix}</sup> of {month_name} {year}."
+    st.markdown(f"# {date_title}", unsafe_allow_html=True)
     
     # Initialize mode in session state
     if 'current_mode' not in st.session_state:
@@ -413,7 +422,8 @@ def main():
     
     # Display appropriate interface based on mode
     if st.session_state.current_mode == "📖 Reading":
-        st.markdown("*Today’s M’Cheyne Bible Reading Plan*")
+        url = "https://bibleplan.org/plans/mcheyne/"
+        st.markdown("*Today’s [M’Cheyne Bible Reading Plan](%s)*" % url)
         display_reading_mode()
     else:  # Chat mode
         st.markdown("*Ask questions and receive answers grounded in Scripture (NKJV)*")

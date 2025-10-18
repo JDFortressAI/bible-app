@@ -320,7 +320,193 @@ resource "aws_iam_role" "ecs_task" {
   })
 }
 
-# ECS Task Definition
+
+
+# S3 Bucket for Bible readings cache
+resource "aws_s3_bucket" "bible_cache" {
+  bucket = "bible-chat-cache-${random_id.bucket_suffix.hex}"
+
+  tags = {
+    Name = "bible-chat-cache"
+  }
+}
+
+resource "random_id" "bucket_suffix" {
+  byte_length = 4
+}
+
+resource "aws_s3_bucket_versioning" "bible_cache" {
+  bucket = aws_s3_bucket.bible_cache.id
+  versioning_configuration {
+    status = "Enabled"
+  }
+}
+
+resource "aws_s3_bucket_server_side_encryption_configuration" "bible_cache" {
+  bucket = aws_s3_bucket.bible_cache.id
+
+  rule {
+    apply_server_side_encryption_by_default {
+      sse_algorithm = "AES256"
+    }
+  }
+}
+
+# IAM Role for Lambda
+resource "aws_iam_role" "lambda_role" {
+  name = "bible-chat-lambda-role"
+
+  assume_role_policy = jsonencode({
+    Version = "2012-10-17"
+    Statement = [
+      {
+        Action = "sts:AssumeRole"
+        Effect = "Allow"
+        Principal = {
+          Service = "lambda.amazonaws.com"
+        }
+      }
+    ]
+  })
+}
+
+# IAM Policy for Lambda
+resource "aws_iam_role_policy" "lambda_policy" {
+  name = "bible-chat-lambda-policy"
+  role = aws_iam_role.lambda_role.id
+
+  policy = jsonencode({
+    Version = "2012-10-17"
+    Statement = [
+      {
+        Effect = "Allow"
+        Action = [
+          "logs:CreateLogGroup",
+          "logs:CreateLogStream",
+          "logs:PutLogEvents"
+        ]
+        Resource = "arn:aws:logs:*:*:*"
+      },
+      {
+        Effect = "Allow"
+        Action = [
+          "s3:GetObject",
+          "s3:PutObject",
+          "s3:DeleteObject"
+        ]
+        Resource = "${aws_s3_bucket.bible_cache.arn}/*"
+      },
+      {
+        Effect = "Allow"
+        Action = [
+          "s3:ListBucket"
+        ]
+        Resource = aws_s3_bucket.bible_cache.arn
+      },
+      {
+        Effect = "Allow"
+        Action = [
+          "ecs:UpdateService"
+        ]
+        Resource = aws_ecs_service.main.id
+      }
+    ]
+  })
+}
+
+# Lambda function for daily M'Cheyne updates
+resource "aws_lambda_function" "mccheyne_updater" {
+  filename         = "mccheyne_lambda.zip"
+  function_name    = "bible-chat-mccheyne-updater"
+  role            = aws_iam_role.lambda_role.arn
+  handler         = "lambda_function.lambda_handler"
+  runtime         = "python3.11"
+  timeout         = 300  # 5 minutes
+
+  environment {
+    variables = {
+      S3_BUCKET = aws_s3_bucket.bible_cache.bucket
+      ECS_SERVICE_ARN = aws_ecs_service.main.id
+      ECS_CLUSTER_ARN = aws_ecs_cluster.main.id
+    }
+  }
+
+  depends_on = [
+    aws_iam_role_policy.lambda_policy,
+    aws_cloudwatch_log_group.lambda_logs,
+  ]
+
+  tags = {
+    Name = "bible-chat-mccheyne-updater"
+  }
+}
+
+# CloudWatch Log Group for Lambda
+resource "aws_cloudwatch_log_group" "lambda_logs" {
+  name              = "/aws/lambda/bible-chat-mccheyne-updater"
+  retention_in_days = 14
+
+  tags = {
+    Name = "bible-chat-lambda-logs"
+  }
+}
+
+# EventBridge rule for daily execution at 4AM GMT
+resource "aws_cloudwatch_event_rule" "daily_update" {
+  name                = "bible-chat-daily-update"
+  description         = "Trigger M'Cheyne readings update daily at 4AM GMT"
+  schedule_expression = "cron(0 4 * * ? *)"  # 4AM GMT daily
+
+  tags = {
+    Name = "bible-chat-daily-update"
+  }
+}
+
+# EventBridge target
+resource "aws_cloudwatch_event_target" "lambda_target" {
+  rule      = aws_cloudwatch_event_rule.daily_update.name
+  target_id = "McCheyneUpdaterTarget"
+  arn       = aws_lambda_function.mccheyne_updater.arn
+}
+
+# Lambda permission for EventBridge
+resource "aws_lambda_permission" "allow_eventbridge" {
+  statement_id  = "AllowExecutionFromEventBridge"
+  action        = "lambda:InvokeFunction"
+  function_name = aws_lambda_function.mccheyne_updater.function_name
+  principal     = "events.amazonaws.com"
+  source_arn    = aws_cloudwatch_event_rule.daily_update.arn
+}
+
+# Update ECS task role to access S3
+resource "aws_iam_role_policy" "ecs_s3_policy" {
+  name = "bible-chat-ecs-s3-policy"
+  role = aws_iam_role.ecs_task.id
+
+  policy = jsonencode({
+    Version = "2012-10-17"
+    Statement = [
+      {
+        Effect = "Allow"
+        Action = [
+          "s3:GetObject",
+          "s3:PutObject",
+          "s3:DeleteObject"
+        ]
+        Resource = "${aws_s3_bucket.bible_cache.arn}/*"
+      },
+      {
+        Effect = "Allow"
+        Action = [
+          "s3:ListBucket"
+        ]
+        Resource = aws_s3_bucket.bible_cache.arn
+      }
+    ]
+  })
+}
+
+# ECS Task Definition with S3 access
 resource "aws_ecs_task_definition" "main" {
   family                   = "bible-chat-task"
   network_mode             = "awsvpc"
@@ -346,6 +532,10 @@ resource "aws_ecs_task_definition" "main" {
         {
           name  = "OPENAI_API_KEY"
           value = var.openai_api_key
+        },
+        {
+          name  = "S3_BUCKET"
+          value = aws_s3_bucket.bible_cache.bucket
         }
       ]
 
@@ -419,4 +609,14 @@ output "domain_url" {
 output "ecr_repository_url" {
   description = "ECR repository URL"
   value       = aws_ecr_repository.main.repository_url
+}
+
+output "s3_bucket_name" {
+  description = "S3 bucket for Bible readings cache"
+  value       = aws_s3_bucket.bible_cache.bucket
+}
+
+output "lambda_function_name" {
+  description = "Lambda function for daily updates"
+  value       = aws_lambda_function.mccheyne_updater.function_name
 }

@@ -5,13 +5,14 @@ WORKDIR /app
 # Install system dependencies
 RUN apt-get update && apt-get install -y curl && rm -rf /var/lib/apt/lists/*
 
-# Copy pyproject.toml first for better Docker layer caching
-COPY pyproject.toml ./
+# Copy requirements.txt for dependency installation
+COPY requirements.txt ./
 
-# Install dependencies from pyproject.toml
-RUN pip install -e .
+# Install dependencies
+RUN pip install --upgrade pip && \
+    pip install -r requirements.txt
 
-# Copy the rest of the application
+# Copy all application files
 COPY . .
 
 # Expose port

@@ -5,11 +5,14 @@ WORKDIR /app
 # Install system dependencies
 RUN apt-get update && apt-get install -y curl && rm -rf /var/lib/apt/lists/*
 
-# Copy all files
-COPY . .
+# Copy pyproject.toml first for better Docker layer caching
+COPY pyproject.toml ./
 
-# Install dependencies directly with pip
-RUN pip install streamlit openai python-dotenv boto3 requests beautifulsoup4 pydantic
+# Install dependencies from pyproject.toml
+RUN pip install -e .
+
+# Copy the rest of the application
+COPY . .
 
 # Expose port
 EXPOSE 8501

@@ -7,7 +7,7 @@ handling complex verse ranges and text normalization for the M'Cheyne reading sy
 
 import re
 from typing import List, Tuple, Optional, Dict
-from bible_models import BibleVerse, BiblePassage
+from .bible_models import BibleVerse, BiblePassage
 from datetime import datetime
 
 
@@ -179,12 +179,13 @@ def normalize_book_name(book: str) -> str:
     return book.title()
 
 
-def clean_verse_text(text: str) -> str:
+def clean_verse_text(text: str, book: str = None) -> str:
     """
     Clean and normalize verse text.
     
     Args:
         text: Raw verse text from web scraping
+        book: Bible book name (used for YHWH typography context)
         
     Returns:
         Cleaned verse text with proper typography
@@ -222,18 +223,19 @@ def clean_verse_text(text: str) -> str:
     # Clean up any double spaces created by removals
     text = re.sub(r'\s+', ' ', text).strip()
     
-    # Apply proper typography
-    text = apply_proper_typography(text)
+    # Apply proper typography (with book context for YHWH typography)
+    text = apply_proper_typography(text, book)
     
     return text
 
 
-def apply_proper_typography(text: str) -> str:
+def apply_proper_typography(text: str, book: str = None) -> str:
     """
     Apply proper typographic quotes and punctuation to text.
     
     Args:
         text: Text with straight quotes and basic punctuation
+        book: Bible book name (used for YHWH typography context)
         
     Returns:
         Text with proper typographic quotes and punctuation
@@ -270,8 +272,8 @@ def apply_proper_typography(text: str) -> str:
     # Handle ellipses
     text = re.sub(r'\.{3,}', '…', text)
     
-    # Handle YHWH divine name typography
-    text = apply_yhwh_typography(text)
+    # Handle YHWH divine name typography (Old Testament only)
+    text = apply_yhwh_typography(text, book)
     
     return text
 
@@ -418,22 +420,68 @@ def convert_single_quotes(text: str) -> str:
     return result
 
 
-def apply_yhwh_typography(text: str, use_html: bool = False) -> str:
+def is_old_testament_book(book: str) -> bool:
+    """
+    Determine if a Bible book is from the Old Testament.
+    
+    Args:
+        book: Bible book name
+        
+    Returns:
+        True if Old Testament, False if New Testament
+    """
+    if not book:
+        return False
+    
+    book_lower = book.lower().strip()
+    
+    # Old Testament books
+    old_testament_books = {
+        # Torah/Pentateuch
+        'genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy',
+        
+        # Historical Books
+        'joshua', 'judges', 'ruth', '1 samuel', '2 samuel', '1 kings', '2 kings',
+        '1 chronicles', '2 chronicles', 'ezra', 'nehemiah', 'esther',
+        
+        # Wisdom Literature
+        'job', 'psalms', 'psalm', 'proverbs', 'ecclesiastes', 'song of solomon', 'song of songs',
+        
+        # Major Prophets
+        'isaiah', 'jeremiah', 'lamentations', 'ezekiel', 'daniel',
+        
+        # Minor Prophets
+        'hosea', 'joel', 'amos', 'obadiah', 'jonah', 'micah', 'nahum', 'habakkuk',
+        'zephaniah', 'haggai', 'zechariah', 'malachi'
+    }
+    
+    return book_lower in old_testament_books
+
+
+def apply_yhwh_typography(text: str, book: str = None, use_html: bool = False) -> str:
     """
     Apply proper typography for the divine name YHWH (rendered as "Lord" in most translations).
     
     In Hebrew Bible tradition, YHWH (the tetragrammaton) is typically rendered in English
     translations as "LORD" in small caps to distinguish it from Adonai ("Lord").
     
+    This function only applies YHWH typography to Old Testament passages, as "Lord" in the
+    New Testament typically refers to Jesus Christ, not the tetragrammaton.
+    
     Args:
         text: Text containing potential YHWH references
+        book: Bible book name (used to determine Old vs New Testament)
         use_html: If True, use HTML markup; if False, use Unicode small caps
         
     Returns:
-        Text with proper YHWH typography applied
+        Text with proper YHWH typography applied (Old Testament only)
     """
     if not text:
         return ""
+    
+    # Only apply YHWH typography to Old Testament books
+    if book and not is_old_testament_book(book):
+        return text
     
     # Define YHWH patterns - these represent the tetragrammaton YHWH
     # Most English translations render YHWH as "LORD" in small caps
@@ -523,7 +571,7 @@ def extract_verses_from_text(text: str, book: str, chapter: int, start_verse: in
             for verse_num_str, verse_text in matches:
                 try:
                     verse_num = int(verse_num_str)
-                    cleaned_text = clean_verse_text(verse_text)
+                    cleaned_text = clean_verse_text(verse_text, book)
                     
                     if cleaned_text and len(cleaned_text) > 10:  # Filter out very short text
                         verses.append(BibleVerse(
@@ -551,7 +599,7 @@ def extract_verses_from_text(text: str, book: str, chapter: int, start_verse: in
                 verse_num_str, verse_text = match.groups()
                 try:
                     verse_num = int(verse_num_str)
-                    cleaned_text = clean_verse_text(verse_text)
+                    cleaned_text = clean_verse_text(verse_text, book)
                     
                     if cleaned_text and len(cleaned_text) > 10:
                         verses.append(BibleVerse(
@@ -595,7 +643,7 @@ def extract_verses_from_text(text: str, book: str, chapter: int, start_verse: in
                         current_verse_num += 1
                     
                     if verse_text:
-                        cleaned_text = clean_verse_text(verse_text)
+                        cleaned_text = clean_verse_text(verse_text, book)
                         if cleaned_text and len(cleaned_text) > 10:
                             verses.append(BibleVerse(
                                 book=normalize_book_name(book),
@@ -609,7 +657,7 @@ def extract_verses_from_text(text: str, book: str, chapter: int, start_verse: in
                 return verses
     
     # Last resort: if no verse numbers found, treat as single verse or split by sentences
-    cleaned_text = clean_verse_text(text)
+    cleaned_text = clean_verse_text(text, book)
     if cleaned_text:
         # If we have an end_verse hint, try to split the text intelligently
         if end_verse and end_verse > start_verse:
@@ -716,7 +764,7 @@ def parse_bible_text(raw_text: str, reference: str, version: str = "NKJV") -> Bi
             
             # Split the text and try to identify chapter boundaries
             # This is a simplified approach - real implementation might need more sophisticated parsing
-            cleaned_text = clean_verse_text(raw_text)
+            cleaned_text = clean_verse_text(raw_text, book)
             
             # Create a single verse for now (this would need enhancement for real cross-chapter parsing)
             verses.append(BibleVerse(
@@ -785,7 +833,7 @@ def parse_mcheyne_passage_list(passage_texts: Dict[str, str], version: str = "NK
                     book=normalize_book_name(book),
                     chapter=chapter,
                     verse=start_verse,
-                    text=clean_verse_text(text) or "Text unavailable"
+                    text=clean_verse_text(text, book) or "Text unavailable"
                 )
                 parsed_passages[reference] = BiblePassage(
                     reference=reference,

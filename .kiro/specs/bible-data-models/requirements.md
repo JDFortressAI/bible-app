@@ -90,8 +90,9 @@ This specification defines a structured data modeling system for Bible passages 
 1. WHEN processing Bible text THEN the system SHALL convert straight quotes to proper typographic quotes (", ", ', ')
 2. WHEN processing contractions THEN the system SHALL use proper apostrophes (') instead of straight quotes
 3. WHEN processing punctuation THEN the system SHALL convert double hyphens to em dashes (—) and multiple periods to ellipses (…)
-4. WHEN encountering the divine name YHWH THEN the system SHALL render "Lord" in small caps to distinguish from Adonai
-5. WHEN displaying YHWH references THEN the system SHALL handle compound forms like "Lord God", "Lord of hosts", and possessives correctly
+4. WHEN encountering the divine name YHWH in Old Testament passages THEN the system SHALL render "Lord" in small caps to distinguish from Adonai
+5. WHEN processing New Testament passages THEN "Lord" SHALL remain in normal case as it typically refers to Jesus Christ
+6. WHEN displaying YHWH references THEN the system SHALL handle compound forms like "Lord God", "Lord of hosts", and possessives correctly in Old Testament only
 
 ### Requirement 8: Large Text Display and Responsive Typography
 

@@ -377,9 +377,24 @@ The system includes comprehensive typography processing to ensure professional, 
 
 #### Divine Name (YHWH) Typography
 
-Special handling for the tetragrammaton YHWH, following biblical typography conventions:
+Special handling for the tetragrammaton YHWH, following biblical typography conventions and theological accuracy:
 
-**Pattern Recognition:**
+**Theological Context:**
+- **Old Testament**: "Lord" often represents YHWH (tetragrammaton) → small caps
+- **New Testament**: "Lord" typically refers to Jesus Christ → normal case
+
+**Book Detection:**
+```python
+def is_old_testament_book(book: str) -> bool:
+    old_testament_books = {
+        'genesis', 'exodus', 'leviticus', 'numbers', 'deuteronomy',
+        'joshua', 'judges', 'ruth', '1 samuel', '2 samuel', '1 kings', '2 kings',
+        # ... all OT books
+    }
+    return book.lower() in old_testament_books
+```
+
+**Pattern Recognition (Old Testament Only):**
 ```python
 yhwh_patterns = [
     # Primary cases (99.9%)
@@ -395,10 +410,11 @@ yhwh_patterns = [
 ]
 ```
 
-**Output Formats:**
+**Output Examples:**
+- **Old Testament**: "The Lᴏʀᴅ said to Moses" (Exodus)
+- **New Testament**: "The Lord Jesus Christ" (1 Thessalonians)
 - **Plain Text**: Unicode small caps (ᴏʀᴅ)
 - **HTML**: `<span class="small-caps">ORD</span>`
-- **CSS Support**: `.small-caps { font-variant: small-caps; }`
 
 #### Text Processing Pipeline
 

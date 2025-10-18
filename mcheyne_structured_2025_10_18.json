@@ -1,7 +1,7 @@
 {
   "format_version": "1.0",
   "date": "10/18/2025",
-  "cached_at": "2025-10-18T16:20:33.521047",
+  "cached_at": "2025-10-18T19:04:22.680091",
   "Family": [
     {
       "reference": "1 Kings 21",
@@ -183,7 +183,7 @@
         }
       ],
       "highlights": [],
-      "fetched_at": "2025-10-18 16:20:28.130609"
+      "fetched_at": "2025-10-18 19:04:17.056998"
     },
     {
       "reference": "1 Thessalonians 4",
@@ -193,13 +193,13 @@
           "book": "1 Thessalonians",
           "chapter": 4,
           "verse": 1,
-          "text": "Finally then, brethren, we urge and exhort in the Lᴏʀᴅ Jesus that you should abound more and more, just as you received from us how you ought to walk and to please God;"
+          "text": "Finally then, brethren, we urge and exhort in the Lord Jesus that you should abound more and more, just as you received from us how you ought to walk and to please God;"
         },
         {
           "book": "1 Thessalonians",
           "chapter": 4,
           "verse": 2,
-          "text": "for you know what commandments we gave you through the Lᴏʀᴅ Jesus."
+          "text": "for you know what commandments we gave you through the Lord Jesus."
         },
         {
           "book": "1 Thessalonians",
@@ -223,7 +223,7 @@
           "book": "1 Thessalonians",
           "chapter": 4,
           "verse": 6,
-          "text": "that no one should take advantage of and defraud his brother in this matter, because the Lᴏʀᴅ is the avenger of all such, as we also forewarned you and testified."
+          "text": "that no one should take advantage of and defraud his brother in this matter, because the Lord is the avenger of all such, as we also forewarned you and testified."
         },
         {
           "book": "1 Thessalonians",
@@ -277,19 +277,19 @@
           "book": "1 Thessalonians",
           "chapter": 4,
           "verse": 15,
-          "text": "For this we say to you by the word of the Lᴏʀᴅ, that we who are alive and remain until the coming of the Lᴏʀᴅ will by no means precede those who are asleep."
+          "text": "For this we say to you by the word of the Lord, that we who are alive and remain until the coming of the Lord will by no means precede those who are asleep."
         },
         {
           "book": "1 Thessalonians",
           "chapter": 4,
           "verse": 16,
-          "text": "For the Lᴏʀᴅ Himself will descend from heaven with a shout, with the voice of an archangel, and with the trumpet of God. And the dead in Christ will rise first."
+          "text": "For the Lord Himself will descend from heaven with a shout, with the voice of an archangel, and with the trumpet of God. And the dead in Christ will rise first."
         },
         {
           "book": "1 Thessalonians",
           "chapter": 4,
           "verse": 17,
-          "text": "Then we who are alive and remain shall be caught up together with them in the clouds to meet the Lᴏʀᴅ in the air. And thus we shall always be with the Lᴏʀᴅ."
+          "text": "Then we who are alive and remain shall be caught up together with them in the clouds to meet the Lord in the air. And thus we shall always be with the Lord."
         },
         {
           "book": "1 Thessalonians",
@@ -299,7 +299,7 @@
         }
       ],
       "highlights": [],
-      "fetched_at": "2025-10-18 16:20:29.635475"
+      "fetched_at": "2025-10-18 19:04:18.592021"
     }
   ],
   "Secret": [
@@ -489,7 +489,7 @@
         }
       ],
       "highlights": [],
-      "fetched_at": "2025-10-18 16:20:31.082569"
+      "fetched_at": "2025-10-18 19:04:19.946508"
     },
     {
       "reference": "Psalm 107",
@@ -755,7 +755,7 @@
         }
       ],
       "highlights": [],
-      "fetched_at": "2025-10-18 16:20:32.515577"
+      "fetched_at": "2025-10-18 19:04:21.674713"
     }
   ]
 }

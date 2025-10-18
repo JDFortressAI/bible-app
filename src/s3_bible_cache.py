@@ -11,7 +11,7 @@ import json
 import os
 from datetime import datetime
 from typing import Dict, List, Optional
-from .bible_models import BiblePassage
+from bible_models import BiblePassage
 import logging
 
 logger = logging.getLogger(__name__)

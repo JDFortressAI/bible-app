@@ -14,8 +14,8 @@ from typing import List, Dict, Tuple, Optional, Union
 import time
 import json
 import os
-from .bible_models import BiblePassage, BibleVerse
-from .bible_parser import parse_bible_text
+from bible_models import BiblePassage, BibleVerse
+from bible_parser import parse_bible_text
 
 class McCheyneReader:
     def __init__(self):

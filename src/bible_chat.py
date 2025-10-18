@@ -6,8 +6,8 @@ import glob
 from datetime import datetime
 from dotenv import load_dotenv
 from typing import Dict, List, Optional
-from src.bible_models import BiblePassage, BibleVerse
-from src.s3_bible_cache import S3BibleCache
+from bible_models import BiblePassage, BibleVerse
+from s3_bible_cache import S3BibleCache
 
 # Load environment variables
 load_dotenv()

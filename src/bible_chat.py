@@ -219,6 +219,47 @@ def display_reading_mode():
     if 'selected_day' not in st.session_state:
         st.session_state.selected_day = 0
     
+    # Add CSS for mobile-responsive navigation buttons
+    st.markdown("""
+    <style>
+    /* Force navigation buttons to stay horizontal on mobile */
+    .stColumns > div {
+        min-width: 0 !important;
+        flex: 1 !important;
+    }
+    
+    /* Ensure buttons don't stack vertically on mobile */
+    @media (max-width: 768px) {
+        .stColumns {
+            display: flex !important;
+            flex-direction: row !important;
+            gap: 0.5rem !important;
+        }
+        
+        .stColumns > div {
+            flex: 1 !important;
+            min-width: 0 !important;
+            width: auto !important;
+        }
+        
+        /* Make button text smaller on very small screens */
+        .stButton > button {
+            font-size: 0.85rem !important;
+            padding: 0.25rem 0.5rem !important;
+            white-space: nowrap !important;
+        }
+    }
+    
+    /* Extra small screens */
+    @media (max-width: 480px) {
+        .stButton > button {
+            font-size: 0.75rem !important;
+            padding: 0.2rem 0.3rem !important;
+        }
+    }
+    </style>
+    """, unsafe_allow_html=True)
+    
     # Day navigation buttons at the top
     col1, col2, col3 = st.columns(3)
     
@@ -353,6 +394,30 @@ def display_reading_mode():
             )
     else:
         st.error("Invalid passage selection or no passages available.")
+    
+    # Bottom navigation buttons (replicate the top navigation)
+    st.markdown("---")
+    st.markdown("### Navigate to Another Day")
+    
+    col1, col2, col3 = st.columns(3)
+    
+    with col1:
+        if st.button("← Yesterday", key="bottom_yesterday", use_container_width=True, type="primary" if st.session_state.selected_day == -1 else "secondary"):
+            st.session_state.selected_day = -1
+            st.session_state.selected_passage_index = 0  # Reset to first passage
+            st.rerun()
+    
+    with col2:
+        if st.button("Today", key="bottom_today", use_container_width=True, type="primary" if st.session_state.selected_day == 0 else "secondary"):
+            st.session_state.selected_day = 0
+            st.session_state.selected_passage_index = 0  # Reset to first passage
+            st.rerun()
+    
+    with col3:
+        if st.button("Tomorrow →", key="bottom_tomorrow", use_container_width=True, type="primary" if st.session_state.selected_day == 1 else "secondary"):
+            st.session_state.selected_day = 1
+            st.session_state.selected_passage_index = 0  # Reset to first passage
+            st.rerun()
 
 def display_chat_mode():
     """Display the Bible chat interface"""

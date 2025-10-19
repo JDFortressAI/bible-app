@@ -3,7 +3,7 @@ from openai import OpenAI
 import os
 import json
 import glob
-from datetime import datetime
+from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from typing import Dict, List, Optional
 from bible_models import BiblePassage, BibleVerse
@@ -19,13 +19,34 @@ class McCheyneReader:
         # Use S3-enabled cache that falls back to local files
         self.cache = S3BibleCache()
     
-    def get_todays_readings(self) -> Optional[Dict]:
-        """Load today's M'Cheyne readings from cache (S3 or local)"""
+    def get_readings_for_day(self, day_offset: int = 0) -> Optional[Dict]:
+        """Load M'Cheyne readings for a specific day offset from today"""
         try:
-            return self.cache.get_todays_readings()
+            if day_offset == 0:
+                return self.cache.get_todays_readings()
+            elif day_offset == 1:
+                return self.cache.get_tomorrows_readings()
+            elif day_offset == -1:
+                return self.cache.get_yesterdays_readings()
+            else:
+                # For other offsets, calculate the date
+                target_date = datetime.now() + timedelta(days=day_offset)
+                return self.cache.get_readings_for_date(target_date)
         except Exception as e:
             st.error(f"Error loading M'Cheyne readings: {e}")
             return None
+    
+    def get_todays_readings(self) -> Optional[Dict]:
+        """Load today's M'Cheyne readings from cache (S3 or local)"""
+        return self.get_readings_for_day(0)
+    
+    def get_yesterdays_readings(self) -> Optional[Dict]:
+        """Load yesterday's M'Cheyne readings from cache (S3 or local)"""
+        return self.get_readings_for_day(-1)
+    
+    def get_tomorrows_readings(self) -> Optional[Dict]:
+        """Load tomorrow's M'Cheyne readings from cache (S3 or local)"""
+        return self.get_readings_for_day(1)
     
     def get_passage_titles(self, readings: Dict) -> List[str]:
         """Generate intelligent titles for the four passages"""
@@ -194,48 +215,76 @@ def display_reading_mode():
     if 'mccheyne_reader' not in st.session_state:
         st.session_state.mccheyne_reader = McCheyneReader()
     
-    # Load today's readings
-    if 'todays_readings' not in st.session_state:
-        st.session_state.todays_readings = st.session_state.mccheyne_reader.get_todays_readings()
+    # Initialize selected day (0 = today, -1 = yesterday, 1 = tomorrow)
+    if 'selected_day' not in st.session_state:
+        st.session_state.selected_day = 0
     
-    readings = st.session_state.todays_readings
+    # Day navigation buttons at the top
+    col1, col2, col3 = st.columns(3)
+    
+    with col1:
+        if st.button("← Yesterday", use_container_width=True, type="primary" if st.session_state.selected_day == -1 else "secondary"):
+            st.session_state.selected_day = -1
+            st.session_state.selected_passage_index = 0  # Reset to first passage
+            st.rerun()
+    
+    with col2:
+        if st.button("Today", use_container_width=True, type="primary" if st.session_state.selected_day == 0 else "secondary"):
+            st.session_state.selected_day = 0
+            st.session_state.selected_passage_index = 0  # Reset to first passage
+            st.rerun()
+    
+    with col3:
+        if st.button("Tomorrow →", use_container_width=True, type="primary" if st.session_state.selected_day == 1 else "secondary"):
+            st.session_state.selected_day = 1
+            st.session_state.selected_passage_index = 0  # Reset to first passage
+            st.rerun()
+    
+    # Load readings for the selected day
+    readings = st.session_state.mccheyne_reader.get_readings_for_day(st.session_state.selected_day)
     
     if not readings:
-        st.error("📭 No M'Cheyne readings found. Please run the M'Cheyne reader first to generate today's readings.")
-        st.markdown("Run this command to fetch today's readings:")
+        day_name = ["Yesterday's", "Today's", "Tomorrow's"][st.session_state.selected_day + 1]
+        st.error(f"📭 No M'Cheyne readings found for {day_name.lower()} date. Please run the M'Cheyne reader first to generate readings.")
+        st.markdown("Run this command to fetch readings:")
         st.code("python -m src.mccheyne --structured")
         return
-    
     
     # Get passage titles and all passages
     titles = st.session_state.mccheyne_reader.get_passage_titles(readings)
     all_passages = st.session_state.mccheyne_reader.get_all_passages(readings)
     
     if not titles or not all_passages:
-        st.error("No passages found in today's readings.")
+        st.error("No passages found in the selected day's readings.")
         return
     
     # Sidebar for passage selection and controls
     with st.sidebar:
-        st.header("📖 Today’s Passages")
+        # Dynamic sidebar header based on selected day
+        day_headers = ["📖 Yesterday’s Passages", "📖 Today’s Passages", "📖 Tomorrow’s Passages"]
+        st.header(day_headers[st.session_state.selected_day + 1])
         st.markdown("*Select a passage to read:*")
         
         # Initialize selected passage
         if 'selected_passage_index' not in st.session_state:
             st.session_state.selected_passage_index = 0
         
+        # Ensure selected passage index is valid for current readings
+        if st.session_state.selected_passage_index >= len(titles):
+            st.session_state.selected_passage_index = 0
+        
         # Passage selection buttons
         for i, title in enumerate(titles):
             # Highlight current passage button
             button_type = "primary" if i == st.session_state.selected_passage_index else "secondary"
-            if st.button(title, key=f"passage_{i}", use_container_width=True, type=button_type):
+            if st.button(title, key=f"passage_{i}_{st.session_state.selected_day}", use_container_width=True, type=button_type):
                 st.session_state.selected_passage_index = i
                 st.rerun()
         
         st.markdown("---")
         
         if st.button("🔄 Refresh Readings", use_container_width=True):
-            st.session_state.todays_readings = None
+            # Clear cached readings to force refresh
             st.rerun()
         
         # Mode selector at bottom of sidebar
@@ -257,18 +306,19 @@ def display_reading_mode():
         selected_passage = all_passages[st.session_state.selected_passage_index]
         
         # Use a unique container key for each passage to maintain scroll positions
-        container_key = f"passage_container_{st.session_state.selected_passage_index}_{selected_passage.reference}"
+        container_key = f"passage_container_{st.session_state.selected_passage_index}_{st.session_state.selected_day}_{selected_passage.reference}"
         
         # Create a container with a unique key for this passage
         with st.container():
             # Add a unique identifier for scroll position tracking
-            st.markdown(f'<div id="passage-{st.session_state.selected_passage_index}"></div>', unsafe_allow_html=True)
+            st.markdown(f'<div id="passage-{st.session_state.selected_passage_index}-{st.session_state.selected_day}"></div>', unsafe_allow_html=True)
             
             # Add JavaScript to always scroll to top when switching passages
             st.markdown(f"""
             <script>
             (function() {{
                 const passageIndex = {st.session_state.selected_passage_index};
+                const selectedDay = {st.session_state.selected_day};
                 
                 // Always scroll to top when switching passages
                 // Use multiple methods to ensure it works reliably
@@ -283,8 +333,9 @@ def display_reading_mode():
                     window.scrollTo({{ top: 0, behavior: 'smooth' }});
                 }}, 200);
                 
-                // Store current passage index for future reference
+                // Store current passage index and day for future reference
                 window.currentPassageIndex = passageIndex;
+                window.currentSelectedDay = selectedDay;
             }})();
             </script>
             """, unsafe_allow_html=True)
@@ -427,14 +478,26 @@ def main():
         layout="wide"
     )
     
-    # Dynamic date title
-    today = datetime.now()
-    day_name = today.strftime("%A")
-    day_num = today.day
-    month_name = today.strftime("%B")
-    year = today.year
+    # Dynamic date title based on selected day
+    # Initialize selected day if not set (needed for title calculation)
+    if 'selected_day' not in st.session_state:
+        st.session_state.selected_day = 0
     
-    date_title = f"🗓️ Today is {day_name} {day_num} {month_name} 2025."
+    # Calculate the target date based on selected day
+    target_date = datetime.now() + timedelta(days=st.session_state.selected_day)
+    day_name = target_date.strftime("%A")
+    day_num = target_date.day
+    month_name = target_date.strftime("%B")
+    year = target_date.year
+    
+    # Dynamic title based on selected day
+    if st.session_state.selected_day == -1:
+        date_title = f"🗓️ Yesterday was {day_name} {day_num} {month_name} 2025."
+    elif st.session_state.selected_day == 0:
+        date_title = f"🗓️ Today is {day_name} {day_num} {month_name} 2025."
+    else:  # tomorrow
+        date_title = f"🗓️ Tomorrow will be {day_name} {day_num} {month_name} 2025."
+    
     st.markdown(f"# {date_title}", unsafe_allow_html=True)
     
     # Initialize mode in session state
@@ -449,8 +512,19 @@ def main():
     
     # Display appropriate interface based on mode
     if st.session_state.current_mode == "📖 Reading":
+        # Initialize selected day if not set
+        if 'selected_day' not in st.session_state:
+            st.session_state.selected_day = 0
+        
+        # Dynamic description based on selected day
+        day_descriptions = [
+            "Yesterday’s [M'Cheyne Bible Reading Plan](%s)",
+            "Today’s [M'Cheyne Bible Reading Plan](%s)", 
+            "Tomorrow’s [M'Cheyne Bible Reading Plan](%s)"
+        ]
         url = "https://bibleplan.org/plans/mcheyne/"
-        st.markdown("*Today’s [M’Cheyne Bible Reading Plan](%s)*" % url)
+        description = day_descriptions[st.session_state.selected_day + 1] % url
+        st.markdown(f"*{description}*")
         display_reading_mode()
     else:  # Chat mode
         st.markdown("*Ask questions and receive answers grounded in Scripture (NKJV)*")

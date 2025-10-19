@@ -219,68 +219,6 @@ def display_reading_mode():
     if 'selected_day' not in st.session_state:
         st.session_state.selected_day = 0
     
-    # Add CSS for mobile-responsive navigation buttons
-    st.markdown("""
-    <style>
-    /* Force navigation buttons to stay horizontal on mobile */
-    .stColumns > div {
-        min-width: 0 !important;
-        flex: 1 !important;
-    }
-    
-    /* Ensure buttons don't stack vertically on mobile */
-    @media (max-width: 768px) {
-        .stColumns {
-            display: flex !important;
-            flex-direction: row !important;
-            gap: 0.5rem !important;
-        }
-        
-        .stColumns > div {
-            flex: 1 !important;
-            min-width: 0 !important;
-            width: auto !important;
-        }
-        
-        /* Make button text smaller on very small screens */
-        .stButton > button {
-            font-size: 0.85rem !important;
-            padding: 0.25rem 0.5rem !important;
-            white-space: nowrap !important;
-        }
-    }
-    
-    /* Extra small screens */
-    @media (max-width: 480px) {
-        .stButton > button {
-            font-size: 0.75rem !important;
-            padding: 0.2rem 0.3rem !important;
-        }
-    }
-    </style>
-    """, unsafe_allow_html=True)
-    
-    # Day navigation buttons at the top
-    col1, col2, col3 = st.columns(3)
-    
-    with col1:
-        if st.button("← Yesterday", use_container_width=True, type="primary" if st.session_state.selected_day == -1 else "secondary"):
-            st.session_state.selected_day = -1
-            st.session_state.selected_passage_index = 0  # Reset to first passage
-            st.rerun()
-    
-    with col2:
-        if st.button("Today", use_container_width=True, type="primary" if st.session_state.selected_day == 0 else "secondary"):
-            st.session_state.selected_day = 0
-            st.session_state.selected_passage_index = 0  # Reset to first passage
-            st.rerun()
-    
-    with col3:
-        if st.button("Tomorrow →", use_container_width=True, type="primary" if st.session_state.selected_day == 1 else "secondary"):
-            st.session_state.selected_day = 1
-            st.session_state.selected_passage_index = 0  # Reset to first passage
-            st.rerun()
-    
     # Load readings for the selected day
     readings = st.session_state.mccheyne_reader.get_readings_for_day(st.session_state.selected_day)
     
@@ -323,9 +261,22 @@ def display_reading_mode():
                 st.rerun()
         
         st.markdown("---")
+        st.markdown("**Navigate to:**")
         
-        if st.button("🔄 Refresh Readings", use_container_width=True):
-            # Clear cached readings to force refresh
+        # Day navigation buttons in sidebar
+        if st.button("← Yesterday", key="sidebar_yesterday", use_container_width=True, type="primary" if st.session_state.selected_day == -1 else "secondary"):
+            st.session_state.selected_day = -1
+            # Keep current passage selection when switching days
+            st.rerun()
+        
+        if st.button("Today", key="sidebar_today", use_container_width=True, type="primary" if st.session_state.selected_day == 0 else "secondary"):
+            st.session_state.selected_day = 0
+            # Keep current passage selection when switching days
+            st.rerun()
+        
+        if st.button("Tomorrow →", key="sidebar_tomorrow", use_container_width=True, type="primary" if st.session_state.selected_day == 1 else "secondary"):
+            st.session_state.selected_day = 1
+            # Keep current passage selection when switching days
             st.rerun()
         
         # Mode selector at bottom of sidebar
@@ -342,44 +293,14 @@ def display_reading_mode():
         if mode == "💬 Chat":
             st.rerun()
     
-    # Display the selected passage with scroll position memory
+    # Display the selected passage
     if all_passages and 0 <= st.session_state.selected_passage_index < len(all_passages):
         selected_passage = all_passages[st.session_state.selected_passage_index]
         
-        # Use a unique container key for each passage to maintain scroll positions
-        container_key = f"passage_container_{st.session_state.selected_passage_index}_{st.session_state.selected_day}_{selected_passage.reference}"
-        
-        # Create a container with a unique key for this passage
+        # Create a container for this passage
         with st.container():
-            # Add a unique identifier for scroll position tracking
-            st.markdown(f'<div id="passage-{st.session_state.selected_passage_index}-{st.session_state.selected_day}"></div>', unsafe_allow_html=True)
             
-            # Add JavaScript to always scroll to top when switching passages
-            st.markdown(f"""
-            <script>
-            (function() {{
-                const passageIndex = {st.session_state.selected_passage_index};
-                const selectedDay = {st.session_state.selected_day};
-                
-                // Always scroll to top when switching passages
-                // Use multiple methods to ensure it works reliably
-                setTimeout(() => {{
-                    window.scrollTo({{ top: 0, behavior: 'auto' }});
-                    document.documentElement.scrollTop = 0;
-                    document.body.scrollTop = 0;
-                }}, 50);
-                
-                // Additional scroll to top after content loads
-                setTimeout(() => {{
-                    window.scrollTo({{ top: 0, behavior: 'smooth' }});
-                }}, 200);
-                
-                // Store current passage index and day for future reference
-                window.currentPassageIndex = passageIndex;
-                window.currentSelectedDay = selectedDay;
-            }})();
-            </script>
-            """, unsafe_allow_html=True)
+
             
             # Display the passage content
             display_bible_passage(selected_passage, st.session_state.selected_passage_index)
@@ -404,19 +325,19 @@ def display_reading_mode():
     with col1:
         if st.button("← Yesterday", key="bottom_yesterday", use_container_width=True, type="primary" if st.session_state.selected_day == -1 else "secondary"):
             st.session_state.selected_day = -1
-            st.session_state.selected_passage_index = 0  # Reset to first passage
+            # Keep current passage selection when switching days
             st.rerun()
     
     with col2:
         if st.button("Today", key="bottom_today", use_container_width=True, type="primary" if st.session_state.selected_day == 0 else "secondary"):
             st.session_state.selected_day = 0
-            st.session_state.selected_passage_index = 0  # Reset to first passage
+            # Keep current passage selection when switching days
             st.rerun()
     
     with col3:
         if st.button("Tomorrow →", key="bottom_tomorrow", use_container_width=True, type="primary" if st.session_state.selected_day == 1 else "secondary"):
             st.session_state.selected_day = 1
-            st.session_state.selected_passage_index = 0  # Reset to first passage
+            # Keep current passage selection when switching days
             st.rerun()
 
 def display_chat_mode():

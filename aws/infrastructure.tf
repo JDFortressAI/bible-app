@@ -414,14 +414,14 @@ resource "aws_iam_role_policy" "lambda_policy" {
   })
 }
 
-# Lambda function for daily M'Cheyne updates
+# Lambda function for weekly M'Cheyne updates
 resource "aws_lambda_function" "mccheyne_updater" {
   filename         = "mccheyne_lambda.zip"
   function_name    = "bible-chat-mccheyne-updater"
   role            = aws_iam_role.lambda_role.arn
   handler         = "lambda_function.lambda_handler"
   runtime         = "python3.11"
-  timeout         = 300  # 5 minutes
+  timeout         = 900  # 15 minutes (increased for processing 8 days)
 
   environment {
     variables = {
@@ -451,20 +451,20 @@ resource "aws_cloudwatch_log_group" "lambda_logs" {
   }
 }
 
-# EventBridge rule for daily execution at 4AM GMT
-resource "aws_cloudwatch_event_rule" "daily_update" {
-  name                = "bible-chat-daily-update"
-  description         = "Trigger M'Cheyne readings update daily at 4AM GMT"
-  schedule_expression = "cron(0 4 * * ? *)"  # 4AM GMT daily
+# EventBridge rule for weekly execution on Sundays at 4AM GMT
+resource "aws_cloudwatch_event_rule" "weekly_update" {
+  name                = "bible-chat-weekly-update"
+  description         = "Trigger M'Cheyne readings update weekly on Sundays at 4AM GMT"
+  schedule_expression = "cron(0 4 ? * SUN *)"  # 4AM GMT every Sunday
 
   tags = {
-    Name = "bible-chat-daily-update"
+    Name = "bible-chat-weekly-update"
   }
 }
 
 # EventBridge target
 resource "aws_cloudwatch_event_target" "lambda_target" {
-  rule      = aws_cloudwatch_event_rule.daily_update.name
+  rule      = aws_cloudwatch_event_rule.weekly_update.name
   target_id = "McCheyneUpdaterTarget"
   arn       = aws_lambda_function.mccheyne_updater.arn
 }
@@ -475,7 +475,7 @@ resource "aws_lambda_permission" "allow_eventbridge" {
   action        = "lambda:InvokeFunction"
   function_name = aws_lambda_function.mccheyne_updater.function_name
   principal     = "events.amazonaws.com"
-  source_arn    = aws_cloudwatch_event_rule.daily_update.arn
+  source_arn    = aws_cloudwatch_event_rule.weekly_update.arn
 }
 
 # Update ECS task role to access S3
@@ -617,6 +617,6 @@ output "s3_bucket_name" {
 }
 
 output "lambda_function_name" {
-  description = "Lambda function for daily updates"
+  description = "Lambda function for weekly updates"
   value       = aws_lambda_function.mccheyne_updater.function_name
 }

@@ -26,8 +26,9 @@ echo "🗜️ Creating deployment package..."
 cd "$TEMP_DIR"
 zip -r ../mccheyne_lambda.zip . -x "*.pyc" "*/__pycache__/*"
 
-# Move zip file to aws directory
-mv ../mccheyne_lambda.zip ./mccheyne_lambda.zip
+# Move zip file back to aws directory
+cd - > /dev/null  # Go back to aws directory
+mv "$TEMP_DIR/../mccheyne_lambda.zip" ./mccheyne_lambda.zip
 
 echo "✅ Lambda package created: mccheyne_lambda.zip"
 echo "📁 Package size: $(du -h mccheyne_lambda.zip | cut -f1)"

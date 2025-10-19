@@ -80,10 +80,17 @@ Guidelines:
         except Exception as e:
             yield f"Error generating response: {str(e)}"
 
+def group_verses_by_chapter(verses: List[BibleVerse]) -> Dict[int, List[BibleVerse]]:
+    """Group verses by chapter number"""
+    chapters = {}
+    for verse in verses:
+        if verse.chapter not in chapters:
+            chapters[verse.chapter] = []
+        chapters[verse.chapter].append(verse)
+    return chapters
+
 def display_bible_passage(passage: BiblePassage, passage_index: int):
-    """Display a Bible passage with large, focused typography"""
-    # Simple header - just the passage reference
-    st.markdown(f"## {passage.reference}")
+    """Display a Bible passage with large, focused typography, handling multi-chapter passages"""
     
     # Add CSS for large, readable text using Streamlit's native color variables
     st.markdown("""
@@ -126,18 +133,44 @@ def display_bible_passage(passage: BiblePassage, passage_index: int):
         margin: 0 !important;
         padding: 0 !important;
     }
+    
+    .chapter-separator {
+        margin: 2rem 0 1rem 0 !important;
+        border-top: 2px solid var(--text-color-light-3) !important;
+        padding-top: 1rem !important;
+    }
     </style>
     """, unsafe_allow_html=True)
     
-    # Display all verses with large text (fixed settings: show verse numbers, compact view, all verses)
-    for verse in passage.verses:
-        # Use HTML for better typography control
-        verse_html = f"""
-        <div class="bible-text">
-            <span class="verse-number">{verse.verse}.</span>{verse.text}
-        </div>
-        """
-        st.markdown(verse_html, unsafe_allow_html=True)
+    # Group verses by chapter
+    chapters = group_verses_by_chapter(passage.verses)
+    chapter_numbers = sorted(chapters.keys())
+    
+    # Display each chapter separately
+    for i, chapter_num in enumerate(chapter_numbers):
+        chapter_verses = chapters[chapter_num]
+        
+        # Get the book name from the first verse
+        book_name = chapter_verses[0].book if chapter_verses else "Unknown"
+        
+        # Display chapter header
+        if i == 0:
+            # First chapter - use main header
+            st.markdown(f"## {book_name} {chapter_num}")
+        else:
+            # Subsequent chapters - use separator and subheader
+            st.markdown('<div class="chapter-separator"></div>', unsafe_allow_html=True)
+            st.markdown(f"## {book_name} {chapter_num}")
+        
+        # Display all verses in this chapter
+        for verse in chapter_verses:
+            # Use HTML for better typography control
+            verse_html = f"""
+            <div class="bible-text">
+                <span class="verse-number">{verse.verse}.</span>{verse.text}
+            </div>
+            """
+            st.markdown(verse_html, unsafe_allow_html=True)
     
     # Highlights section (if any exist) - minimal display
     if passage.highlights:
@@ -399,7 +432,6 @@ def main():
     day_name = today.strftime("%A")
     day_num = today.day
     month_name = today.strftime("%B")
-    year = today.year
     
     # Add ordinal suffix to day
     if 10 <= day_num % 100 <= 20:
@@ -407,7 +439,7 @@ def main():
     else:
         suffix = {1: "st", 2: "nd", 3: "rd"}.get(day_num % 10, "th")
     
-    date_title = f"🗓️ Today is {day_name}, {day_num}<sup>{suffix}</sup> of {month_name} {year}."
+    date_title = f"🗓️ Today is {day_name}, {day_num}<sup>{suffix}</sup> of {month_name}."
     st.markdown(f"# {date_title}", unsafe_allow_html=True)
     
     # Initialize mode in session state

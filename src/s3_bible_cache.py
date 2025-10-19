@@ -9,7 +9,7 @@ when running in AWS ECS environment.
 import boto3
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 from typing import Dict, List, Optional
 from bible_models import BiblePassage
 import logging
@@ -34,11 +34,9 @@ class S3BibleCache:
         else:
             logger.info("S3_BUCKET not set, using local cache only")
     
-    def get_cache_key(self, month: int, day: int, year: int = None) -> str:
+    def get_cache_key(self, month: int, day: int) -> str:
         """Generate S3 cache key for readings"""
-        if year is None:
-            year = datetime.now().year
-        return f"mcheyne_structured_{year}_{month:02d}_{day:02d}.json"
+        return f"mcheyne_structured_{month:02d}_{day:02d}.json"
     
     def load_from_s3(self, cache_key: str) -> Optional[Dict]:
         """Load readings from S3 cache"""
@@ -83,10 +81,9 @@ class S3BibleCache:
             logger.error(f"Error loading from local cache: {e}")
             return None
     
-    def get_todays_readings(self) -> Optional[Dict]:
-        """Load today's M'Cheyne readings from cache (S3 or local)"""
-        today = datetime.now()
-        cache_key = self.get_cache_key(today.month, today.day, today.year)
+    def get_readings_for_date(self, target_date: datetime) -> Optional[Dict]:
+        """Load M'Cheyne readings for a specific date from cache (S3 or local)"""
+        cache_key = self.get_cache_key(target_date.month, target_date.day)
         
         # Try S3 first if available
         if self.use_s3:
@@ -99,22 +96,47 @@ class S3BibleCache:
         if data:
             return self.parse_cache_data(data)
         
-        # Try previous day's cache as fallback
-        yesterday = datetime.now().replace(day=today.day - 1) if today.day > 1 else datetime.now().replace(month=today.month - 1, day=31)
-        fallback_key = self.get_cache_key(yesterday.month, yesterday.day, yesterday.year)
+        logger.warning(f"No cache data found for {target_date.month:02d}/{target_date.day:02d}")
+        return None
+    
+    def get_todays_readings(self) -> Optional[Dict]:
+        """Load today's M'Cheyne readings from cache (S3 or local)"""
+        today = datetime.now()
+        return self.get_readings_for_date(today)
+    
+    def get_tomorrows_readings(self) -> Optional[Dict]:
+        """Load tomorrow's M'Cheyne readings from cache (S3 or local)"""
+        tomorrow = datetime.now() + timedelta(days=1)
+        return self.get_readings_for_date(tomorrow)
+    
+    def get_yesterdays_readings(self) -> Optional[Dict]:
+        """Load yesterday's M'Cheyne readings from cache (S3 or local)"""
+        yesterday = datetime.now() - timedelta(days=1)
+        return self.get_readings_for_date(yesterday)
+    
+    def get_readings_with_fallback(self) -> Optional[Dict]:
+        """
+        Load readings with fallback logic: try today, then tomorrow, then yesterday.
+        This ensures the app always has some readings to show.
+        """
+        # Try today first
+        readings = self.get_todays_readings()
+        if readings:
+            return readings
         
-        logger.warning(f"Today's cache not found, trying fallback: {fallback_key}")
+        # Try tomorrow
+        logger.info("Today's readings not found, trying tomorrow's readings")
+        readings = self.get_tomorrows_readings()
+        if readings:
+            return readings
         
-        if self.use_s3:
-            data = self.load_from_s3(fallback_key)
-            if data:
-                return self.parse_cache_data(data)
+        # Try yesterday as last resort
+        logger.info("Tomorrow's readings not found, trying yesterday's readings")
+        readings = self.get_yesterdays_readings()
+        if readings:
+            return readings
         
-        data = self.load_from_local(fallback_key)
-        if data:
-            return self.parse_cache_data(data)
-        
-        logger.error("No cache data found for today or yesterday")
+        logger.error("No cache data found for yesterday, today, or tomorrow")
         return None
     
     def parse_cache_data(self, data: Dict) -> Optional[Dict]:
@@ -125,7 +147,7 @@ class S3BibleCache:
                 logger.error("Invalid cache data structure")
                 return None
             
-            # Convert to BiblePassage objects
+            # Convert to BiblePassage objects (typography already applied in S3 data)
             structured_readings = {"Family": [], "Secret": []}
             
             for category in ["Family", "Secret"]:
@@ -153,13 +175,39 @@ class S3BibleCache:
         if readings and "readings" in readings:
             # Family readings
             for i, passage in enumerate(readings["readings"]["Family"], 1):
-                titles.append(f"Family {i}: {passage.reference}")
+                title = self._generate_passage_title(passage, f"Family {i}")
+                titles.append(title)
             
             # Secret readings  
             for i, passage in enumerate(readings["readings"]["Secret"], 1):
-                titles.append(f"Secret {i}: {passage.reference}")
+                title = self._generate_passage_title(passage, f"Secret {i}")
+                titles.append(title)
         
         return titles
+    
+    def _generate_passage_title(self, passage: BiblePassage, prefix: str) -> str:
+        """Generate a title for a passage, showing the actual chapter range from verses"""
+        if not passage.verses:
+            return f"{prefix}: {passage.reference}"
+        
+        # Group verses by chapter
+        chapters = {}
+        for verse in passage.verses:
+            if verse.chapter not in chapters:
+                chapters[verse.chapter] = []
+            chapters[verse.chapter].append(verse)
+        
+        chapter_numbers = sorted(chapters.keys())
+        book_name = passage.verses[0].book
+        
+        if len(chapter_numbers) == 1:
+            # Single chapter
+            return f"{prefix}: {book_name} {chapter_numbers[0]}"
+        else:
+            # Multiple chapters - show range
+            first_chapter = chapter_numbers[0]
+            last_chapter = chapter_numbers[-1]
+            return f"{prefix}: {book_name} {first_chapter}-{last_chapter}"
     
     def get_all_passages(self, readings: Dict) -> List[BiblePassage]:
         """Get all four passages in order"""

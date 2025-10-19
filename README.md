@@ -1,33 +1,58 @@
 # Bible Chat
 
-A simple Bible-focused chat application using OpenAI's LLM with built-in NKJV knowledge.
+A comprehensive Bible-focused chat application with M'Cheyne reading plan integration and OpenAI-powered conversations.
 
 ## Features
 
-- **Bible-grounded responses**: All answers include explicit NKJV Bible references
-- **Direct LLM approach**: Leverages OpenAI's built-in Bible knowledge
+- **M'Cheyne Reading Plan**: Daily Bible readings with proper typography and formatting
+- **Bible-grounded chat**: AI conversations with explicit NKJV Bible references
+- **S3 Cache Integration**: Fast loading of pre-processed Bible passages
+- **Proper Typography**: Smart quotes, em dashes, and divine name formatting
 - **Question suggestions**: UI includes helpful prompts for different types of biblical inquiries
 - **Chat history**: Maintains conversation context
 - **NKJV focus**: Uses New King James Version text exclusively
-- **Simple interface**: Built with Streamlit for ease of use
+- **AWS Deployment**: Production-ready with ECS, Lambda, and S3
 
-## Setup
+## Quick Start
 
-1. **Install dependencies with uv:**
+1. **Install uv (if not already installed):**
+   ```bash
+   curl -LsSf https://astral.sh/uv/install.sh | sh
+   ```
+
+2. **Install dependencies:**
    ```bash
    uv sync
    ```
 
-2. **Set up OpenAI API key:**
+3. **Set up environment:**
    ```bash
    cp .env.example .env
-   # Edit .env and add your OpenAI API key
+   # Edit .env and add your OpenAI API key and S3 bucket (optional)
    ```
 
-3. **Run the application:**
+4. **Run the application:**
    ```bash
-   uv run streamlit run bible_chat.py
+   make run
+   # or
+   uv run python run_local.py
    ```
+
+## Development Commands
+
+Use the included Makefile for common tasks:
+
+```bash
+make help          # Show all available commands
+make install       # Install dependencies
+make test          # Run tests
+make test-s3       # Test S3 cache functionality
+make run           # Run the application locally
+make docker-build  # Build Docker image
+make docker-run    # Run with Docker Compose
+make clean         # Clean up cache files
+make dev           # Full development setup
+```
 
 ## Usage
 
@@ -46,18 +71,50 @@ The app handles various types of biblical inquiries:
 - **Character Development**: Patience, forgiveness, anger, humility
 - **Biblical Topics**: Money, suffering, wisdom, temptation
 
-## Technical Notes
+## Architecture
 
-- Uses OpenAI GPT-3.5-turbo with specialized Bible-focused system prompt
-- No external Bible database required - leverages LLM's built-in knowledge
-- Streamlit chat interface with persistent conversation history
-- NKJV-specific prompting for accurate verse quotations
+### Local Development
+- **uv**: Modern Python package manager for dependency management
+- **Streamlit**: Web interface for Bible chat and reading plan
+- **OpenAI API**: LLM-powered Bible conversations
+- **Local Cache**: JSON files for Bible passages when S3 is unavailable
 
-## Next Steps
+### AWS Production
+- **ECS Fargate**: Containerized application hosting
+- **S3**: Bible passage cache with proper typography
+- **Lambda**: Weekly M'Cheyne reading updates
+- **EventBridge**: Automated scheduling for reading updates
+- **ALB**: Load balancing with SSL termination
 
-To expand this application:
-- Add conversation export/import
-- Include verse lookup functionality
-- Add multiple Bible versions support
-- Implement topic-based conversation starters
-- Add verse bookmarking and favorites
+## Configuration
+
+### Environment Variables
+
+- `OPENAI_API_KEY`: Required for chat functionality
+- `S3_BUCKET`: Optional S3 bucket for Bible passage cache
+- `AWS_*`: AWS credentials (optional for local development)
+
+See [S3_SETUP.md](S3_SETUP.md) for detailed configuration instructions.
+
+## Deployment
+
+### Local Development
+```bash
+make dev  # Install, test, and run locally
+```
+
+### Docker
+```bash
+make docker-run  # Run with Docker Compose
+```
+
+### AWS
+The application deploys to AWS using Terraform. See `aws/` directory for infrastructure configuration.
+
+## Technical Features
+
+- **Proper Typography**: Smart quotes, em dashes, small caps for divine names
+- **Intelligent Caching**: S3-first with local fallback
+- **Performance Optimized**: Pre-processed Bible passages for fast loading
+- **Scalable Architecture**: AWS-native with auto-scaling capabilities
+- **Health Monitoring**: Built-in health checks and logging

@@ -1,12 +1,12 @@
 # AWS Deployment Guide for Bible Chat App
 
-This guide explains how to deploy the Bible Chat application with automated daily M'Cheyne readings updates.
+This guide explains how to deploy the Bible Chat application with automated weekly M'Cheyne readings updates.
 
 ## Architecture Overview
 
 - **ECS Fargate**: Runs the Streamlit application
 - **S3**: Stores cached Bible readings
-- **Lambda**: Updates readings daily at 4AM GMT
+- **Lambda**: Updates readings weekly on Sundays at 4AM GMT (fetches 1-8 days ahead)
 - **EventBridge**: Triggers Lambda on schedule
 - **ALB**: Load balancer with HTTPS
 
@@ -67,7 +67,7 @@ Add these DNS records to your domain:
 
 ### 5. Initial Data Population
 
-The Lambda function will run automatically at 4AM GMT daily. To populate initial data:
+The Lambda function will run automatically at 4AM GMT every Sunday, fetching readings for the next 1-8 days. To populate initial data:
 
 ```bash
 # Get Lambda function name
@@ -94,8 +94,9 @@ The application uses these environment variables:
 
 ### Lambda Function
 
-- **Schedule**: Daily at 4AM GMT (`cron(0 4 * * ? *)`)
-- **Timeout**: 5 minutes
+- **Schedule**: Weekly on Sundays at 4AM GMT (`cron(0 4 ? * SUN *)`)
+- **Function**: Fetches and caches Bible passages for the next 1-8 days
+- **Timeout**: 15 minutes (increased for processing multiple days)
 - **Memory**: 128MB (default)
 
 ## Troubleshooting
@@ -146,7 +147,7 @@ aws s3 cp mcheyne_structured_$(date +%Y_%m_%d).json s3://$(terraform output -raw
 ## Cost Optimization
 
 - **ECS**: Uses Fargate Spot for cost savings
-- **Lambda**: Only runs once daily (minimal cost)
+- **Lambda**: Only runs once weekly (minimal cost)
 - **S3**: Standard storage with lifecycle policies
 - **ALB**: Shared across multiple services if needed
 

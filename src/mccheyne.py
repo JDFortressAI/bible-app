@@ -53,7 +53,6 @@ class McCheyneReader:
             readings = {"Family": [], "Secret": []}
             
             # Create specific date patterns to search for
-            current_date = datetime(2024, month, day)  # Use 2024 as reference
             
             # Create the specific date string with ordinal suffix
             if day in [1, 21, 31]:
@@ -196,18 +195,17 @@ class McCheyneReader:
     
     def get_day_of_year(self, month: int, day: int) -> int:
         """Calculate day of year for given month/day"""
-        date = datetime(2024, month, day)  # Use 2024 as reference year
-        return date.timetuple().tm_yday
+        # Simple calculation: approximate day of year without year dependency
+        days_in_month = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]  # Use leap year for consistency
+        return sum(days_in_month[:month-1]) + day
     
     def get_cache_filename(self, month: int, day: int) -> str:
         """Generate cache filename for today's readings"""
-        current_year = datetime.now().year
-        return f"mcheyne_readings_{current_year}_{month:02d}_{day:02d}.json"
+        return f"mcheyne_readings_{month:02d}_{day:02d}.json"
     
     def get_structured_cache_filename(self, month: int, day: int) -> str:
         """Generate cache filename for today's structured readings"""
-        current_year = datetime.now().year
-        return f"mcheyne_structured_{current_year}_{month:02d}_{day:02d}.json"
+        return f"mcheyne_structured_{month:02d}_{day:02d}.json"
     
     def load_cached_readings(self, month: int, day: int) -> Dict[str, List[str]]:
         """Load readings from local cache if available"""
@@ -354,7 +352,7 @@ class McCheyneReader:
             # Prepare cache data with metadata - serialize BiblePassage objects
             cache_data = {
                 "format_version": "1.0",  # For future migration compatibility
-                "date": f"{month:02d}/{day:02d}/{datetime.now().year}",
+                "date": f"{month:02d}/{day:02d}",
                 "cached_at": datetime.now().isoformat(),
                 "Family": [passage.to_dict() for passage in readings["Family"]],
                 "Secret": [passage.to_dict() for passage in readings["Secret"]]
@@ -476,7 +474,7 @@ class McCheyneReader:
             
             # Prepare cache data with metadata
             cache_data = {
-                "date": f"{month:02d}/{day:02d}/{datetime.now().year}",
+                "date": f"{month:02d}/{day:02d}",
                 "cached_at": datetime.now().isoformat(),
                 "Family": readings["Family"],
                 "Secret": readings["Secret"]
@@ -501,9 +499,15 @@ class McCheyneReader:
             for filename in os.listdir('.'):
                 if any(filename.startswith(pattern) for pattern in cache_patterns) and filename.endswith('.json'):
                     file_path = os.path.join('.', filename)
-                    file_time = datetime.fromtimestamp(os.path.getmtime(file_path))
                     
-                    # Delete files older than specified days
+                    # Remove old year-based cache files immediately (they use old format)
+                    if re.search(r'_\d{4}_\d{2}_\d{2}\.json$', filename):
+                        os.remove(file_path)
+                        print(f"🗑️ Removed old year-based cache file: {filename}")
+                        continue
+                    
+                    # For new format files, check age
+                    file_time = datetime.fromtimestamp(os.path.getmtime(file_path))
                     if (current_time - file_time).days > days_to_keep:
                         os.remove(file_path)
                         print(f"🗑️ Removed old cache file: {filename}")
@@ -539,7 +543,7 @@ class McCheyneReader:
         text = text.strip()
         
         # Skip common non-Bible text (but allow if it's part of a longer reference)
-        skip_words = ['old testament', 'new testament', 'bible in', 'years', 'days', 'plan', 'reading', 'testament in']
+        skip_words = ['old testament', 'new testament', 'bible in', 'days', 'plan', 'reading', 'testament in']
         if any(skip.lower() in text.lower() for skip in skip_words):
             return False
         

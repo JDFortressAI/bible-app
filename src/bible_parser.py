@@ -7,7 +7,7 @@ handling complex verse ranges and text normalization for the M'Cheyne reading sy
 
 import re
 from typing import List, Tuple, Optional, Dict
-from .bible_models import BibleVerse, BiblePassage
+from bible_models import BibleVerse, BiblePassage
 from datetime import datetime
 
 

@@ -432,14 +432,9 @@ def main():
     day_name = today.strftime("%A")
     day_num = today.day
     month_name = today.strftime("%B")
+    year = today.year
     
-    # Add ordinal suffix to day
-    if 10 <= day_num % 100 <= 20:
-        suffix = "th"
-    else:
-        suffix = {1: "st", 2: "nd", 3: "rd"}.get(day_num % 10, "th")
-    
-    date_title = f"🗓️ Today is {day_name}, {day_num}<sup>{suffix}</sup> of {month_name}."
+    date_title = f"🗓️ Today is {day_name} {day_num} {month_name} 2025."
     st.markdown(f"# {date_title}", unsafe_allow_html=True)
     
     # Initialize mode in session state

@@ -10,8 +10,8 @@ RUN apt-get update && apt-get install -y \
     && rm -rf /var/lib/apt/lists/* \
     && pip install uv
 
-# Copy requirements first for better caching
-COPY pyproject.toml ./
+# Copy requirements and README first for better caching
+COPY pyproject.toml README.md ./
 RUN uv pip install --system -e .
 
 # Copy source code

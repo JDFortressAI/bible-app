@@ -328,6 +328,31 @@ def display_reading_mode():
     
     # Bottom navigation buttons (replicate the top navigation)
     st.markdown("---")
+
+    st.markdown("### Select a Passage")
+
+    col1, col2, col3, col4 = st.columns(4)
+
+    with col1:
+        if st.button(titles[0], use_container_width=True, type="primary" if st.session_state.selected_passage_index == 0 else "secondary"):
+            st.session_state.selected_passage_index = 0
+            st.rerun()
+
+    with col2:
+        if st.button(titles[1], use_container_width=True, type="primary" if st.session_state.selected_passage_index == 1 else "secondary"):
+            st.session_state.selected_passage_index = 1
+            st.rerun()
+
+    with col3:
+        if st.button(titles[2], use_container_width=True, type="primary" if st.session_state.selected_passage_index == 2 else "secondary"):
+            st.session_state.selected_passage_index = 2
+            st.rerun()
+
+    with col4:
+        if st.button(titles[3], use_container_width=True, type="primary" if st.session_state.selected_passage_index == 3 else "secondary"):
+            st.session_state.selected_passage_index = 3
+            st.rerun()
+
     st.markdown("### Navigate to Another Day")
     
     col1, col2, col3 = st.columns(3)
@@ -349,6 +374,13 @@ def display_reading_mode():
             st.session_state.selected_day = 1
             # Keep current passage selection when switching days
             st.rerun()
+
+    st.markdown(
+                '<p style="font-size: 12px; color: #888; text-align: center; margin-top: 2rem;">'
+                'Crafted with love by JDFortress AI Ltd. Copyright © 2025. All rights reserved.'
+                '</p>', 
+                unsafe_allow_html=True
+            )
 
 def display_chat_mode():
     """Display the Bible chat interface"""
@@ -514,9 +546,9 @@ def main():
         
         # Dynamic description based on selected day
         day_descriptions = [
-            "Yesterday’s [M'Cheyne Bible Reading Plan](%s)",
-            "Today’s [M'Cheyne Bible Reading Plan](%s)", 
-            "Tomorrow’s [M'Cheyne Bible Reading Plan](%s)"
+            "Yesterday’s [M’Cheyne Bible Reading Plan](%s)",
+            "Today’s [M’Cheyne Bible Reading Plan](%s)", 
+            "Tomorrow’s [M’Cheyne Bible Reading Plan](%s)"
         ]
         url = "https://bibleplan.org/plans/mcheyne/"
         description = day_descriptions[st.session_state.selected_day + 1] % url

@@ -1,6 +1,7 @@
 import streamlit as st
 from openai import OpenAI
 import os
+import re
 import json
 import glob
 from datetime import datetime, timedelta
@@ -110,6 +111,15 @@ def group_verses_by_chapter(verses: List[BibleVerse]) -> Dict[int, List[BibleVer
         chapters[verse.chapter].append(verse)
     return chapters
 
+def remove_footnotes(text):
+    """
+    Removes footnotes in the format [a], [b], etc., along with a single space before them.
+    """
+    # Pattern to match a space followed by [single letter]
+    pattern = r'\s\[[a-zA-Z]\]'
+    # Replace with empty string
+    return re.sub(pattern, '', text)
+
 def display_bible_passage(passage: BiblePassage, passage_index: int):
     """Display a Bible passage with large, focused typography, handling multi-chapter passages"""
     
@@ -186,9 +196,10 @@ def display_bible_passage(passage: BiblePassage, passage_index: int):
         # Display all verses in this chapter
         for verse in chapter_verses:
             # Use HTML for better typography control
+            text = remove_footnotes(verse.text)
             verse_html = f"""
             <div class="bible-text">
-                <span class="verse-number">{verse.verse}.</span>{verse.text}
+                <span class="verse-number">{verse.verse}.</span>{text}
             </div>
             """
             st.markdown(verse_html, unsafe_allow_html=True)
@@ -306,7 +317,6 @@ def display_reading_mode():
             display_bible_passage(selected_passage, st.session_state.selected_passage_index)
             
             # Add NKJV copyright footnote at the bottom
-            st.markdown("---")
             st.markdown(
                 '<p style="font-size: 12px; color: #888; text-align: center; margin-top: 2rem;">'
                 'Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. All rights reserved.'

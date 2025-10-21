@@ -41,11 +41,11 @@ st.markdown(
 
 ## Why the NKJV?
 
-<div class="about-text">The New King James Version (NKJV), rooted in the *Textus Receptus* manuscript, carries a timeless weight and clarity that resonates deeply. Its fidelity to the original texts ensures you’re engaging with a translation that honors the inspired Word. The NKJV’s poetic cadence and precision make it a powerful choice for hearing God speak clearly, without distraction, straight to your soul.</div>
+<div class="about-text">The New King James Version (NKJV), rooted in the <em>Textus Receptus</em> manuscript, carries a timeless weight and clarity that resonates deeply. Its fidelity to the original texts ensures you’re engaging with a translation that honors the inspired Word. The NKJV’s poetic cadence and precision make it a powerful choice for hearing God speak clearly, without distraction, straight to your soul.</div>
 
 ## Why M’Cheyne?
 
-<div class="about-text">When was the last time you committed to reading the entire Bible but didn’t finish? Or read it cover to cover? The McCheyne reading plan is a game-changer: it guides you through the Old Testament once, and the New Testament and Psalms twice, every year. Its four daily passages weave together beautifully, revealing connections across Scripture that you’ll only discover by sticking with it. This plan isn’t just a schedule—it’s a journey to experience God’s Word in its fullness.</div>
+<div class="about-text">When was the last time you committed to reading the entire Bible but didn’t finish? Or read it cover to cover? The M’Cheyne (or McCheyne) Bible Reading plan is a game-changer: it guides you through the Old Testament once, and the New Testament and Psalms twice, every year. Its four daily passages weave together beautifully, revealing connections across Scripture that you’ll only discover by sticking with it. This plan isn’t just a schedule—it’s a journey to experience God’s Word in its fullness.</div>
 
 ## We Welcome Your Feedback
 

@@ -540,7 +540,7 @@ def main():
         url = "https://bibleplan.org/plans/mcheyne/"
         description = day_descriptions[st.session_state.selected_day + 1] % url
         #st.markdown(f"*{description}*")
-        st.page_link("pages/about.py", label="*First time here?*")
+        st.page_link("pages/about_.py", label="*First time here?*")
         display_reading_mode()
     else:  # Chat mode
         st.markdown("*Ask questions and receive answers grounded in Scripture (NKJV)*")

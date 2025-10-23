@@ -5,7 +5,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.write("# About Our Bible Web-App")
+st.write("# 📖 About Our Bible Web-App")
 
 st.markdown("""
     <style>

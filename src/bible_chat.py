@@ -8,6 +8,7 @@ from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from typing import Dict, List, Optional
 from bible_models import BiblePassage, BibleVerse
+from bible_format import clean_verse_text
 from s3_bible_cache import S3BibleCache
 
 # Load environment variables
@@ -111,15 +112,6 @@ def group_verses_by_chapter(verses: List[BibleVerse]) -> Dict[int, List[BibleVer
         chapters[verse.chapter].append(verse)
     return chapters
 
-def remove_footnotes(text):
-    """
-    Removes footnotes in the format [a], [b], etc., along with a single space before them.
-    """
-    # Pattern to match a space followed by [single letter]
-    pattern = r'\s\[[a-zA-Z]\]'
-    # Replace with empty string
-    return re.sub(pattern, '', text)
-
 def display_bible_passage(passage: BiblePassage, passage_index: int):
     """Display a Bible passage with large, focused typography, handling multi-chapter passages"""
     
@@ -196,12 +188,7 @@ def display_bible_passage(passage: BiblePassage, passage_index: int):
         # Display all verses in this chapter
         for verse in chapter_verses:
             # Use HTML for better typography control
-            text = remove_footnotes(verse.text)
-            verse_html = f"""
-            <div class="bible-text">
-                <span class="verse-number">{verse.verse}.</span>{text}
-            </div>
-            """
+            verse_html = clean_verse_text(verse.text, verse.verse, chapter_num, book_name)
             st.markdown(verse_html, unsafe_allow_html=True)
     
     # Highlights section (if any exist) - minimal display
@@ -553,7 +540,7 @@ def main():
         url = "https://bibleplan.org/plans/mcheyne/"
         description = day_descriptions[st.session_state.selected_day + 1] % url
         #st.markdown(f"*{description}*")
-        st.page_link("pages/About.py", label="*First time here?*")
+        st.page_link("pages/about.py", label="*First time here?*")
         display_reading_mode()
     else:  # Chat mode
         st.markdown("*Ask questions and receive answers grounded in Scripture (NKJV)*")

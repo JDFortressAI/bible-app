@@ -1,4 +1,5 @@
 import re
+from datetime import datetime, timedelta
 
 def remove_footnotes(text: str) -> str:
     """
@@ -22,9 +23,81 @@ def correct_quotations(text: str) -> str:
     return re.sub(pattern, convert_quotes, text)
 
 
-def clean_verse_text(text, verse, chapter, book):
+def is_psalm_119(chapter: int, book: str) -> bool:
+    return (chapter == 119) and ("psalm" in book.lower())
+
+def render_psalm_119(text: str, verse: int, day_offset: int) -> str:
+    HEBREW_ALEPHS = [
+        "א", "ב", "ג",
+        "ד", "ה", "ו",
+        "ז", "ח", "ט",
+        "י", "כ", "ל",
+        "מ", "נ", "ס",
+        "ע", "פ", "צ",
+        "ק", "ר", "ש", "ת"
+        ]
+    HEBREW_ENGS = [
+        "Aleph", "Beth", "Gimel",
+        "Daleth", "He", "Waw",
+        "Zayin", "Heth", "Teth",
+        "Yod", "Kaph", "Lamed",
+        "Mem", "Nun", "Samek",
+        "Ayin", "Pe", "Tsade",
+        "Qoph", "Resh", "Shin", "Tau"
+        ]
+    MCHEYNE_119 = {
+        "June 22": [i for i in range(1,25)],
+        "June 23": [i for i in range(25,49)],
+        "June 24": [i for i in range(49,73)],
+        "June 25": [i for i in range(73,97)],
+        "June 26": [i for i in range(97,121)],
+        "June 27": [i for i in range(121,145)],
+        "June 28": [i for i in range(145,177)],
+        "October 25": [i for i in range(1,25)],
+        "October 26": [i for i in range(25,49)],
+        "October 27": [i for i in range(49,73)],
+        "October 28": [i for i in range(73,97)],
+        "October 29": [i for i in range(97,121)],
+        "October 30": [i for i in range(121,145)],
+        "October 31": [i for i in range(145,177)],
+        }
+    target_date = datetime.now() + timedelta(days=day_offset)
+    day_num = target_date.day
+    month_name = target_date.strftime("%B")
+    month_day = f"{month_name} {day_num}"
+    verse_range = MCHEYNE_119[month_day]
+    if verse not in verse_range:
+        return "<span></span>"
+    preamble = ""
+    if verse % 8 == 1:
+        hebrew_aleph = HEBREW_ALEPHS[int(verse/8.01)]
+        hebrew_eng = HEBREW_ENGS[int(verse/8.01)]
+        preamble = f"""
+        <div class="chapter-separator">
+            <span class="small-caps">{hebrew_aleph} {hebrew_eng}</span>
+        </div>
+        """
+    verse_html = f"""{preamble}
+            <div class="bible-text">
+                <span class="verse-number">{verse}.</span>{text}
+            </div>
+            """
+    
+    return verse_html
+
+
+def clean_verse_text(
+        text: str, 
+        verse: int, 
+        chapter: int, 
+        book: str, 
+        day_offset: int,
+        ) -> str:
     text = remove_footnotes(text)
     text = correct_quotations(text)
+
+    if is_psalm_119(chapter, book):
+        return render_psalm_119(text, verse, day_offset)
 
     verse_html = f"""
             <div class="bible-text">
@@ -32,3 +105,9 @@ def clean_verse_text(text, verse, chapter, book):
             </div>
             """
     return verse_html
+
+if __name__ == "__main__":
+    for i in range (19):
+        j = i + 1
+        print(j, int(j/8.01))
+    print("א")

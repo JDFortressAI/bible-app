@@ -188,8 +188,9 @@ def display_bible_passage(passage: BiblePassage, passage_index: int):
         # Display all verses in this chapter
         for verse in chapter_verses:
             # Use HTML for better typography control
-            verse_html = clean_verse_text(verse.text, verse.verse, chapter_num, book_name)
-            st.markdown(verse_html, unsafe_allow_html=True)
+            verse_html = clean_verse_text(verse.text, verse.verse, chapter_num, book_name, st.session_state.selected_day)
+            if not (verse_html == "<span></span>"):
+                st.html(verse_html)
     
     # Highlights section (if any exist) - minimal display
     if passage.highlights:
@@ -242,9 +243,12 @@ def display_reading_mode():
         st.header(day_headers[st.session_state.selected_day + 1])
         st.markdown("*Select a passage to read:*")
         
-        # Initialize selected passage
+        # Initialize selected passage (morning, evening different!)
         if 'selected_passage_index' not in st.session_state:
-            st.session_state.selected_passage_index = 0
+            if datetime.now().hour > 15:
+                st.session_state.selected_passage_index = 2
+            else:
+                st.session_state.selected_passage_index = 0
         
         # Ensure selected passage index is valid for current readings
         if st.session_state.selected_passage_index >= len(titles):

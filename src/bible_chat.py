@@ -122,7 +122,7 @@ def display_bible_passage(passage: BiblePassage, passage_index: int):
         font-size: clamp(24px, 4vw, 32px) !important;
         line-height: 1.6 !important;
         font-family: 'Georgia', 'Times New Roman', serif !important;
-        margin: 1rem 0 !important;
+        margin: 0.5rem 0 !important;
         max-width: 100% !important;
         word-wrap: break-word !important;
         /* Use Streamlit's native text color variable */

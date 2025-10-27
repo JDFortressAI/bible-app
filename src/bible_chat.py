@@ -1,4 +1,5 @@
 import streamlit as st
+from streamlit.components.v1 import html
 from openai import OpenAI
 import os
 import re
@@ -112,6 +113,150 @@ def group_verses_by_chapter(verses: List[BibleVerse]) -> Dict[int, List[BibleVer
         chapters[verse.chapter].append(verse)
     return chapters
 
+def refresh_speak_html():
+    """
+    Build Play / Pause / Resume / Stop buttons.
+    Text may contain {{pause N}} → real pauses.
+    """
+    # ------------------------------------------------------------------
+    # 1. Escape back-ticks for JS template literals
+    # ------------------------------------------------------------------
+    raw = st.session_state.full_text.replace("`", "\\`")
+
+    # ------------------------------------------------------------------
+    # 2. Split into chunks + pause markers
+    # ------------------------------------------------------------------
+    import re
+    parts = []
+    pos = 0
+    for m in re.finditer(r"{{pause\s+(\d+)}}", raw):
+        if m.start() > pos:
+            parts.append((raw[pos:m.start()].strip(), None))
+        parts.append(("", int(m.group(1))))
+        pos = m.end()
+    if pos < len(raw):
+        parts.append((raw[pos:].strip(), None))
+
+    # ------------------------------------------------------------------
+    # 3. Build JS array of chunks
+    # ------------------------------------------------------------------
+    js_chunks = []
+    for text, pause in parts:
+        if pause is not None:
+            js_chunks.append(f"{{pauseSec: {pause}}}")
+        elif text:
+            js_chunks.append(f"{{text: `{text}`}}")
+    chunks_array = "[" + ", ".join(js_chunks) + "]"
+
+    # ------------------------------------------------------------------
+    # 4. HTML + JS with Play / Pause / Resume / Stop
+    # ------------------------------------------------------------------
+    speak_html = f"""
+<script>
+  // ---------- Global state ----------
+  let isPaused   = false;
+  let isStopped  = false;          // <-- NEW: true after a Stop
+  let resumeCb   = null;
+  let currentUtt = null;
+  let chunkIdx   = 0;
+  let chunks     = null;
+
+  // ---------- Start ----------
+  function speakNow(allChunks) {{
+    if (!('speechSynthesis' in window)) {{
+      alert('Speech not supported');
+      return;
+    }}
+    // Reset everything
+    window.speechSynthesis.cancel();
+    isPaused = false; isStopped = false; resumeCb = null;
+    document.getElementById('pauseBtn').textContent = 'Pause';
+    chunks = allChunks;
+    chunkIdx = 0;
+    nextChunk();
+  }}
+
+  // ---------- Process next chunk ----------
+  function nextChunk() {{
+    if (isStopped || chunkIdx >= chunks.length) return;
+    if (isPaused) return;               // wait for resume
+
+    const chunk = chunks[chunkIdx++];
+    if ('pauseSec' in chunk) {{
+      // ---- pause -------------------------------------------------
+      const start = Date.now();
+      const timer = setInterval(() => {{
+        if (Date.now() - start >= chunk.pauseSec * 1000) {{
+          clearInterval(timer);
+          nextChunk();
+        }}
+      }}, 50);
+      // keep the API alive
+      const silent = new SpeechSynthesisUtterance('');
+      silent.onend = () => {{}};
+      window.speechSynthesis.speak(silent);
+    }} else {{
+      // ---- speak ------------------------------------------------
+      const u = new SpeechSynthesisUtterance(chunk.text);
+      u.lang = 'en-UK';
+      currentUtt = u;
+      u.onend = () => {{ currentUtt = null; nextChunk(); }};
+      u.onerror = (e) => {{ console.error(e); nextChunk(); }};
+      window.speechSynthesis.speak(u);
+    }}
+  }}
+
+  // ---------- Pause / Resume ----------
+  function togglePause() {{
+    const btn = document.getElementById('pauseBtn');
+    if (isStopped) return;
+
+    if (isPaused) {{
+      // RESUME
+      isPaused = false;
+      btn.textContent = 'Pause';
+      window.speechSynthesis.resume();
+      nextChunk();                     // continue from where we left off
+    }} else {{
+      // PAUSE
+      isPaused = true;
+      btn.textContent = 'Resume';
+      window.speechSynthesis.pause();
+    }}
+  }}
+
+  // ---------- Stop ----------
+  function stopSpeech() {{
+    window.speechSynthesis.cancel();
+    isStopped = true;
+    isPaused = false;
+    resumeCb = null;
+    const btn = document.getElementById('pauseBtn');
+    if (btn) btn.textContent = 'Pause';
+  }}
+</script>
+
+<button onclick="speakNow({chunks_array})"
+    style="padding:12px 20px; font-size:16px; background:#0066cc; color:white;
+           border:none; border-radius:8px; cursor:pointer; font-weight:bold; margin-right:8px;">
+  Play
+</button>
+
+<button id="pauseBtn" onclick="togglePause()"
+    style="padding:12px 20px; font-size:16px; background:#ff9800; color:white;
+           border:none; border-radius:8px; cursor:pointer; font-weight:bold; margin-right:8px;">
+  Pause
+</button>
+
+<button onclick="stopSpeech()"
+    style="padding:12px 20px; font-size:16px; background:#cc6600; color:white;
+           border:none; border-radius:8px; cursor:pointer; font-weight:bold;">
+  Stop
+</button>
+"""
+    st.session_state.speak_html = speak_html
+
+
 def display_bible_passage(passage: BiblePassage, passage_index: int):
     """Display a Bible passage with large, focused typography, handling multi-chapter passages"""
     
@@ -169,6 +314,7 @@ def display_bible_passage(passage: BiblePassage, passage_index: int):
     chapters = group_verses_by_chapter(passage.verses)
     chapter_numbers = sorted(chapters.keys())
     
+    audio_text = ""
     # Display each chapter separately
     for i, chapter_num in enumerate(chapter_numbers):
         chapter_verses = chapters[chapter_num]
@@ -185,13 +331,28 @@ def display_bible_passage(passage: BiblePassage, passage_index: int):
             st.markdown('<div class="chapter-separator"></div>', unsafe_allow_html=True)
             st.markdown(f"## {book_name} {chapter_num}")
         
+        if "psalm" in book_name.lower():
+            say_chapter = ""
+        else:
+            say_chapter = "chapter "
+        audio_text += f"{book_name} {say_chapter} {chapter_num}\n"
+        audio_text += "{{pause 3}}"
+
         # Display all verses in this chapter
         for verse in chapter_verses:
             # Use HTML for better typography control
+            if verse.text[-1] == ",":
+                verse_pause = ""
+            else: 
+                verse_pause = "{{pause 1}}"
+            audio_text += verse.text + verse_pause
             verse_html = clean_verse_text(verse.text, verse.verse, chapter_num, book_name, st.session_state.selected_day)
             if not (verse_html == "<span></span>"):
                 st.html(verse_html)
     
+    st.session_state.full_text = audio_text.replace("Lᴏʀᴅ", "Lord")
+    refresh_speak_html()
+
     # Highlights section (if any exist) - minimal display
     if passage.highlights:
         st.markdown("---")
@@ -535,17 +696,31 @@ def main():
         if 'selected_day' not in st.session_state:
             st.session_state.selected_day = 0
         
-        # Dynamic description based on selected day
-        day_descriptions = [
-            "Yesterday’s [M’Cheyne Bible Reading Plan](%s)",
-            "Today’s [M’Cheyne Bible Reading Plan](%s)", 
-            "Tomorrow’s [M’Cheyne Bible Reading Plan](%s)"
-        ]
-        url = "https://bibleplan.org/plans/mcheyne/"
-        description = day_descriptions[st.session_state.selected_day + 1] % url
-        #st.markdown(f"*{description}*")
+        if 'full_text' not in st.session_state:
+            st.session_state.full_text = "passage not yet initialised."
+        
         st.page_link("pages/about_.py", label="*First time here?*")
+
+        refresh_speak_html()
+        html(st.session_state.speak_html, height=100)
+
         display_reading_mode()
+        
+        # Detect changes (initial load or switch) and force one rerun after update
+        needs_rerun = False
+        if 'last_day' not in st.session_state or 'last_index' not in st.session_state:
+            needs_rerun = True  # Initial load
+        elif (st.session_state.last_day != st.session_state.selected_day or
+              st.session_state.last_index != st.session_state.selected_passage_index):
+            needs_rerun = True  # Switch detected
+
+        # Update trackers
+        st.session_state.last_day = st.session_state.selected_day
+        st.session_state.last_index = st.session_state.selected_passage_index
+
+        if needs_rerun:
+            st.rerun()
+
     else:  # Chat mode
         st.markdown("*Ask questions and receive answers grounded in Scripture (NKJV)*")
         display_chat_mode()

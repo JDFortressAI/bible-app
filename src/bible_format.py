@@ -111,6 +111,7 @@ def clean_verse_text(
         ) -> str:
     text = remove_footnotes(text)
     text = correct_quotations(text)
+    text = correct_quotations(text)
 
     if is_psalm_119(chapter, book):
         return render_psalm_119(text, verse, day_offset, text_only)

@@ -345,7 +345,9 @@ def display_bible_passage(passage: BiblePassage, passage_index: int):
                 verse_pause = ""
             else: 
                 verse_pause = "{{pause 1}}"
-            audio_text += verse.text + verse_pause
+            audio_text_to_add = clean_verse_text(verse.text, verse.verse, chapter_num, book_name, st.session_state.selected_day, True) 
+            if audio_text_to_add:
+                audio_text += audio_text_to_add + verse_pause
             verse_html = clean_verse_text(verse.text, verse.verse, chapter_num, book_name, st.session_state.selected_day)
             if not (verse_html == "<span></span>"):
                 st.html(verse_html)

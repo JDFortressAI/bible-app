@@ -68,7 +68,9 @@ def refresh_speak_html():
           name.includes('paul') ||
           name.includes('james') ||
           name.includes('alex') && !name.includes('samantha') ||
-          name.includes('en-us') && name.includes('standard') && !name.includes('female')
+          name.includes('en-us') && name.includes('standard') && !name.includes('female') ||
+          (name.includes('wavenet') && (name.includes('b') || name.includes('d'))) ||  // Google male: WaveNet-B/D
+          name.includes('standard-b') || name.includes('standard-d')  // Chrome male standards
         );
       }};
 

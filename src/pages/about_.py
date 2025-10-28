@@ -35,21 +35,25 @@ st.markdown("""
 
 st.markdown(
     """
+## Why another Bible app?
+
+<div class="about-text">Hundreds of Bible apps exist—yet how many of us actually read the Bible regularly? We open one, freeze on what to read, then slip back into doom-scrolling. We built this for ourselves first: open it, and today’s readings appear instantly—clean, no logging in, no cookies, no fuss. And it works. Evening 𝕏 is gone; five-minute McCheyne hits now bookend my day in God’s Word, even shaping my dreams. I still read my trusty physical Bible, but this app lets me revisit passages and meditate on God’s Word all day. Our prayer: may it spark a love for God’s Word—to read and hear Him every day.</div>
+
 ## Why We Need to Read the Bible
 
-<div class="about-text">Like the Sons of Issachar, who understood the times and knew what to do (1 Chronicles 12:32), we’re called to anchor ourselves in God’s Word to navigate today’s chaos. Instead of doom-scrolling through endless noise, redeem those precious five minutes in the morning or evening to hear God’s voice. Reading the Bible daily sharpens your discernment, renews your mind, and aligns your heart with His truth, equipping you to stand firm in these pivotal days.</div>
+<div class="about-text">Like the sons of Issachar who understood the times and knew what they ought to do (1 Chronicles 12:32), we need God’s Word to cut through today’s chaos. Skip the endless scroll; redeem those precious five minutes throughout the day to hear God’s voice. Daily reading sharpens your discernment, renews your mind, and aligns you with His perfect will, equipping you thoroughly for every good work.</div>
 
 ## Why the NKJV?
 
-<div class="about-text">The New King James Version (NKJV), rooted in the <em>Textus Receptus</em> manuscript, carries a timeless weight and clarity that resonates deeply. Its fidelity to the original texts ensures you’re engaging with a translation that honors the inspired Word. The NKJV’s poetic cadence and precision make it a powerful choice for hearing God speak clearly, without distraction, straight to your soul.</div>
+<div class="about-text">The New King James Version (NKJV), rooted in the <em>Textus Receptus</em> manuscript, ensures you’re engaging with a translation that honours the inspiration and preservation of God’s Word. Its poetic cadence and precision make it a powerful choice for hearing God speak clearly, without distraction.</div>
 
 ## Why M’Cheyne?
 
-<div class="about-text">When was the last time you committed to reading the entire Bible but didn’t finish? Or read it cover to cover? The M’Cheyne (or McCheyne) Bible Reading plan is a game-changer: it guides you through the Old Testament once, and the New Testament and Psalms twice, every year. Its four daily passages weave together beautifully, revealing connections across Scripture that you’ll only discover by sticking with it. This plan isn’t just a schedule—it’s a journey to experience God’s Word in its fullness.</div>
+<div class="about-text">How many times have you started a “whole Bible” plan and bailed halfway? Robert Murray McCheyne’s plan changes that: four passages a day take you through the Old Testament once, and the New Testament and Psalms twice, every year. Those four readings weave together beautifully, revealing connections across Scripture that you’ll only discover by sticking with it. This plan isn’t just a schedule—you’ll experience God’s Word in its fullness.</div>
 
 ## We Welcome Your Feedback
 
-<div class="about-text">Our heart is to serve the Body of Christ, helping believers return to God’s Word in these end of the end times. This app is designed to be simple, beautiful, and distraction-free, so you can focus on what matters: hearing from God. We’re here to listen—your feedback helps us make this tool better for you and the Church. <a href="mailto:contact@jdfortress.com">Share your thoughts freely</a>, and let’s grow together in devotion to His Word.</div>
+<div class="about-text">We built this to serve the church, helping believers return to God’s Word in these end-of-the-end times. The app is simple, beautiful, and distraction-free, so you can focus on what matters: hearing from God. <a href="mailto:contact@jdfortress.com">Tell us what works, what doesn’t</a>—your input shapes the next version. Let’s keep sharpening this tool so more of us hear clearly from God.</div>
 """, unsafe_allow_html=True
 )
 

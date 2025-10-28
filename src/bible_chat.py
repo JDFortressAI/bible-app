@@ -391,7 +391,7 @@ def display_reading_mode():
 
     st.markdown(
                 '<p style="font-size: 12px; color: #888; text-align: center; margin-top: 2rem;">'
-                'Crafted with love by JDFortress AI Ltd. Copyright © 2025. All rights reserved.'
+                'Crafted with love by <a href="https://jdfortress.com">JD Fortress AI Ltd</a>. Copyright © 2025. All rights reserved.'
                 '</p>', 
                 unsafe_allow_html=True
             )

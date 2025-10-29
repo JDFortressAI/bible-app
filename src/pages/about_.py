@@ -59,3 +59,12 @@ st.markdown(
 
 if st.button("Take me back!"):
     st.switch_page("bible_chat.py")
+
+st.markdown("---")
+
+st.markdown(
+                '<p style="font-size: 12px; color: #888; text-align: center; margin-top: 2rem;">'
+                'Crafted with love by <a href="https://jdfortress.com">JD Fortress AI Ltd</a>. Copyright © 2025. All rights reserved.'
+                '</p>', 
+                unsafe_allow_html=True
+            )

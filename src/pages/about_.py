@@ -53,7 +53,7 @@ st.markdown(
 
 ## We Welcome Your Feedback
 
-<div class="about-text">We built this to serve the church, helping believers return to God’s Word in these end-of-the-end times. The app is simple, beautiful, and distraction-free, so you can focus on what matters: hearing from God. <a href="mailto:contact@jdfortress.com">Tell us what works, what doesn’t</a>—your input shapes the next version. Let’s keep sharpening this tool so more of us hear clearly from God.</div>
+<div class="about-text">We built this to serve the Church, helping believers return to God’s Word in these end-of-the-end times. The app is simple, beautiful, and distraction-free, so you can focus on what matters: hearing from God. <a href="mailto:contact@jdfortress.com">Tell us what works, what doesn’t</a>—your input shapes the next version. Let’s keep sharpening this tool so more of us hear clearly from God.</div>
 """, unsafe_allow_html=True
 )
 

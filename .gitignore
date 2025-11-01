@@ -24,3 +24,5 @@ aws/override.tf
 aws/override.tf.json
 aws/*_override.tf
 aws/*_override.tf.json
+aws/manual_run.py
+aws/manual_run.toml

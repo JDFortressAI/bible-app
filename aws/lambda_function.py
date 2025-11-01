@@ -109,6 +109,12 @@ class McCheyneUpdater:
             
             readings = {"Family": [], "Secret": []}
             
+            months = ['January','February','March',
+                      'April','May','June',
+                      'July','August','September',
+                      'October','November','December']
+            month_name = months[month-1]
+
             # Create specific date patterns to search for
             # Create the specific date string with ordinal suffix
             if day in [1, 21, 31]:
@@ -121,8 +127,8 @@ class McCheyneUpdater:
                 ordinal = f"{day}th"
             
             date_patterns = [
-                f"October {ordinal}:",  # "October 12th:"
-                f"Oct {ordinal}:",      # "Oct 12th:"
+                f"{month_name} {ordinal}:",  # "October 12th:"
+                f"{month_name[:3]} {ordinal}:",      # "Oct 12th:"
                 f"{month}/{day}",
                 f"{month:02d}/{day:02d}",
             ]
@@ -152,7 +158,7 @@ class McCheyneUpdater:
                         cell_texts = [cell.get_text(strip=True) for cell in cells]
                         
                         # Look for the specific date pattern in the cells
-                        target_date = f"October {day}"
+                        target_date = f"{month_name} {day}"
                         if day in [1, 21, 31]:
                             target_date += "st"
                         elif day in [2, 22]:

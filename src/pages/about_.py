@@ -49,7 +49,7 @@ st.markdown(
 
 ## Why M’Cheyne?
 
-<div class="about-text">How many times have you started a “whole Bible” plan and bailed halfway? Robert Murray McCheyne’s plan changes that: four passages a day take you through the Old Testament once, and the New Testament and Psalms twice, every year. Those four readings weave together beautifully, revealing connections across Scripture that you’ll only discover by sticking with it. This plan isn’t just a schedule—you’ll experience God’s Word in its fullness.</div>
+<div class="about-text">How many times have you started a “whole Bible” plan and bailed halfway? <a href="https://grokipedia.com/page/Robert_Murray_M'Cheyne#bible-reading-system-and-its-design">Robert Murray McCheyne’s plan</a> changes that: four passages a day take you through the Old Testament once, and the New Testament and Psalms twice, every year. Those four readings weave together beautifully, revealing connections across Scripture that you’ll only discover by sticking with it. This plan isn’t just a schedule—you’ll experience God’s Word in its fullness.</div>
 
 ## We Welcome Your Feedback
 

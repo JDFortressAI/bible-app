@@ -5,6 +5,7 @@ import os
 import re
 import json
 import glob
+from pathlib import Path
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from typing import Dict, List, Optional
@@ -514,9 +515,10 @@ def display_chat_mode():
             st.session_state.messages.append({"role": "assistant", "content": full_response})
 
 def main():
+    icon_path = Path(__file__).parent.parent / "assets" / "favicon.ico"
     st.set_page_config(
         page_title="Bible Reading & Chat",
-        page_icon="assets/favicon.jpeg",
+        page_icon=str(icon_path),
         layout="wide"
     )
     

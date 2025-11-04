@@ -521,6 +521,19 @@ def main():
         page_icon=str(icon_path),
         layout="wide"
     )
+    # Inject Apple touch icon (and optional manual favicon for Safari)
+    st.markdown(
+        '''
+        <link rel="apple-touch-icon" sizes="180x180" href="app/static/apple-touch-icon.png">
+        ''',
+        unsafe_allow_html=True
+    )
+
+    # For Safari favicon (browser tab)
+    st.markdown(
+         '<link rel="icon" href="app/static/favicon.ico">',
+         unsafe_allow_html=True
+    )
     
     # Dynamic date title based on selected day
     # Initialize selected day if not set (needed for title calculation)

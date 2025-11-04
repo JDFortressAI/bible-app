@@ -15,6 +15,7 @@ COPY pyproject.toml README.md ./
 RUN uv pip install --system -e .
 
 # Copy source code
+COPY .streamlit/ ./.streamlit/
 COPY assets/ ./assets/
 COPY src/ ./src/
 COPY *.py ./

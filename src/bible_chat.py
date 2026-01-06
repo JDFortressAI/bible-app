@@ -549,11 +549,11 @@ def main():
     
     # Dynamic title based on selected day
     if st.session_state.selected_day == -1:
-        date_title = f"🗓️ Yesterday was {day_name} {day_num} {month_name} 2025."
+        date_title = f"🗓️ Yesterday was {day_name} {day_num} {month_name} {year}."
     elif st.session_state.selected_day == 0:
-        date_title = f"🗓️ Today is {day_name} {day_num} {month_name} 2025."
+        date_title = f"🗓️ Today is {day_name} {day_num} {month_name} {year}."
     else:  # tomorrow
-        date_title = f"🗓️ Tomorrow will be {day_name} {day_num} {month_name} 2025."
+        date_title = f"🗓️ Tomorrow will be {day_name} {day_num} {month_name} {year}."
     
     st.markdown(f"# {date_title}", unsafe_allow_html=True)
     

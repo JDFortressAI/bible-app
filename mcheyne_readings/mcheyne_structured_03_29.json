@@ -1,0 +1,845 @@
+{
+  "format_version": "1.0",
+  "date": "03/29",
+  "cached_at": "2026-02-05T17:12:09.581082",
+  "Family": [
+    {
+      "reference": "Exodus 40",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 1,
+          "text": "1 Then the L\u1d0f\u0280\u1d05 spoke to Moses, saying:"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 2,
+          "text": "2 \u201cOn the first day of the first month you shall set up the tabernacle of the tent of meeting."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 3,
+          "text": "3 You shall put in it the ark of the Testimony, and partition off the ark with the veil."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 4,
+          "text": "4 You shall bring in the table and arrange the things that are to be set in order on it; and you shall bring in the lampstand and light its lamps."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 5,
+          "text": "5 You shall also set the altar of gold for the incense before the ark of the Testimony, and put up the screen for the door of the tabernacle."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 6,
+          "text": "6 Then you shall set the altar of the burnt offering before the door of the tabernacle of the tent of meeting."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 7,
+          "text": "7 And you shall set the laver between the tabernacle of meeting and the altar, and put water in it."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 8,
+          "text": "8 You shall set up the court all around, and hang up the screen at the court gate."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 9,
+          "text": "9 And you shall take the anointing oil, and anoint the tabernacle and all that is in it; and you shall hallow it and all its utensils, and it shall be holy."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 10,
+          "text": "10 You shall anoint the altar of the burnt offering and all its utensils, and consecrate the altar. The altar shall be most holy."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 11,
+          "text": "11 And you shall anoint the laver and its base, and consecrate it."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 12,
+          "text": "12 Then you shall bring Aaron and his sons to the door of the tabernacle of meeting and wash them with water."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 13,
+          "text": "13 You shall put the holy garments on Aaron, and anoint him and consecrate him, that he may minister to Me as priest."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 14,
+          "text": "14 And you shall bring his sons and clothe them with tunics."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 15,
+          "text": "15 You shall anoint them, as you anointed their father, that they may minister to Me as priests; for their anointing shall surely be an everlasting priesthood throughout their generations.\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 16,
+          "text": "16 Thus Moses did; according to all that the L\u1d0f\u0280\u1d05 had commanded him, so he did."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 17,
+          "text": "17 And it came to pass in the first month of the second year, on the first day of the month, that the tabernacle was raised up."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 18,
+          "text": "18 So Moses raised up the tabernacle, fastened its sockets, set up its boards, put in its bars, and raised up its pillars."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 19,
+          "text": "19 And he spread out the tent over the tabernacle and put the covering of the tent on top of it, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 20,
+          "text": "20 He took the Testimony and put it into the ark, inserted the poles through the rings of the ark, and put the mercy seat on top of the ark."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 21,
+          "text": "21 And he brought the ark into the tabernacle, hung up the veil of the covering, and partitioned off the ark of the Testimony, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 22,
+          "text": "22 He put the table in the tabernacle of meeting, on the north side of the tabernacle, outside the veil;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 23,
+          "text": "23 and he set the bread in order upon it before the L\u1d0f\u0280\u1d05, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 24,
+          "text": "24 He put the lampstand in the tabernacle of meeting, across from the table, on the south side of the tabernacle;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 25,
+          "text": "25 and he lit the lamps before the L\u1d0f\u0280\u1d05, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 26,
+          "text": "26 He put the gold altar in the tabernacle of meeting in front of the veil;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 27,
+          "text": "27 and he burned sweet incense on it, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 28,
+          "text": "28 He hung up the screen at the door of the tabernacle."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 29,
+          "text": "29 And he put the altar of burnt offering before the door of the tabernacle of the tent of meeting, and offered upon it the burnt offering and the grain offering, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 30,
+          "text": "30 He set the laver between the tabernacle of meeting and the altar, and put water there for washing;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 31,
+          "text": "31 and Moses, Aaron, and his sons would wash their hands and their feet with water from it."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 32,
+          "text": "32 Whenever they went into the tabernacle of meeting, and when they came near the altar, they washed, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 33,
+          "text": "33 And he raised up the court all around the tabernacle and the altar, and hung up the screen of the court gate. So Moses finished the work."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 34,
+          "text": "34 Then the cloud covered the tabernacle of meeting, and the glory of the L\u1d0f\u0280\u1d05 filled the tabernacle."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 35,
+          "text": "35 And Moses was not able to enter the tabernacle of meeting, because the cloud rested above it, and the glory of the L\u1d0f\u0280\u1d05 filled the tabernacle."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 36,
+          "text": "36 Whenever the cloud was taken up from above the tabernacle, the children of Israel would go onward in all their journeys."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 37,
+          "text": "37 But if the cloud was not taken up, then they did not journey till the day that it was taken up."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 40,
+          "verse": 38,
+          "text": "38 For the cloud of the L\u1d0f\u0280\u1d05 was above the tabernacle by day, and fire was over it by night, in the sight of all the house of Israel, throughout all their journeys."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:10.371214"
+    },
+    {
+      "reference": "John 19",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 1,
+          "text": "1 So then Pilate took Jesus and scourged Him."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 2,
+          "text": "2 And the soldiers twisted a crown of thorns and put it on His head, and they put on Him a purple robe."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 3,
+          "text": "3 Then they said, \u201cHail, King of the Jews!\u201d And they struck Him with their hands."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 4,
+          "text": "4 Pilate then went out again, and said to them, \u201cBehold, I am bringing Him out to you, that you may know that I find no fault in Him.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 5,
+          "text": "5 Then Jesus came out, wearing the crown of thorns and the purple robe. And Pilate said to them, \u201cBehold the Man!\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 6,
+          "text": "6 Therefore, when the chief priests and officers saw Him, they cried out, saying, \u201cCrucify Him, crucify Him!\u201d Pilate said to them, \u201cYou take Him and crucify Him, for I find no fault in Him.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 7,
+          "text": "7 The Jews answered him, \u201cWe have a law, and according to our law He ought to die, because He made Himself the Son of God.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 8,
+          "text": "8 Therefore, when Pilate heard that saying, he was the more afraid,"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 9,
+          "text": "9 and went again into the Praetorium, and said to Jesus, \u201cWhere are You from?\u201d But Jesus gave him no answer."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 10,
+          "text": "10 Then Pilate said to Him, \u201cAre You not speaking to me? Do You not know that I have power to crucify You, and power to release You?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 11,
+          "text": "11 Jesus answered, \u201cYou could have no power at all against Me unless it had been given you from above. Therefore the one who delivered Me to you has the greater sin.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 12,
+          "text": "12 From then on Pilate sought to release Him, but the Jews cried out, saying, \u201cIf you let this Man go, you are not Caesar\u2019s friend. Whoever makes himself a king speaks against Caesar.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 13,
+          "text": "13 When Pilate therefore heard that saying, he brought Jesus out and sat down in the judgment seat in a place that is called The Pavement, but in Hebrew, Gabbatha."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 14,
+          "text": "14 Now it was the Preparation Day of the Passover, and about the sixth hour. And he said to the Jews, \u201cBehold your King!\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 15,
+          "text": "15 But they cried out, \u201cAway with Him, away with Him! Crucify Him!\u201d Pilate said to them, \u201cShall I crucify your King?\u201d The chief priests answered, \u201cWe have no king but Caesar!\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 16,
+          "text": "16 Then he delivered Him to them to be crucified. So they took Jesus and led Him away."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 17,
+          "text": "17 And He, bearing His cross, went out to a place called the Place of a Skull, which is called in Hebrew, Golgotha,"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 18,
+          "text": "18 where they crucified Him, and two others with Him, one on either side, and Jesus in the center."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 19,
+          "text": "19 Now Pilate wrote a title and put it on the cross. And the writing was: JESUS OF NAZARETH, THE KING OF THE JEWS."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 20,
+          "text": "20 Then many of the Jews read this title, for the place where Jesus was crucified was near the city; and it was written in Hebrew, Greek, and Latin."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 21,
+          "text": "21 Therefore the chief priests of the Jews said to Pilate, \u201cDo not write, \u2018The King of the Jews,\u2019 but, \u2018He said, \u201cI am the King of the Jews.\u201d \u2019 \u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 22,
+          "text": "22 Pilate answered, \u201cWhat I have written, I have written.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 23,
+          "text": "23 Then the soldiers, when they had crucified Jesus, took His garments and made four parts, to each soldier a part, and also the tunic. Now the tunic was without seam, woven from the top in one piece."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 24,
+          "text": "24 They said therefore among themselves, \u201cLet us not tear it, but cast lots for it, whose it shall be,\u201d that the Scripture might be fulfilled which says: \u201cThey divided My garments among them, And for My clothing they cast lots.\u201d Therefore the soldiers did these things."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 25,
+          "text": "25 Now there stood by the cross of Jesus His mother, and His mother\u2019s sister, Mary the wife of Clopas, and Mary Magdalene."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 26,
+          "text": "26 When Jesus therefore saw His mother, and the disciple whom He loved standing by, He said to His mother, \u201cWoman, behold your son!\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 27,
+          "text": "27 Then He said to the disciple, \u201cBehold your mother!\u201d And from that hour that disciple took her to his own home."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 28,
+          "text": "28 After this, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said, \u201cI thirst!\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 29,
+          "text": "29 Now a vessel full of sour wine was sitting there; and they filled a sponge with sour wine, put it on hyssop, and put it to His mouth."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 30,
+          "text": "30 So when Jesus had received the sour wine, He said, \u201cIt is finished!\u201d And bowing His head, He gave up His spirit."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 31,
+          "text": "31 Therefore, because it was the Preparation Day, that the bodies should not remain on the cross on the Sabbath (for that Sabbath was a high day), the Jews asked Pilate that their legs might be broken, and that they might be taken away."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 32,
+          "text": "32 Then the soldiers came and broke the legs of the first and of the other who was crucified with Him."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 33,
+          "text": "33 But when they came to Jesus and saw that He was already dead, they did not break His legs."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 34,
+          "text": "34 But one of the soldiers pierced His side with a spear, and immediately blood and water came out."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 35,
+          "text": "35 And he who has seen has testified, and his testimony is true; and he knows that he is telling the truth, so that you may believe."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 36,
+          "text": "36 For these things were done that the Scripture should be fulfilled, \u201cNot one of His bones shall be broken.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 37,
+          "text": "37 And again another Scripture says, \u201cThey shall look on Him whom they pierced.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 38,
+          "text": "38 After this, Joseph of Arimathea, being a disciple of Jesus, but secretly, for fear of the Jews, asked Pilate that he might take away the body of Jesus; and Pilate gave him permission. So he came and took the body of Jesus."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 39,
+          "text": "39 And Nicodemus, who at first came to Jesus by night, also came, bringing a mixture of myrrh and aloes, about a hundred pounds."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 40,
+          "text": "40 Then they took the body of Jesus, and bound it in strips of linen with the spices, as the custom of the Jews is to bury."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 41,
+          "text": "41 Now in the place where He was crucified there was a garden, and in the garden a new tomb in which no one had yet been laid."
+        },
+        {
+          "book": "John",
+          "chapter": 19,
+          "verse": 42,
+          "text": "42 So there they laid Jesus, because of the Jews\u2019 Preparation Day, for the tomb was nearby."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:11.294740"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Proverbs 16",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 1,
+          "text": "1 The preparations of the heart belong to man, But the answer of the tongue is from the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 2,
+          "text": "2 All the ways of a man are pure in his own eyes, But the L\u1d0f\u0280\u1d05 weighs the spirits."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 3,
+          "text": "3 Commit your works to the L\u1d0f\u0280\u1d05, And your thoughts will be established."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 4,
+          "text": "4 The L\u1d0f\u0280\u1d05 has made all for Himself, Yes, even the wicked for the day of doom."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 5,
+          "text": "5 Everyone proud in heart is an abomination to the L\u1d0f\u0280\u1d05; Though they join forces, none will go unpunished."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 6,
+          "text": "6 In mercy and truth Atonement is provided for iniquity; And by the fear of the L\u1d0f\u0280\u1d05 one departs from evil."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 7,
+          "text": "7 When a man\u2019s ways please the L\u1d0f\u0280\u1d05, He makes even his enemies to be at peace with him."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 8,
+          "text": "8 Better is a little with righteousness, Than vast revenues without justice."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 9,
+          "text": "9 A man\u2019s heart plans his way, But the L\u1d0f\u0280\u1d05 directs his steps."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 10,
+          "text": "10 Divination is on the lips of the king; His mouth must not transgress in judgment."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 11,
+          "text": "11 Honest weights and scales are the L\u1d0f\u0280\u1d05\u2019s; All the weights in the bag are His work."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 12,
+          "text": "12 It is an abomination for kings to commit wickedness, For a throne is established by righteousness."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 13,
+          "text": "13 Righteous lips are the delight of kings, And they love him who speaks what is right."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 14,
+          "text": "14 As messengers of death is the king\u2019s wrath, But a wise man will appease it."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 15,
+          "text": "15 In the light of the king\u2019s face is life, And his favor is like a cloud of the latter rain."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 16,
+          "text": "16 How much better to get wisdom than gold! And to get understanding is to be chosen rather than silver."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 17,
+          "text": "17 The highway of the upright is to depart from evil; He who keeps his way preserves his soul."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 18,
+          "text": "18 Pride goes before destruction, And a haughty spirit before a fall."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 19,
+          "text": "19 Better to be of a humble spirit with the lowly, Than to divide the spoil with the proud."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 20,
+          "text": "20 He who heeds the word wisely will find good, And whoever trusts in the L\u1d0f\u0280\u1d05, happy is he."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 21,
+          "text": "21 The wise in heart will be called prudent, And sweetness of the lips increases learning."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 22,
+          "text": "22 Understanding is a wellspring of life to him who has it. But the correction of fools is folly."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 23,
+          "text": "23 The heart of the wise teaches his mouth, And adds learning to his lips."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 24,
+          "text": "24 Pleasant words are like a honeycomb, Sweetness to the soul and health to the bones."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 25,
+          "text": "25 There is a way that seems right to a man, But its end is the way of death."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 26,
+          "text": "26 The person who labors, labors for himself, For his hungry mouth drives him on."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 27,
+          "text": "27 An ungodly man digs up evil, And it is on his lips like a burning fire."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 28,
+          "text": "28 A perverse man sows strife, And a whisperer separates the best of friends."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 29,
+          "text": "29 A violent man entices his neighbor, And leads him in a way that is not good."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 30,
+          "text": "30 He winks his eye to devise perverse things; He purses his lips and brings about evil."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 31,
+          "text": "31 The silver-haired head is a crown of glory, If it is found in the way of righteousness."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 32,
+          "text": "32 He who is slow to anger is better than the mighty, And he who rules his spirit than he who takes a city."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 16,
+          "verse": 33,
+          "text": "33 The lot is cast into the lap, But its every decision is from the L\u1d0f\u0280\u1d05."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:11.908975"
+    },
+    {
+      "reference": "Philippians 3",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 1,
+          "text": "1 Finally, my brethren, rejoice in the Lord. For me to write the same things to you is not tedious, but for you it is safe."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 2,
+          "text": "2 Beware of dogs, beware of evil workers, beware of the mutilation!"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 3,
+          "text": "3 For we are the circumcision, who worship God in the Spirit, rejoice in Christ Jesus, and have no confidence in the flesh,"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 4,
+          "text": "4 though I also might have confidence in the flesh. If anyone else thinks he may have confidence in the flesh, I more so:"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 5,
+          "text": "5 circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, a Hebrew of the Hebrews; concerning the law, a Pharisee;"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 6,
+          "text": "6 concerning zeal, persecuting the church; concerning the righteousness which is in the law, blameless."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 7,
+          "text": "7 But what things were gain to me, these I have counted loss for Christ."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 8,
+          "text": "8 Yet indeed I also count all things loss for the excellence of the knowledge of Christ Jesus my Lord, for whom I have suffered the loss of all things, and count them as rubbish, that I may gain Christ"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 9,
+          "text": "9 and be found in Him, not having my own righteousness, which is from the law, but that which is through faith in Christ, the righteousness which is from God by faith;"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 10,
+          "text": "10 that I may know Him and the power of His resurrection, and the fellowship of His sufferings, being conformed to His death,"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 11,
+          "text": "11 if, by any means, I may attain to the resurrection from the dead."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 12,
+          "text": "12 Not that I have already attained, or am already perfected; but I press on, that I may lay hold of that for which Christ Jesus has also laid hold of me."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 13,
+          "text": "13 Brethren, I do not count myself to have apprehended; but one thing I do, forgetting those things which are behind and reaching forward to those things which are ahead,"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 14,
+          "text": "14 I press toward the goal for the prize of the upward call of God in Christ Jesus."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 15,
+          "text": "15 Therefore let us, as many as are mature, have this mind; and if in anything you think otherwise, God will reveal even this to you."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 16,
+          "text": "16 Nevertheless, to the degree that we have already attained, let us walk by the same rule, let us be of the same mind."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 17,
+          "text": "17 Brethren, join in following my example, and note those who so walk, as you have us for a pattern."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 18,
+          "text": "18 For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 19,
+          "text": "19 whose end is destruction, whose god is their belly, and whose glory is in their shame\u2014who set their mind on earthly things."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 20,
+          "text": "20 For our citizenship is in heaven, from which we also eagerly wait for the Savior, the Lord Jesus Christ,"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 3,
+          "verse": 21,
+          "text": "21 who will transform our lowly body that it may be conformed to His glorious body, according to the working by which He is able even to subdue all things to Himself."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:12.515667"
+    }
+  ]
+}

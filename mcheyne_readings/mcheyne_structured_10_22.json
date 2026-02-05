@@ -1,0 +1,635 @@
+{
+  "format_version": "1.0",
+  "date": "10/22",
+  "cached_at": "2025-10-19T19:41:04.808001",
+  "Family": [
+    {
+      "reference": "2 Kings 3",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Now Jehoram the son of Ahab became king over Israel at Samaria in the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 2,
+          "text": "And he did evil in the sight of the L\u1d0f\u0280\u1d05, but not like his father and mother; for he put away the sacred pillar of Baal that his father had made."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Nevertheless he persisted in the sins of Jeroboam the son of Nebat, who had made Israel sin; he did not depart from them."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Now Mesha king of Moab was a sheepbreeder, and he regularly paid the king of Israel one hundred thousand lambs and the wool of one hundred thousand rams."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 5,
+          "text": "But it happened, when Ahab died, that the king of Moab rebelled against the king of Israel."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 6,
+          "text": "So King Jehoram went out of Samaria at that time and mustered all Israel."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Then he went and sent to Jehoshaphat king of Judah, saying, \u201cThe king of Moab has rebelled against me. Will you go with me to fight against Moab?\u201d And he said, \u201cI will go up; I am as you are, my people as your people, my horses as your horses.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 8,
+          "text": "Then he said, \u201cWhich way shall we go up?\u201d And he answered, \u201cBy way of the Wilderness of Edom.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 9,
+          "text": "So the king of Israel went with the king of Judah and the king of Edom, and they marched on that roundabout route seven days; and there was no water for the army, nor for the animals that followed them."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 10,
+          "text": "And the king of Israel said, \u201cAlas! For the L\u1d0f\u0280\u1d05 has called these three kings together to deliver them into the hand of Moab.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 11,
+          "text": "But Jehoshaphat said, \u201cIs there no prophet of the L\u1d0f\u0280\u1d05 here, that we may inquire of the L\u1d0f\u0280\u1d05 by him?\u201d So one of the servants of the king of Israel answered and said, \u201cElisha the son of Shaphat is here, who poured water on the hands of Elijah.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 12,
+          "text": "And Jehoshaphat said, \u201cThe word of the L\u1d0f\u0280\u1d05 is with him.\u201d So the king of Israel and Jehoshaphat and the king of Edom went down to him."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Then Elisha said to the king of Israel, \u201cWhat have I to do with you? Go to the prophets of your father and the prophets of your mother.\u201d But the king of Israel said to him, \u201cNo, for the L\u1d0f\u0280\u1d05 has called these three kings together to deliver them into the hand of Moab.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 14,
+          "text": "And Elisha said, \u201cAs the L\u1d0f\u0280\u1d05 of hosts lives, before whom I stand, surely were it not that I regard the presence of Jehoshaphat king of Judah, I would not look at you, nor see you."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 15,
+          "text": "But now bring me a musician.\u201d Then it happened, when the musician played, that the hand of the L\u1d0f\u0280\u1d05 came upon him."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 16,
+          "text": "And he said, \u201cThus says the L\u1d0f\u0280\u1d05: \u2018Make this valley full of ditches.\u2019"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 17,
+          "text": "For thus says the L\u1d0f\u0280\u1d05: \u2018You shall not see wind, nor shall you see rain; yet that valley shall be filled with water, so that you, your cattle, and your animals may drink.\u2019"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 18,
+          "text": "And this is a simple matter in the sight of the L\u1d0f\u0280\u1d05; He will also deliver the Moabites into your hand."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 19,
+          "text": "Also you shall attack every fortified city and every choice city, and shall cut down every good tree, and stop up every spring of water, and ruin every good piece of land with stones.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 20,
+          "text": "Now it happened in the morning, when the grain offering was offered, that suddenly water came by way of Edom, and the land was filled with water."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 21,
+          "text": "And when all the Moabites heard that the kings had come up to fight against them, all who were able to bear arms and older were gathered; and they stood at the border."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 22,
+          "text": "Then they rose up early in the morning, and the sun was shining on the water; and the Moabites saw the water on the other side as red as blood."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 23,
+          "text": "And they said, \u201cThis is blood; the kings have surely struck swords and have killed one another; now therefore, Moab, to the spoil!\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 24,
+          "text": "So when they came to the camp of Israel, Israel rose up and attacked the Moabites, so that they fled before them; and they entered their land, killing the Moabites."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 25,
+          "text": "Then they destroyed the cities, and each man threw a stone on every good piece of land and filled it; and they stopped up all the springs of water and cut down all the good trees. But they left the stones of Kir Haraseth intact. However the slingers surrounded and attacked it."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 26,
+          "text": "And when the king of Moab saw that the battle was too fierce for him, he took with him seven hundred men who drew swords, to break through to the king of Edom, but they could not."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 3,
+          "verse": 27,
+          "text": "Then he took his eldest son who would have reigned in his place, and offered him as a burnt offering upon the wall; and there was great indignation against Israel. So they departed from him and returned to their own land."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-10-19T19:41:05.262105"
+    },
+    {
+      "reference": "2 Thessalonians 3",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Finally, brethren, pray for us, that the word of the Lord may run swiftly and be glorified, just as it is with you,"
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 2,
+          "text": "and that we may be delivered from unreasonable and wicked men; for not all have faith."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 3,
+          "text": "But the Lord is faithful, who will establish you and guard you from the evil one."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 4,
+          "text": "And we have confidence in the Lord concerning you, both that you do and will do the things we command you."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Now may the Lord direct your hearts into the love of God and into the patience of Christ."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 6,
+          "text": "But we command you, brethren, in the name of our Lord Jesus Christ, that you withdraw from every brother who walks disorderly and not according to the tradition which he received from us."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 7,
+          "text": "For you yourselves know how you ought to follow us, for we were not disorderly among you;"
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 8,
+          "text": "nor did we eat anyone\u2019s bread free of charge, but worked with labor and toil night and day, that we might not be a burden to any of you,"
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 9,
+          "text": "not because we do not have authority, but to make ourselves an example of how you should follow us."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 10,
+          "text": "For even when we were with you, we commanded you this: If anyone will not work, neither shall he eat."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 11,
+          "text": "For we hear that there are some who walk among you in a disorderly manner, not working at all, but are busybodies."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Now those who are such we command and exhort through our Lord Jesus Christ that they work in quietness and eat their own bread."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 13,
+          "text": "But as for you, brethren, do not grow weary in doing good."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 14,
+          "text": "And if anyone does not obey our word in this epistle, note that person and do not keep company with him, that he may be ashamed."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 15,
+          "text": "Yet do not count him as an enemy, but admonish him as a brother."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 16,
+          "text": "Now may the Lord of peace Himself give you peace always in every way. The Lord be with you all."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 17,
+          "text": "The salutation of Paul with my own hand, which is a sign in every epistle; so I write."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 3,
+          "verse": 18,
+          "text": "The grace of our Lord Jesus Christ be with you all. Amen."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-10-19T19:41:06.101847"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Daniel 7",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 1,
+          "text": "In the first year of Belshazzar king of Babylon, Daniel had a dream and visions of his head while on his bed. Then he wrote down the dream, telling the main facts."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 2,
+          "text": "Daniel spoke, saying, \u201cI saw in my vision by night, and behold, the four winds of heaven were stirring up the Great Sea."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 3,
+          "text": "And four great beasts came up from the sea, each different from the other."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 4,
+          "text": "The first was like a lion, and had eagle\u2019s wings. I watched till its wings were plucked off; and it was lifted up from the earth and made to stand on two feet like a man, and a man\u2019s heart was given to it."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 5,
+          "text": "And suddenly another beast, a second, like a bear. It was raised up on one side, and had three ribs in its mouth between its teeth. And they said thus to it: \u2018Arise, devour much flesh!\u2019"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 6,
+          "text": "After this I looked, and there was another, like a leopard, which had on its back four wings of a bird. The beast also had four heads, and dominion was given to it."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 7,
+          "text": "After this I saw in the night visions, and behold, a fourth beast, dreadful and terrible, exceedingly strong. It had huge iron teeth; it was devouring, breaking in pieces, and trampling the residue with its feet. It was different from all the beasts that were before it, and it had ten horns."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 8,
+          "text": "I was considering the horns, and there was another horn, a little one, coming up among them, before whom three of the first horns were plucked out by the roots. And there, in this horn, were eyes like the eyes of a man, and a mouth speaking pompous words."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 9,
+          "text": "\u201cI watched till thrones were put in place, And the Ancient of Days was seated; His garment was white as snow, And the hair of His head was like pure wool. His throne was a fiery flame, Its wheels a burning fire;"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 10,
+          "text": "A fiery stream issued And came forth from before Him. A thousand thousands ministered to Him; Ten thousand times ten thousand stood before Him. The court was seated, And the books were opened."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 11,
+          "text": "\u201cI watched then because of the sound of the pompous words which the horn was speaking; I watched till the beast was slain, and its body destroyed and given to the burning flame."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 12,
+          "text": "As for the rest of the beasts, they had their dominion taken away, yet their lives were prolonged for a season and a time."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 13,
+          "text": "\u201cI was watching in the night visions, And behold, One like the Son of Man, Coming with the clouds of heaven! He came to the Ancient of Days, And they brought Him near before Him."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 14,
+          "text": "Then to Him was given dominion and glory and a kingdom, That all peoples, nations, and languages should serve Him. His dominion is an everlasting dominion, Which shall not pass away, And His kingdom the one Which shall not be destroyed."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 15,
+          "text": "\u201cI, Daniel, was grieved in my spirit within my body, and the visions of my head troubled me."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 16,
+          "text": "I came near to one of those who stood by, and asked him the truth of all this. So he told me and made known to me the interpretation of these things:"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 17,
+          "text": "\u2018Those great beasts, which are four, are four kings which arise out of the earth."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 18,
+          "text": "But the saints of the Most High shall receive the kingdom, and possess the kingdom forever, even forever and ever.\u2019"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 19,
+          "text": "Then I wished to know the truth about the fourth beast, which was different from all the others, exceedingly dreadful, with its teeth of iron and its nails of bronze, which devoured, broke in pieces, and trampled the residue with its feet;"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 20,
+          "text": "and the ten horns that were on its head, and the other horn which came up, before which three fell, namely, that horn which had eyes and a mouth which spoke pompous words, whose appearance was greater than his fellows."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 21,
+          "text": "I was watching; and the same horn was making war against the saints, and prevailing against them,"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 22,
+          "text": "until the Ancient of Days came, and a judgment was made in favor of the saints of the Most High, and the time came for the saints to possess the kingdom."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 23,
+          "text": "\u201cThus he said: \u2018The fourth beast shall be A fourth kingdom on earth, Which shall be different from all other kingdoms, And shall devour the whole earth, Trample it and break it in pieces."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 24,
+          "text": "The ten horns are ten kings Who shall arise from this kingdom. And another shall rise after them; He shall be different from the first ones, And shall subdue three kings."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 25,
+          "text": "He shall speak pompous words against the Most High, Shall persecute the saints of the Most High, And shall intend to change times and law. Then the saints shall be given into his hand For a time and times and half a time."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 26,
+          "text": "\u2018But the court shall be seated, And they shall take away his dominion, To consume and destroy it forever."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 27,
+          "text": "Then the kingdom and dominion, And the greatness of the kingdoms under the whole heaven, Shall be given to the people, the saints of the Most High. His kingdom is an everlasting kingdom, And all dominions shall serve and obey Him.\u2019"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 7,
+          "verse": 28,
+          "text": "\u201cThis is the end of the account. As for me, Daniel, my thoughts greatly troubled me, and my countenance changed; but I kept the matter in my heart.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-10-19T19:41:06.973601"
+    },
+    {
+      "reference": "Psalm 114-115",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 114,
+          "verse": 1,
+          "text": "When Israel went out of Egypt, The house of Jacob from a people of strange language,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 114,
+          "verse": 2,
+          "text": "Judah became His sanctuary, And Israel His dominion."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 114,
+          "verse": 3,
+          "text": "The sea saw it and fled; Jordan turned back."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 114,
+          "verse": 4,
+          "text": "The mountains skipped like rams, The little hills like lambs."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 114,
+          "verse": 5,
+          "text": "What ails you, O sea, that you fled? O Jordan, that you turned back?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 114,
+          "verse": 6,
+          "text": "O mountains, that you skipped like rams? O little hills, like lambs?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 114,
+          "verse": 7,
+          "text": "Tremble, O earth, at the presence of the L\u1d0f\u0280\u1d05, At the presence of the God of Jacob,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 114,
+          "verse": 8,
+          "text": "Who turned the rock into a pool of water, The flint into a fountain of waters."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 1,
+          "text": "Not unto us, O L\u1d0f\u0280\u1d05, not unto us, But to Your name give glory, Because of Your mercy, Because of Your truth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 2,
+          "text": "Why should the Gentiles say, \u201cSo where is their God?\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 3,
+          "text": "But our God is in heaven; He does whatever He pleases."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 4,
+          "text": "Their idols are silver and gold, The work of men\u2019s hands."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 5,
+          "text": "They have mouths, but they do not speak; Eyes they have, but they do not see;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 6,
+          "text": "They have ears, but they do not hear; Noses they have, but they do not smell;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 7,
+          "text": "They have hands, but they do not handle; Feet they have, but they do not walk; Nor do they mutter through their throat."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 8,
+          "text": "Those who make them are like them; So is everyone who trusts in them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 9,
+          "text": "O Israel, trust in the L\u1d0f\u0280\u1d05; He is their help and their shield."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 10,
+          "text": "O house of Aaron, trust in the L\u1d0f\u0280\u1d05; He is their help and their shield."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 11,
+          "text": "You who fear the L\u1d0f\u0280\u1d05, trust in the L\u1d0f\u0280\u1d05; He is their help and their shield."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 12,
+          "text": "The L\u1d0f\u0280\u1d05 has been mindful of us; He will bless us; He will bless the house of Israel; He will bless the house of Aaron."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 13,
+          "text": "He will bless those who fear the L\u1d0f\u0280\u1d05, Both small and great."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 14,
+          "text": "May the L\u1d0f\u0280\u1d05 give you increase more and more, You and your children."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 15,
+          "text": "May you be blessed by the L\u1d0f\u0280\u1d05, Who made heaven and earth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 16,
+          "text": "The heaven, even the heavens, are the L\u1d0f\u0280\u1d05\u2019s; But the earth He has given to the children of men."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 17,
+          "text": "The dead do not praise the L\u1d0f\u0280\u1d05, Nor any who go down into silence."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 115,
+          "verse": 18,
+          "text": "But we will bless the L\u1d0f\u0280\u1d05 From this time forth and forevermore. Praise the L\u1d0f\u0280\u1d05!"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-10-19T19:41:09.335217"
+    }
+  ]
+}

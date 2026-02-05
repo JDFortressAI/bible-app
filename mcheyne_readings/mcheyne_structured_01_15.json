@@ -1,0 +1,731 @@
+{
+  "format_version": "1.0",
+  "date": "01/15",
+  "cached_at": "2026-01-07T04:00:18.307844",
+  "Family": [
+    {
+      "reference": "Genesis 16",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 1,
+          "text": "Now Sarai, Abram\u2019s wife, had borne him no children. And she had an Egyptian maidservant whose name was Hagar."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 2,
+          "text": "So Sarai said to Abram, \u201cSee now, the L\u1d0f\u0280\u1d05 has restrained me from bearing children. Please, go in to my maid; perhaps I shall obtain children by her.\u201d And Abram heeded the voice of Sarai."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 3,
+          "text": "Then Sarai, Abram\u2019s wife, took Hagar her maid, the Egyptian, and gave her to her husband Abram to be his wife, after Abram had dwelt ten years in the land of Canaan."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 4,
+          "text": "So he went in to Hagar, and she conceived. And when she saw that she had conceived, her mistress became despised in her eyes."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 5,
+          "text": "Then Sarai said to Abram, \u201cMy wrong be upon you! I gave my maid into your embrace; and when she saw that she had conceived, I became despised in her eyes. The L\u1d0f\u0280\u1d05 judge between you and me.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 6,
+          "text": "So Abram said to Sarai, \u201cIndeed your maid is in your hand; do to her as you please.\u201d And when Sarai dealt harshly with her, she fled from her presence."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 7,
+          "text": "Now the Angel of the L\u1d0f\u0280\u1d05 found her by a spring of water in the wilderness, by the spring on the way to Shur."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 8,
+          "text": "And He said, \u201cHagar, Sarai\u2019s maid, where have you come from, and where are you going?\u201d She said, \u201cI am fleeing from the presence of my mistress Sarai.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 9,
+          "text": "The Angel of the L\u1d0f\u0280\u1d05 said to her, \u201cReturn to your mistress, and submit yourself under her hand.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 10,
+          "text": "Then the Angel of the L\u1d0f\u0280\u1d05 said to her, \u201cI will multiply your descendants exceedingly, so that they shall not be counted for multitude.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 11,
+          "text": "And the Angel of the L\u1d0f\u0280\u1d05 said to her: \u201cBehold, you are with child, And you shall bear a son. You shall call his name Ishmael, Because the L\u1d0f\u0280\u1d05 has heard your affliction."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 12,
+          "text": "He shall be a wild man; His hand shall be against every man, And every man\u2019s hand against him. And he shall dwell in the presence of all his brethren.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 13,
+          "text": "Then she called the name of the L\u1d0f\u0280\u1d05 who spoke to her, You-Are-the-God-Who-Sees; for she said, \u201cHave I also here seen Him who sees me?\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 14,
+          "text": "Therefore the well was called Beer Lahai Roi; observe, it is between Kadesh and Bered."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 15,
+          "text": "So Hagar bore Abram a son; and Abram named his son, whom Hagar bore, Ishmael."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 16,
+          "verse": 16,
+          "text": "Abram was eighty-six years old when Hagar bore Ishmael to Abram."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-07T04:00:19.665067"
+    },
+    {
+      "reference": "Matthew 15",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 1,
+          "text": "Then the scribes and Pharisees who were from Jerusalem came to Jesus, saying,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 2,
+          "text": "\u201cWhy do Your disciples transgress the tradition of the elders? For they do not wash their hands when they eat bread.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 3,
+          "text": "He answered and said to them, \u201cWhy do you also transgress the commandment of God because of your tradition?"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 4,
+          "text": "For God commanded, saying, \u2018Honor your father and your mother\u2019; and, \u2018He who curses father or mother, let him be put to death.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 5,
+          "text": "But you say, \u2018Whoever says to his father or mother, \u201cWhatever profit you might have received from me is a gift to God\u201d\u2014"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 6,
+          "text": "then he need not honor his father or mother.\u2019 Thus you have made the commandment of God of no effect by your tradition."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 7,
+          "text": "Hypocrites! Well did Isaiah prophesy about you, saying:"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 8,
+          "text": "\u2018These people draw near to Me with their mouth, And honor Me with their lips, But their heart is far from Me."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 9,
+          "text": "And in vain they worship Me, Teaching as doctrines the commandments of men.\u2019 \u201c"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 10,
+          "text": "When He had called the multitude to Himself, He said to them, \u201cHear and understand:"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 11,
+          "text": "Not what goes into the mouth defiles a man; but what comes out of the mouth, this defiles a man.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 12,
+          "text": "Then His disciples came and said to Him, \u201cDo You know that the Pharisees were offended when they heard this saying?\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 13,
+          "text": "But He answered and said, \u201cEvery plant which My heavenly Father has not planted will be uprooted."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 14,
+          "text": "Let them alone. They are blind leaders of the blind. And if the blind leads the blind, both will fall into a ditch.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 15,
+          "text": "Then Peter answered and said to Him, \u201cExplain this parable to us.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 16,
+          "text": "So Jesus said, \u201cAre you also still without understanding?"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 17,
+          "text": "Do you not yet understand that whatever enters the mouth goes into the stomach and is eliminated?"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 18,
+          "text": "But those things which proceed out of the mouth come from the heart, and they defile a man."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 19,
+          "text": "For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 20,
+          "text": "These are the things which defile a man, but to eat with unwashed hands does not defile a man.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 21,
+          "text": "Then Jesus went out from there and departed to the region of Tyre and Sidon."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 22,
+          "text": "And behold, a woman of Canaan came from that region and cried out to Him, saying, \u201cHave mercy on me, O Lord, Son of David! My daughter is severely demon-possessed.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 23,
+          "text": "But He answered her not a word. And His disciples came and urged Him, saying, \u201cSend her away, for she cries out after us.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 24,
+          "text": "But He answered and said, \u201cI was not sent except to the lost sheep of the house of Israel.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 25,
+          "text": "Then she came and worshiped Him, saying, \u201cLord, help me!\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 26,
+          "text": "But He answered and said, \u201cIt is not good to take the children\u2019s bread and throw it to the little dogs.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 27,
+          "text": "And she said, \u201cYes, Lord, yet even the little dogs eat the crumbs which fall from their masters\u2019 table.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 28,
+          "text": "Then Jesus answered and said to her, \u201cO woman, great is your faith! Let it be to you as you desire.\u201d And her daughter was healed from that very hour."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 29,
+          "text": "Jesus departed from there, skirted the Sea of Galilee, and went up on the mountain and sat down there."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 30,
+          "text": "Then great multitudes came to Him, having with them the lame, blind, mute, maimed, and many others; and they laid them down at Jesus\u2019 feet, and He healed them."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 31,
+          "text": "So the multitude marveled when they saw the mute speaking, the maimed made whole, the lame walking, and the blind seeing; and they glorified the God of Israel."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 32,
+          "text": "Now Jesus called His disciples to Himself and said, \u201cI have compassion on the multitude, because they have now continued with Me three days and have nothing to eat. And I do not want to send them away hungry, lest they faint on the way.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 33,
+          "text": "Then His disciples said to Him, \u201cWhere could we get enough bread in the wilderness to fill such a great multitude?\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 34,
+          "text": "Jesus said to them, \u201cHow many loaves do you have?\u201d And they said, \u201cSeven, and a few little fish.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 35,
+          "text": "So He commanded the multitude to sit down on the ground."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 36,
+          "text": "And He took the seven loaves and the fish and gave thanks, broke them and gave them to His disciples; and the disciples gave to the multitude."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 37,
+          "text": "So they all ate and were filled, and they took up seven large baskets full of the fragments that were left."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 38,
+          "text": "Now those who ate were four thousand men, besides women and children."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 15,
+          "verse": 39,
+          "text": "And He sent away the multitude, got into the boat, and came to the region of Magdala."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-07T04:00:21.506789"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Nehemiah 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 1,
+          "text": "And there was a great outcry of the people and their wives against their Jewish brethren."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 2,
+          "text": "For there were those who said, \u201cWe, our sons, and our daughters are many; therefore let us get grain, that we may eat and live.\u201d"
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 3,
+          "text": "There were also some who said, \u201cWe have mortgaged our lands and vineyards and houses, that we might buy grain because of the famine.\u201d"
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 4,
+          "text": "There were also those who said, \u201cWe have borrowed money for the king\u2019s tax on our lands and vineyards."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Yet now our flesh is as the flesh of our brethren, our children as their children; and indeed we are forcing our sons and our daughters to be slaves, and some of our daughters have been brought into slavery. It is not in our power to redeem them, for other men have our lands and vineyards.\u201d"
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 6,
+          "text": "And I became very angry when I heard their outcry and these words."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 7,
+          "text": "After serious thought, I rebuked the nobles and rulers, and said to them, \u201cEach of you is exacting usury from his brother.\u201d So I called a great assembly against them."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 8,
+          "text": "And I said to them, \u201cAccording to our ability we have redeemed our Jewish brethren who were sold to the nations. Now indeed, will you even sell your brethren? Or should they be sold to us?\u201d Then they were silenced and found nothing to say."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Then I said, \u201cWhat you are doing is not good. Should you not walk in the fear of our God because of the reproach of the nations, our enemies?"
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 10,
+          "text": "I also, with my brethren and my servants, am lending them money and grain. Please, let us stop this usury!"
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 11,
+          "text": "Restore now to them, even this day, their lands, their vineyards, their olive groves, and their houses, also a hundredth of the money and the grain, the new wine and the oil, that you have charged them.\u201d"
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 12,
+          "text": "So they said, \u201cWe will restore it, and will require nothing from them; we will do as you say.\u201d Then I called the priests, and required an oath from them that they would do according to this promise."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 13,
+          "text": "Then I shook out the fold of my garment and said, \u201cSo may God shake out each man from his house, and from his property, who does not perform this promise. Even thus may he be shaken out and emptied.\u201d And all the assembly said, \u201cAmen!\u201d and praised the L\u1d0f\u0280\u1d05. Then the people did according to this promise."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 14,
+          "text": "Moreover, from the time that I was appointed to be their governor in the land of Judah, from the twentieth year until the thirty-second year of King Artaxerxes, twelve years, neither I nor my brothers ate the governor\u2019s provisions."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 15,
+          "text": "But the former governors who were before me laid burdens on the people, and took from them bread and wine, besides forty shekels of silver. Yes, even their servants bore rule over the people, but I did not do so, because of the fear of God."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 16,
+          "text": "Indeed, I also continued the work on this wall, and we did not buy any land. All my servants were gathered there for the work."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 17,
+          "text": "And at my table were one hundred and fifty Jews and rulers, besides those who came to us from the nations around us."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 18,
+          "text": "Now that which was prepared daily was one ox and six choice sheep. Also fowl were prepared for me, and once every ten days an abundance of all kinds of wine. Yet in spite of this I did not demand the governor\u2019s provisions, because the bondage was heavy on this people."
+        },
+        {
+          "book": "Nehemiah",
+          "chapter": 5,
+          "verse": 19,
+          "text": "Remember me, my God, for good, according to all that I have done for this people."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-07T04:00:23.027279"
+    },
+    {
+      "reference": "Acts 15",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 1,
+          "text": "And certain men came down from Judea and taught the brethren, \u201cUnless you are circumcised according to the custom of Moses, you cannot be saved.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 2,
+          "text": "Therefore, when Paul and Barnabas had no small dissension and dispute with them, they determined that Paul and Barnabas and certain others of them should go up to Jerusalem, to the apostles and elders, about this question."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 3,
+          "text": "So, being sent on their way by the church, they passed through Phoenicia and Samaria, describing the conversion of the Gentiles; and they caused great joy to all the brethren."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 4,
+          "text": "And when they had come to Jerusalem, they were received by the church and the apostles and the elders; and they reported all things that God had done with them."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 5,
+          "text": "But some of the sect of the Pharisees who believed rose up, saying, \u201cIt is necessary to circumcise them, and to command them to keep the law of Moses.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 6,
+          "text": "Now the apostles and elders came together to consider this matter."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 7,
+          "text": "And when there had been much dispute, Peter rose up and said to them: \u201cMen and brethren, you know that a good while ago God chose among us, that by my mouth the Gentiles should hear the word of the gospel and believe."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 8,
+          "text": "So God, who knows the heart, acknowledged them by giving them the Holy Spirit, just as He did to us,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 9,
+          "text": "and made no distinction between us and them, purifying their hearts by faith."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 10,
+          "text": "Now therefore, why do you test God by putting a yoke on the neck of the disciples which neither our fathers nor we were able to bear?"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 11,
+          "text": "But we believe that through the grace of the Lord Jesus Christ we shall be saved in the same manner as they.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 12,
+          "text": "Then all the multitude kept silent and listened to Barnabas and Paul declaring how many miracles and wonders God had worked through them among the Gentiles."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 13,
+          "text": "And after they had become silent, James answered, saying, \u201cMen and brethren, listen to me:"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 14,
+          "text": "Simon has declared how God at the first visited the Gentiles to take out of them a people for His name."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 15,
+          "text": "And with this the words of the prophets agree, just as it is written:"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 16,
+          "text": "\u2018After this I will return And will rebuild the tabernacle of David, which has fallen down; I will rebuild its ruins, And I will set it up;"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 17,
+          "text": "So that the rest of mankind may seek the Lord, Even all the Gentiles who are called by My name, Says the Lord who does all these things.\u2019"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 18,
+          "text": "\u201cKnown to God from eternity are all His works."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 19,
+          "text": "Therefore I judge that we should not trouble those from among the Gentiles who are turning to God,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 20,
+          "text": "but that we write to them to abstain from things polluted by idols, from sexual immorality, from things strangled, and from blood."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 21,
+          "text": "For Moses has had throughout many generations those who preach him in every city, being read in the synagogues every Sabbath.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 22,
+          "text": "Then it pleased the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas, namely, Judas who was also named Barsabas, and Silas, leading men among the brethren."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 23,
+          "text": "They wrote this letter by them: The apostles, the elders, and the brethren, To the brethren who are of the Gentiles in Antioch, Syria, and Cilicia: Greetings."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 24,
+          "text": "Since we have heard that some who went out from us have troubled you with words, unsettling your souls, saying, \u201cYou must be circumcised and keep the law\u201d\u2014to whom we gave no such commandment\u2014"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 25,
+          "text": "it seemed good to us, being assembled with one accord, to send chosen men to you with our beloved Barnabas and Paul,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 26,
+          "text": "men who have risked their lives for the name of our Lord Jesus Christ."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 27,
+          "text": "We have therefore sent Judas and Silas, who will also report the same things by word of mouth."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 28,
+          "text": "For it seemed good to the Holy Spirit, and to us, to lay upon you no greater burden than these necessary things:"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 29,
+          "text": "that you abstain from things offered to idols, from blood, from things strangled, and from sexual immorality. If you keep yourselves from these, you will do well. Farewell."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 30,
+          "text": "So when they were sent off, they came to Antioch; and when they had gathered the multitude together, they delivered the letter."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 31,
+          "text": "When they had read it, they rejoiced over its encouragement."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 32,
+          "text": "Now Judas and Silas, themselves being prophets also, exhorted and strengthened the brethren with many words."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 33,
+          "text": "And after they had stayed there for a time, they were sent back with greetings from the brethren to the apostles."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 34,
+          "text": "However, it seemed good to Silas to remain there."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 35,
+          "text": "Paul and Barnabas also remained in Antioch, teaching and preaching the word of the Lord, with many others also."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 36,
+          "text": "Then after some days Paul said to Barnabas, \u201cLet us now go back and visit our brethren in every city where we have preached the word of the Lord, and see how they are doing.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 37,
+          "text": "Now Barnabas was determined to take with them John called Mark."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 38,
+          "text": "But Paul insisted that they should not take with them the one who had departed from them in Pamphylia, and had not gone with them to the work."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 39,
+          "text": "Then the contention became so sharp that they parted from one another. And so Barnabas took Mark and sailed to Cyprus;"
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 40,
+          "text": "but Paul chose Silas and departed, being commended by the brethren to the grace of God."
+        },
+        {
+          "book": "Acts",
+          "chapter": 15,
+          "verse": 41,
+          "text": "And he went through Syria and Cilicia, strengthening the churches."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-07T04:00:25.266518"
+    }
+  ]
+}

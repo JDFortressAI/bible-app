@@ -1,0 +1,575 @@
+{
+  "format_version": "1.0",
+  "date": "04/29",
+  "cached_at": "2026-02-05T17:39:48.678241",
+  "Family": [
+    {
+      "reference": "Numbers 6",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 1,
+          "text": "1 Then the L\u1d0f\u0280\u1d05 spoke to Moses, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 2,
+          "text": "2 \u201cSpeak to the children of Israel, and say to them: \u2018When either a man or woman consecrates an offering to take the vow of a Nazirite, to separate himself to the L\u1d0f\u0280\u1d05,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 3,
+          "text": "3 he shall separate himself from wine and similar drink; he shall drink neither vinegar made from wine nor vinegar made from similar drink; neither shall he drink any grape juice, nor eat fresh grapes or raisins."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 4,
+          "text": "4 All the days of his separation he shall eat nothing that is produced by the grapevine, from seed to skin."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 5,
+          "text": "5 All the days of the vow of his separation no razor shall come upon his head; until the days are fulfilled for which he separated himself to the L\u1d0f\u0280\u1d05, he shall be holy. Then he shall let the locks of the hair of his head grow."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 6,
+          "text": "6 All the days that he separates himself to the L\u1d0f\u0280\u1d05 he shall not go near a dead body."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 7,
+          "text": "7 He shall not make himself unclean even for his father or his mother, for his brother or his sister, when they die, because his separation to God is on his head."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 8,
+          "text": "8 All the days of his separation he shall be holy to the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 9,
+          "text": "9 \u2018And if anyone dies very suddenly beside him, and he defiles his consecrated head, then he shall shave his head on the day of his cleansing; on the seventh day he shall shave it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 10,
+          "text": "10 Then on the eighth day he shall bring two turtledoves or two young pigeons to the priest, to the door of the tabernacle of meeting;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 11,
+          "text": "11 and the priest shall offer one as a sin offering and the other as a burnt offering, and make atonement for him, because he sinned in regard to the corpse; and he shall sanctify his head that same day."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 12,
+          "text": "12 He shall consecrate to the L\u1d0f\u0280\u1d05 the days of his separation, and bring a male lamb in its first year as a trespass offering; but the former days shall be lost, because his separation was defiled."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 13,
+          "text": "13 \u2018Now this is the law of the Nazirite: When the days of his separation are fulfilled, he shall be brought to the door of the tabernacle of meeting."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 14,
+          "text": "14 And he shall present his offering to the L\u1d0f\u0280\u1d05: one male lamb in its first year without blemish as a burnt offering, one ewe lamb in its first year without blemish as a sin offering, one ram without blemish as a peace offering,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 15,
+          "text": "15 a basket of unleavened bread, cakes of fine flour mixed with oil, unleavened wafers anointed with oil, and their grain offering with their drink offerings."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 16,
+          "text": "16 Then the priest shall bring them before the L\u1d0f\u0280\u1d05 and offer his sin offering and his burnt offering;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 17,
+          "text": "17 and he shall offer the ram as a sacrifice of peace offering to the L\u1d0f\u0280\u1d05, with the basket of unleavened bread; the priest shall also offer its grain offering and its drink offering."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 18,
+          "text": "18 Then the Nazirite shall shave his consecrated head at the door of the tabernacle of meeting, and shall take the hair from his consecrated head and put it on the fire which is under the sacrifice of the peace offering."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 19,
+          "text": "19 And the priest shall take the boiled shoulder of the ram, one unleavened cake from the basket, and one unleavened wafer, and put them upon the hands of the Nazirite after he has shaved his consecrated hair,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 20,
+          "text": "20 and the priest shall wave them as a wave offering before the L\u1d0f\u0280\u1d05; they are holy for the priest, together with the breast of the wave offering and the thigh of the heave offering. After that the Nazirite may drink wine.\u2019"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 21,
+          "text": "21 \u201cThis is the law of the Nazirite who vows to the L\u1d0f\u0280\u1d05 the offering for his separation, and besides that, whatever else his hand is able to provide; according to the vow which he takes, so he must do according to the law of his separation.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 22,
+          "text": "22 And the L\u1d0f\u0280\u1d05 spoke to Moses, saying:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 23,
+          "text": "23 \u201cSpeak to Aaron and his sons, saying, \u2018This is the way you shall bless the children of Israel. Say to them:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 24,
+          "text": "24 \u201cThe L\u1d0f\u0280\u1d05 bless you and keep you;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 25,
+          "text": "25 The L\u1d0f\u0280\u1d05 make His face shine upon you, And be gracious to you;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 26,
+          "text": "26 The L\u1d0f\u0280\u1d05 lift up His countenance upon you, And give you peace.\u201d \u2018"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 6,
+          "verse": 27,
+          "text": "27 \u201cSo they shall put My name on the children of Israel, and I will bless them.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:39:49.233306"
+    },
+    {
+      "reference": "Psalm 40-41",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 1,
+          "text": "1 To the Chief Musician. A Psalm of David. I waited patiently for the L\u1d0f\u0280\u1d05; And He inclined to me, And heard my cry."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 2,
+          "text": "2 He also brought me up out of a horrible pit, Out of the miry clay, And set my feet upon a rock, And established my steps."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 3,
+          "text": "3 He has put a new song in my mouth\u2014 Praise to our God; Many will see it and fear, And will trust in the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 4,
+          "text": "4 Blessed is that man who makes the L\u1d0f\u0280\u1d05 his trust, And does not respect the proud, nor such as turn aside to lies."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 5,
+          "text": "5 Many, O L\u1d0f\u0280\u1d05 my God, are Your wonderful works Which You have done; And Your thoughts toward us Cannot be recounted to You in order; If I would declare and speak of them, They are more than can be numbered."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 6,
+          "text": "6 Sacrifice and offering You did not desire; My ears You have opened. Burnt offering and sin offering You did not require."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 7,
+          "text": "7 Then I said, \u201cBehold, I come; In the scroll of the book it is written of me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 8,
+          "text": "8 I delight to do Your will, O my God, And Your law is within my heart.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 9,
+          "text": "9 I have proclaimed the good news of righteousness In the great assembly; Indeed, I do not restrain my lips, O L\u1d0f\u0280\u1d05, You Yourself know."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 10,
+          "text": "10 I have not hidden Your righteousness within my heart; I have declared Your faithfulness and Your salvation; I have not concealed Your lovingkindness and Your truth From the great assembly."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 11,
+          "text": "11 Do not withhold Your tender mercies from me, O L\u1d0f\u0280\u1d05; Let Your lovingkindness and Your truth continually preserve me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 12,
+          "text": "12 For innumerable evils have surrounded me; My iniquities have overtaken me, so that I am not able to look up; They are more than the hairs of my head; Therefore my heart fails me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 13,
+          "text": "13 Be pleased, O L\u1d0f\u0280\u1d05, to deliver me; O L\u1d0f\u0280\u1d05, make haste to help me!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 14,
+          "text": "14 Let them be ashamed and brought to mutual confusion Who seek to destroy my life; Let them be driven backward and brought to dishonor Who wish me evil."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 15,
+          "text": "15 Let them be confounded because of their shame, Who say to me, \u201cAha, aha!\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 16,
+          "text": "16 Let all those who seek You rejoice and be glad in You; Let such as love Your salvation say continually, \u201cThe L\u1d0f\u0280\u1d05 be magnified!\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 40,
+          "verse": 17,
+          "text": "17 But I am poor and needy; Yet the L\u1d0f\u0280\u1d05 thinks upon me. You are my help and my deliverer; Do not delay, O my God."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 1,
+          "text": "1 To the Chief Musician. A Psalm of David. Blessed is he who considers the poor; The L\u1d0f\u0280\u1d05 will deliver him in time of trouble."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 2,
+          "text": "2 The L\u1d0f\u0280\u1d05 will preserve him and keep him alive, And he will be blessed on the earth; You will not deliver him to the will of his enemies."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 3,
+          "text": "3 The L\u1d0f\u0280\u1d05 will strengthen him on his bed of illness; You will sustain him on his sickbed."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 4,
+          "text": "4 I said, \u201cLord, be merciful to me; Heal my soul, for I have sinned against You.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 5,
+          "text": "5 My enemies speak evil of me: \u201cWhen will he die, and his name perish?\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 6,
+          "text": "6 And if he comes to see me, he speaks lies; His heart gathers iniquity to itself; When he goes out, he tells it."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 7,
+          "text": "7 All who hate me whisper together against me; Against me they devise my hurt."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 8,
+          "text": "8 \u201cAn evil disease,\u201d they say, \u201cclings to him. And now that he lies down, he will rise up no more.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 9,
+          "text": "9 Even my own familiar friend in whom I trusted, Who ate my bread, Has lifted up his heel against me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 10,
+          "text": "10 But You, O L\u1d0f\u0280\u1d05, be merciful to me, and raise me up, That I may repay them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 11,
+          "text": "11 By this I know that You are well pleased with me, Because my enemy does not triumph over me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 12,
+          "text": "12 As for me, You uphold me in my integrity, And set me before Your face forever."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 41,
+          "verse": 13,
+          "text": "13 Blessed be the L\u1d0f\u0280\u1d05 God of Israel From everlasting to everlasting! Amen and Amen."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:53:21.614826"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Song of Solomon 4",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 1,
+          "text": "1 The Beloved Behold, you are fair, my love! Behold, you are fair! You have dove\u2019s eyes behind your veil. Your hair is like a flock of goats, Going down from Mount Gilead."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 2,
+          "text": "2 Your teeth are like a flock of shorn sheep Which have come up from the washing, Every one of which bears twins, And none is barren among them."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 3,
+          "text": "3 Your lips are like a strand of scarlet, And your mouth is lovely. Your temples behind your veil Are like a piece of pomegranate."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 4,
+          "text": "4 Your neck is like the tower of David, Built for an armory, On which hang a thousand bucklers, All shields of mighty men."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 5,
+          "text": "5 Your two breasts are like two fawns, Twins of a gazelle, Which feed among the lilies."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 6,
+          "text": "6 Until the day breaks And the shadows flee away, I will go my way to the mountain of myrrh And to the hill of frankincense."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 7,
+          "text": "7 You are all fair, my love, And there is no spot in you."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 8,
+          "text": "8 Come with me from Lebanon, my spouse, With me from Lebanon. Look from the top of Amana, From the top of Senir and Hermon, From the lions\u2019 dens, From the mountains of the leopards."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 9,
+          "text": "9 You have ravished my heart, My sister, my spouse; You have ravished my heart With one look of your eyes, With one link of your necklace."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 10,
+          "text": "10 How fair is your love, My sister, my spouse! How much better than wine is your love, And the scent of your perfumes Than all spices!"
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 11,
+          "text": "11 Your lips, O my spouse, Drip as the honeycomb; Honey and milk are under your tongue; And the fragrance of your garments Is like the fragrance of Lebanon."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 12,
+          "text": "12 A garden enclosed Is my sister, my spouse, A spring shut up, A fountain sealed."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 13,
+          "text": "13 Your plants are an orchard of pomegranates With pleasant fruits, Fragrant henna with spikenard,"
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 14,
+          "text": "14 Spikenard and saffron, Calamus and cinnamon, With all trees of frankincense, Myrrh and aloes, With all the chief spices\u2014"
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 15,
+          "text": "15 A fountain of gardens, A well of living waters, And streams from Lebanon."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 4,
+          "verse": 16,
+          "text": "16 The Shulamite Awake, O north wind, And come, O south! Blow upon my garden, That its spices may flow out. Let my beloved come to his garden And eat its pleasant fruits."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:53:22.359209"
+    },
+    {
+      "reference": "Hebrews 4",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 1,
+          "text": "1 Therefore, since a promise remains of entering His rest, let us fear lest any of you seem to have come short of it."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 2,
+          "text": "2 For indeed the gospel was preached to us as well as to them; but the word which they heard did not profit them, not being mixed with faith in those who heard it."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 3,
+          "text": "3 For we who have believed do enter that rest, as He has said: \u201cSo I swore in My wrath, \u2018They shall not enter My rest,\u2019 \u201d although the works were finished from the foundation of the world."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 4,
+          "text": "4 For He has spoken in a certain place of the seventh day in this way: \u201cAnd God rested on the seventh day from all His works\u201d;"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 5,
+          "text": "5 and again in this place: \u201cThey shall not enter My rest.\u201d"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 6,
+          "text": "6 Since therefore it remains that some must enter it, and those to whom it was first preached did not enter because of disobedience,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 7,
+          "text": "7 again He designates a certain day, saying in David, \u201cToday,\u201d after such a long time, as it has been said: \u201cToday, if you will hear His voice, Do not harden your hearts.\u201d"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 8,
+          "text": "8 For if Joshua had given them rest, then He would not afterward have spoken of another day."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 9,
+          "text": "9 There remains therefore a rest for the people of God."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 10,
+          "text": "10 For he who has entered His rest has himself also ceased from his works as God did from His."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 11,
+          "text": "11 Let us therefore be diligent to enter that rest, lest anyone fall according to the same example of disobedience."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 12,
+          "text": "12 For the word of God is living and powerful, and sharper than any two-edged sword, piercing even to the division of soul and spirit, and of joints and marrow, and is a discerner of the thoughts and intents of the heart."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 13,
+          "text": "13 And there is no creature hidden from His sight, but all things are naked and open to the eyes of Him to whom we must give account."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 14,
+          "text": "14 Seeing then that we have a great High Priest who has passed through the heavens, Jesus the Son of God, let us hold fast our confession."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 15,
+          "text": "15 For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 4,
+          "verse": 16,
+          "text": "16 Let us therefore come boldly to the throne of grace, that we may obtain mercy and find grace to help in time of need."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:53:23.728002"
+    }
+  ]
+}

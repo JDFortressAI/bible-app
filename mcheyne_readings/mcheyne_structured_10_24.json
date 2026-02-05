@@ -1,0 +1,641 @@
+{
+  "format_version": "1.0",
+  "date": "10/24",
+  "cached_at": "2025-10-19T19:41:13.696991",
+  "Family": [
+    {
+      "reference": "2 Kings 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Now Naaman, commander of the army of the king of Syria, was a great and honorable man in the eyes of his master, because by him the L\u1d0f\u0280\u1d05 had given victory to Syria. He was also a mighty man of valor, but a leper."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 2,
+          "text": "And the Syrians had gone out on raids, and had brought back captive a young girl from the land of Israel. She waited on Naaman\u2019s wife."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 3,
+          "text": "Then she said to her mistress, \u201cIf only my master were with the prophet who is in Samaria! For he would heal him of his leprosy.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 4,
+          "text": "And Naaman went in and told his master, saying, \u201cThus and thus said the girl who is from the land of Israel.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Then the king of Syria said, \u201cGo now, and I will send a letter to the king of Israel.\u201d So he departed and took with him ten talents of silver, six thousand shekels of gold, and ten changes of clothing."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 6,
+          "text": "Then he brought the letter to the king of Israel, which said, Now be advised, when this letter comes to you, that I have sent Naaman my servant to you, that you may heal him of his leprosy."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 7,
+          "text": "And it happened, when the king of Israel read the letter, that he tore his clothes and said, \u201cAm I God, to kill and make alive, that this man sends a man to me to heal him of his leprosy? Therefore please consider, and see how he seeks a quarrel with me.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 8,
+          "text": "So it was, when Elisha the man of God heard that the king of Israel had torn his clothes, that he sent to the king, saying, \u201cWhy have you torn your clothes? Please let him come to me, and he shall know that there is a prophet in Israel.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Then Naaman went with his horses and chariot, and he stood at the door of Elisha\u2019s house."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 10,
+          "text": "And Elisha sent a messenger to him, saying, \u201cGo and wash in the Jordan seven times, and your flesh shall be restored to you, and you shall be clean.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 11,
+          "text": "But Naaman became furious, and went away and said, \u201cIndeed, I said to myself, \u2018He will surely come out to me, and stand and call on the name of the L\u1d0f\u0280\u1d05 his God, and wave his hand over the place, and heal the leprosy.\u2019"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 12,
+          "text": "Are not the Abanah and the Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them and be clean?\u201d So he turned and went away in a rage."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 13,
+          "text": "And his servants came near and spoke to him, and said, \u201cMy father, if the prophet had told you to do something great, would you not have done it? How much more then, when he says to you, \u2018Wash, and be clean\u2019?\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 14,
+          "text": "So he went down and dipped seven times in the Jordan, according to the saying of the man of God; and his flesh was restored like the flesh of a little child, and he was clean."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 15,
+          "text": "And he returned to the man of God, he and all his aides, and came and stood before him; and he said, \u201cIndeed, now I know that there is no God in all the earth, except in Israel; now therefore, please take a gift from your servant.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 16,
+          "text": "But he said, \u201cAs the L\u1d0f\u0280\u1d05 lives, before whom I stand, I will receive nothing.\u201d And he urged him to take it, but he refused."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 17,
+          "text": "So Naaman said, \u201cThen, if not, please let your servant be given two mule-loads of earth; for your servant will no longer offer either burnt offering or sacrifice to other gods, but to the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 18,
+          "text": "Yet in this thing may the L\u1d0f\u0280\u1d05 pardon your servant: when my master goes into the temple of Rimmon to worship there, and he leans on my hand, and I bow down in the temple of Rimmon\u2014when I bow down in the temple of Rimmon, may the L\u1d0f\u0280\u1d05 please pardon your servant in this thing.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 19,
+          "text": "Then he said to him, \u201cGo in peace.\u201d So he departed from him a short distance."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 20,
+          "text": "But Gehazi, the servant of Elisha the man of God, said, \u201cLook, my master has spared Naaman this Syrian, while not receiving from his hands what he brought; but as the L\u1d0f\u0280\u1d05 lives, I will run after him and take something from him.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 21,
+          "text": "So Gehazi pursued Naaman. When Naaman saw him running after him, he got down from the chariot to meet him, and said, \u201cIs all well?\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 22,
+          "text": "And he said, \u201cAll is well. My master has sent me, saying, \u2018Indeed, just now two young men of the sons of the prophets have come to me from the mountains of Ephraim. Please give them a talent of silver and two changes of garments.\u2019 \u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 23,
+          "text": "So Naaman said, \u201cPlease, take two talents.\u201d And he urged him, and bound two talents of silver in two bags, with two changes of garments, and handed them to two of his servants; and they carried them on ahead of him."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 24,
+          "text": "When he came to the citadel, he took them from their hand, and stored them away in the house; then he let the men go, and they departed."
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 25,
+          "text": "Now he went in and stood before his master. Elisha said to him, \u201cWhere did you go, Gehazi?\u201d And he said, \u201cYour servant did not go anywhere.\u201d"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 26,
+          "text": "Then he said to him, \u201cDid not my heart go with you when the man turned back from his chariot to meet you? Is it time to receive money and to receive clothing, olive groves and vineyards, sheep and oxen, male and female servants?"
+        },
+        {
+          "book": "2 Kings",
+          "chapter": 5,
+          "verse": 27,
+          "text": "Therefore the leprosy of Naaman shall cling to you and your descendants forever.\u201d And he went out from his presence leprous, as white as snow."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-10-19T19:41:14.553123"
+    },
+    {
+      "reference": "1 Timothy 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Therefore I exhort first of all that supplications, prayers, intercessions, and giving of thanks be made for all men,"
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 2,
+          "text": "for kings and all who are in authority, that we may lead a quiet and peaceable life in all godliness and reverence."
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 3,
+          "text": "For this is good and acceptable in the sight of God our Savior,"
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 4,
+          "text": "who desires all men to be saved and to come to the knowledge of the truth."
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 5,
+          "text": "For there is one God and one Mediator between God and men, the Man Christ Jesus,"
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 6,
+          "text": "who gave Himself a ransom for all, to be testified in due time,"
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 7,
+          "text": "for which I was appointed a preacher and an apostle\u2014I am speaking the truth in Christ and not lying\u2014a teacher of the Gentiles in faith and truth."
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 8,
+          "text": "I desire therefore that the men pray everywhere, lifting up holy hands, without wrath and doubting;"
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 9,
+          "text": "in like manner also, that the women adorn themselves in modest apparel, with propriety and moderation, not with braided hair or gold or pearls or costly clothing,"
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 10,
+          "text": "but, which is proper for women professing godliness, with good works."
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 11,
+          "text": "Let a woman learn in silence with all submission."
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 12,
+          "text": "And I do not permit a woman to teach or to have authority over a man, but to be in silence."
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 13,
+          "text": "For Adam was formed first, then Eve."
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 14,
+          "text": "And Adam was not deceived, but the woman being deceived, fell into transgression."
+        },
+        {
+          "book": "1 Timothy",
+          "chapter": 2,
+          "verse": 15,
+          "text": "Nevertheless she will be saved in childbearing if they continue in faith, love, and holiness, with self-control."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-10-19T19:41:15.282098"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Daniel 9",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 1,
+          "text": "In the first year of Darius the son of Ahasuerus, of the lineage of the Medes, who was made king over the realm of the Chaldeans\u2014"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 2,
+          "text": "in the first year of his reign I, Daniel, understood by the books the number of the years specified by the word of the L\u1d0f\u0280\u1d05 through Jeremiah the prophet, that He would accomplish seventy years in the desolations of Jerusalem."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 3,
+          "text": "Then I set my face toward the L\u1d0f\u0280\u1d05 God to make request by prayer and supplications, with fasting, sackcloth, and ashes."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 4,
+          "text": "And I prayed to the L\u1d0f\u0280\u1d05 my God, and made confession, and said, \u201cO L\u1d0f\u0280\u1d05, great and awesome God, who keeps His covenant and mercy with those who love Him, and with those who keep His commandments,"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 5,
+          "text": "we have sinned and committed iniquity, we have done wickedly and rebelled, even by departing from Your precepts and Your judgments."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 6,
+          "text": "Neither have we heeded Your servants the prophets, who spoke in Your name to our kings and our princes, to our fathers and all the people of the land."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 7,
+          "text": "O L\u1d0f\u0280\u1d05, righteousness belongs to You, but to us shame of face, as it is this day\u2014to the men of Judah, to the inhabitants of Jerusalem and all Israel, those near and those far off in all the countries to which You have driven them, because of the unfaithfulness which they have committed against You."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 8,
+          "text": "O L\u1d0f\u0280\u1d05, to us belongs shame of face, to our kings, our princes, and our fathers, because we have sinned against You."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 9,
+          "text": "To the L\u1d0f\u0280\u1d05 our God belong mercy and forgiveness, though we have rebelled against Him."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 10,
+          "text": "We have not obeyed the voice of the L\u1d0f\u0280\u1d05 our God, to walk in His laws, which He set before us by His servants the prophets."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 11,
+          "text": "Yes, all Israel has transgressed Your law, and has departed so as not to obey Your voice; therefore the curse and the oath written in the Law of Moses the servant of God have been poured out on us, because we have sinned against Him."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 12,
+          "text": "And He has confirmed His words, which He spoke against us and against our judges who judged us, by bringing upon us a great disaster; for under the whole heaven such has never been done as what has been done to Jerusalem."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 13,
+          "text": "As it is written in the Law of Moses, all this disaster has come upon us; yet we have not made our prayer before the L\u1d0f\u0280\u1d05 our God, that we might turn from our iniquities and understand Your truth."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 14,
+          "text": "Therefore the L\u1d0f\u0280\u1d05 has kept the disaster in mind, and brought it upon us; for the L\u1d0f\u0280\u1d05 our God is righteous in all the works which He does, though we have not obeyed His voice."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 15,
+          "text": "And now, O L\u1d0f\u0280\u1d05 our God, who brought Your people out of the land of Egypt with a mighty hand, and made Yourself a name, as it is this day\u2014we have sinned, we have done wickedly!"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 16,
+          "text": "\u201cO L\u1d0f\u0280\u1d05, according to all Your righteousness, I pray, let Your anger and Your fury be turned away from Your city Jerusalem, Your holy mountain; because for our sins, and for the iniquities of our fathers, Jerusalem and Your people are a reproach to all those around us."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 17,
+          "text": "Now therefore, our God, hear the prayer of Your servant, and his supplications, and for the L\u1d0f\u0280\u1d05\u2019s sake cause Your face to shine on Your sanctuary, which is desolate."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 18,
+          "text": "O my God, incline Your ear and hear; open Your eyes and see our desolations, and the city which is called by Your name; for we do not present our supplications before You because of our righteous deeds, but because of Your great mercies."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 19,
+          "text": "O L\u1d0f\u0280\u1d05, hear! O L\u1d0f\u0280\u1d05, forgive! O L\u1d0f\u0280\u1d05, listen and act! Do not delay for Your own sake, my God, for Your city and Your people are called by Your name.\u201d"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 20,
+          "text": "Now while I was speaking, praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the L\u1d0f\u0280\u1d05 my God for the holy mountain of my God,"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 21,
+          "text": "yes, while I was speaking in prayer, the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, reached me about the time of the evening offering."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 22,
+          "text": "And he informed me, and talked with me, and said, \u201cO Daniel, I have now come forth to give you skill to understand."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 23,
+          "text": "At the beginning of your supplications the command went out, and I have come to tell you, for you are greatly beloved; therefore consider the matter, and understand the vision:"
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 24,
+          "text": "\u201cSeventy weeks are determined For your people and for your holy city, To finish the transgression, To make an end of sins, To make reconciliation for iniquity, To bring in everlasting righteousness, To seal up vision and prophecy, And to anoint the Most Holy."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 25,
+          "text": "\u201cKnow therefore and understand, That from the going forth of the command To restore and build Jerusalem Until Messiah the Prince, There shall be seven weeks and sixty-two weeks; The street shall be built again, and the wall, Even in troublesome times."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 26,
+          "text": "\u201cAnd after the sixty-two weeks Messiah shall be cut off, but not for Himself; And the people of the prince who is to come Shall destroy the city and the sanctuary. The end of it shall be with a flood, And till the end of the war desolations are determined."
+        },
+        {
+          "book": "Daniel",
+          "chapter": 9,
+          "verse": 27,
+          "text": "Then he shall confirm a covenant with many for one week; But in the middle of the week He shall bring an end to sacrifice and offering. And on the wing of abominations shall be one who makes desolate, Even until the consummation, which is determined, Is poured out on the desolate.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-10-19T19:41:16.100463"
+    },
+    {
+      "reference": "Psalm 117-118",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 117,
+          "verse": 1,
+          "text": "Praise the L\u1d0f\u0280\u1d05, all you Gentiles! Laud Him, all you peoples!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 117,
+          "verse": 2,
+          "text": "For His merciful kindness is great toward us, And the truth of the L\u1d0f\u0280\u1d05 endures forever. Praise the L\u1d0f\u0280\u1d05!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 1,
+          "text": "Oh, give thanks to the L\u1d0f\u0280\u1d05, for He is good! For His mercy endures forever."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 2,
+          "text": "Let Israel now say, \u201cHis mercy endures forever.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 3,
+          "text": "Let the house of Aaron now say, \u201cHis mercy endures forever.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 4,
+          "text": "Let those who fear the L\u1d0f\u0280\u1d05 now say, \u201cHis mercy endures forever.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 5,
+          "text": "I called on the L\u1d0f\u0280\u1d05 in distress; The L\u1d0f\u0280\u1d05 answered me and set me in a broad place."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 6,
+          "text": "The L\u1d0f\u0280\u1d05 is on my side; I will not fear. What can man do to me?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 7,
+          "text": "The L\u1d0f\u0280\u1d05 is for me among those who help me; Therefore I shall see my desire on those who hate me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 8,
+          "text": "It is better to trust in the L\u1d0f\u0280\u1d05 Than to put confidence in man."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 9,
+          "text": "It is better to trust in the L\u1d0f\u0280\u1d05 Than to put confidence in princes."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 10,
+          "text": "All nations surrounded me, But in the name of the L\u1d0f\u0280\u1d05 I will destroy them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 11,
+          "text": "They surrounded me, Yes, they surrounded me; But in the name of the L\u1d0f\u0280\u1d05 I will destroy them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 12,
+          "text": "They surrounded me like bees; They were quenched like a fire of thorns; For in the name of the L\u1d0f\u0280\u1d05 I will destroy them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 13,
+          "text": "You pushed me violently, that I might fall, But the L\u1d0f\u0280\u1d05 helped me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 14,
+          "text": "The L\u1d0f\u0280\u1d05 is my strength and song, And He has become my salvation."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 15,
+          "text": "The voice of rejoicing and salvation Is in the tents of the righteous; The right hand of the L\u1d0f\u0280\u1d05 does valiantly."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 16,
+          "text": "The right hand of the L\u1d0f\u0280\u1d05 is exalted; The right hand of the L\u1d0f\u0280\u1d05 does valiantly."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 17,
+          "text": "I shall not die, but live, And declare the works of the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 18,
+          "text": "The L\u1d0f\u0280\u1d05 has chastened me severely, But He has not given me over to death."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 19,
+          "text": "Open to me the gates of righteousness; I will go through them, And I will praise the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 20,
+          "text": "This is the gate of the L\u1d0f\u0280\u1d05, Through which the righteous shall enter."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 21,
+          "text": "I will praise You, For You have answered me, And have become my salvation."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 22,
+          "text": "The stone which the builders rejected Has become the chief cornerstone."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 23,
+          "text": "This was the L\u1d0f\u0280\u1d05\u2019s doing; It is marvelous in our eyes."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 24,
+          "text": "This is the day the L\u1d0f\u0280\u1d05 has made; We will rejoice and be glad in it."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 25,
+          "text": "Save now, I pray, O L\u1d0f\u0280\u1d05; O L\u1d0f\u0280\u1d05, I pray, send now prosperity."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 26,
+          "text": "Blessed is he who comes in the name of the L\u1d0f\u0280\u1d05! We have blessed you from the house of the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 27,
+          "text": "God is the L\u1d0f\u0280\u1d05, And He has given us light; Bind the sacrifice with cords to the horns of the altar."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 28,
+          "text": "You are my God, and I will praise You; You are my God, I will exalt You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 118,
+          "verse": 29,
+          "text": "Oh, give thanks to the L\u1d0f\u0280\u1d05, for He is good! For His mercy endures forever."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-10-19T19:41:18.239513"
+    }
+  ]
+}

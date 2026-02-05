@@ -1,0 +1,845 @@
+{
+  "format_version": "1.0",
+  "date": "03/10",
+  "cached_at": "2026-02-05T17:11:10.019874",
+  "Family": [
+    {
+      "reference": "Exodus 21",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 1,
+          "text": "1 \u201cNow these are the judgments which you shall set before them:"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 2,
+          "text": "2 If you buy a Hebrew servant, he shall serve six years; and in the seventh he shall go out free and pay nothing."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 3,
+          "text": "3 If he comes in by himself, he shall go out by himself; if he comes in married, then his wife shall go out with him."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 4,
+          "text": "4 If his master has given him a wife, and she has borne him sons or daughters, the wife and her children shall be her master\u2019s, and he shall go out by himself."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 5,
+          "text": "5 But if the servant plainly says, \u2018I love my master, my wife, and my children; I will not go out free,\u2019"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 6,
+          "text": "6 then his master shall bring him to the judges. He shall also bring him to the door, or to the doorpost, and his master shall pierce his ear with an awl; and he shall serve him forever."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 7,
+          "text": "7 \u201cAnd if a man sells his daughter to be a female slave, she shall not go out as the male slaves do."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 8,
+          "text": "8 If she does not please her master, who has betrothed her to himself, then he shall let her be redeemed. He shall have no right to sell her to a foreign people, since he has dealt deceitfully with her."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 9,
+          "text": "9 And if he has betrothed her to his son, he shall deal with her according to the custom of daughters."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 10,
+          "text": "10 If he takes another wife, he shall not diminish her food, her clothing, and her marriage rights."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 11,
+          "text": "11 And if he does not do these three for her, then she shall go out free, without paying money."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 12,
+          "text": "12 \u201cHe who strikes a man so that he dies shall surely be put to death."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 13,
+          "text": "13 However, if he did not lie in wait, but God delivered him into his hand, then I will appoint for you a place where he may flee."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 14,
+          "text": "14 \u201cBut if a man acts with premeditation against his neighbor, to kill him by treachery, you shall take him from My altar, that he may die."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 15,
+          "text": "15 \u201cAnd he who strikes his father or his mother shall surely be put to death."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 16,
+          "text": "16 \u201cHe who kidnaps a man and sells him, or if he is found in his hand, shall surely be put to death."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 17,
+          "text": "17 \u201cAnd he who curses his father or his mother shall surely be put to death."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 18,
+          "text": "18 \u201cIf men contend with each other, and one strikes the other with a stone or with his fist, and he does not die but is confined to his bed,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 19,
+          "text": "19 if he rises again and walks about outside with his staff, then he who struck him shall be acquitted. He shall only pay for the loss of his time, and shall provide for him to be thoroughly healed."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 20,
+          "text": "20 \u201cAnd if a man beats his male or female servant with a rod, so that he dies under his hand, he shall surely be punished."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 21,
+          "text": "21 Notwithstanding, if he remains alive a day or two, he shall not be punished; for he is his property."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 22,
+          "text": "22 \u201cIf men fight, and hurt a woman with child, so that she gives birth prematurely, yet no harm follows, he shall surely be punished accordingly as the woman\u2019s husband imposes on him; and he shall pay as the judges determine."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 23,
+          "text": "23 But if any harm follows, then you shall give life for life,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 24,
+          "text": "24 eye for eye, tooth for tooth, hand for hand, foot for foot,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 25,
+          "text": "25 burn for burn, wound for wound, stripe for stripe."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 26,
+          "text": "26 If a man strikes the eye of his male or female servant, and destroys it, he shall let him go free for the sake of his eye."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 27,
+          "text": "27 And if he knocks out the tooth of his male or female servant, he shall let him go free for the sake of his tooth."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 28,
+          "text": "28 \u201cIf an ox gores a man or a woman to death, then the ox shall surely be stoned, and its flesh shall not be eaten; but the owner of the ox shall be acquitted."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 29,
+          "text": "29 But if the ox tended to thrust with its horn in times past, and it has been made known to his owner, and he has not kept it confined, so that it has killed a man or a woman, the ox shall be stoned and its owner also shall be put to death."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 30,
+          "text": "30 If there is imposed on him a sum of money, then he shall pay to redeem his life, whatever is imposed on him."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 31,
+          "text": "31 Whether it has gored a son or gored a daughter, according to this judgment it shall be done to him."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 32,
+          "text": "32 If the ox gores a male or female servant, he shall give to their master thirty shekels of silver, and the ox shall be stoned."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 33,
+          "text": "33 \u201cAnd if a man opens a pit, or if a man digs a pit and does not cover it, and an ox or a donkey falls in it,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 34,
+          "text": "34 the owner of the pit shall make it good; he shall give money to their owner, but the dead animal shall be his."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 35,
+          "text": "35 \u201cIf one man\u2019s ox hurts another\u2019s, so that it dies, then they shall sell the live ox and divide the money from it; and the dead ox they shall also divide."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 21,
+          "verse": 36,
+          "text": "36 Or if it was known that the ox tended to thrust in time past, and its owner has not kept it confined, he shall surely pay ox for ox, and the dead animal shall be his own."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:10.671467"
+    },
+    {
+      "reference": "Luke 24",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 1,
+          "text": "1 Now on the first day of the week, very early in the morning, they, and certain other women with them, came to the tomb bringing the spices which they had prepared."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 2,
+          "text": "2 But they found the stone rolled away from the tomb."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 3,
+          "text": "3 Then they went in and did not find the body of the Lord Jesus."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 4,
+          "text": "4 And it happened, as they were greatly perplexed about this, that behold, two men stood by them in shining garments."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 5,
+          "text": "5 Then, as they were afraid and bowed their faces to the earth, they said to them, \u201cWhy do you seek the living among the dead?"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 6,
+          "text": "6 He is not here, but is risen! Remember how He spoke to you when He was still in Galilee,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 7,
+          "text": "7 saying, \u2018The Son of Man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.\u2019 \u201c"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 8,
+          "text": "8 And they remembered His words."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 9,
+          "text": "9 Then they returned from the tomb and told all these things to the eleven and to all the rest."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 10,
+          "text": "10 It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them, who told these things to the apostles."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 11,
+          "text": "11 And their words seemed to them like idle tales, and they did not believe them."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 12,
+          "text": "12 But Peter arose and ran to the tomb; and stooping down, he saw the linen cloths lying by themselves; and he departed, marveling to himself at what had happened."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 13,
+          "text": "13 Now behold, two of them were traveling that same day to a village called Emmaus, which was seven miles from Jerusalem."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 14,
+          "text": "14 And they talked together of all these things which had happened."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 15,
+          "text": "15 So it was, while they conversed and reasoned, that Jesus Himself drew near and went with them."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 16,
+          "text": "16 But their eyes were restrained, so that they did not know Him."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 17,
+          "text": "17 And He said to them, \u201cWhat kind of conversation is this that you have with one another as you walk and are sad?\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 18,
+          "text": "18 Then the one whose name was Cleopas answered and said to Him, \u201cAre You the only stranger in Jerusalem, and have You not known the things which happened there in these days?\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 19,
+          "text": "19 And He said to them, \u201cWhat things?\u201d So they said to Him, \u201cThe things concerning Jesus of Nazareth, who was a Prophet mighty in deed and word before God and all the people,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 20,
+          "text": "20 and how the chief priests and our rulers delivered Him to be condemned to death, and crucified Him."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 21,
+          "text": "21 But we were hoping that it was He who was going to redeem Israel. Indeed, besides all this, today is the third day since these things happened."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 22,
+          "text": "22 Yes, and certain women of our company, who arrived at the tomb early, astonished us."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 23,
+          "text": "23 When they did not find His body, they came saying that they had also seen a vision of angels who said He was alive."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 24,
+          "text": "24 And certain of those who were with us went to the tomb and found it just as the women had said; but Him they did not see.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 25,
+          "text": "25 Then He said to them, \u201cO foolish ones, and slow of heart to believe in all that the prophets have spoken!"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 26,
+          "text": "26 Ought not the Christ to have suffered these things and to enter into His glory?\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 27,
+          "text": "27 And beginning at Moses and all the Prophets, He expounded to them in all the Scriptures the things concerning Himself."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 28,
+          "text": "28 Then they drew near to the village where they were going, and He indicated that He would have gone farther."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 29,
+          "text": "29 But they constrained Him, saying, \u201cAbide with us, for it is toward evening, and the day is far spent.\u201d And He went in to stay with them."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 30,
+          "text": "30 Now it came to pass, as He sat at the table with them, that He took bread, blessed and broke it, and gave it to them."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 31,
+          "text": "31 Then their eyes were opened and they knew Him; and He vanished from their sight."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 32,
+          "text": "32 And they said to one another, \u201cDid not our heart burn within us while He talked with us on the road, and while He opened the Scriptures to us?\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 33,
+          "text": "33 So they rose up that very hour and returned to Jerusalem, and found the eleven and those who were with them gathered together,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 34,
+          "text": "34 saying, \u201cThe Lord is risen indeed, and has appeared to Simon!\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 35,
+          "text": "35 And they told about the things that had happened on the road, and how He was known to them in the breaking of bread."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 36,
+          "text": "36 Now as they said these things, Jesus Himself stood in the midst of them, and said to them, \u201cPeace to you.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 37,
+          "text": "37 But they were terrified and frightened, and supposed they had seen a spirit."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 38,
+          "text": "38 And He said to them, \u201cWhy are you troubled? And why do doubts arise in your hearts?"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 39,
+          "text": "39 Behold My hands and My feet, that it is I Myself. Handle Me and see, for a spirit does not have flesh and bones as you see I have.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 40,
+          "text": "40 When He had said this, He showed them His hands and His feet."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 41,
+          "text": "41 But while they still did not believe for joy, and marveled, He said to them, \u201cHave you any food here?\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 42,
+          "text": "42 So they gave Him a piece of a broiled fish and some honeycomb."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 43,
+          "text": "43 And He took it and ate in their presence."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 44,
+          "text": "44 Then He said to them, \u201cThese are the words which I spoke to you while I was still with you, that all things must be fulfilled which were written in the Law of Moses and the Prophets and the Psalms concerning Me.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 45,
+          "text": "45 And He opened their understanding, that they might comprehend the Scriptures."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 46,
+          "text": "46 Then He said to them, \u201cThus it is written, and thus it was necessary for the Christ to suffer and to rise from the dead the third day,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 47,
+          "text": "47 and that repentance and remission of sins should be preached in His name to all nations, beginning at Jerusalem."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 48,
+          "text": "48 And you are witnesses of these things."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 49,
+          "text": "49 Behold, I send the Promise of My Father upon you; but tarry in the city of Jerusalem until you are endued with power from on high.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 50,
+          "text": "50 And He led them out as far as Bethany, and He lifted up His hands and blessed them."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 51,
+          "text": "51 Now it came to pass, while He blessed them, that He was parted from them and carried up into heaven."
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 52,
+          "text": "52 And they worshiped Him, and returned to Jerusalem with great joy,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 24,
+          "verse": 53,
+          "text": "53 and were continually in the temple praising and blessing God. Amen."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:11.389990"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Job 39",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 1,
+          "text": "1 \u201cDo you know the time when the wild mountain goats bear young? Or can you mark when the deer gives birth?"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 2,
+          "text": "2 Can you number the months that they fulfill? Or do you know the time when they bear young?"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 3,
+          "text": "3 They bow down, They bring forth their young, They deliver their offspring."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 4,
+          "text": "4 Their young ones are healthy, They grow strong with grain; They depart and do not return to them."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 5,
+          "text": "5 \u201cWho set the wild donkey free? Who loosed the bonds of the onager,"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 6,
+          "text": "6 Whose home I have made the wilderness, And the barren land his dwelling?"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 7,
+          "text": "7 He scorns the tumult of the city; He does not heed the shouts of the driver."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 8,
+          "text": "8 The range of the mountains is his pasture, And he searches after every green thing."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 9,
+          "text": "9 \u201cWill the wild ox be willing to serve you? Will he bed by your manger?"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 10,
+          "text": "10 Can you bind the wild ox in the furrow with ropes? Or will he plow the valleys behind you?"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 11,
+          "text": "11 Will you trust him because his strength is great? Or will you leave your labor to him?"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 12,
+          "text": "12 Will you trust him to bring home your grain, And gather it to your threshing floor?"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 13,
+          "text": "13 \u201cThe wings of the ostrich wave proudly, But are her wings and pinions like the kindly stork\u2019s?"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 14,
+          "text": "14 For she leaves her eggs on the ground, And warms them in the dust;"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 15,
+          "text": "15 She forgets that a foot may crush them, Or that a wild beast may break them."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 16,
+          "text": "16 She treats her young harshly, as though they were not hers; Her labor is in vain, without concern,"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 17,
+          "text": "17 Because God deprived her of wisdom, And did not endow her with understanding."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 18,
+          "text": "18 When she lifts herself on high, She scorns the horse and its rider."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 19,
+          "text": "19 \u201cHave you given the horse strength? Have you clothed his neck with thunder?"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 20,
+          "text": "20 Can you frighten him like a locust? His majestic snorting strikes terror."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 21,
+          "text": "21 He paws in the valley, and rejoices in his strength; He gallops into the clash of arms."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 22,
+          "text": "22 He mocks at fear, and is not frightened; Nor does he turn back from the sword."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 23,
+          "text": "23 The quiver rattles against him, The glittering spear and javelin."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 24,
+          "text": "24 He devours the distance with fierceness and rage; Nor does he come to a halt because the trumpet has sounded."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 25,
+          "text": "25 At the blast of the trumpet he says, \u2018Aha!\u2019 He smells the battle from afar, The thunder of captains and shouting."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 26,
+          "text": "26 \u201cDoes the hawk fly by your wisdom, And spread its wings toward the south?"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 27,
+          "text": "27 Does the eagle mount up at your command, And make its nest on high?"
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 28,
+          "text": "28 On the rocks it dwells and resides, On the crag of the rock and the stronghold."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 29,
+          "text": "29 From there it spies out the prey; Its eyes observe from afar."
+        },
+        {
+          "book": "Job",
+          "chapter": 39,
+          "verse": 30,
+          "text": "30 Its young ones suck up blood; And where the slain are, there it is.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:12.146920"
+    },
+    {
+      "reference": "2 Corinthians 9",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 1,
+          "text": "1 Now concerning the ministering to the saints, it is superfluous for me to write to you;"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 2,
+          "text": "2 for I know your willingness, about which I boast of you to the Macedonians, that Achaia was ready a year ago; and your zeal has stirred up the majority."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 3,
+          "text": "3 Yet I have sent the brethren, lest our boasting of you should be in vain in this respect, that, as I said, you may be ready;"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 4,
+          "text": "4 lest if some Macedonians come with me and find you unprepared, we (not to mention you!) should be ashamed of this confident boasting."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 5,
+          "text": "5 Therefore I thought it necessary to exhort the brethren to go to you ahead of time, and prepare your generous gift beforehand, which you had previously promised, that it may be ready as a matter of generosity and not as a grudging obligation."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 6,
+          "text": "6 But this I say: He who sows sparingly will also reap sparingly, and he who sows bountifully will also reap bountifully."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 7,
+          "text": "7 So let each one give as he purposes in his heart, not grudgingly or of necessity; for God loves a cheerful giver."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 8,
+          "text": "8 And God is able to make all grace abound toward you, that you, always having all sufficiency in all things, may have an abundance for every good work."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 9,
+          "text": "9 As it is written: \u201cHe has dispersed abroad, He has given to the poor; His righteousness endures forever.\u201d"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 10,
+          "text": "10 Now may He who supplies seed to the sower, and bread for food, supply and multiply the seed you have sown and increase the fruits of your righteousness,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 11,
+          "text": "11 while you are enriched in everything for all liberality, which causes thanksgiving through us to God."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 12,
+          "text": "12 For the administration of this service not only supplies the needs of the saints, but also is abounding through many thanksgivings to God,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 13,
+          "text": "13 while, through the proof of this ministry, they glorify God for the obedience of your confession to the gospel of Christ, and for your liberal sharing with them and all men,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 14,
+          "text": "14 and by their prayer for you, who long for you because of the exceeding grace of God in you."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 9,
+          "verse": 15,
+          "text": "15 Thanks be to God for His indescribable gift!"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:12.921263"
+    }
+  ]
+}

@@ -1,0 +1,773 @@
+{
+  "format_version": "1.0",
+  "date": "05/31",
+  "cached_at": "2026-02-05T17:55:35.994029",
+  "Family": [
+    {
+      "reference": "Deuteronomy 4",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 1,
+          "text": "1 \u201cNow, O Israel, listen to the statutes and the judgments which I teach you to observe, that you may live, and go in and possess the land which the L\u1d0f\u0280\u1d05 God of your fathers is giving you."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 2,
+          "text": "2 You shall not add to the word which I command you, nor take from it, that you may keep the commandments of the L\u1d0f\u0280\u1d05 your God which I command you."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 3,
+          "text": "3 Your eyes have seen what the L\u1d0f\u0280\u1d05 did at Baal Peor; for the L\u1d0f\u0280\u1d05 your God has destroyed from among you all the men who followed Baal of Peor."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 4,
+          "text": "4 But you who held fast to the L\u1d0f\u0280\u1d05 your God are alive today, every one of you."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 5,
+          "text": "5 Surely I have taught you statutes and judgments, just as the L\u1d0f\u0280\u1d05 my God commanded me, that you should act according to them in the land which you go to possess."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 6,
+          "text": "6 Therefore be careful to observe them; for this is your wisdom and your understanding in the sight of the peoples who will hear all these statutes, and say, \u2018Surely this great nation is a wise and understanding people.\u2019"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 7,
+          "text": "7 For what great nation is there that has God so near to it, as the L\u1d0f\u0280\u1d05 our God is to us, for whatever reason we may call upon Him?"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 8,
+          "text": "8 And what great nation is there that has such statutes and righteous judgments as are in all this law which I set before you this day?"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 9,
+          "text": "9 \u201cOnly take heed to yourself, and diligently keep yourself, lest you forget the things your eyes have seen, and lest they depart from your heart all the days of your life. And teach them to your children and your grandchildren,"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 10,
+          "text": "10 especially concerning the day you stood before the L\u1d0f\u0280\u1d05 your God in Horeb, when the L\u1d0f\u0280\u1d05 said to me, \u2018Gather the people to Me, and I will let them hear My words, that they may learn to fear Me all the days they live on the earth, and that they may teach their children.\u2019"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 11,
+          "text": "11 Then you came near and stood at the foot of the mountain, and the mountain burned with fire to the midst of heaven, with darkness, cloud, and thick darkness."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 12,
+          "text": "12 And the L\u1d0f\u0280\u1d05 spoke to you out of the midst of the fire. You heard the sound of the words, but saw no form; you only heard a voice."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 13,
+          "text": "13 So He declared to you His covenant which He commanded you to perform, the Ten Commandments; and He wrote them on two tablets of stone."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 14,
+          "text": "14 And the L\u1d0f\u0280\u1d05 commanded me at that time to teach you statutes and judgments, that you might observe them in the land which you cross over to possess."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 15,
+          "text": "15 \u201cTake careful heed to yourselves, for you saw no form when the L\u1d0f\u0280\u1d05 spoke to you at Horeb out of the midst of the fire,"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 16,
+          "text": "16 lest you act corruptly and make for yourselves a carved image in the form of any figure: the likeness of male or female,"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 17,
+          "text": "17 the likeness of any animal that is on the earth or the likeness of any winged bird that flies in the air,"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 18,
+          "text": "18 the likeness of anything that creeps on the ground or the likeness of any fish that is in the water beneath the earth."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 19,
+          "text": "19 And take heed, lest you lift your eyes to heaven, and when you see the sun, the moon, and the stars, all the host of heaven, you feel driven to worship them and serve them, which the L\u1d0f\u0280\u1d05 your God has given to all the peoples under the whole heaven as a heritage."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 20,
+          "text": "20 But the L\u1d0f\u0280\u1d05 has taken you and brought you out of the iron furnace, out of Egypt, to be His people, an inheritance, as you are this day."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 21,
+          "text": "21 Furthermore the L\u1d0f\u0280\u1d05 was angry with me for your sakes, and swore that I would not cross over the Jordan, and that I would not enter the good land which the L\u1d0f\u0280\u1d05 your God is giving you as an inheritance."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 22,
+          "text": "22 But I must die in this land, I must not cross over the Jordan; but you shall cross over and possess that good land."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 23,
+          "text": "23 Take heed to yourselves, lest you forget the covenant of the L\u1d0f\u0280\u1d05 your God which He made with you, and make for yourselves a carved image in the form of anything which the L\u1d0f\u0280\u1d05 your God has forbidden you."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 24,
+          "text": "24 For the L\u1d0f\u0280\u1d05 your God is a consuming fire, a jealous God."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 25,
+          "text": "25 \u201cWhen you beget children and grandchildren and have grown old in the land, and act corruptly and make a carved image in the form of anything, and do evil in the sight of the L\u1d0f\u0280\u1d05 your God to provoke Him to anger,"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 26,
+          "text": "26 I call heaven and earth to witness against you this day, that you will soon utterly perish from the land which you cross over the Jordan to possess; you will not prolong your days in it, but will be utterly destroyed."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 27,
+          "text": "27 And the L\u1d0f\u0280\u1d05 will scatter you among the peoples, and you will be left few in number among the nations where the L\u1d0f\u0280\u1d05 will drive you."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 28,
+          "text": "28 And there you will serve gods, the work of men\u2019s hands, wood and stone, which neither see nor hear nor eat nor smell."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 29,
+          "text": "29 But from there you will seek the L\u1d0f\u0280\u1d05 your God, and you will find Him if you seek Him with all your heart and with all your soul."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 30,
+          "text": "30 When you are in distress, and all these things come upon you in the latter days, when you turn to the L\u1d0f\u0280\u1d05 your God and obey His voice"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 31,
+          "text": "31 (for the L\u1d0f\u0280\u1d05 your God is a merciful God), He will not forsake you nor destroy you, nor forget the covenant of your fathers which He swore to them."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 32,
+          "text": "32 \u201cFor ask now concerning the days that are past, which were before you, since the day that God created man on the earth, and ask from one end of heaven to the other, whether any great thing like this has happened, or anything like it has been heard."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 33,
+          "text": "33 Did any people ever hear the voice of God speaking out of the midst of the fire, as you have heard, and live?"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 34,
+          "text": "34 Or did God ever try to go and take for Himself a nation from the midst of another nation, by trials, by signs, by wonders, by war, by a mighty hand and an outstretched arm, and by great terrors, according to all that the L\u1d0f\u0280\u1d05 your God did for you in Egypt before your eyes?"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 35,
+          "text": "35 To you it was shown, that you might know that the L\u1d0f\u0280\u1d05 Himself is God; there is none other besides Him."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 36,
+          "text": "36 Out of heaven He let you hear His voice, that He might instruct you; on earth He showed you His great fire, and you heard His words out of the midst of the fire."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 37,
+          "text": "37 And because He loved your fathers, therefore He chose their descendants after them; and He brought you out of Egypt with His Presence, with His mighty power,"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 38,
+          "text": "38 driving out from before you nations greater and mightier than you, to bring you in, to give you their land as an inheritance, as it is this day."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 39,
+          "text": "39 Therefore know this day, and consider it in your heart, that the L\u1d0f\u0280\u1d05 Himself is God in heaven above and on the earth beneath; there is no other."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 40,
+          "text": "40 You shall therefore keep His statutes and His commandments which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land which the L\u1d0f\u0280\u1d05 your God is giving you for all time.\u201d"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 41,
+          "text": "41 Then Moses set apart three cities on this side of the Jordan, toward the rising of the sun,"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 42,
+          "text": "42 that the manslayer might flee there, who kills his neighbor unintentionally, without having hated him in time past, and that by fleeing to one of these cities he might live:"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 43,
+          "text": "43 Bezer in the wilderness on the plateau for the Reubenites, Ramoth in Gilead for the Gadites, and Golan in Bashan for the Manassites."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 44,
+          "text": "44 Now this is the law which Moses set before the children of Israel."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 45,
+          "text": "45 These are the testimonies, the statutes, and the judgments which Moses spoke to the children of Israel after they came out of Egypt,"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 46,
+          "text": "46 on this side of the Jordan, in the valley opposite Beth Peor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel defeated after they came out of Egypt."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 47,
+          "text": "47 And they took possession of his land and the land of Og king of Bashan, two kings of the Amorites, who were on this side of the Jordan, toward the rising of the sun,"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 48,
+          "text": "48 from Aroer, which is on the bank of the River Arnon, even to Mount Sion (that is, Hermon),"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 4,
+          "verse": 49,
+          "text": "49 and all the plain on the east side of the Jordan as far as the Sea of the Arabah, below the slopes of Pisgah."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:36.709368"
+    },
+    {
+      "reference": "Psalm 86-87",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 1,
+          "text": "1 A Prayer of David. Bow down Your ear, O L\u1d0f\u0280\u1d05, hear me; For I am poor and needy."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 2,
+          "text": "2 Preserve my life, for I am holy; You are my God; Save Your servant who trusts in You!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 3,
+          "text": "3 Be merciful to me, O L\u1d0f\u0280\u1d05, For I cry to You all day long."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 4,
+          "text": "4 Rejoice the soul of Your servant, For to You, O L\u1d0f\u0280\u1d05, I lift up my soul."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 5,
+          "text": "5 For You, Lord, are good, and ready to forgive, And abundant in mercy to all those who call upon You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 6,
+          "text": "6 Give ear, O L\u1d0f\u0280\u1d05, to my prayer; And attend to the voice of my supplications."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 7,
+          "text": "7 In the day of my trouble I will call upon You, For You will answer me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 8,
+          "text": "8 Among the gods there is none like You, O L\u1d0f\u0280\u1d05; Nor are there any works like Your works."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 9,
+          "text": "9 All nations whom You have made Shall come and worship before You, O L\u1d0f\u0280\u1d05, And shall glorify Your name."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 10,
+          "text": "10 For You are great, and do wondrous things; You alone are God."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 11,
+          "text": "11 Teach me Your way, O L\u1d0f\u0280\u1d05; I will walk in Your truth; Unite my heart to fear Your name."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 12,
+          "text": "12 I will praise You, O L\u1d0f\u0280\u1d05 my God, with all my heart, And I will glorify Your name forevermore."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 13,
+          "text": "13 For great is Your mercy toward me, And You have delivered my soul from the depths of Sheol."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 14,
+          "text": "14 O God, the proud have risen against me, And a mob of violent men have sought my life, And have not set You before them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 15,
+          "text": "15 But You, O L\u1d0f\u0280\u1d05, are a God full of compassion, and gracious, Longsuffering and abundant in mercy and truth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 16,
+          "text": "16 Oh, turn to me, and have mercy on me! Give Your strength to Your servant, And save the son of Your maidservant."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 86,
+          "verse": 17,
+          "text": "17 Show me a sign for good, That those who hate me may see it and be ashamed, Because You, Lord, have helped me and comforted me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 87,
+          "verse": 1,
+          "text": "1 A Psalm of the sons of Korah. A Song. His foundation is in the holy mountains."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 87,
+          "verse": 2,
+          "text": "2 The L\u1d0f\u0280\u1d05 loves the gates of Zion More than all the dwellings of Jacob."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 87,
+          "verse": 3,
+          "text": "3 Glorious things are spoken of you, O city of God! Selah"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 87,
+          "verse": 4,
+          "text": "4 \u201cI will make mention of Rahab and Babylon to those who know Me; Behold, O Philistia and Tyre, with Ethiopia: \u2018This one was born there.\u2019 \u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 87,
+          "verse": 5,
+          "text": "5 And of Zion it will be said, \u201cThis one and that one were born in her; And the Most High Himself shall establish her.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 87,
+          "verse": 6,
+          "text": "6 The L\u1d0f\u0280\u1d05 will record, When He registers the peoples: \u201cThis one was born there.\u201d Selah"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 87,
+          "verse": 7,
+          "text": "7 Both the singers and the players on instruments say, \u201cAll my springs are in you.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:39.104544"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Isaiah 32",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 1,
+          "text": "1 Behold, a king will reign in righteousness, And princes will rule with justice."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 2,
+          "text": "2 A man will be as a hiding place from the wind, And a cover from the tempest, As rivers of water in a dry place, As the shadow of a great rock in a weary land."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 3,
+          "text": "3 The eyes of those who see will not be dim, And the ears of those who hear will listen."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 4,
+          "text": "4 Also the heart of the rash will understand knowledge, And the tongue of the stammerers will be ready to speak plainly."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 5,
+          "text": "5 The foolish person will no longer be called generous, Nor the miser said to be bountiful;"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 6,
+          "text": "6 For the foolish person will speak foolishness, And his heart will work iniquity: To practice ungodliness, To utter error against the L\u1d0f\u0280\u1d05, To keep the hungry unsatisfied, And he will cause the drink of the thirsty to fail."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 7,
+          "text": "7 Also the schemes of the schemer are evil; He devises wicked plans To destroy the poor with lying words, Even when the needy speaks justice."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 8,
+          "text": "8 But a generous man devises generous things, And by generosity he shall stand."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 9,
+          "text": "9 Rise up, you women who are at ease, Hear my voice; You complacent daughters, Give ear to my speech."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 10,
+          "text": "10 In a year and some days You will be troubled, you complacent women; For the vintage will fail, The gathering will not come."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 11,
+          "text": "11 Tremble, you women who are at ease; Be troubled, you complacent ones; Strip yourselves, make yourselves bare, And gird sackcloth on your waists."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 12,
+          "text": "12 People shall mourn upon their breasts For the pleasant fields, for the fruitful vine."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 13,
+          "text": "13 On the land of my people will come up thorns and briers, Yes, on all the happy homes in the joyous city;"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 14,
+          "text": "14 Because the palaces will be forsaken, The bustling city will be deserted. The forts and towers will become lairs forever, A joy of wild donkeys, a pasture of flocks\u2014"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 15,
+          "text": "15 Until the Spirit is poured upon us from on high, And the wilderness becomes a fruitful field, And the fruitful field is counted as a forest."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 16,
+          "text": "16 Then justice will dwell in the wilderness, And righteousness remain in the fruitful field."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 17,
+          "text": "17 The work of righteousness will be peace, And the effect of righteousness, quietness and assurance forever."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 18,
+          "text": "18 My people will dwell in a peaceful habitation, In secure dwellings, and in quiet resting places,"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 19,
+          "text": "19 Though hail comes down on the forest, And the city is brought low in humiliation."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 32,
+          "verse": 20,
+          "text": "20 Blessed are you who sow beside all waters, Who send out freely the feet of the ox and the donkey."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:39.529853"
+    },
+    {
+      "reference": "Revelation 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 1,
+          "text": "1 \u201cTo the angel of the church of Ephesus write,\u2018These things says He who holds the seven stars in His right hand, who walks in the midst of the seven golden lampstands:"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 2,
+          "text": "2 I know your works, your labor, your patience, and that you cannot bear those who are evil. And you have tested those who say they are apostles and are not, and have found them liars;"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 3,
+          "text": "3 and you have persevered and have patience, and have labored for My name\u2019s sake and have not become weary."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 4,
+          "text": "4 Nevertheless I have this against you, that you have left your first love."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 5,
+          "text": "5 Remember therefore from where you have fallen; repent and do the first works, or else I will come to you quickly and remove your lampstand from its place\u2014unless you repent."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 6,
+          "text": "6 But this you have, that you hate the deeds of the Nicolaitans, which I also hate."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 7,
+          "text": "7 He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes I will give to eat from the tree of life, which is in the midst of the Paradise of God.\u201d \u2018"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 8,
+          "text": "8 \u201cAnd to the angel of the church in Smyrna write,\u2018These things says the First and the Last, who was dead, and came to life:"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 9,
+          "text": "9 I know your works, tribulation, and poverty (but you are rich); and I know the blasphemy of those who say they are Jews and are not, but are a synagogue of Satan."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 10,
+          "text": "10 Do not fear any of those things which you are about to suffer. Indeed, the devil is about to throw some of you into prison, that you may be tested, and you will have tribulation ten days. Be faithful until death, and I will give you the crown of life."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 11,
+          "text": "11 He who has an ear, let him hear what the Spirit says to the churches. He who overcomes shall not be hurt by the second death.\u201d \u2018"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 12,
+          "text": "12 \u201cAnd to the angel of the church in Pergamos write,\u2018These things says He who has the sharp two-edged sword:"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 13,
+          "text": "13 I know your works, and where you dwell, where Satan\u2019s throne is. And you hold fast to My name, and did not deny My faith even in the days in which Antipas was My faithful martyr, who was killed among you, where Satan dwells."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 14,
+          "text": "14 But I have a few things against you, because you have there those who hold the doctrine of Balaam, who taught Balak to put a stumbling block before the children of Israel, to eat things sacrificed to idols, and to commit sexual immorality."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 15,
+          "text": "15 Thus you also have those who hold the doctrine of the Nicolaitans, which thing I hate."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 16,
+          "text": "16 Repent, or else I will come to you quickly and will fight against them with the sword of My mouth."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 17,
+          "text": "17 He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes I will give some of the hidden manna to eat. And I will give him a white stone, and on the stone a new name written which no one knows except him who receives it.\u201d \u2018"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 18,
+          "text": "18 \u201cAnd to the angel of the church in Thyatira write,\u2018These things says the Son of God, who has eyes like a flame of fire, and His feet like fine brass:"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 19,
+          "text": "19 I know your works, love, service, faith, and your patience; and as for your works, the last are more than the first."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 20,
+          "text": "20 Nevertheless I have a few things against you, because you allow that woman Jezebel, who calls herself a prophetess, to teach and seduce My servants to commit sexual immorality and eat things sacrificed to idols."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 21,
+          "text": "21 And I gave her time to repent of her sexual immorality, and she did not repent."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 22,
+          "text": "22 Indeed I will cast her into a sickbed, and those who commit adultery with her into great tribulation, unless they repent of their deeds."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 23,
+          "text": "23 I will kill her children with death, and all the churches shall know that I am He who searches the minds and hearts. And I will give to each one of you according to your works."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 24,
+          "text": "24 Now to you I say, and to the rest in Thyatira, as many as do not have this doctrine, who have not known the depths of Satan, as they say, I will put on you no other burden."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 25,
+          "text": "25 But hold fast what you have till I come."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 26,
+          "text": "26 And he who overcomes, and keeps My works until the end, to him I will give power over the nations\u2014"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 27,
+          "text": "27 \u2018He shall rule them with a rod of iron; They shall be dashed to pieces like the potter\u2019s vessels\u2019\u2014 as I also have received from My Father;"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 28,
+          "text": "28 and I will give him the morning star."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 2,
+          "verse": 29,
+          "text": "29 He who has an ear, let him hear what the Spirit says to the churches.\u201d \u2018"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:40.241174"
+    }
+  ]
+}

@@ -1,0 +1,677 @@
+{
+  "format_version": "1.0",
+  "date": "02/13",
+  "cached_at": "2026-02-05T04:00:18.840618",
+  "Family": [
+    {
+      "reference": "Genesis 46",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 1,
+          "text": "1 So Israel took his journey with all that he had, and came to Beersheba, and offered sacrifices to the God of his father Isaac."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 2,
+          "text": "2 Then God spoke to Israel in the visions of the night, and said, \u201cJacob, Jacob!\u201d And he said, \u201cHere I am.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 3,
+          "text": "3 So He said, \u201cI am God, the God of your father; do not fear to go down to Egypt, for I will make of you a great nation there."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 4,
+          "text": "4 I will go down with you to Egypt, and I will also surely bring you up again; and Joseph will put his hand on your eyes.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 5,
+          "text": "5 Then Jacob arose from Beersheba; and the sons of Israel carried their father Jacob, their little ones, and their wives, in the carts which Pharaoh had sent to carry him."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 6,
+          "text": "6 So they took their livestock and their goods, which they had acquired in the land of Canaan, and went to Egypt, Jacob and all his descendants with him."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 7,
+          "text": "7 His sons and his sons\u2019 sons, his daughters and his sons\u2019 daughters, and all his descendants he brought with him to Egypt."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 8,
+          "text": "8 Now these were the names of the children of Israel, Jacob and his sons, who went to Egypt: Reuben was Jacob\u2019s firstborn."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 9,
+          "text": "9 The sons of Reuben were Hanoch, Pallu, Hezron, and Carmi."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 10,
+          "text": "10 The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 11,
+          "text": "11 The sons of Levi were Gershon, Kohath, and Merari."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 12,
+          "text": "12 The sons of Judah were Er, Onan, Shelah, Perez, and Zerah (but Er and Onan died in the land of Canaan). The sons of Perez were Hezron and Hamul."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 13,
+          "text": "13 The sons of Issachar were Tola, Puvah, Job, and Shimron."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 14,
+          "text": "14 The sons of Zebulun were Sered, Elon, and Jahleel."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 15,
+          "text": "15 These were the sons of Leah, whom she bore to Jacob in Padan Aram, with his daughter Dinah. All the persons, his sons and his daughters, were thirty-three."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 16,
+          "text": "16 The sons of Gad were Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 17,
+          "text": "17 The sons of Asher were Jimnah, Ishuah, Isui, Beriah, and Serah, their sister. And the sons of Beriah were Heber and Malchiel."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 18,
+          "text": "18 These were the sons of Zilpah, whom Laban gave to Leah his daughter; and these she bore to Jacob: sixteen persons."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 19,
+          "text": "19 The sons of Rachel, Jacob\u2019s wife, were Joseph and Benjamin."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 20,
+          "text": "20 And to Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asenath, the daughter of Poti-Pherah priest of On, bore to him."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 21,
+          "text": "21 The sons of Benjamin were Belah, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 22,
+          "text": "22 These were the sons of Rachel, who were born to Jacob: fourteen persons in all."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 23,
+          "text": "23 The son of Dan was Hushim."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 24,
+          "text": "24 The sons of Naphtali were Jahzeel, Guni, Jezer, and Shillem."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 25,
+          "text": "25 These were the sons of Bilhah, whom Laban gave to Rachel his daughter, and she bore these to Jacob: seven persons in all."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 26,
+          "text": "26 All the persons who went with Jacob to Egypt, who came from his body, besides Jacob\u2019s sons\u2019 wives, were sixty-six persons in all."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 27,
+          "text": "27 And the sons of Joseph who were born to him in Egypt were two persons. All the persons of the house of Jacob who went to Egypt were seventy."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 28,
+          "text": "28 Then he sent Judah before him to Joseph, to point out before him the way to Goshen. And they came to the land of Goshen."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 29,
+          "text": "29 So Joseph made ready his chariot and went up to Goshen to meet his father Israel; and he presented himself to him, and fell on his neck and wept on his neck a good while."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 30,
+          "text": "30 And Israel said to Joseph, \u201cNow let me die, since I have seen your face, because you are still alive.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 31,
+          "text": "31 Then Joseph said to his brothers and to his father\u2019s household, \u201cI will go up and tell Pharaoh, and say to him, \u2018My brothers and those of my father\u2019s house, who were in the land of Canaan, have come to me."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 32,
+          "text": "32 And the men are shepherds, for their occupation has been to feed livestock; and they have brought their flocks, their herds, and all that they have.\u2019"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 33,
+          "text": "33 So it shall be, when Pharaoh calls you and says, \u2018What is your occupation?\u2019"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 46,
+          "verse": 34,
+          "text": "34 that you shall say, \u2018Your servants\u2019 occupation has been with livestock from our youth even till now, both we and also our fathers,\u2019 that you may dwell in the land of Goshen; for every shepherd is an abomination to the Egyptians.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T04:00:20.621143"
+    },
+    {
+      "reference": "Mark 16",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 1,
+          "text": "1 Now when the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, that they might come and anoint Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 2,
+          "text": "2 Very early in the morning, on the first day of the week, they came to the tomb when the sun had risen."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 3,
+          "text": "3 And they said among themselves, \u201cWho will roll away the stone from the door of the tomb for us?\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 4,
+          "text": "4 But when they looked up, they saw that the stone had been rolled away\u2014for it was very large."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 5,
+          "text": "5 And entering the tomb, they saw a young man clothed in a long white robe sitting on the right side; and they were alarmed."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 6,
+          "text": "6 But he said to them, \u201cDo not be alarmed. You seek Jesus of Nazareth, who was crucified. He is risen! He is not here. See the place where they laid Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 7,
+          "text": "7 But go, tell His disciples\u2014and Peter\u2014that He is going before you into Galilee; there you will see Him, as He said to you.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 8,
+          "text": "8 So they went out quickly and fled from the tomb, for they trembled and were amazed. And they said nothing to anyone, for they were afraid."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 9,
+          "text": "9 Now when He rose early on the first day of the week, He appeared first to Mary Magdalene, out of whom He had cast seven demons."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 10,
+          "text": "10 She went and told those who had been with Him, as they mourned and wept."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 11,
+          "text": "11 And when they heard that He was alive and had been seen by her, they did not believe."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 12,
+          "text": "12 After that, He appeared in another form to two of them as they walked and went into the country."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 13,
+          "text": "13 And they went and told it to the rest, but they did not believe them either."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 14,
+          "text": "14 Later He appeared to the eleven as they sat at the table; and He rebuked their unbelief and hardness of heart, because they did not believe those who had seen Him after He had risen."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 15,
+          "text": "15 And He said to them, \u201cGo into all the world and preach the gospel to every creature."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 16,
+          "text": "16 He who believes and is baptized will be saved; but he who does not believe will be condemned."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 17,
+          "text": "17 And these signs will follow those who believe: In My name they will cast out demons; they will speak with new tongues;"
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 18,
+          "text": "18 they will take up serpents; and if they drink anything deadly, it will by no means hurt them; they will lay hands on the sick, and they will recover.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 19,
+          "text": "19 So then, after the Lord had spoken to them, He was received up into heaven, and sat down at the right hand of God."
+        },
+        {
+          "book": "Mark",
+          "chapter": 16,
+          "verse": 20,
+          "text": "20 And they went out and preached everywhere, the Lord working with them and confirming the word through the accompanying signs. Amen."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T04:00:22.321348"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Job 12",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 1,
+          "text": "1 Then Job answered and said:"
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 2,
+          "text": "2 \u201cNo doubt you are the people, And wisdom will die with you!"
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 3,
+          "text": "3 But I have understanding as well as you; I am not inferior to you. Indeed, who does not know such things as these?"
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 4,
+          "text": "4 \u201cI am one mocked by his friends, Who called on God, and He answered him, The just and blameless who is ridiculed."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 5,
+          "text": "5 A lamp is despised in the thought of one who is at ease; It is made ready for those whose feet slip."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 6,
+          "text": "6 The tents of robbers prosper, And those who provoke God are secure\u2014 In what God provides by His hand."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 7,
+          "text": "7 \u201cBut now ask the beasts, and they will teach you; And the birds of the air, and they will tell you;"
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 8,
+          "text": "8 Or speak to the earth, and it will teach you; And the fish of the sea will explain to you."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 9,
+          "text": "9 Who among all these does not know That the hand of the L\u1d0f\u0280\u1d05 has done this,"
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 10,
+          "text": "10 In whose hand is the life of every living thing, And the breath of all mankind?"
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 11,
+          "text": "11 Does not the ear test words And the mouth taste its food?"
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 12,
+          "text": "12 Wisdom is with aged men, And with length of days, understanding."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 13,
+          "text": "13 \u201cWith Him are wisdom and strength, He has counsel and understanding."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 14,
+          "text": "14 If He breaks a thing down, it cannot be rebuilt; If He imprisons a man, there can be no release."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 15,
+          "text": "15 If He withholds the waters, they dry up; If He sends them out, they overwhelm the earth."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 16,
+          "text": "16 With Him are strength and prudence. The deceived and the deceiver are His."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 17,
+          "text": "17 He leads counselors away plundered, And makes fools of the judges."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 18,
+          "text": "18 He loosens the bonds of kings, And binds their waist with a belt."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 19,
+          "text": "19 He leads princes away plundered, And overthrows the mighty."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 20,
+          "text": "20 He deprives the trusted ones of speech, And takes away the discernment of the elders."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 21,
+          "text": "21 He pours contempt on princes, And disarms the mighty."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 22,
+          "text": "22 He uncovers deep things out of darkness, And brings the shadow of death to light."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 23,
+          "text": "23 He makes nations great, and destroys them; He enlarges nations, and guides them."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 24,
+          "text": "24 He takes away the understanding of the chiefs of the people of the earth, And makes them wander in a pathless wilderness."
+        },
+        {
+          "book": "Job",
+          "chapter": 12,
+          "verse": 25,
+          "text": "25 They grope in the dark without light, And He makes them stagger like a drunken man."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T04:00:23.881014"
+    },
+    {
+      "reference": "Romans 16",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 1,
+          "text": "1 I commend to you Phoebe our sister, who is a servant of the church in Cenchrea,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 2,
+          "text": "2 that you may receive her in the Lord in a manner worthy of the saints, and assist her in whatever business she has need of you; for indeed she has been a helper of many and of myself also."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 3,
+          "text": "3 Greet Priscilla and Aquila, my fellow workers in Christ Jesus,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 4,
+          "text": "4 who risked their own necks for my life, to whom not only I give thanks, but also all the churches of the Gentiles."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 5,
+          "text": "5 Likewise greet the church that is in their house. Greet my beloved Epaenetus, who is the firstfruits of Achaia to Christ."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 6,
+          "text": "6 Greet Mary, who labored much for us."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 7,
+          "text": "7 Greet Andronicus and Junia, my countrymen and my fellow prisoners, who are of note among the apostles, who also were in Christ before me."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 8,
+          "text": "8 Greet Amplias, my beloved in the Lord."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 9,
+          "text": "9 Greet Urbanus, our fellow worker in Christ, and Stachys, my beloved."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 10,
+          "text": "10 Greet Apelles, approved in Christ. Greet those who are of the household of Aristobulus."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 11,
+          "text": "11 Greet Herodion, my countryman. Greet those who are of the household of Narcissus who are in the Lord."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 12,
+          "text": "12 Greet Tryphena and Tryphosa, who have labored in the Lord. Greet the beloved Persis, who labored much in the Lord."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 13,
+          "text": "13 Greet Rufus, chosen in the Lord, and his mother and mine."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 14,
+          "text": "14 Greet Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren who are with them."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 15,
+          "text": "15 Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 16,
+          "text": "16 Greet one another with a holy kiss. The churches of Christ greet you."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 17,
+          "text": "17 Now I urge you, brethren, note those who cause divisions and offenses, contrary to the doctrine which you learned, and avoid them."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 18,
+          "text": "18 For those who are such do not serve our Lord Jesus Christ, but their own belly, and by smooth words and flattering speech deceive the hearts of the simple."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 19,
+          "text": "19 For your obedience has become known to all. Therefore I am glad on your behalf; but I want you to be wise in what is good, and simple concerning evil."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 20,
+          "text": "20 And the God of peace will crush Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 21,
+          "text": "21 Timothy, my fellow worker, and Lucius, Jason, and Sosipater, my countrymen, greet you."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 22,
+          "text": "22 I, Tertius, who wrote this epistle, greet you in the Lord."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 23,
+          "text": "23 Gaius, my host and the host of the whole church, greets you. Erastus, the treasurer of the city, greets you, and Quartus, a brother."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 24,
+          "text": "24 The grace of our Lord Jesus Christ be with you all. Amen."
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 25,
+          "text": "25 Now to Him who is able to establish you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery kept secret since the world began"
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 26,
+          "text": "26 but now has been made manifest, and by the prophetic Scriptures has been made known to all nations, according to the commandment of the everlasting God, for obedience to the faith\u2014"
+        },
+        {
+          "book": "Romans",
+          "chapter": 16,
+          "verse": 27,
+          "text": "27 to God, alone wise, be glory through Jesus Christ forever. Amen."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T04:00:26.818787"
+    }
+  ]
+}

@@ -1,0 +1,995 @@
+{
+  "format_version": "1.0",
+  "date": "11/13",
+  "cached_at": "2025-11-04T21:28:10.975215",
+  "Family": [
+    {
+      "reference": "1 Chronicles 1-2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Adam, Seth, Enosh,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Cainan, [a] Mahalalel, Jared,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Enoch, Methuselah, Lamech,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 4,
+          "text": "Noah, [b] Shem, Ham, and Japheth."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 5,
+          "text": "The sons of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 6,
+          "text": "The sons of Gomer were Ashkenaz, Diphath, [c] and Togarmah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 7,
+          "text": "The sons of Javan were Elishah, Tarshishah, [d] Kittim, and Rodanim. [e]"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 8,
+          "text": "The sons of Ham were Cush, Mizraim, Put, and Canaan."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 9,
+          "text": "The sons of Cush were Seba, Havilah, Sabta, [f] Raama, [g] and Sabtecha. The sons of Raama were Sheba and Dedan."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 10,
+          "text": "Cush begot Nimrod; he began to be a mighty one on the earth."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Mizraim begot Ludim, Anamim, Lehabim, Naphtuhim,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 12,
+          "text": "Pathrusim, Casluhim (from whom came the Philistines and the Caphtorim)."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Canaan begot Sidon, his firstborn, and Heth;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 14,
+          "text": "the Jebusite, the Amorite, and the Girgashite;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 15,
+          "text": "the Hivite, the Arkite, and the Sinite;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 16,
+          "text": "the Arvadite, the Zemarite, and the Hamathite."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 17,
+          "text": "The sons of Shem were Elam, Asshur, Arphaxad, Lud, Aram, Uz, Hul, Gether, and Meshech. [h]"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 18,
+          "text": "Arphaxad begot Shelah, and Shelah begot Eber."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 19,
+          "text": "To Eber were born two sons: the name of one was Peleg, [i] for in his days the earth was divided; and his brother\u2019s name was Joktan."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 20,
+          "text": "Joktan begot Almodad, Sheleph, Hazarmaveth, Jerah,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 21,
+          "text": "Hadoram, Uzal, Diklah,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 22,
+          "text": "Ebal, [j] Abimael, Sheba,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 23,
+          "text": "Ophir, Havilah, and Jobab. All these were the sons of Joktan."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 24,
+          "text": "Shem, Arphaxad, Shelah,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 25,
+          "text": "Eber, Peleg, Reu,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 26,
+          "text": "Serug, Nahor, Terah,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 27,
+          "text": "and Abram, who is Abraham."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 28,
+          "text": "The sons of Abraham were Isaac and Ishmael."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 29,
+          "text": "These are their genealogies: The firstborn of Ishmael was Nebajoth; then Kedar, Adbeel, Mibsam,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 30,
+          "text": "Mishma, Dumah, Massa, Hadad, [k] Tema,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 31,
+          "text": "Jetur, Naphish, and Kedemah. These were the sons of Ishmael."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 32,
+          "text": "Now the sons born to Keturah, Abraham\u2019s concubine, were Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan were Sheba and Dedan."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 33,
+          "text": "The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the children of Keturah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 34,
+          "text": "And Abraham begot Isaac. The sons of Isaac were Esau and Israel."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 35,
+          "text": "The sons of Esau were Eliphaz, Reuel, Jeush, Jaalam, and Korah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 36,
+          "text": "And the sons of Eliphaz were Teman, Omar, Zephi, [l] Gatam, and Kenaz; and by Timna, [m] Amalek."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 37,
+          "text": "The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 38,
+          "text": "The sons of Seir were Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 39,
+          "text": "And the sons of Lotan were Hori and Homam; Lotan\u2019s sister was Timna."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 40,
+          "text": "The sons of Shobal were Alian, [n] Manahath, Ebal, Shephi, [o] and Onam. The sons of Zibeon were Ajah and Anah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 41,
+          "text": "The son of Anah was Dishon. The sons of Dishon were Hamran, [p] Eshban, Ithran, and Cheran."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 42,
+          "text": "The sons of Ezer were Bilhan, Zaavan, and Jaakan. [q] The sons of Dishan were Uz and Aran."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 43,
+          "text": "Now these were the kings who reigned in the land of Edom before a king reigned over the children of Israel: Bela the son of Beor, and the name of his city was Dinhabah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 44,
+          "text": "And when Bela died, Jobab the son of Zerah of Bozrah reigned in his place."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 45,
+          "text": "When Jobab died, Husham of the land of the Temanites reigned in his place."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 46,
+          "text": "And when Husham died, Hadad the son of Bedad, who attacked Midian in the field of Moab, reigned in his place. The name of his city was Avith."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 47,
+          "text": "When Hadad died, Samlah of Masrekah reigned in his place."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 48,
+          "text": "And when Samlah died, Saul of Rehoboth-by-the-River reigned in his place."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 49,
+          "text": "When Saul died, Baal-Hanan the son of Achbor reigned in his place."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 50,
+          "text": "And when Baal-Hanan died, Hadad [r] reigned in his place; and the name of his city was Pai. [s] His wife\u2019s name was Mehetabel the daughter of Matred, the daughter of Mezahab."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 51,
+          "text": "Hadad died also. And the chiefs of Edom were Chief Timnah, Chief Aliah, [t] Chief Jetheth,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 52,
+          "text": "Chief Aholibamah, Chief Elah, Chief Pinon,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 53,
+          "text": "Chief Kenaz, Chief Teman, Chief Mibzar,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 1,
+          "verse": 54,
+          "text": "Chief Magdiel, and Chief Iram. These were the chiefs of Edom."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 1,
+          "text": "These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 2,
+          "text": "Dan, Joseph, Benjamin, Naphtali, Gad, and Asher."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 3,
+          "text": "The sons of Judah were Er, Onan, and Shelah. These three were born to him by the daughter of Shua, the Canaanitess. Er, the firstborn of Judah, was wicked in the sight of the L\u1d0f\u0280\u1d05; so He killed him."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 4,
+          "text": "And Tamar, his daughter-in-law, bore him Perez and Zerah. All the sons of Judah were five."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 5,
+          "text": "The sons of Perez were Hezron and Hamul."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 6,
+          "text": "The sons of Zerah were Zimri, Ethan, Heman, Calcol, and Dara\u2014five of them in all."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 7,
+          "text": "The son of Carmi was Achar, the troubler of Israel, who transgressed in the accursed thing."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 8,
+          "text": "The son of Ethan was Azariah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 9,
+          "text": "Also the sons of Hezron who were born to him were Jerahmeel, Ram, and Chelubai."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 10,
+          "text": "Ram begot Amminadab, and Amminadab begot Nahshon, leader of the children of Judah;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 11,
+          "text": "Nahshon begot Salma, and Salma begot Boaz;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 12,
+          "text": "Boaz begot Obed, and Obed begot Jesse;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 13,
+          "text": "Jesse begot Eliab his firstborn, Abinadab the second, Shimea the third,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 14,
+          "text": "Nethanel the fourth, Raddai the fifth,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 15,
+          "text": "Ozem the sixth, and David the seventh."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 16,
+          "text": "Now their sisters were Zeruiah and Abigail. And the sons of Zeruiah were Abishai, Joab, and Asahel\u2014three."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 17,
+          "text": "Abigail bore Amasa; and the father of Amasa was Jether the Ishmaelite."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 18,
+          "text": "Caleb the son of Hezron had children by Azubah, his wife, and by Jerioth. Now these were her sons: Jesher, Shobab, and Ardon."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 19,
+          "text": "When Azubah died, Caleb took Ephrath as his wife, who bore him Hur."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 20,
+          "text": "And Hur begot Uri, and Uri begot Bezalel."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 21,
+          "text": "Now afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was sixty years old; and she bore him Segub."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 22,
+          "text": "Segub begot Jair, who had twenty-three cities in the land of Gilead."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 23,
+          "text": "(Geshur and Syria took from them the towns of Jair, with Kenath and its towns\u2014sixty towns.) All these belonged to the sons of Machir the father of Gilead."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 24,
+          "text": "After Hezron died in Caleb Ephrathah, Hezron\u2019s wife Abijah bore him Ashhur the father of Tekoa."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 25,
+          "text": "The sons of Jerahmeel, the firstborn of Hezron, were Ram, the firstborn, and Bunah, Oren, Ozem, and Ahijah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 26,
+          "text": "Jerahmeel had another wife, whose name was Atarah; she was the mother of Onam."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 27,
+          "text": "The sons of Ram, the firstborn of Jerahmeel, were Maaz, Jamin, and Eker."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 28,
+          "text": "The sons of Onam were Shammai and Jada. The sons of Shammai were Nadab and Abishur."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 29,
+          "text": "And the name of the wife of Abishur was Abihail, and she bore him Ahban and Molid."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 30,
+          "text": "The sons of Nadab were Seled and Appaim; Seled died without children."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 31,
+          "text": "The son of Appaim was Ishi, the son of Ishi was Sheshan, and Sheshan\u2019s child was Ahlai."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 32,
+          "text": "The sons of Jada, the brother of Shammai, were Jether and Jonathan; Jether died without children."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 33,
+          "text": "The sons of Jonathan were Peleth and Zaza. These were the sons of Jerahmeel."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 34,
+          "text": "Now Sheshan had no sons, only daughters. And Sheshan had an Egyptian servant whose name was Jarha."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 35,
+          "text": "Sheshan gave his daughter to Jarha his servant as wife, and she bore him Attai."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 36,
+          "text": "Attai begot Nathan, and Nathan begot Zabad;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 37,
+          "text": "Zabad begot Ephlal, and Ephlal begot Obed;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 38,
+          "text": "Obed begot Jehu, and Jehu begot Azariah;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 39,
+          "text": "Azariah begot Helez, and Helez begot Eleasah;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 40,
+          "text": "Eleasah begot Sismai, and Sismai begot Shallum;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 41,
+          "text": "Shallum begot Jekamiah, and Jekamiah begot Elishama."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 42,
+          "text": "The descendants of Caleb the brother of Jerahmeel were Mesha, his firstborn, who was the father of Ziph, and the sons of Mareshah the father of Hebron."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 43,
+          "text": "The sons of Hebron were Korah, Tappuah, Rekem, and Shema."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 44,
+          "text": "Shema begot Raham the father of Jorkoam, and Rekem begot Shammai."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 45,
+          "text": "And the son of Shammai was Maon, and Maon was the father of Beth Zur."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 46,
+          "text": "Ephah, Caleb\u2019s concubine, bore Haran, Moza, and Gazez; and Haran begot Gazez."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 47,
+          "text": "And the sons of Jahdai were Regem, Jotham, Geshan, Pelet, Ephah, and Shaaph."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 48,
+          "text": "Maachah, Caleb\u2019s concubine, bore Sheber and Tirhanah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 49,
+          "text": "She also bore Shaaph the father of Madmannah, Sheva the father of Machbenah and the father of Gibea. And the daughter of Caleb was Achsah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 50,
+          "text": "These were the descendants of Caleb: The sons of Hur, the firstborn of Ephrathah, were Shobal the father of Kirjath Jearim,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 51,
+          "text": "Salma the father of Bethlehem, and Hareph the father of Beth Gader."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 52,
+          "text": "And Shobal the father of Kirjath Jearim had descendants: Haroeh, and half of the families of Manuhoth."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 53,
+          "text": "The families of Kirjath Jearim were the Ithrites, the Puthites, the Shumathites, and the Mishraites. From these came the Zorathites and the Eshtaolites."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 54,
+          "text": "The sons of Salma were Bethlehem, the Netophathites, Atroth Beth Joab, half of the Manahethites, and the Zorites."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 2,
+          "verse": 55,
+          "text": "And the families of the scribes who dwelt at Jabez were the Tirathites, the Shimeathites, and the Suchathites. These were the Kenites who came from Hammath, the father of the house of Rechab."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-04T21:28:13.153821"
+    },
+    {
+      "reference": "Hebrews 8",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 1,
+          "text": "Now this is the main point of the things we are saying: We have such a High Priest, who is seated at the right hand of the throne of the Majesty in the heavens,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 2,
+          "text": "a Minister of the sanctuary and of the true tabernacle which the Lord erected, and not man."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 3,
+          "text": "For every high priest is appointed to offer both gifts and sacrifices. Therefore it is necessary that this One also have something to offer."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 4,
+          "text": "For if He were on earth, He would not be a priest, since there are priests who offer the gifts according to the law;"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 5,
+          "text": "who serve the copy and shadow of the heavenly things, as Moses was divinely instructed when he was about to make the tabernacle. For He said, \u201cSee that you make all things according to the pattern shown you on the mountain.\u201d"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 6,
+          "text": "But now He has obtained a more excellent ministry, inasmuch as He is also Mediator of a better covenant, which was established on better promises."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 7,
+          "text": "For if that first covenant had been faultless, then no place would have been sought for a second."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 8,
+          "text": "Because finding fault with them, He says: \u201cBehold, the days are coming, says the Lord, when I will make a new covenant with the house of Israel and with the house of Judah\u2014"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 9,
+          "text": "not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they did not continue in My covenant, and I disregarded them, says the Lord."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 10,
+          "text": "For this is the covenant that I will make with the house of Israel after those days, says the Lord: I will put My laws in their mind and write them on their hearts; and I will be their God, and they shall be My people."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 11,
+          "text": "None of them shall teach his neighbor, and none his brother, saying, \u2018Know the Lord,\u2019 for all shall know Me, from the least of them to the greatest of them."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 12,
+          "text": "For I will be merciful to their unrighteousness, and their sins and their lawless deeds I will remember no more.\u201d"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 8,
+          "verse": 13,
+          "text": "In that He says, \u201cA new covenant,\u201d He has made the first obsolete. Now what is becoming obsolete and growing old is ready to vanish away."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-04T21:28:13.669554"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Amos 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 1,
+          "text": "Thus says the L\u1d0f\u0280\u1d05: \u201cFor three transgressions of Moab, and for four, I will not turn away its punishment, Because he burned the bones of the king of Edom to lime."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 2,
+          "text": "But I will send a fire upon Moab, And it shall devour the palaces of Kerioth; Moab shall die with tumult, With shouting and trumpet sound."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 3,
+          "text": "And I will cut off the judge from its midst, And slay all its princes with him,\u201d Says the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 4,
+          "text": "Thus says the L\u1d0f\u0280\u1d05: \u201cFor three transgressions of Judah, and for four, I will not turn away its punishment, Because they have despised the law of the L\u1d0f\u0280\u1d05, And have not kept His commandments. Their lies lead them astray, Lies which their fathers followed."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 5,
+          "text": "But I will send a fire upon Judah, And it shall devour the palaces of Jerusalem.\u201d"
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 6,
+          "text": "Thus says the L\u1d0f\u0280\u1d05: \u201cFor three transgressions of Israel, and for four, I will not turn away its punishment, Because they sell the righteous for silver, And the poor for a pair of sandals."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 7,
+          "text": "They pant after the dust of the earth which is on the head of the poor, And pervert the way of the humble. A man and his father go in to the same girl, To defile My holy name."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 8,
+          "text": "They lie down by every altar on clothes taken in pledge, And drink the wine of the condemned in the house of their god."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 9,
+          "text": "\u201cYet it was I who destroyed the Amorite before them, Whose height was like the height of the cedars, And he was as strong as the oaks; Yet I destroyed his fruit above And his roots beneath."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 10,
+          "text": "Also it was I who brought you up from the land of Egypt, And led you forty years through the wilderness, To possess the land of the Amorite."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 11,
+          "text": "I raised up some of your sons as prophets, And some of your young men as Nazirites. Is it not so, O you children of Israel?\u201d Says the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 12,
+          "text": "\u201cBut you gave the Nazirites wine to drink, And commanded the prophets saying, \u2018Do not prophesy!\u2019"
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 13,
+          "text": "\u201cBehold, I am weighed down by you, As a cart full of sheaves is weighed down."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 14,
+          "text": "Therefore flight shall perish from the swift, The strong shall not strengthen his power, Nor shall the mighty deliver himself;"
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 15,
+          "text": "He shall not stand who handles the bow, The swift of foot shall not escape, Nor shall he who rides a horse deliver himself."
+        },
+        {
+          "book": "Amos",
+          "chapter": 2,
+          "verse": 16,
+          "text": "The most courageous men of might Shall flee naked in that day,\u201d Says the L\u1d0f\u0280\u1d05."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-04T21:28:14.486299"
+    },
+    {
+      "reference": "Psalm 145",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 1,
+          "text": "A Praise of David. I will extol You, my God, O King; And I will bless Your name forever and ever."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 2,
+          "text": "Every day I will bless You, And I will praise Your name forever and ever."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 3,
+          "text": "Great is the L\u1d0f\u0280\u1d05, and greatly to be praised; And His greatness is unsearchable."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 4,
+          "text": "One generation shall praise Your works to another, And shall declare Your mighty acts."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 5,
+          "text": "I will meditate on the glorious splendor of Your majesty, And on Your wondrous works."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 6,
+          "text": "Men shall speak of the might of Your awesome acts, And I will declare Your greatness."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 7,
+          "text": "They shall utter the memory of Your great goodness, And shall sing of Your righteousness."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 8,
+          "text": "The L\u1d0f\u0280\u1d05 is gracious and full of compassion, Slow to anger and great in mercy."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 9,
+          "text": "The L\u1d0f\u0280\u1d05 is good to all, And His tender mercies are over all His works."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 10,
+          "text": "All Your works shall praise You, O L\u1d0f\u0280\u1d05, And Your saints shall bless You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 11,
+          "text": "They shall speak of the glory of Your kingdom, And talk of Your power,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 12,
+          "text": "To make known to the sons of men His mighty acts, And the glorious majesty of His kingdom."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 13,
+          "text": "Your kingdom is an everlasting kingdom, And Your dominion endures throughout all generations."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 14,
+          "text": "The L\u1d0f\u0280\u1d05 upholds all who fall, And raises up all who are bowed down."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 15,
+          "text": "The eyes of all look expectantly to You, And You give them their food in due season."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 16,
+          "text": "You open Your hand And satisfy the desire of every living thing."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 17,
+          "text": "The L\u1d0f\u0280\u1d05 is righteous in all His ways, Gracious in all His works."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 18,
+          "text": "The L\u1d0f\u0280\u1d05 is near to all who call upon Him, To all who call upon Him in truth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 19,
+          "text": "He will fulfill the desire of those who fear Him; He also will hear their cry and save them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 20,
+          "text": "The L\u1d0f\u0280\u1d05 preserves all who love Him, But all the wicked He will destroy."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 21,
+          "text": "My mouth shall speak the praise of the L\u1d0f\u0280\u1d05, And all flesh shall bless His holy name Forever and ever."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-04T21:28:15.309167"
+    }
+  ]
+}

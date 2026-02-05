@@ -1,0 +1,809 @@
+{
+  "format_version": "1.0",
+  "date": "02/12",
+  "cached_at": "2026-02-04T04:00:18.425901",
+  "Family": [
+    {
+      "reference": "Genesis 45",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 1,
+          "text": "1 Then Joseph could not restrain himself before all those who stood by him, and he cried out, \u201cMake everyone go out from me!\u201d So no one stood with him while Joseph made himself known to his brothers."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 2,
+          "text": "2 And he wept aloud, and the Egyptians and the house of Pharaoh heard it."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 3,
+          "text": "3 Then Joseph said to his brothers, \u201cI am Joseph; does my father still live?\u201d But his brothers could not answer him, for they were dismayed in his presence."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 4,
+          "text": "4 And Joseph said to his brothers, \u201cPlease come near to me.\u201d So they came near. Then he said: \u201cI am Joseph your brother, whom you sold into Egypt."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 5,
+          "text": "5 But now, do not therefore be grieved or angry with yourselves because you sold me here; for God sent me before you to preserve life."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 6,
+          "text": "6 For these two years the famine has been in the land, and there are still five years in which there will be neither plowing nor harvesting."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 7,
+          "text": "7 And God sent me before you to preserve a posterity for you in the earth, and to save your lives by a great deliverance."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 8,
+          "text": "8 So now it was not you who sent me here, but God; and He has made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 9,
+          "text": "9 Hurry and go up to my father, and say to him, \u2018Thus says your son Joseph: \u201cGod has made me lord of all Egypt; come down to me, do not tarry."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 10,
+          "text": "10 You shall dwell in the land of Goshen, and you shall be near to me, you and your children, your children\u2019s children, your flocks and your herds, and all that you have."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 11,
+          "text": "11 There I will provide for you, lest you and your household, and all that you have, come to poverty; for there are still five years of famine.\u201d \u2018"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 12,
+          "text": "12 And behold, your eyes and the eyes of my brother Benjamin see that it is my mouth that speaks to you."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 13,
+          "text": "13 So you shall tell my father of all my glory in Egypt, and of all that you have seen; and you shall hurry and bring my father down here.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 14,
+          "text": "14 Then he fell on his brother Benjamin\u2019s neck and wept, and Benjamin wept on his neck."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 15,
+          "text": "15 Moreover he kissed all his brothers and wept over them, and after that his brothers talked with him."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 16,
+          "text": "16 Now the report of it was heard in Pharaoh\u2019s house, saying, \u201cJoseph\u2019s brothers have come.\u201d So it pleased Pharaoh and his servants well."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 17,
+          "text": "17 And Pharaoh said to Joseph, \u201cSay to your brothers, \u2018Do this: Load your animals and depart; go to the land of Canaan."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 18,
+          "text": "18 Bring your father and your households and come to me; I will give you the best of the land of Egypt, and you will eat the fat of the land."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 19,
+          "text": "19 Now you are commanded\u2014do this: Take carts out of the land of Egypt for your little ones and your wives; bring your father and come."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 20,
+          "text": "20 Also do not be concerned about your goods, for the best of all the land of Egypt is yours.\u2019 \u201c"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 21,
+          "text": "21 Then the sons of Israel did so; and Joseph gave them carts, according to the command of Pharaoh, and he gave them provisions for the journey."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 22,
+          "text": "22 He gave to all of them, to each man, changes of garments; but to Benjamin he gave three hundred pieces of silver and five changes of garments."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 23,
+          "text": "23 And he sent to his father these things: ten donkeys loaded with the good things of Egypt, and ten female donkeys loaded with grain, bread, and food for his father for the journey."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 24,
+          "text": "24 So he sent his brothers away, and they departed; and he said to them, \u201cSee that you do not become troubled along the way.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 25,
+          "text": "25 Then they went up out of Egypt, and came to the land of Canaan to Jacob their father."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 26,
+          "text": "26 And they told him, saying, \u201cJoseph is still alive, and he is governor over all the land of Egypt.\u201d And Jacob\u2019s heart stood still, because he did not believe them."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 27,
+          "text": "27 But when they told him all the words which Joseph had said to them, and when he saw the carts which Joseph had sent to carry him, the spirit of Jacob their father revived."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 45,
+          "verse": 28,
+          "text": "28 Then Israel said, \u201cIt is enough. Joseph my son is still alive. I will go and see him before I die.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-04T04:00:19.884331"
+    },
+    {
+      "reference": "Mark 15",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 1,
+          "text": "1 Immediately, in the morning, the chief priests held a consultation with the elders and scribes and the whole council; and they bound Jesus, led Him away, and delivered Him to Pilate."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 2,
+          "text": "2 Then Pilate asked Him, \u201cAre You the King of the Jews?\u201d He answered and said to him, \u201cIt is as you say.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 3,
+          "text": "3 And the chief priests accused Him of many things, but He answered nothing."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 4,
+          "text": "4 Then Pilate asked Him again, saying, \u201cDo You answer nothing? See how many things they testify against You!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 5,
+          "text": "5 But Jesus still answered nothing, so that Pilate marveled."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 6,
+          "text": "6 Now at the feast he was accustomed to releasing one prisoner to them, whomever they requested."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 7,
+          "text": "7 And there was one named Barabbas, who was chained with his fellow rebels; they had committed murder in the rebellion."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 8,
+          "text": "8 Then the multitude, crying aloud, began to ask him to do just as he had always done for them."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 9,
+          "text": "9 But Pilate answered them, saying, \u201cDo you want me to release to you the King of the Jews?\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 10,
+          "text": "10 For he knew that the chief priests had handed Him over because of envy."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 11,
+          "text": "11 But the chief priests stirred up the crowd, so that he should rather release Barabbas to them."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 12,
+          "text": "12 Pilate answered and said to them again, \u201cWhat then do you want me to do with Him whom you call the King of the Jews?\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 13,
+          "text": "13 So they cried out again, \u201cCrucify Him!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 14,
+          "text": "14 Then Pilate said to them, \u201cWhy, what evil has He done?\u201d But they cried out all the more, \u201cCrucify Him!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 15,
+          "text": "15 So Pilate, wanting to gratify the crowd, released Barabbas to them; and he delivered Jesus, after he had scourged Him, to be crucified."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 16,
+          "text": "16 Then the soldiers led Him away into the hall called Praetorium, and they called together the whole garrison."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 17,
+          "text": "17 And they clothed Him with purple; and they twisted a crown of thorns, put it on His head,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 18,
+          "text": "18 and began to salute Him, \u201cHail, King of the Jews!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 19,
+          "text": "19 Then they struck Him on the head with a reed and spat on Him; and bowing the knee, they worshiped Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 20,
+          "text": "20 And when they had mocked Him, they took the purple off Him, put His own clothes on Him, and led Him out to crucify Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 21,
+          "text": "21 Then they compelled a certain man, Simon a Cyrenian, the father of Alexander and Rufus, as he was coming out of the country and passing by, to bear His cross."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 22,
+          "text": "22 And they brought Him to the place Golgotha, which is translated, Place of a Skull."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 23,
+          "text": "23 Then they gave Him wine mingled with myrrh to drink, but He did not take it."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 24,
+          "text": "24 And when they crucified Him, they divided His garments, casting lots for them to determine what every man should take."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 25,
+          "text": "25 Now it was the third hour, and they crucified Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 26,
+          "text": "26 And the inscription of His accusation was written above: THE KING OF THE JEWS."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 27,
+          "text": "27 With Him they also crucified two robbers, one on His right and the other on His left."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 28,
+          "text": "28 So the Scripture was fulfilled which says, \u201cAnd He was numbered with the transgressors.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 29,
+          "text": "29 And those who passed by blasphemed Him, wagging their heads and saying, \u201cAha! You who destroy the temple and build it in three days,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 30,
+          "text": "30 save Yourself, and come down from the cross!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 31,
+          "text": "31 Likewise the chief priests also, mocking among themselves with the scribes, said, \u201cHe saved others; Himself He cannot save."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 32,
+          "text": "32 Let the Christ, the King of Israel, descend now from the cross, that we may see and believe.\u201d Even those who were crucified with Him reviled Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 33,
+          "text": "33 Now when the sixth hour had come, there was darkness over the whole land until the ninth hour."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 34,
+          "text": "34 And at the ninth hour Jesus cried out with a loud voice, saying, \u201cEloi, Eloi, lama sabachthani?\u201d which is translated, \u201cMy God, My God, why have You forsaken Me?\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 35,
+          "text": "35 Some of those who stood by, when they heard that, said, \u201cLook, He is calling for Elijah!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 36,
+          "text": "36 Then someone ran and filled a sponge full of sour wine, put it on a reed, and offered it to Him to drink, saying, \u201cLet Him alone; let us see if Elijah will come to take Him down.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 37,
+          "text": "37 And Jesus cried out with a loud voice, and breathed His last."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 38,
+          "text": "38 Then the veil of the temple was torn in two from top to bottom."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 39,
+          "text": "39 So when the centurion, who stood opposite Him, saw that He cried out like this and breathed His last, he said, \u201cTruly this Man was the Son of God!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 40,
+          "text": "40 There were also women looking on from afar, among whom were Mary Magdalene, Mary the mother of James the Less and of Joses, and Salome,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 41,
+          "text": "41 who also followed Him and ministered to Him when He was in Galilee, and many other women who came up with Him to Jerusalem."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 42,
+          "text": "42 Now when evening had come, because it was the Preparation Day, that is, the day before the Sabbath,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 43,
+          "text": "43 Joseph of Arimathea, a prominent council member, who was himself waiting for the kingdom of God, coming and taking courage, went in to Pilate and asked for the body of Jesus."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 44,
+          "text": "44 Pilate marveled that He was already dead; and summoning the centurion, he asked him if He had been dead for some time."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 45,
+          "text": "45 So when he found out from the centurion, he granted the body to Joseph."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 46,
+          "text": "46 Then he bought fine linen, took Him down, and wrapped Him in the linen. And he laid Him in a tomb which had been hewn out of the rock, and rolled a stone against the door of the tomb."
+        },
+        {
+          "book": "Mark",
+          "chapter": 15,
+          "verse": 47,
+          "text": "47 And Mary Magdalene and Mary the mother of Joses observed where He was laid."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-04T04:00:21.324803"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Job 11",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 1,
+          "text": "1 Then Zophar the Naamathite answered and said:"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 2,
+          "text": "2 \u201cShould not the multitude of words be answered? And should a man full of talk be vindicated?"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 3,
+          "text": "3 Should your empty talk make men hold their peace? And when you mock, should no one rebuke you?"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 4,
+          "text": "4 For you have said, \u2018My doctrine is pure, And I am clean in your eyes.\u2019"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 5,
+          "text": "5 But oh, that God would speak, And open His lips against you,"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 6,
+          "text": "6 That He would show you the secrets of wisdom! For they would double your prudence. Know therefore that God exacts from you Less than your iniquity deserves."
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 7,
+          "text": "7 \u201cCan you search out the deep things of God? Can you find out the limits of the Almighty?"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 8,
+          "text": "8 They are higher than heaven\u2014what can you do? Deeper than Sheol\u2014what can you know?"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 9,
+          "text": "9 Their measure is longer than the earth And broader than the sea."
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 10,
+          "text": "10 \u201cIf He passes by, imprisons, and gathers to judgment, Then who can hinder Him?"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 11,
+          "text": "11 For He knows deceitful men; He sees wickedness also. Will He not then consider it?"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 12,
+          "text": "12 For an empty-headed man will be wise, When a wild donkey\u2019s colt is born a man."
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 13,
+          "text": "13 \u201cIf you would prepare your heart, And stretch out your hands toward Him;"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 14,
+          "text": "14 If iniquity were in your hand, and you put it far away, And would not let wickedness dwell in your tents;"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 15,
+          "text": "15 Then surely you could lift up your face without spot; Yes, you could be steadfast, and not fear;"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 16,
+          "text": "16 Because you would forget your misery, And remember it as waters that have passed away,"
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 17,
+          "text": "17 And your life would be brighter than noonday. Though you were dark, you would be like the morning."
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 18,
+          "text": "18 And you would be secure, because there is hope; Yes, you would dig around you, and take your rest in safety."
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 19,
+          "text": "19 You would also lie down, and no one would make you afraid; Yes, many would court your favor."
+        },
+        {
+          "book": "Job",
+          "chapter": 11,
+          "verse": 20,
+          "text": "20 But the eyes of the wicked will fail, And they shall not escape, And their hope\u2014loss of life!\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-04T04:00:23.283773"
+    },
+    {
+      "reference": "Romans 15",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 1,
+          "text": "1 We then who are strong ought to bear with the scruples of the weak, and not to please ourselves."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 2,
+          "text": "2 Let each of us please his neighbor for his good, leading to edification."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 3,
+          "text": "3 For even Christ did not please Himself; but as it is written, \u201cThe reproaches of those who reproached You fell on Me.\u201d"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 4,
+          "text": "4 For whatever things were written before were written for our learning, that we through the patience and comfort of the Scriptures might have hope."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 5,
+          "text": "5 Now may the God of patience and comfort grant you to be like-minded toward one another, according to Christ Jesus,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 6,
+          "text": "6 that you may with one mind and one mouth glorify the God and Father of our Lord Jesus Christ."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 7,
+          "text": "7 Therefore receive one another, just as Christ also received us, to the glory of God."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 8,
+          "text": "8 Now I say that Jesus Christ has become a servant to the circumcision for the truth of God, to confirm the promises made to the fathers,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 9,
+          "text": "9 and that the Gentiles might glorify God for His mercy, as it is written: \u201cFor this reason I will confess to You among the Gentiles, And sing to Your name.\u201d"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 10,
+          "text": "10 And again he says: \u201cRejoice, O Gentiles, with His people!\u201d"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 11,
+          "text": "11 And again: \u201cPraise the Lord, all you Gentiles! Laud Him, all you peoples!\u201d"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 12,
+          "text": "12 And again, Isaiah says: \u201cThere shall be a root of Jesse; And He who shall rise to reign over the Gentiles, In Him the Gentiles shall hope.\u201d"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 13,
+          "text": "13 Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope by the power of the Holy Spirit."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 14,
+          "text": "14 Now I myself am confident concerning you, my brethren, that you also are full of goodness, filled with all knowledge, able also to admonish one another."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 15,
+          "text": "15 Nevertheless, brethren, I have written more boldly to you on some points, as reminding you, because of the grace given to me by God,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 16,
+          "text": "16 that I might be a minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering of the Gentiles might be acceptable, sanctified by the Holy Spirit."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 17,
+          "text": "17 Therefore I have reason to glory in Christ Jesus in the things which pertain to God."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 18,
+          "text": "18 For I will not dare to speak of any of those things which Christ has not accomplished through me, in word and deed, to make the Gentiles obedient\u2014"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 19,
+          "text": "19 in mighty signs and wonders, by the power of the Spirit of God, so that from Jerusalem and round about to Illyricum I have fully preached the gospel of Christ."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 20,
+          "text": "20 And so I have made it my aim to preach the gospel, not where Christ was named, lest I should build on another man\u2019s foundation,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 21,
+          "text": "21 but as it is written: \u201cTo whom He was not announced, they shall see; And those who have not heard shall understand.\u201d"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 22,
+          "text": "22 For this reason I also have been much hindered from coming to you."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 23,
+          "text": "23 But now no longer having a place in these parts, and having a great desire these many years to come to you,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 24,
+          "text": "24 whenever I journey to Spain, I shall come to you. For I hope to see you on my journey, and to be helped on my way there by you, if first I may enjoy your company for a while."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 25,
+          "text": "25 But now I am going to Jerusalem to minister to the saints."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 26,
+          "text": "26 For it pleased those from Macedonia and Achaia to make a certain contribution for the poor among the saints who are in Jerusalem."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 27,
+          "text": "27 It pleased them indeed, and they are their debtors. For if the Gentiles have been partakers of their spiritual things, their duty is also to minister to them in material things."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 28,
+          "text": "28 Therefore, when I have performed this and have sealed to them this fruit, I shall go by way of you to Spain."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 29,
+          "text": "29 But I know that when I come to you, I shall come in the fullness of the blessing of the gospel of Christ."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 30,
+          "text": "30 Now I beg you, brethren, through the Lord Jesus Christ, and through the love of the Spirit, that you strive together with me in prayers to God for me,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 31,
+          "text": "31 that I may be delivered from those in Judea who do not believe, and that my service for Jerusalem may be acceptable to the saints,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 32,
+          "text": "32 that I may come to you with joy by the will of God, and may be refreshed together with you."
+        },
+        {
+          "book": "Romans",
+          "chapter": 15,
+          "verse": 33,
+          "text": "33 Now the God of peace be with you all. Amen."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-04T04:00:25.525640"
+    }
+  ]
+}

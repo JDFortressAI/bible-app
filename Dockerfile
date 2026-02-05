@@ -20,6 +20,9 @@ COPY assets/ ./assets/
 COPY src/ ./src/
 COPY *.py ./
 
+# Bundle pre-built M'Cheyne readings (366 JSON files, ~10 MB)
+COPY mcheyne_readings/ ./mcheyne_readings/
+
 # Set environment variables
 ENV PYTHONPATH=/app/src
 ENV STREAMLIT_SERVER_PORT=8501

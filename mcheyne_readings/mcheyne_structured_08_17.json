@@ -1,0 +1,707 @@
+{
+  "format_version": "1.0",
+  "date": "08/17",
+  "cached_at": "2026-02-05T18:00:54.415846",
+  "Family": [
+    {
+      "reference": "1 Samuel 9",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 1,
+          "text": "1 There was a man of Benjamin whose name was Kish the son of Abiel, the son of Zeror, the son of Bechorath, the son of Aphiah, a Benjamite, a mighty man of power."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 2,
+          "text": "2 And he had a choice and handsome son whose name was Saul. There was not a more handsome person than he among the children of Israel. From his shoulders upward he was taller than any of the people."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 3,
+          "text": "3 Now the donkeys of Kish, Saul\u2019s father, were lost. And Kish said to his son Saul, \u201cPlease, take one of the servants with you, and arise, go and look for the donkeys.\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 4,
+          "text": "4 So he passed through the mountains of Ephraim and through the land of Shalisha, but they did not find them. Then they passed through the land of Shaalim, and they were not there. Then he passed through the land of the Benjamites, but they did not find them."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 5,
+          "text": "5 When they had come to the land of Zuph, Saul said to his servant who was with him, \u201cCome, let us return, lest my father cease caring about the donkeys and become worried about us.\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 6,
+          "text": "6 And he said to him, \u201cLook now, there is in this city a man of God, and he is an honorable man; all that he says surely comes to pass. So let us go there; perhaps he can show us the way that we should go.\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 7,
+          "text": "7 Then Saul said to his servant, \u201cBut look, if we go, what shall we bring the man? For the bread in our vessels is all gone, and there is no present to bring to the man of God. What do we have?\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 8,
+          "text": "8 And the servant answered Saul again and said, \u201cLook, I have here at hand one fourth of a shekel of silver. I will give that to the man of God, to tell us our way.\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 9,
+          "text": "9 (Formerly in Israel, when a man went to inquire of God, he spoke thus: \u201cCome, let us go to the seer\u201d; for he who is now called a prophet was formerly called a seer.)"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 10,
+          "text": "10 Then Saul said to his servant, \u201cWell said; come, let us go.\u201d So they went to the city where the man of God was."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 11,
+          "text": "11 As they went up the hill to the city, they met some young women going out to draw water, and said to them, \u201cIs the seer here?\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 12,
+          "text": "12 And they answered them and said, \u201cYes, there he is, just ahead of you. Hurry now; for today he came to this city, because there is a sacrifice of the people today on the high place."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 13,
+          "text": "13 As soon as you come into the city, you will surely find him before he goes up to the high place to eat. For the people will not eat until he comes, because he must bless the sacrifice; afterward those who are invited will eat. Now therefore, go up, for about this time you will find him.\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 14,
+          "text": "14 So they went up to the city. As they were coming into the city, there was Samuel, coming out toward them on his way up to the high place."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 15,
+          "text": "15 Now the L\u1d0f\u0280\u1d05 had told Samuel in his ear the day before Saul came, saying,"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 16,
+          "text": "16 \u201cTomorrow about this time I will send you a man from the land of Benjamin, and you shall anoint him commander over My people Israel, that he may save My people from the hand of the Philistines; for I have looked upon My people, because their cry has come to me.\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 17,
+          "text": "17 And when Samuel saw Saul, the L\u1d0f\u0280\u1d05 said to him, \u201cThere he is, the man of whom I spoke to you. This one shall reign over My people.\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 18,
+          "text": "18 Then Saul drew near to Samuel in the gate, and said, \u201cPlease tell me, where is the seer\u2019s house?\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 19,
+          "text": "19 And Samuel answered Saul and said, \u201cI am the seer. Go up before me to the high place, for you shall eat with me today; and tomorrow I will let you go and will tell you all that is in your heart."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 20,
+          "text": "20 But as for your donkeys that were lost three days ago, do not be anxious about them, for they have been found. And on whom is all the desire of Israel? Is it not on you and on all your father\u2019s house?\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 21,
+          "text": "21 And Saul answered and said, \u201cAm I not a Benjamite, of the smallest of the tribes of Israel, and my family the least of all the families of the tribe of Benjamin? Why then do you speak like this to me?\u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 22,
+          "text": "22 Now Samuel took Saul and his servant and brought them into the hall, and had them sit in the place of honor among those who were invited; there were about thirty persons."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 23,
+          "text": "23 And Samuel said to the cook, \u201cBring the portion which I gave you, of which I said to you, \u2018Set it apart.\u2019 \u201d"
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 24,
+          "text": "24 So the cook took up the thigh with its upper part and set it before Saul. And Samuel said, \u201cHere it is, what was kept back. It was set apart for you. Eat; for until this time it has been kept for you, since I said I invited the people.\u201d So Saul ate with Samuel that day."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 25,
+          "text": "25 When they had come down from the high place into the city, Samuel spoke with Saul on the top of the house."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 26,
+          "text": "26 They arose early; and it was about the dawning of the day that Samuel called to Saul on the top of the house, saying, \u201cGet up, that I may send you on your way.\u201d And Saul arose, and both of them went outside, he and Samuel."
+        },
+        {
+          "book": "1 Samuel",
+          "chapter": 9,
+          "verse": 27,
+          "text": "27 As they were going down to the outskirts of the city, Samuel said to Saul, \u201cTell the servant to go on ahead of us.\u201d And he went on. \u201cBut you stand here awhile, that I may announce to you the word of God.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T18:00:55.034719"
+    },
+    {
+      "reference": "Romans 7",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 1,
+          "text": "1 Or do you not know, brethren (for I speak to those who know the law), that the law has dominion over a man as long as he lives?"
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 2,
+          "text": "2 For the woman who has a husband is bound by the law to her husband as long as he lives. But if the husband dies, she is released from the law of her husband."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 3,
+          "text": "3 So then if, while her husband lives, she marries another man, she will be called an adulteress; but if her husband dies, she is free from that law, so that she is no adulteress, though she has married another man."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 4,
+          "text": "4 Therefore, my brethren, you also have become dead to the law through the body of Christ, that you may be married to another\u2014to Him who was raised from the dead, that we should bear fruit to God."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 5,
+          "text": "5 For when we were in the flesh, the sinful passions which were aroused by the law were at work in our members to bear fruit to death."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 6,
+          "text": "6 But now we have been delivered from the law, having died to what we were held by, so that we should serve in the newness of the Spirit and not in the oldness of the letter."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 7,
+          "text": "7 What shall we say then? Is the law sin? Certainly not! On the contrary, I would not have known sin except through the law. For I would not have known covetousness unless the law had said, \u201cYou shall not covet.\u201d"
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 8,
+          "text": "8 But sin, taking opportunity by the commandment, produced in me all manner of evil desire. For apart from the law sin was dead."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 9,
+          "text": "9 I was alive once without the law, but when the commandment came, sin revived and I died."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 10,
+          "text": "10 And the commandment, which was to bring life, I found to bring death."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 11,
+          "text": "11 For sin, taking occasion by the commandment, deceived me, and by it killed me."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 12,
+          "text": "12 Therefore the law is holy, and the commandment holy and just and good."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 13,
+          "text": "13 Has then what is good become death to me? Certainly not! But sin, that it might appear sin, was producing death in me through what is good, so that sin through the commandment might become exceedingly sinful."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 14,
+          "text": "14 For we know that the law is spiritual, but I am carnal, sold under sin."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 15,
+          "text": "15 For what I am doing, I do not understand. For what I will to do, that I do not practice; but what I hate, that I do."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 16,
+          "text": "16 If, then, I do what I will not to do, I agree with the law that it is good."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 17,
+          "text": "17 But now, it is no longer I who do it, but sin that dwells in me."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 18,
+          "text": "18 For I know that in me (that is, in my flesh) nothing good dwells; for to will is present with me, but how to perform what is good I do not find."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 19,
+          "text": "19 For the good that I will to do, I do not do; but the evil I will not to do, that I practice."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 20,
+          "text": "20 Now if I do what I will not to do, it is no longer I who do it, but sin that dwells in me."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 21,
+          "text": "21 I find then a law, that evil is present with me, the one who wills to do good."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 22,
+          "text": "22 For I delight in the law of God according to the inward man."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 23,
+          "text": "23 But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 24,
+          "text": "24 O wretched man that I am! Who will deliver me from this body of death?"
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 25,
+          "text": "25 I thank God\u2014through Jesus Christ our Lord! So then, with the mind I myself serve the law of God, but with the flesh the law of sin."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T18:00:55.654804"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Jeremiah 46",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 1,
+          "text": "1 The word of the L\u1d0f\u0280\u1d05 which came to Jeremiah the prophet against the nations."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 2,
+          "text": "2 Against Egypt. Concerning the army of Pharaoh Necho, king of Egypt, which was by the River Euphrates in Carchemish, and which Nebuchadnezzar king of Babylon defeated in the fourth year of Jehoiakim the son of Josiah, king of Judah:"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 3,
+          "text": "3 \u201cOrder the buckler and shield, And draw near to battle!"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 4,
+          "text": "4 Harness the horses, And mount up, you horsemen! Stand forth with your helmets, Polish the spears, Put on the armor!"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 5,
+          "text": "5 Why have I seen them dismayed and turned back? Their mighty ones are beaten down; They have speedily fled, And did not look back, For fear was all around,\u201d says the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 6,
+          "text": "6 \u201cDo not let the swift flee away, Nor the mighty man escape; They will stumble and fall Toward the north, by the River Euphrates."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 7,
+          "text": "7 \u201cWho is this coming up like a flood, Whose waters move like the rivers?"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 8,
+          "text": "8 Egypt rises up like a flood, And its waters move like the rivers; And he says, \u2018I will go up and cover the earth, I will destroy the city and its inhabitants.\u2019"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 9,
+          "text": "9 Come up, O horses, and rage, O chariots! And let the mighty men come forth: The Ethiopians and the Libyans who handle the shield, And the Lydians who handle and bend the bow."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 10,
+          "text": "10 For this is the day of the L\u1d0f\u0280\u1d05 God of hosts, A day of vengeance, That He may avenge Himself on His adversaries. The sword shall devour; It shall be satiated and made drunk with their blood; For the L\u1d0f\u0280\u1d05 God of hosts has a sacrifice In the north country by the River Euphrates."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 11,
+          "text": "11 \u201cGo up to Gilead and take balm, O virgin, the daughter of Egypt; In vain you will use many medicines; You shall not be cured."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 12,
+          "text": "12 The nations have heard of your shame, And your cry has filled the land; For the mighty man has stumbled against the mighty; They both have fallen together.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 13,
+          "text": "13 The word that the L\u1d0f\u0280\u1d05 spoke to Jeremiah the prophet, how Nebuchadnezzar king of Babylon would come and strike the land of Egypt."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 14,
+          "text": "14 \u201cDeclare in Egypt, and proclaim in Migdol; Proclaim in Noph and in Tahpanhes; Say, \u2018Stand fast and prepare yourselves, For the sword devours all around you.\u2019"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 15,
+          "text": "15 Why are your valiant men swept away? They did not stand Because the L\u1d0f\u0280\u1d05 drove them away."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 16,
+          "text": "16 He made many fall; Yes, one fell upon another. And they said, \u2018Arise! Let us go back to our own people And to the land of our nativity From the oppressing sword.\u2019"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 17,
+          "text": "17 They cried there, \u2018Pharaoh, king of Egypt, is but a noise. He has passed by the appointed time!\u2019"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 18,
+          "text": "18 \u201cAs I live,\u201d says the King, Whose name is the L\u1d0f\u0280\u1d05 of hosts, \u201cSurely as Tabor is among the mountains And as Carmel by the sea, so he shall come."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 19,
+          "text": "19 O you daughter dwelling in Egypt, Prepare yourself to go into captivity! For Noph shall be waste and desolate, without inhabitant."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 20,
+          "text": "20 \u201cEgypt is a very pretty heifer, But destruction comes, it comes from the north."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 21,
+          "text": "21 Also her mercenaries are in her midst like fat bulls, For they also are turned back, They have fled away together. They did not stand, For the day of their calamity had come upon them, The time of their punishment."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 22,
+          "text": "22 Her noise shall go like a serpent, For they shall march with an army And come against her with axes, Like those who chop wood."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 23,
+          "text": "23 \u201cThey shall cut down her forest,\u201d says the L\u1d0f\u0280\u1d05, \u201cThough it cannot be searched, Because they are innumerable, And more numerous than grasshoppers."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 24,
+          "text": "24 The daughter of Egypt shall be ashamed; She shall be delivered into the hand Of the people of the north.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 25,
+          "text": "25 The L\u1d0f\u0280\u1d05 of hosts, the God of Israel, says: \u201cBehold, I will bring punishment on Amon of No, and Pharaoh and Egypt, with their gods and their kings\u2014Pharaoh and those who trust in him."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 26,
+          "text": "26 And I will deliver them into the hand of those who seek their lives, into the hand of Nebuchadnezzar king of Babylon and the hand of his servants. Afterward it shall be inhabited as in the days of old,\u201d says the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 27,
+          "text": "27 \u201cBut do not fear, O My servant Jacob, And do not be dismayed, O Israel! For behold, I will save you from afar, And your offspring from the land of their captivity; Jacob shall return, have rest and be at ease; No one shall make him afraid."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 46,
+          "verse": 28,
+          "text": "28 Do not fear, O Jacob My servant,\u201d says the L\u1d0f\u0280\u1d05, \u201cFor I am with you; For I will make a complete end of all the nations To which I have driven you, But I will not make a complete end of you. I will rightly correct you, For I will not leave you wholly unpunished.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T18:00:56.132395"
+    },
+    {
+      "reference": "Psalm 22",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 1,
+          "text": "1 To the Chief Musician. Set to \u2018The Deer of the Dawn.\u2019 A Psalm of David. My God, My God, why have You forsaken Me? Why are You so far from helping Me, And from the words of My groaning?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 2,
+          "text": "2 O My God, I cry in the daytime, but You do not hear; And in the night season, and am not silent."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 3,
+          "text": "3 But You are holy, Enthroned in the praises of Israel."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 4,
+          "text": "4 Our fathers trusted in You; They trusted, and You delivered them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 5,
+          "text": "5 They cried to You, and were delivered; They trusted in You, and were not ashamed."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 6,
+          "text": "6 But I am a worm, and no man; A reproach of men, and despised by the people."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 7,
+          "text": "7 All those who see Me ridicule Me; They shoot out the lip, they shake the head, saying,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 8,
+          "text": "8 \u201cHe trusted in the L\u1d0f\u0280\u1d05, let Him rescue Him; Let Him deliver Him, since He delights in Him!\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 9,
+          "text": "9 But You are He who took Me out of the womb; You made Me trust while on My mother\u2019s breasts."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 10,
+          "text": "10 I was cast upon You from birth. From My mother\u2019s womb You have been My God."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 11,
+          "text": "11 Be not far from Me, For trouble is near; For there is none to help."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 12,
+          "text": "12 Many bulls have surrounded Me; Strong bulls of Bashan have encircled Me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 13,
+          "text": "13 They gape at Me with their mouths, Like a raging and roaring lion."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 14,
+          "text": "14 I am poured out like water, And all My bones are out of joint; My heart is like wax; It has melted within Me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 15,
+          "text": "15 My strength is dried up like a potsherd, And My tongue clings to My jaws; You have brought Me to the dust of death."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 16,
+          "text": "16 For dogs have surrounded Me; The congregation of the wicked has enclosed Me. They pierced My hands and My feet;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 17,
+          "text": "17 I can count all My bones. They look and stare at Me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 18,
+          "text": "18 They divide My garments among them, And for My clothing they cast lots."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 19,
+          "text": "19 But You, O L\u1d0f\u0280\u1d05, do not be far from Me; O My Strength, hasten to help Me!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 20,
+          "text": "20 Deliver Me from the sword, My precious life from the power of the dog."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 21,
+          "text": "21 Save Me from the lion\u2019s mouth And from the horns of the wild oxen! You have answered Me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 22,
+          "text": "22 I will declare Your name to My brethren; In the midst of the assembly I will praise You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 23,
+          "text": "23 You who fear the L\u1d0f\u0280\u1d05, praise Him! All you descendants of Jacob, glorify Him, And fear Him, all you offspring of Israel!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 24,
+          "text": "24 For He has not despised nor abhorred the affliction of the afflicted; Nor has He hidden His face from Him; But when He cried to Him, He heard."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 25,
+          "text": "25 My praise shall be of You in the great assembly; I will pay My vows before those who fear Him."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 26,
+          "text": "26 The poor shall eat and be satisfied; Those who seek Him will praise the L\u1d0f\u0280\u1d05. Let your heart live forever!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 27,
+          "text": "27 All the ends of the world Shall remember and turn to the L\u1d0f\u0280\u1d05, And all the families of the nations Shall worship before You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 28,
+          "text": "28 For the kingdom is the L\u1d0f\u0280\u1d05\u2019s, And He rules over the nations."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 29,
+          "text": "29 All the prosperous of the earth Shall eat and worship; All those who go down to the dust Shall bow before Him, Even he who cannot keep himself alive."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 30,
+          "text": "30 A posterity shall serve Him. It will be recounted of the L\u1d0f\u0280\u1d05 to the next generation,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 22,
+          "verse": 31,
+          "text": "31 They will come and declare His righteousness to a people who will be born, That He has done this."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T18:00:56.599875"
+    }
+  ]
+}

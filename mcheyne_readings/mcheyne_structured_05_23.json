@@ -1,0 +1,725 @@
+{
+  "format_version": "1.0",
+  "date": "05/23",
+  "cached_at": "2026-02-05T17:55:14.954269",
+  "Family": [
+    {
+      "reference": "Numbers 32",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 1,
+          "text": "1 Now the children of Reuben and the children of Gad had a very great multitude of livestock; and when they saw the land of Jazer and the land of Gilead, that indeed the region was a place for livestock,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 2,
+          "text": "2 the children of Gad and the children of Reuben came and spoke to Moses, to Eleazar the priest, and to the leaders of the congregation, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 3,
+          "text": "3 \u201cAtaroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Shebam, Nebo, and Beon,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 4,
+          "text": "4 the country which the L\u1d0f\u0280\u1d05 defeated before the congregation of Israel, is a land for livestock, and your servants have livestock.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 5,
+          "text": "5 Therefore they said, \u201cIf we have found favor in your sight, let this land be given to your servants as a possession. Do not take us over the Jordan.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 6,
+          "text": "6 And Moses said to the children of Gad and to the children of Reuben: \u201cShall your brethren go to war while you sit here?"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 7,
+          "text": "7 Now why will you discourage the heart of the children of Israel from going over into the land which the L\u1d0f\u0280\u1d05 has given them?"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 8,
+          "text": "8 Thus your fathers did when I sent them away from Kadesh Barnea to see the land."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 9,
+          "text": "9 For when they went up to the Valley of Eshcol and saw the land, they discouraged the heart of the children of Israel, so that they did not go into the land which the L\u1d0f\u0280\u1d05 had given them."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 10,
+          "text": "10 So the L\u1d0f\u0280\u1d05\u2019s anger was aroused on that day, and He swore an oath, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 11,
+          "text": "11 \u2018Surely none of the men who came up from Egypt, from twenty years old and above, shall see the land of which I swore to Abraham, Isaac, and Jacob, because they have not wholly followed Me,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 12,
+          "text": "12 except Caleb the son of Jephunneh, the Kenizzite, and Joshua the son of Nun, for they have wholly followed the L\u1d0f\u0280\u1d05.\u2019"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 13,
+          "text": "13 So the L\u1d0f\u0280\u1d05\u2019s anger was aroused against Israel, and He made them wander in the wilderness forty years, until all the generation that had done evil in the sight of the L\u1d0f\u0280\u1d05 was gone."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 14,
+          "text": "14 And look! You have risen in your father\u2019s place, a brood of sinful men, to increase still more the fierce anger of the L\u1d0f\u0280\u1d05 against Israel."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 15,
+          "text": "15 For if you turn away from following Him, He will once again leave them in the wilderness, and you will destroy all these people.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 16,
+          "text": "16 Then they came near to him and said: \u201cWe will build sheepfolds here for our livestock, and cities for our little ones,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 17,
+          "text": "17 but we ourselves will be armed, ready to go before the children of Israel until we have brought them to their place; and our little ones will dwell in the fortified cities because of the inhabitants of the land."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 18,
+          "text": "18 We will not return to our homes until every one of the children of Israel has received his inheritance."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 19,
+          "text": "19 For we will not inherit with them on the other side of the Jordan and beyond, because our inheritance has fallen to us on this eastern side of the Jordan.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 20,
+          "text": "20 Then Moses said to them: \u201cIf you do this thing, if you arm yourselves before the L\u1d0f\u0280\u1d05 for the war,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 21,
+          "text": "21 and all your armed men cross over the Jordan before the L\u1d0f\u0280\u1d05 until He has driven out His enemies from before Him,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 22,
+          "text": "22 and the land is subdued before the L\u1d0f\u0280\u1d05, then afterward you may return and be blameless before the L\u1d0f\u0280\u1d05 and before Israel; and this land shall be your possession before the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 23,
+          "text": "23 But if you do not do so, then take note, you have sinned against the L\u1d0f\u0280\u1d05; and be sure your sin will find you out."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 24,
+          "text": "24 Build cities for your little ones and folds for your sheep, and do what has proceeded out of your mouth.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 25,
+          "text": "25 And the children of Gad and the children of Reuben spoke to Moses, saying: \u201cYour servants will do as my lord commands."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 26,
+          "text": "26 Our little ones, our wives, our flocks, and all our livestock will be there in the cities of Gilead;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 27,
+          "text": "27 but your servants will cross over, every man armed for war, before the L\u1d0f\u0280\u1d05 to battle, just as my lord says.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 28,
+          "text": "28 So Moses gave command concerning them to Eleazar the priest, to Joshua the son of Nun, and to the chief fathers of the tribes of the children of Israel."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 29,
+          "text": "29 And Moses said to them: \u201cIf the children of Gad and the children of Reuben cross over the Jordan with you, every man armed for battle before the L\u1d0f\u0280\u1d05, and the land is subdued before you, then you shall give them the land of Gilead as a possession."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 30,
+          "text": "30 But if they do not cross over armed with you, they shall have possessions among you in the land of Canaan.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 31,
+          "text": "31 Then the children of Gad and the children of Reuben answered, saying: \u201cAs the L\u1d0f\u0280\u1d05 has said to your servants, so we will do."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 32,
+          "text": "32 We will cross over armed before the L\u1d0f\u0280\u1d05 into the land of Canaan, but the possession of our inheritance shall remain with us on this side of the Jordan.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 33,
+          "text": "33 So Moses gave to the children of Gad, to the children of Reuben, and to half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan, the land with its cities within the borders, the cities of the surrounding country."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 34,
+          "text": "34 And the children of Gad built Dibon and Ataroth and Aroer,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 35,
+          "text": "35 Atroth and Shophan and Jazer and Jogbehah,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 36,
+          "text": "36 Beth Nimrah and Beth Haran, fortified cities, and folds for sheep."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 37,
+          "text": "37 And the children of Reuben built Heshbon and Elealeh and Kirjathaim,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 38,
+          "text": "38 Nebo and Baal Meon (their names being changed) and Shibmah; and they gave other names to the cities which they built."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 39,
+          "text": "39 And the children of Machir the son of Manasseh went to Gilead and took it, and dispossessed the Amorites who were in it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 40,
+          "text": "40 So Moses gave Gilead to Machir the son of Manasseh, and he dwelt in it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 41,
+          "text": "41 Also Jair the son of Manasseh went and took its small towns, and called them Havoth Jair."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 32,
+          "verse": 42,
+          "text": "42 Then Nobah went and took Kenath and its villages, and he called it Nobah, after his own name."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:15.444393"
+    },
+    {
+      "reference": "Psalm 77",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 1,
+          "text": "1 To the Chief Musician. To Jeduthun. A Psalm of Asaph. I cried out to God with my voice\u2014 To God with my voice; And He gave ear to me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 2,
+          "text": "2 In the day of my trouble I sought the L\u1d0f\u0280\u1d05; My hand was stretched out in the night without ceasing; My soul refused to be comforted."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 3,
+          "text": "3 I remembered God, and was troubled; I complained, and my spirit was overwhelmed. Selah"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 4,
+          "text": "4 You hold my eyelids open; I am so troubled that I cannot speak."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 5,
+          "text": "5 I have considered the days of old, The years of ancient times."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 6,
+          "text": "6 I call to remembrance my song in the night; I meditate within my heart, And my spirit makes diligent search."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 7,
+          "text": "7 Will the L\u1d0f\u0280\u1d05 cast off forever? And will He be favorable no more?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 8,
+          "text": "8 Has His mercy ceased forever? Has His promise failed forevermore?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 9,
+          "text": "9 Has God forgotten to be gracious? Has He in anger shut up His tender mercies? Selah"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 10,
+          "text": "10 And I said, \u201cThis is my anguish; But I will remember the years of the right hand of the Most High.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 11,
+          "text": "11 I will remember the works of the L\u1d0f\u0280\u1d05; Surely I will remember Your wonders of old."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 12,
+          "text": "12 I will also meditate on all Your work, And talk of Your deeds."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 13,
+          "text": "13 Your way, O God, is in the sanctuary; Who is so great a God as our God?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 14,
+          "text": "14 You are the God who does wonders; You have declared Your strength among the peoples."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 15,
+          "text": "15 You have with Your arm redeemed Your people, The sons of Jacob and Joseph. Selah"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 16,
+          "text": "16 The waters saw You, O God; The waters saw You, they were afraid; The depths also trembled."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 17,
+          "text": "17 The clouds poured out water; The skies sent out a sound; Your arrows also flashed about."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 18,
+          "text": "18 The voice of Your thunder was in the whirlwind; The lightnings lit up the world; The earth trembled and shook."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 19,
+          "text": "19 Your way was in the sea, Your path in the great waters, And Your footsteps were not known."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 77,
+          "verse": 20,
+          "text": "20 You led Your people like a flock By the hand of Moses and Aaron."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:16.246371"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Isaiah 24",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 1,
+          "text": "1 Behold, the L\u1d0f\u0280\u1d05 makes the earth empty and makes it waste, Distorts its surface And scatters abroad its inhabitants."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 2,
+          "text": "2 And it shall be: As with the people, so with the priest; As with the servant, so with his master; As with the maid, so with her mistress; As with the buyer, so with the seller; As with the lender, so with the borrower; As with the creditor, so with the debtor."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 3,
+          "text": "3 The land shall be entirely emptied and utterly plundered, For the L\u1d0f\u0280\u1d05 has spoken this word."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 4,
+          "text": "4 The earth mourns and fades away, The world languishes and fades away; The haughty people of the earth languish."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 5,
+          "text": "5 The earth is also defiled under its inhabitants, Because they have transgressed the laws, Changed the ordinance, Broken the everlasting covenant."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 6,
+          "text": "6 Therefore the curse has devoured the earth, And those who dwell in it are desolate. Therefore the inhabitants of the earth are burned, And few men are left."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 7,
+          "text": "7 The new wine fails, the vine languishes, All the merry-hearted sigh."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 8,
+          "text": "8 The mirth of the tambourine ceases, The noise of the jubilant ends, The joy of the harp ceases."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 9,
+          "text": "9 They shall not drink wine with a song; Strong drink is bitter to those who drink it."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 10,
+          "text": "10 The city of confusion is broken down; Every house is shut up, so that none may go in."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 11,
+          "text": "11 There is a cry for wine in the streets, All joy is darkened, The mirth of the land is gone."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 12,
+          "text": "12 In the city desolation is left, And the gate is stricken with destruction."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 13,
+          "text": "13 When it shall be thus in the midst of the land among the people, It shall be like the shaking of an olive tree, Like the gleaning of grapes when the vintage is done."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 14,
+          "text": "14 They shall lift up their voice, they shall sing; For the majesty of the L\u1d0f\u0280\u1d05 They shall cry aloud from the sea."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 15,
+          "text": "15 Therefore glorify the L\u1d0f\u0280\u1d05 in the dawning light, The name of the L\u1d0f\u0280\u1d05 God of Israel in the coastlands of the sea."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 16,
+          "text": "16 From the ends of the earth we have heard songs: \u201cGlory to the righteous!\u201d But I said, \u201cI am ruined, ruined! Woe to me! The treacherous dealers have dealt treacherously, Indeed, the treacherous dealers have dealt very treacherously.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 17,
+          "text": "17 Fear and the pit and the snare Are upon you, O inhabitant of the earth."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 18,
+          "text": "18 And it shall be That he who flees from the noise of the fear Shall fall into the pit, And he who comes up from the midst of the pit Shall be caught in the snare; For the windows from on high are open, And the foundations of the earth are shaken."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 19,
+          "text": "19 The earth is violently broken, The earth is split open, The earth is shaken exceedingly."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 20,
+          "text": "20 The earth shall reel to and fro like a drunkard, And shall totter like a hut; Its transgression shall be heavy upon it, And it will fall, and not rise again."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 21,
+          "text": "21 It shall come to pass in that day That the L\u1d0f\u0280\u1d05 will punish on high the host of exalted ones, And on the earth the kings of the earth."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 22,
+          "text": "22 They will be gathered together, As prisoners are gathered in the pit, And will be shut up in the prison; After many days they will be punished."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 24,
+          "verse": 23,
+          "text": "23 Then the moon will be disgraced And the sun ashamed; For the L\u1d0f\u0280\u1d05 of hosts will reign On Mount Zion and in Jerusalem And before His elders, gloriously."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:16.902367"
+    },
+    {
+      "reference": "1 John 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 1,
+          "text": "1 My little children, these things I write to you, so that you may not sin. And if anyone sins, we have an Advocate with the Father, Jesus Christ the righteous."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 2,
+          "text": "2 And He Himself is the propitiation for our sins, and not for ours only but also for the whole world."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 3,
+          "text": "3 Now by this we know that we know Him, if we keep His commandments."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 4,
+          "text": "4 He who says, \u201cI know Him,\u201d and does not keep His commandments, is a liar, and the truth is not in him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 5,
+          "text": "5 But whoever keeps His word, truly the love of God is perfected in him. By this we know that we are in Him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 6,
+          "text": "6 He who says he abides in Him ought himself also to walk just as He walked."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 7,
+          "text": "7 Brethren, [a] I write no new commandment to you, but an old commandment which you have had from the beginning. The old commandment is the word which you heard from the beginning. [b]"
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 8,
+          "text": "8 Again, a new commandment I write to you, which thing is true in Him and in you, because the darkness is passing away, and the true light is already shining."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 9,
+          "text": "9 He who says he is in the light, and hates his brother, is in darkness until now."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 10,
+          "text": "10 He who loves his brother abides in the light, and there is no cause for stumbling in him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 11,
+          "text": "11 But he who hates his brother is in darkness and walks in darkness, and does not know where he is going, because the darkness has blinded his eyes."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 12,
+          "text": "12 I write to you, little children, Because your sins are forgiven you for His name\u2019s sake."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 13,
+          "text": "13 I write to you, fathers, Because you have known Him who is from the beginning. I write to you, young men, Because you have overcome the wicked one. I write to you, little children, Because you have known the Father."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 14,
+          "text": "14 I have written to you, fathers, Because you have known Him who is from the beginning. I have written to you, young men, Because you are strong, and the word of God abides in you, And you have overcome the wicked one."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 15,
+          "text": "15 Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 16,
+          "text": "16 For all that is in the world\u2014the lust of the flesh, the lust of the eyes, and the pride of life\u2014is not of the Father but is of the world."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 17,
+          "text": "17 And the world is passing away, and the lust of it; but he who does the will of God abides forever."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 18,
+          "text": "18 Little children, it is the last hour; and as you have heard that the [c] Antichrist is coming, even now many antichrists have come, by which we know that it is the last hour."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 19,
+          "text": "19 They went out from us, but they were not of us; for if they had been of us, they would have continued with us; but they went out that they might be made manifest, that none of them were of us."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 20,
+          "text": "20 But you have an anointing from the Holy One, and you know all things. [d]"
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 21,
+          "text": "21 I have not written to you because you do not know the truth, but because you know it, and that no lie is of the truth."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 22,
+          "text": "22 Who is a liar but he who denies that Jesus is the Christ? He is antichrist who denies the Father and the Son."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 23,
+          "text": "23 Whoever denies the Son does not have the Father either; he who acknowledges the Son has the Father also."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 24,
+          "text": "24 Therefore let that abide in you which you heard from the beginning. If what you heard from the beginning abides in you, you also will abide in the Son and in the Father."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 25,
+          "text": "25 And this is the promise that He has promised us\u2014eternal life."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 26,
+          "text": "26 These things I have written to you concerning those who try to deceive you."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 27,
+          "text": "27 But the anointing which you have received from Him abides in you, and you do not need that anyone teach you; but as the same anointing teaches you concerning all things, and is true, and is not a lie, and just as it has taught you, you will [e] abide in Him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 28,
+          "text": "28 And now, little children, abide in Him, that when He appears, we may have confidence and not be ashamed before Him at His coming."
+        },
+        {
+          "book": "1 John",
+          "chapter": 2,
+          "verse": 29,
+          "text": "29 If you know that He is righteous, you know that everyone who practices righteousness is born of Him."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:17.294479"
+    }
+  ]
+}

@@ -1,0 +1,683 @@
+{
+  "format_version": "1.0",
+  "date": "05/20",
+  "cached_at": "2026-02-05T17:55:05.092895",
+  "Family": [
+    {
+      "reference": "Numbers 29",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 1,
+          "text": "1 \u2018And in the seventh month, on the first day of the month, you shall have a holy convocation. You shall do no customary work. For you it is a day of blowing the trumpets."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 2,
+          "text": "2 You shall offer a burnt offering as a sweet aroma to the L\u1d0f\u0280\u1d05: one young bull, one ram, and seven lambs in their first year, without blemish."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 3,
+          "text": "3 Their grain offering shall be fine flour mixed with oil: three-tenths of an ephah for the bull, two-tenths for the ram,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 4,
+          "text": "4 and one-tenth for each of the seven lambs;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 5,
+          "text": "5 also one kid of the goats as a sin offering, to make atonement for you;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 6,
+          "text": "6 besides the burnt offering with its grain offering for the New Moon, the regular burnt offering with its grain offering, and their drink offerings, according to their ordinance, as a sweet aroma, an offering made by fire to the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 7,
+          "text": "7 \u2018On the tenth day of this seventh month you shall have a holy convocation. You shall afflict your souls; you shall not do any work."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 8,
+          "text": "8 You shall present a burnt offering to the L\u1d0f\u0280\u1d05 as a sweet aroma: one young bull, one ram, and seven lambs in their first year. Be sure they are without blemish."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 9,
+          "text": "9 Their grain offering shall be of fine flour mixed with oil: three-tenths of an ephah for the bull, two-tenths for the one ram,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 10,
+          "text": "10 and one-tenth for each of the seven lambs;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 11,
+          "text": "11 also one kid of the goats as a sin offering, besides the sin offering for atonement, the regular burnt offering with its grain offering, and their drink offerings."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 12,
+          "text": "12 \u2018On the fifteenth day of the seventh month you shall have a holy convocation. You shall do no customary work, and you shall keep a feast to the L\u1d0f\u0280\u1d05 seven days."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 13,
+          "text": "13 You shall present a burnt offering, an offering made by fire as a sweet aroma to the L\u1d0f\u0280\u1d05: thirteen young bulls, two rams, and fourteen lambs in their first year. They shall be without blemish."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 14,
+          "text": "14 Their grain offering shall be of fine flour mixed with oil: three-tenths of an ephah for each of the thirteen bulls, two-tenths for each of the two rams,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 15,
+          "text": "15 and one-tenth for each of the fourteen lambs;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 16,
+          "text": "16 also one kid of the goats as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 17,
+          "text": "17 \u2018On the second day present twelve young bulls, two rams, fourteen lambs in their first year without blemish,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 18,
+          "text": "18 and their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, by their number, according to the ordinance;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 19,
+          "text": "19 also one kid of the goats as a sin offering, besides the regular burnt offering with its grain offering, and their drink offerings."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 20,
+          "text": "20 \u2018On the third day present eleven bulls, two rams, fourteen lambs in their first year without blemish,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 21,
+          "text": "21 and their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, by their number, according to the ordinance;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 22,
+          "text": "22 also one goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 23,
+          "text": "23 \u2018On the fourth day present ten bulls, two rams, and fourteen lambs in their first year, without blemish,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 24,
+          "text": "24 and their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, by their number, according to the ordinance;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 25,
+          "text": "25 also one kid of the goats as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 26,
+          "text": "26 \u2018On the fifth day present nine bulls, two rams, and fourteen lambs in their first year without blemish,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 27,
+          "text": "27 and their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, by their number, according to the ordinance;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 28,
+          "text": "28 also one goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 29,
+          "text": "29 \u2018On the sixth day present eight bulls, two rams, and fourteen lambs in their first year without blemish,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 30,
+          "text": "30 and their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, by their number, according to the ordinance;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 31,
+          "text": "31 also one goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 32,
+          "text": "32 \u2018On the seventh day present seven bulls, two rams, and fourteen lambs in their first year without blemish,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 33,
+          "text": "33 and their grain offering and their drink offerings for the bulls, for the rams, and for the lambs, by their number, according to the ordinance;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 34,
+          "text": "34 also one goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 35,
+          "text": "35 \u2018On the eighth day you shall have a sacred assembly. You shall do no customary work."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 36,
+          "text": "36 You shall present a burnt offering, an offering made by fire as a sweet aroma to the L\u1d0f\u0280\u1d05: one bull, one ram, seven lambs in their first year without blemish,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 37,
+          "text": "37 and their grain offering and their drink offerings for the bull, for the ram, and for the lambs, by their number, according to the ordinance;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 38,
+          "text": "38 also one goat as a sin offering, besides the regular burnt offering, its grain offering, and its drink offering."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 39,
+          "text": "39 \u2018These you shall present to the L\u1d0f\u0280\u1d05 at your appointed feasts (besides your vowed offerings and your freewill offerings) as your burnt offerings and your grain offerings, as your drink offerings and your peace offerings.\u2019 \u201c"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 29,
+          "verse": 40,
+          "text": "40 So Moses told the children of Israel everything, just as the L\u1d0f\u0280\u1d05 commanded Moses."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:05.971519"
+    },
+    {
+      "reference": "Psalm 73",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 1,
+          "text": "1 A Psalm of Asaph. Truly God is good to Israel, To such as are pure in heart."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 2,
+          "text": "2 But as for me, my feet had almost stumbled; My steps had nearly slipped."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 3,
+          "text": "3 For I was envious of the boastful, When I saw the prosperity of the wicked."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 4,
+          "text": "4 For there are no pangs in their death, But their strength is firm."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 5,
+          "text": "5 They are not in trouble as other men, Nor are they plagued like other men."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 6,
+          "text": "6 Therefore pride serves as their necklace; Violence covers them like a garment."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 7,
+          "text": "7 Their eyes bulge with abundance; They have more than heart could wish."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 8,
+          "text": "8 They scoff and speak wickedly concerning oppression; They speak loftily."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 9,
+          "text": "9 They set their mouth against the heavens, And their tongue walks through the earth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 10,
+          "text": "10 Therefore his people return here, And waters of a full cup are drained by them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 11,
+          "text": "11 And they say, \u201cHow does God know? And is there knowledge in the Most High?\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 12,
+          "text": "12 Behold, these are the ungodly, Who are always at ease; They increase in riches."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 13,
+          "text": "13 Surely I have cleansed my heart in vain, And washed my hands in innocence."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 14,
+          "text": "14 For all day long I have been plagued, And chastened every morning."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 15,
+          "text": "15 If I had said, \u201cI will speak thus,\u201d Behold, I would have been untrue to the generation of Your children."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 16,
+          "text": "16 When I thought how to understand this, It was too painful for me\u2014"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 17,
+          "text": "17 Until I went into the sanctuary of God; Then I understood their end."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 18,
+          "text": "18 Surely You set them in slippery places; You cast them down to destruction."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 19,
+          "text": "19 Oh, how they are brought to desolation, as in a moment! They are utterly consumed with terrors."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 20,
+          "text": "20 As a dream when one awakes, So, Lord, when You awake, You shall despise their image."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 21,
+          "text": "21 Thus my heart was grieved, And I was vexed in my mind."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 22,
+          "text": "22 I was so foolish and ignorant; I was like a beast before You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 23,
+          "text": "23 Nevertheless I am continually with You; You hold me by my right hand."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 24,
+          "text": "24 You will guide me with Your counsel, And afterward receive me to glory."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 25,
+          "text": "25 Whom have I in heaven but You? And there is none upon earth that I desire besides You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 26,
+          "text": "26 My flesh and my heart fail; But God is the strength of my heart and my portion forever."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 27,
+          "text": "27 For indeed, those who are far from You shall perish; You have destroyed all those who desert You for harlotry."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 73,
+          "verse": 28,
+          "text": "28 But it is good for me to draw near to God; I have put my trust in the L\u1d0f\u0280\u1d05 God, That I may declare all Your works."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:06.548931"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Isaiah 21",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 1,
+          "text": "1 The burden against the Wilderness of the Sea. As whirlwinds in the South pass through, So it comes from the desert, from a terrible land."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 2,
+          "text": "2 A distressing vision is declared to me; The treacherous dealer deals treacherously, And the plunderer plunders. Go up, O Elam! Besiege, O Media! All its sighing I have made to cease."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 3,
+          "text": "3 Therefore my loins are filled with pain; Pangs have taken hold of me, like the pangs of a woman in labor. I was distressed when I heard it; I was dismayed when I saw it."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 4,
+          "text": "4 My heart wavered, fearfulness frightened me; The night for which I longed He turned into fear for me."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 5,
+          "text": "5 Prepare the table, Set a watchman in the tower, Eat and drink. Arise, you princes, Anoint the shield!"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 6,
+          "text": "6 For thus has the L\u1d0f\u0280\u1d05 said to me: \u201cGo, set a watchman, Let him declare what he sees.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 7,
+          "text": "7 And he saw a chariot with a pair of horsemen, A chariot of donkeys, and a chariot of camels, And he listened earnestly with great care."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 8,
+          "text": "8 Then he cried, \u201cA lion, my Lord! I stand continually on the watchtower in the daytime; I have sat at my post every night."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 9,
+          "text": "9 And look, here comes a chariot of men with a pair of horsemen!\u201d Then he answered and said, \u201cBabylon is fallen, is fallen! And all the carved images of her gods He has broken to the ground.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 10,
+          "text": "10 Oh, my threshing and the grain of my floor! That which I have heard from the L\u1d0f\u0280\u1d05 of hosts, The God of Israel, I have declared to you."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 11,
+          "text": "11 The burden against Dumah. He calls to me out of Seir, \u201cWatchman, what of the night? Watchman, what of the night?\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 12,
+          "text": "12 The watchman said, \u201cThe morning comes, and also the night. If you will inquire, inquire; Return! Come back!\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 13,
+          "text": "13 The burden against Arabia. In the forest in Arabia you will lodge, O you traveling companies of Dedanites."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 14,
+          "text": "14 O inhabitants of the land of Tema, Bring water to him who is thirsty; With their bread they met him who fled."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 15,
+          "text": "15 For they fled from the swords, from the drawn sword, From the bent bow, and from the distress of war."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 16,
+          "text": "16 For thus the L\u1d0f\u0280\u1d05 has said to me: \u201cWithin a year, according to the year of a hired man, all the glory of Kedar will fail;"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 21,
+          "verse": 17,
+          "text": "17 and the remainder of the number of archers, the mighty men of the people of Kedar, will be diminished; for the L\u1d0f\u0280\u1d05 God of Israel has spoken it.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:07.061827"
+    },
+    {
+      "reference": "2 Peter 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 1,
+          "text": "1 But there were also false prophets among the people, even as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Lord who bought them, and bring on themselves swift destruction."
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 2,
+          "text": "2 And many will follow their destructive ways, because of whom the way of truth will be blasphemed."
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 3,
+          "text": "3 By covetousness they will exploit you with deceptive words; for a long time their judgment has not been idle, and their destruction does [a] not slumber."
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 4,
+          "text": "4 For if God did not spare the angels who sinned, but cast them down to hell and delivered them into chains of darkness, to be reserved for judgment;"
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 5,
+          "text": "5 and did not spare the ancient world, but saved Noah, one of eight people, a preacher of righteousness, bringing in the flood on the world of the ungodly;"
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 6,
+          "text": "6 and turning the cities of Sodom and Gomorrah into ashes, condemned them to destruction, making them an example to those who afterward would live ungodly;"
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 7,
+          "text": "7 and delivered righteous Lot, who was oppressed by the filthy conduct of the wicked"
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 8,
+          "text": "8 (for that righteous man, dwelling among them, tormented his righteous soul from day to day by seeing and hearing their lawless deeds)\u2014"
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 9,
+          "text": "9 then the Lord knows how to deliver the godly out of temptations and to reserve the unjust under punishment for the day of judgment,"
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 10,
+          "text": "10 and especially those who walk according to the flesh in the lust of uncleanness and despise authority. They are presumptuous, self-willed. They are not afraid to speak evil of dignitaries,"
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 11,
+          "text": "11 whereas angels, who are greater in power and might, do not bring a reviling accusation against them before the Lord."
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 12,
+          "text": "12 But these, like natural brute beasts made to be caught and destroyed, speak evil of the things they do not understand, and will utterly perish in their own corruption,"
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 13,
+          "text": "13 and will receive the wages of unrighteousness, as those who count it pleasure to carouse in the daytime. They are spots and blemishes, carousing in their own deceptions while they feast with you,"
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 14,
+          "text": "14 having eyes full of adultery and that cannot cease from sin, enticing unstable souls. They have a heart trained in covetous practices, and are accursed children."
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 15,
+          "text": "15 They have forsaken the right way and gone astray, following the way of Balaam the son of Beor, who loved the wages of unrighteousness;"
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 16,
+          "text": "16 but he was rebuked for his iniquity: a dumb donkey speaking with a man\u2019s voice restrained the madness of the prophet."
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 17,
+          "text": "17 These are wells without water, clouds [b] carried by a tempest, for whom is reserved the blackness of darkness forever."
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 18,
+          "text": "18 For when they speak great swelling words of emptiness, they allure through the lusts of the flesh, through lewdness, the ones who have actually escaped from those who live in error."
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 19,
+          "text": "19 While they promise them liberty, they themselves are slaves of corruption; for by whom a person is overcome, by him also he is brought into bondage."
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 20,
+          "text": "20 For if, after they have escaped the pollutions of the world through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in them and overcome, the latter end is worse for them than the beginning."
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 21,
+          "text": "21 For it would have been better for them not to have known the way of righteousness, than having known it, to turn from the holy commandment delivered to them."
+        },
+        {
+          "book": "2 Peter",
+          "chapter": 2,
+          "verse": 22,
+          "text": "22 But it has happened to them according to the true proverb: \u201cA dog returns to his own vomit,\u201d and, \u201ca sow, having washed, to her wallowing in the mire.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:07.554253"
+    }
+  ]
+}

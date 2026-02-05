@@ -1,0 +1,1025 @@
+{
+  "format_version": "1.0",
+  "date": "05/24",
+  "cached_at": "2026-02-05T17:00:56.832487",
+  "Family": [
+    {
+      "reference": "Numbers 33",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 1,
+          "text": "1 These are the journeys of the children of Israel, who went out of the land of Egypt by their armies under the hand of Moses and Aaron."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 2,
+          "text": "2 Now Moses wrote down the starting points of their journeys at the command of the L\u1d0f\u0280\u1d05. And these are their journeys according to their starting points:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 3,
+          "text": "3 They departed from Rameses in the first month, on the fifteenth day of the first month; on the day after the Passover the children of Israel went out with boldness in the sight of all the Egyptians."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 4,
+          "text": "4 For the Egyptians were burying all their firstborn, whom the L\u1d0f\u0280\u1d05 had killed among them. Also on their gods the L\u1d0f\u0280\u1d05 had executed judgments."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 5,
+          "text": "5 Then the children of Israel moved from Rameses and camped at Succoth."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 6,
+          "text": "6 They departed from Succoth and camped at Etham, which is on the edge of the wilderness."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 7,
+          "text": "7 They moved from Etham and turned back to Pi Hahiroth, which is east of Baal Zephon; and they camped near Migdol."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 8,
+          "text": "8 They departed from before Hahiroth and passed through the midst of the sea into the wilderness, went three days\u2019 journey in the Wilderness of Etham, and camped at Marah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 9,
+          "text": "9 They moved from Marah and came to Elim. At Elim were twelve springs of water and seventy palm trees; so they camped there."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 10,
+          "text": "10 They moved from Elim and camped by the Red Sea."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 11,
+          "text": "11 They moved from the Red Sea and camped in the Wilderness of Sin."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 12,
+          "text": "12 They journeyed from the Wilderness of Sin and camped at Dophkah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 13,
+          "text": "13 They departed from Dophkah and camped at Alush."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 14,
+          "text": "14 They moved from Alush and camped at Rephidim, where there was no water for the people to drink."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 15,
+          "text": "15 They departed from Rephidim and camped in the Wilderness of Sinai."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 16,
+          "text": "16 They moved from the Wilderness of Sinai and camped at Kibroth Hattaavah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 17,
+          "text": "17 They departed from Kibroth Hattaavah and camped at Hazeroth."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 18,
+          "text": "18 They departed from Hazeroth and camped at Rithmah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 19,
+          "text": "19 They departed from Rithmah and camped at Rimmon Perez."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 20,
+          "text": "20 They departed from Rimmon Perez and camped at Libnah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 21,
+          "text": "21 They moved from Libnah and camped at Rissah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 22,
+          "text": "22 They journeyed from Rissah and camped at Kehelathah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 23,
+          "text": "23 They went from Kehelathah and camped at Mount Shepher."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 24,
+          "text": "24 They moved from Mount Shepher and camped at Haradah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 25,
+          "text": "25 They moved from Haradah and camped at Makheloth."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 26,
+          "text": "26 They moved from Makheloth and camped at Tahath."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 27,
+          "text": "27 They departed from Tahath and camped at Terah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 28,
+          "text": "28 They moved from Terah and camped at Mithkah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 29,
+          "text": "29 They went from Mithkah and camped at Hashmonah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 30,
+          "text": "30 They departed from Hashmonah and camped at Moseroth."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 31,
+          "text": "31 They departed from Moseroth and camped at Bene Jaakan."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 32,
+          "text": "32 They moved from Bene Jaakan and camped at Hor Hagidgad."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 33,
+          "text": "33 They went from Hor Hagidgad and camped at Jotbathah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 34,
+          "text": "34 They moved from Jotbathah and camped at Abronah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 35,
+          "text": "35 They departed from Abronah and camped at Ezion Geber."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 36,
+          "text": "36 They moved from Ezion Geber and camped in the Wilderness of Zin, which is Kadesh."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 37,
+          "text": "37 They moved from Kadesh and camped at Mount Hor, on the boundary of the land of Edom."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 38,
+          "text": "38 Then Aaron the priest went up to Mount Hor at the command of the L\u1d0f\u0280\u1d05, and died there in the fortieth year after the children of Israel had come out of the land of Egypt, on the first day of the fifth month."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 39,
+          "text": "39 Aaron was one hundred and twenty-three years old when he died on Mount Hor."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 40,
+          "text": "40 Now the king of Arad, the Canaanite, who dwelt in the South in the land of Canaan, heard of the coming of the children of Israel."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 41,
+          "text": "41 So they departed from Mount Hor and camped at Zalmonah."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 42,
+          "text": "42 They departed from Zalmonah and camped at Punon."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 43,
+          "text": "43 They departed from Punon and camped at Oboth."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 44,
+          "text": "44 They departed from Oboth and camped at Ije Abarim, at the border of Moab."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 45,
+          "text": "45 They departed from Ijim and camped at Dibon Gad."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 46,
+          "text": "46 They moved from Dibon Gad and camped at Almon Diblathaim."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 47,
+          "text": "47 They moved from Almon Diblathaim and camped in the mountains of Abarim, before Nebo."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 48,
+          "text": "48 They departed from the mountains of Abarim and camped in the plains of Moab by the Jordan, across from Jericho."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 49,
+          "text": "49 They camped by the Jordan, from Beth Jesimoth as far as the Abel Acacia Grove in the plains of Moab."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 50,
+          "text": "50 Now the L\u1d0f\u0280\u1d05 spoke to Moses in the plains of Moab by the Jordan, across from Jericho, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 51,
+          "text": "51 \u201cSpeak to the children of Israel, and say to them: \u2018When you have crossed the Jordan into the land of Canaan,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 52,
+          "text": "52 then you shall drive out all the inhabitants of the land from before you, destroy all their engraved stones, destroy all their molded images, and demolish all their high places;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 53,
+          "text": "53 you shall dispossess the inhabitants of the land and dwell in it, for I have given you the land to possess."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 54,
+          "text": "54 And you shall divide the land by lot as an inheritance among your families; to the larger you shall give a larger inheritance, and to the smaller you shall give a smaller inheritance; there everyone\u2019s inheritance shall be whatever falls to him by lot. You shall inherit according to the tribes of your fathers."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 55,
+          "text": "55 But if you do not drive out the inhabitants of the land from before you, then it shall be that those whom you let remain shall be irritants in your eyes and thorns in your sides, and they shall harass you in the land where you dwell."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 33,
+          "verse": 56,
+          "text": "56 Moreover it shall be that I will do to you as I thought to do to them.\u2019 \u201c"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:00:57.635293"
+    },
+    {
+      "reference": "Psalm 78",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 1,
+          "text": "1 A Contemplation of Asaph. Give ear, O my people, to my law; Incline your ears to the words of my mouth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 2,
+          "text": "2 I will open my mouth in a parable; I will utter dark sayings of old,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 3,
+          "text": "3 Which we have heard and known, And our fathers have told us."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 4,
+          "text": "4 We will not hide them from their children, Telling to the generation to come the praises of the L\u1d0f\u0280\u1d05, And His strength and His wonderful works that He has done."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 5,
+          "text": "5 For He established a testimony in Jacob, And appointed a law in Israel, Which He commanded our fathers, That they should make them known to their children;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 6,
+          "text": "6 That the generation to come might know them, The children who would be born, That they may arise and declare them to their children,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 7,
+          "text": "7 That they may set their hope in God, And not forget the works of God, But keep His commandments;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 8,
+          "text": "8 And may not be like their fathers, A stubborn and rebellious generation, A generation that did not set its heart aright, And whose spirit was not faithful to God."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 9,
+          "text": "9 The children of Ephraim, being armed and carrying bows, Turned back in the day of battle."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 10,
+          "text": "10 They did not keep the covenant of God; They refused to walk in His law,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 11,
+          "text": "11 And forgot His works And His wonders that He had shown them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 12,
+          "text": "12 Marvelous things He did in the sight of their fathers, In the land of Egypt, in the field of Zoan."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 13,
+          "text": "13 He divided the sea and caused them to pass through; And He made the waters stand up like a heap."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 14,
+          "text": "14 In the daytime also He led them with the cloud, And all the night with a light of fire."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 15,
+          "text": "15 He split the rocks in the wilderness, And gave them drink in abundance like the depths."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 16,
+          "text": "16 He also brought streams out of the rock, And caused waters to run down like rivers."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 17,
+          "text": "17 But they sinned even more against Him By rebelling against the Most High in the wilderness."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 18,
+          "text": "18 And they tested God in their heart By asking for the food of their fancy."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 19,
+          "text": "19 Yes, they spoke against God: They said, \u201cCan God prepare a table in the wilderness?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 20,
+          "text": "20 Behold, He struck the rock, So that the waters gushed out, And the streams overflowed. Can He give bread also? Can He provide meat for His people?\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 21,
+          "text": "21 Therefore the L\u1d0f\u0280\u1d05 heard this and was furious; So a fire was kindled against Jacob, And anger also came up against Israel,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 22,
+          "text": "22 Because they did not believe in God, And did not trust in His salvation."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 23,
+          "text": "23 Yet He had commanded the clouds above, And opened the doors of heaven,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 24,
+          "text": "24 Had rained down manna on them to eat, And given them of the bread of heaven."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 25,
+          "text": "25 Men ate angels\u2019 food; He sent them food to the full."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 26,
+          "text": "26 He caused an east wind to blow in the heavens; And by His power He brought in the south wind."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 27,
+          "text": "27 He also rained meat on them like the dust, Feathered fowl like the sand of the seas;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 28,
+          "text": "28 And He let them fall in the midst of their camp, All around their dwellings."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 29,
+          "text": "29 So they ate and were well filled, For He gave them their own desire."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 30,
+          "text": "30 They were not deprived of their craving; But while their food was still in their mouths,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 31,
+          "text": "31 The wrath of God came against them, And slew the stoutest of them, And struck down the choice men of Israel."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 32,
+          "text": "32 In spite of this they still sinned, And did not believe in His wondrous works."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 33,
+          "text": "33 Therefore their days He consumed in futility, And their years in fear."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 34,
+          "text": "34 When He slew them, then they sought Him; And they returned and sought earnestly for God."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 35,
+          "text": "35 Then they remembered that God was their rock, And the Most High God their Redeemer."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 36,
+          "text": "36 Nevertheless they flattered Him with their mouth, And they lied to Him with their tongue;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 37,
+          "text": "37 For their heart was not steadfast with Him, Nor were they faithful in His covenant."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 38,
+          "text": "38 But He, being full of compassion, forgave their iniquity, And did not destroy them. Yes, many a time He turned His anger away, And did not stir up all His wrath;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 39,
+          "text": "39 For He remembered that they were but flesh, A breath that passes away and does not come again."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 40,
+          "text": "40 How often they provoked Him in the wilderness, And grieved Him in the desert!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 41,
+          "text": "41 Yes, again and again they tempted God, And limited the Holy One of Israel."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 42,
+          "text": "42 They did not remember His power: The day when He redeemed them from the enemy,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 43,
+          "text": "43 When He worked His signs in Egypt, And His wonders in the field of Zoan;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 44,
+          "text": "44 Turned their rivers into blood, And their streams, that they could not drink."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 45,
+          "text": "45 He sent swarms of flies among them, which devoured them, And frogs, which destroyed them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 46,
+          "text": "46 He also gave their crops to the caterpillar, And their labor to the locust."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 47,
+          "text": "47 He destroyed their vines with hail, And their sycamore trees with frost."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 48,
+          "text": "48 He also gave up their cattle to the hail, And their flocks to fiery lightning."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 49,
+          "text": "49 He cast on them the fierceness of His anger, Wrath, indignation, and trouble, By sending angels of destruction among them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 50,
+          "text": "50 He made a path for His anger; He did not spare their soul from death, But gave their life over to the plague,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 51,
+          "text": "51 And destroyed all the firstborn in Egypt, The first of their strength in the tents of Ham."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 52,
+          "text": "52 But He made His own people go forth like sheep, And guided them in the wilderness like a flock;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 53,
+          "text": "53 And He led them on safely, so that they did not fear; But the sea overwhelmed their enemies."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 54,
+          "text": "54 And He brought them to His holy border, This mountain which His right hand had acquired."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 55,
+          "text": "55 He also drove out the nations before them, Allotted them an inheritance by survey, And made the tribes of Israel dwell in their tents."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 56,
+          "text": "56 Yet they tested and provoked the Most High God, And did not keep His testimonies,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 57,
+          "text": "57 But turned back and acted unfaithfully like their fathers; They were turned aside like a deceitful bow."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 58,
+          "text": "58 For they provoked Him to anger with their high places, And moved Him to jealousy with their carved images."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 59,
+          "text": "59 When God heard this, He was furious, And greatly abhorred Israel,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 60,
+          "text": "60 So that He forsook the tabernacle of Shiloh, The tent He had placed among men,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 61,
+          "text": "61 And delivered His strength into captivity, And His glory into the enemy\u2019s hand."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 62,
+          "text": "62 He also gave His people over to the sword, And was furious with His inheritance."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 63,
+          "text": "63 The fire consumed their young men, And their maidens were not given in marriage."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 64,
+          "text": "64 Their priests fell by the sword, And their widows made no lamentation."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 65,
+          "text": "65 Then the L\u1d0f\u0280\u1d05 awoke as from sleep, Like a mighty man who shouts because of wine."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 66,
+          "text": "66 And He beat back His enemies; He put them to a perpetual reproach."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 67,
+          "text": "67 Moreover He rejected the tent of Joseph, And did not choose the tribe of Ephraim,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 68,
+          "text": "68 But chose the tribe of Judah, Mount Zion which He loved."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 69,
+          "text": "69 And He built His sanctuary like the heights, Like the earth which He has established forever."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 70,
+          "text": "70 He also chose David His servant, And took him from the sheepfolds;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 71,
+          "text": "71 From following the ewes that had young He brought him, To shepherd Jacob His people, And Israel His inheritance."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 72,
+          "text": "72 So he shepherded them according to the integrity of his heart, And guided them by the skillfulness of his hands."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:00:58.679759"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Isaiah 25",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 1,
+          "text": "1 O L\u1d0f\u0280\u1d05, You are my God. I will exalt You, I will praise Your name, For You have done wonderful things; Your counsels of old are faithfulness and truth."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 2,
+          "text": "2 For You have made a city a ruin, A fortified city a ruin, A palace of foreigners to be a city no more; It will never be rebuilt."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 3,
+          "text": "3 Therefore the strong people will glorify You; The city of the terrible nations will fear You."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 4,
+          "text": "4 For You have been a strength to the poor, A strength to the needy in his distress, A refuge from the storm, A shade from the heat; For the blast of the terrible ones is as a storm against the wall."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 5,
+          "text": "5 You will reduce the noise of aliens, As heat in a dry place; As heat in the shadow of a cloud, The song of the terrible ones will be diminished."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 6,
+          "text": "6 And in this mountain The L\u1d0f\u0280\u1d05 of hosts will make for all people A feast of choice pieces, A feast of wines on the lees, Of fat things full of marrow, Of well-refined wines on the lees."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 7,
+          "text": "7 And He will destroy on this mountain The surface of the covering cast over all people, And the veil that is spread over all nations."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 8,
+          "text": "8 He will swallow up death forever, And the L\u1d0f\u0280\u1d05 God will wipe away tears from all faces; The rebuke of His people He will take away from all the earth; For the L\u1d0f\u0280\u1d05 has spoken."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 9,
+          "text": "9 And it will be said in that day: \u201cBehold, this is our God; We have waited for Him, and He will save us. This is the L\u1d0f\u0280\u1d05; We have waited for Him; We will be glad and rejoice in His salvation.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 10,
+          "text": "10 For on this mountain the hand of the L\u1d0f\u0280\u1d05 will rest, And Moab shall be trampled down under Him, As straw is trampled down for the refuse heap."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 11,
+          "text": "11 And He will spread out His hands in their midst As a swimmer reaches out to swim, And He will bring down their pride Together with the trickery of their hands."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 25,
+          "verse": 12,
+          "text": "12 The fortress of the high fort of your walls He will bring down, lay low, And bring to the ground, down to the dust."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:00:59.302086"
+    },
+    {
+      "reference": "1 John 3",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 1,
+          "text": "1 Behold what manner of love the Father has bestowed on us, that we should be called children of God! Therefore the world does not know us, because it did not know Him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 2,
+          "text": "2 Beloved, now we are children of God; and it has not yet been revealed what we shall be, but we know that when He is revealed, we shall be like Him, for we shall see Him as He is."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 3,
+          "text": "3 And everyone who has this hope in Him purifies himself, just as He is pure."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 4,
+          "text": "4 Whoever commits sin also commits lawlessness, and sin is lawlessness."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 5,
+          "text": "5 And you know that He was manifested to take away our sins, and in Him there is no sin."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 6,
+          "text": "6 Whoever abides in Him does not sin. Whoever sins has neither seen Him nor known Him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 7,
+          "text": "7 Little children, let no one deceive you. He who practices righteousness is righteous, just as He is righteous."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 8,
+          "text": "8 He who sins is of the devil, for the devil has sinned from the beginning. For this purpose the Son of God was manifested, that He might destroy the works of the devil."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 9,
+          "text": "9 Whoever has been born of God does not sin, for His seed remains in him; and he cannot sin, because he has been born of God."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 10,
+          "text": "10 In this the children of God and the children of the devil are manifest: Whoever does not practice righteousness is not of God, nor is he who does not love his brother."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 11,
+          "text": "11 For this is the message that you heard from the beginning, that we should love one another,"
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 12,
+          "text": "12 not as Cain who was of the wicked one and murdered his brother. And why did he murder him? Because his works were evil and his brother\u2019s righteous."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 13,
+          "text": "13 Do not marvel, my brethren, if the world hates you."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 14,
+          "text": "14 We know that we have passed from death to life, because we love the brethren. He who does not love his brother abides in death."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 15,
+          "text": "15 Whoever hates his brother is a murderer, and you know that no murderer has eternal life abiding in him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 16,
+          "text": "16 By this we know love, because He laid down His life for us. And we also ought to lay down our lives for the brethren."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 17,
+          "text": "17 But whoever has this world\u2019s goods, and sees his brother in need, and shuts up his heart from him, how does the love of God abide in him?"
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 18,
+          "text": "18 My little children, let us not love in word or in tongue, but in deed and in truth."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 19,
+          "text": "19 And by this we know that we are of the truth, and shall assure our hearts before Him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 20,
+          "text": "20 For if our heart condemns us, God is greater than our heart, and knows all things."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 21,
+          "text": "21 Beloved, if our heart does not condemn us, we have confidence toward God."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 22,
+          "text": "22 And whatever we ask we receive from Him, because we keep His commandments and do those things that are pleasing in His sight."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 23,
+          "text": "23 And this is His commandment: that we should believe on the name of His Son Jesus Christ and love one another, as He gave us commandment."
+        },
+        {
+          "book": "1 John",
+          "chapter": 3,
+          "verse": 24,
+          "text": "24 Now he who keeps His commandments abides in Him, and He in him. And by this we know that He abides in us, by the Spirit whom He has given us."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:00:59.806377"
+    }
+  ]
+}

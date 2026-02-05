@@ -1,0 +1,791 @@
+{
+  "format_version": "1.0",
+  "date": "03/12",
+  "cached_at": "2026-02-05T17:11:16.083650",
+  "Family": [
+    {
+      "reference": "Exodus 23",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 1,
+          "text": "1 \u201cYou shall not circulate a false report. Do not put your hand with the wicked to be an unrighteous witness."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 2,
+          "text": "2 You shall not follow a crowd to do evil; nor shall you testify in a dispute so as to turn aside after many to pervert justice."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 3,
+          "text": "3 You shall not show partiality to a poor man in his dispute."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 4,
+          "text": "4 \u201cIf you meet your enemy\u2019s ox or his donkey going astray, you shall surely bring it back to him again"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 5,
+          "text": "5 If you see the donkey of one who hates you lying under its burden, and you would refrain from helping it, you shall surely help him with it."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 6,
+          "text": "6 \u201cYou shall not pervert the judgment of your poor in his dispute."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 7,
+          "text": "7 Keep yourself far from a false matter; do not kill the innocent and righteous. For I will not justify the wicked."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 8,
+          "text": "8 And you shall take no bribe, for a bribe blinds the discerning and perverts the words of the righteous."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 9,
+          "text": "9 Also you shall not oppress a stranger, for you know the heart of a stranger, because you were strangers in the land of Egypt."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 10,
+          "text": "10 \u201cSix years you shall sow your land and gather in its produce,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 11,
+          "text": "11 but the seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave, the beasts of the field may eat. In like manner you shall do with your vineyard and your olive grove."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 12,
+          "text": "12 Six days you shall do your work, and on the seventh day you shall rest, that your ox and your donkey may rest, and the son of your female servant and the stranger may be refreshed."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 13,
+          "text": "13 And in all that I have said to you, be circumspect and make no mention of the name of other gods, nor let it be heard from your mouth."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 14,
+          "text": "14 \u201cThree times you shall keep a feast to Me in the year"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 15,
+          "text": "15 You shall keep the Feast of Unleavened Bread (you shall eat unleavened bread seven days, as I commanded you, at the time appointed in the month of Abib, for in it you came out of Egypt; none shall appear before Me empty);"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 16,
+          "text": "16 and the Feast of Harvest, the firstfruits of your labors which you have sown in the field; and the Feast of Ingathering at the end of the year, when you have gathered in the fruit of your labors from the field."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 17,
+          "text": "17 Three times in the year all your males shall appear before the L\u1d0f\u0280\u1d05 God."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 18,
+          "text": "18 You shall not offer the blood of My sacrifice with leavened bread; nor shall the fat of My sacrifice remain until morning."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 19,
+          "text": "19 The first of the firstfruits of your land you shall bring into the house of the L\u1d0f\u0280\u1d05 your God. You shall not boil a young goat in its mother\u2019s milk"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 20,
+          "text": "20 \u201cBehold, I send an Angel before you to keep you in the way and to bring you into the place which I have prepared."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 21,
+          "text": "21 Beware of Him and obey His voice; do not provoke Him, for He will not pardon your transgressions; for My name is in Him"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 22,
+          "text": "22 But if you indeed obey His voice and do all that I speak, then I will be an enemy to your enemies and an adversary to your adversaries."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 23,
+          "text": "23 For My Angel will go before you and bring you in to the Amorites and the Hittites and the Perizzites and the Canaanites and the Hivites and the Jebusites; and I will cut them off."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 24,
+          "text": "24 You shall not bow down to their gods, nor serve them, nor do according to their works; but you shall utterly overthrow them and completely break down their sacred pillars."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 25,
+          "text": "25 So you shall serve the L\u1d0f\u0280\u1d05 your God, and He will bless your bread and your water. And I will take sickness away from the midst of you."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 26,
+          "text": "26 No one shall suffer miscarriage or be barren in your land; I will fulfill the number of your days."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 27,
+          "text": "27 \u201cI will send My fear before you, I will cause confusion among all the people to whom you come, and will make all your enemies turn their backs to you."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 28,
+          "text": "28 And I will send hornets before you, which shall drive out the Hivite, the Canaanite, and the Hittite from before you."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 29,
+          "text": "29 I will not drive them out from before you in one year, lest the land become desolate and the beast of the field become too numerous for you."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 30,
+          "text": "30 Little by little I will drive them out from before you, until you have increased, and you inherit the land."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 31,
+          "text": "31 And I will set your bounds from the Red Sea to the sea, Philistia, and from the desert to the River. For I will deliver the inhabitants of the land into your hand, and you shall drive them out before you."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 32,
+          "text": "32 You shall make no covenant with them, nor with their gods."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 23,
+          "verse": 33,
+          "text": "33 They shall not dwell in your land, lest they make you sin against Me. For if you serve their gods, it will surely be a snare to you.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:16.655019"
+    },
+    {
+      "reference": "John 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 1,
+          "text": "1 On the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 2,
+          "text": "2 Now both Jesus and His disciples were invited to the wedding."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 3,
+          "text": "3 And when they ran out of wine, the mother of Jesus said to Him, \u201cThey have no wine.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 4,
+          "text": "4 Jesus said to her, \u201cWoman, what does your concern have to do with Me? My hour has not yet come.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 5,
+          "text": "5 His mother said to the servants, \u201cWhatever He says to you, do it.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 6,
+          "text": "6 Now there were set there six waterpots of stone, according to the manner of purification of the Jews, containing twenty or thirty gallons apiece."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 7,
+          "text": "7 Jesus said to them, \u201cFill the waterpots with water.\u201d And they filled them up to the brim."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 8,
+          "text": "8 And He said to them, \u201cDraw some out now, and take it to the master of the feast.\u201d And they took it."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 9,
+          "text": "9 When the master of the feast had tasted the water that was made wine, and did not know where it came from (but the servants who had drawn the water knew), the master of the feast called the bridegroom."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 10,
+          "text": "10 And he said to him, \u201cEvery man at the beginning sets out the good wine, and when the guests have well drunk, then the inferior. You have kept the good wine until now!\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 11,
+          "text": "11 This beginning of signs Jesus did in Cana of Galilee, and manifested His glory; and His disciples believed in Him."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 12,
+          "text": "12 After this He went down to Capernaum, He, His mother, His brothers, and His disciples; and they did not stay there many days."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 13,
+          "text": "13 Now the Passover of the Jews was at hand, and Jesus went up to Jerusalem."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 14,
+          "text": "14 And He found in the temple those who sold oxen and sheep and doves, and the moneychangers doing business."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 15,
+          "text": "15 When He had made a whip of cords, He drove them all out of the temple, with the sheep and the oxen, and poured out the changers\u2019 money and overturned the tables."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 16,
+          "text": "16 And He said to those who sold doves, \u201cTake these things away! Do not make My Father\u2019s house a house of merchandise!\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 17,
+          "text": "17 Then His disciples remembered that it was written, \u201cZeal for Your house has eaten Me up.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 18,
+          "text": "18 So the Jews answered and said to Him, \u201cWhat sign do You show to us, since You do these things?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 19,
+          "text": "19 Jesus answered and said to them, \u201cDestroy this temple, and in three days I will raise it up.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 20,
+          "text": "20 Then the Jews said, \u201cIt has taken forty-six years to build this temple, and will You raise it up in three days?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 21,
+          "text": "21 But He was speaking of the temple of His body."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 22,
+          "text": "22 Therefore, when He had risen from the dead, His disciples remembered that He had said this to them; and they believed the Scripture and the word which Jesus had said."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 23,
+          "text": "23 Now when He was in Jerusalem at the Passover, during the feast, many believed in His name when they saw the signs which He did."
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 24,
+          "text": "24 But Jesus did not commit Himself to them, because He knew all men,"
+        },
+        {
+          "book": "John",
+          "chapter": 2,
+          "verse": 25,
+          "text": "25 and had no need that anyone should testify of man, for He knew what was in man."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:17.137988"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Job 41",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 1,
+          "text": "1 \u201cCan you draw out Leviathan with a hook, Or snare his tongue with a line which you lower?"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 2,
+          "text": "2 Can you put a reed through his nose, Or pierce his jaw with a hook?"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 3,
+          "text": "3 Will he make many supplications to you? Will he speak softly to you?"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 4,
+          "text": "4 Will he make a covenant with you? Will you take him as a servant forever?"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 5,
+          "text": "5 Will you play with him as with a bird, Or will you leash him for your maidens?"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 6,
+          "text": "6 Will your companions make a banquet of him? Will they apportion him among the merchants?"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 7,
+          "text": "7 Can you fill his skin with harpoons, Or his head with fishing spears?"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 8,
+          "text": "8 Lay your hand on him; Remember the battle\u2014 Never do it again!"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 9,
+          "text": "9 Indeed, any hope of overcoming him is false; Shall one not be overwhelmed at the sight of him?"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 10,
+          "text": "10 No one is so fierce that he would dare stir him up. Who then is able to stand against Me?"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 11,
+          "text": "11 Who has preceded Me, that I should pay him? Everything under heaven is Mine."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 12,
+          "text": "12 \u201cI will not conceal his limbs, His mighty power, or his graceful proportions."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 13,
+          "text": "13 Who can remove his outer coat? Who can approach him with a double bridle?"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 14,
+          "text": "14 Who can open the doors of his face, With his terrible teeth all around?"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 15,
+          "text": "15 His rows of scales are his pride, Shut up tightly as with a seal;"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 16,
+          "text": "16 One is so near another That no air can come between them;"
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 17,
+          "text": "17 They are joined one to another, They stick together and cannot be parted."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 18,
+          "text": "18 His sneezings flash forth light, And his eyes are like the eyelids of the morning."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 19,
+          "text": "19 Out of his mouth go burning lights; Sparks of fire shoot out."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 20,
+          "text": "20 Smoke goes out of his nostrils, As from a boiling pot and burning rushes."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 21,
+          "text": "21 His breath kindles coals, And a flame goes out of his mouth."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 22,
+          "text": "22 Strength dwells in his neck, And sorrow dances before him."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 23,
+          "text": "23 The folds of his flesh are joined together; They are firm on him and cannot be moved."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 24,
+          "text": "24 His heart is as hard as stone, Even as hard as the lower millstone."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 25,
+          "text": "25 When he raises himself up, the mighty are afraid; Because of his crashings they are beside themselves."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 26,
+          "text": "26 Though the sword reaches him, it cannot avail; Nor does spear, dart, or javelin."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 27,
+          "text": "27 He regards iron as straw, And bronze as rotten wood."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 28,
+          "text": "28 The arrow cannot make him flee; Slingstones become like stubble to him."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 29,
+          "text": "29 Darts are regarded as straw; He laughs at the threat of javelins."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 30,
+          "text": "30 His undersides are like sharp potsherds; He spreads pointed marks in the mire."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 31,
+          "text": "31 He makes the deep boil like a pot; He makes the sea like a pot of ointment."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 32,
+          "text": "32 He leaves a shining wake behind him; One would think the deep had white hair."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 33,
+          "text": "33 On earth there is nothing like him, Which is made without fear."
+        },
+        {
+          "book": "Job",
+          "chapter": 41,
+          "verse": 34,
+          "text": "34 He beholds every high thing; He is king over all the children of pride.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:17.855488"
+    },
+    {
+      "reference": "2 Corinthians 11",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 1,
+          "text": "1 Oh, that you would bear with me in a little folly\u2014and indeed you do bear with me."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 2,
+          "text": "2 For I am jealous for you with godly jealousy. For I have betrothed you to one husband, that I may present you as a chaste virgin to Christ."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 3,
+          "text": "3 But I fear, lest somehow, as the serpent deceived Eve by his craftiness, so your minds may be corrupted from the simplicity that is in Christ."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 4,
+          "text": "4 For if he who comes preaches another Jesus whom we have not preached, or if you receive a different spirit which you have not received, or a different gospel which you have not accepted\u2014you may well put up with it!"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 5,
+          "text": "5 For I consider that I am not at all inferior to the most eminent apostles."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 6,
+          "text": "6 Even though I am untrained in speech, yet I am not in knowledge. But we have been thoroughly manifested among you in all things."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 7,
+          "text": "7 Did I commit sin in humbling myself that you might be exalted, because I preached the gospel of God to you free of charge?"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 8,
+          "text": "8 I robbed other churches, taking wages from them to minister to you."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 9,
+          "text": "9 And when I was present with you, and in need, I was a burden to no one, for what I lacked the brethren who came from Macedonia supplied. And in everything I kept myself from being burdensome to you, and so I will keep myself."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 10,
+          "text": "10 As the truth of Christ is in me, no one shall stop me from this boasting in the regions of Achaia."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 11,
+          "text": "11 Why? Because I do not love you? God knows!"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 12,
+          "text": "12 But what I do, I will also continue to do, that I may cut off the opportunity from those who desire an opportunity to be regarded just as we are in the things of which they boast."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 13,
+          "text": "13 For such are false apostles, deceitful workers, transforming themselves into apostles of Christ."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 14,
+          "text": "14 And no wonder! For Satan himself transforms himself into an angel of light."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 15,
+          "text": "15 Therefore it is no great thing if his ministers also transform themselves into ministers of righteousness, whose end will be according to their works."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 16,
+          "text": "16 I say again, let no one think me a fool. If otherwise, at least receive me as a fool, that I also may boast a little."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 17,
+          "text": "17 What I speak, I speak not according to the Lord, but as it were, foolishly, in this confidence of boasting."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 18,
+          "text": "18 Seeing that many boast according to the flesh, I also will boast."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 19,
+          "text": "19 For you put up with fools gladly, since you yourselves are wise!"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 20,
+          "text": "20 For you put up with it if one brings you into bondage, if one devours you, if one takes from you, if one exalts himself, if one strikes you on the face."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 21,
+          "text": "21 To our shame, I say that we were too weak for that! But in whatever anyone is bold\u2014I speak foolishly\u2014I am bold also."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 22,
+          "text": "22 Are they Hebrews? So am I. Are they Israelites? So am I. Are they the seed of Abraham? So am I."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 23,
+          "text": "23 Are they ministers of Christ?\u2014I speak as a fool\u2014I am more: in labors more abundant, in stripes above measure, in prisons more frequently, in deaths often."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 24,
+          "text": "24 From the Jews five times I received forty stripes minus one."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 25,
+          "text": "25 Three times I was beaten with rods; once I was stoned; three times I was shipwrecked; a night and a day I have been in the deep;"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 26,
+          "text": "26 in journeys often, in perils of waters, in perils of robbers, in perils of my own countrymen, in perils of the Gentiles, in perils in the city, in perils in the wilderness, in perils in the sea, in perils among false brethren;"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 27,
+          "text": "27 in weariness and toil, in sleeplessness often, in hunger and thirst, in fastings often, in cold and nakedness\u2014"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 28,
+          "text": "28 besides the other things, what comes upon me daily: my deep concern for all the churches."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 29,
+          "text": "29 Who is weak, and I am not weak? Who is made to stumble, and I do not burn with indignation?"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 30,
+          "text": "30 If I must boast, I will boast in the things which concern my infirmity."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 31,
+          "text": "31 The God and Father of our Lord Jesus Christ, who is blessed forever, knows that I am not lying."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 32,
+          "text": "32 In Damascus the governor, under Aretas the king, was guarding the city of the Damascenes with a garrison, desiring to arrest me;"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 11,
+          "verse": 33,
+          "text": "33 but I was let down in a basket through a window in the wall, and escaped from his hands."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:18.836584"
+    }
+  ]
+}

@@ -1,0 +1,881 @@
+{
+  "format_version": "1.0",
+  "date": "05/06",
+  "cached_at": "2026-02-05T17:54:00.261837",
+  "Family": [
+    {
+      "reference": "Numbers 14",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 1,
+          "text": "1 So all the congregation lifted up their voices and cried, and the people wept that night."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 2,
+          "text": "2 And all the children of Israel complained against Moses and Aaron, and the whole congregation said to them, \u201cIf only we had died in the land of Egypt! Or if only we had died in this wilderness!"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 3,
+          "text": "3 Why has the L\u1d0f\u0280\u1d05 brought us to this land to fall by the sword, that our wives and children should become victims? Would it not be better for us to return to Egypt?\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 4,
+          "text": "4 So they said to one another, \u201cLet us select a leader and return to Egypt.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 5,
+          "text": "5 Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 6,
+          "text": "6 But Joshua the son of Nun and Caleb the son of Jephunneh, who were among those who had spied out the land, tore their clothes;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 7,
+          "text": "7 and they spoke to all the congregation of the children of Israel, saying: \u201cThe land we passed through to spy out is an exceedingly good land."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 8,
+          "text": "8 If the L\u1d0f\u0280\u1d05 delights in us, then He will bring us into this land and give it to us, \u2018a land which flows with milk and honey.\u2019"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 9,
+          "text": "9 Only do not rebel against the L\u1d0f\u0280\u1d05, nor fear the people of the land, for they are our bread; their protection has departed from them, and the L\u1d0f\u0280\u1d05 is with us. Do not fear them.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 10,
+          "text": "10 And all the congregation said to stone them with stones. Now the glory of the L\u1d0f\u0280\u1d05 appeared in the tabernacle of meeting before all the children of Israel."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 11,
+          "text": "11 Then the L\u1d0f\u0280\u1d05 said to Moses: \u201cHow long will these people reject Me? And how long will they not believe Me, with all the signs which I have performed among them?"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 12,
+          "text": "12 I will strike them with the pestilence and disinherit them, and I will make of you a nation greater and mightier than they.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 13,
+          "text": "13 And Moses said to the L\u1d0f\u0280\u1d05: \u201cThen the Egyptians will hear it, for by Your might You brought these people up from among them,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 14,
+          "text": "14 and they will tell it to the inhabitants of this land. They have heard that You, Lord, are among these people; that You, Lord, are seen face to face and Your cloud stands above them, and You go before them in a pillar of cloud by day and in a pillar of fire by night."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 15,
+          "text": "15 Now if You kill these people as one man, then the nations which have heard of Your fame will speak, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 16,
+          "text": "16 \u2018Because the L\u1d0f\u0280\u1d05 was not able to bring this people to the land which He swore to give them, therefore He killed them in the wilderness.\u2019"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 17,
+          "text": "17 And now, I pray, let the power of my Lord be great, just as You have spoken, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 18,
+          "text": "18 \u2018The L\u1d0f\u0280\u1d05 is longsuffering and abundant in mercy, forgiving iniquity and transgression; but He by no means clears the guilty, visiting the iniquity of the fathers on the children to the third and fourth generation.\u2019"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 19,
+          "text": "19 Pardon the iniquity of this people, I pray, according to the greatness of Your mercy, just as You have forgiven this people, from Egypt even until now.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 20,
+          "text": "20 Then the L\u1d0f\u0280\u1d05 said: \u201cI have pardoned, according to your word;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 21,
+          "text": "21 but truly, as I live, all the earth shall be filled with the glory of the L\u1d0f\u0280\u1d05\u2014"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 22,
+          "text": "22 because all these men who have seen My glory and the signs which I did in Egypt and in the wilderness, and have put Me to the test now these ten times, and have not heeded My voice,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 23,
+          "text": "23 they certainly shall not see the land of which I swore to their fathers, nor shall any of those who rejected Me see it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 24,
+          "text": "24 But My servant Caleb, because he has a different spirit in him and has followed Me fully, I will bring into the land where he went, and his descendants shall inherit it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 25,
+          "text": "25 Now the Amalekites and the Canaanites dwell in the valley; tomorrow turn and move out into the wilderness by the Way of the Red Sea.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 26,
+          "text": "26 And the L\u1d0f\u0280\u1d05 spoke to Moses and Aaron, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 27,
+          "text": "27 \u201cHow long shall I bear with this evil congregation who complain against Me? I have heard the complaints which the children of Israel make against Me."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 28,
+          "text": "28 Say to them, \u2018As I live,\u2019 says the L\u1d0f\u0280\u1d05, \u2018just as you have spoken in My hearing, so I will do to you:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 29,
+          "text": "29 The carcasses of you who have complained against Me shall fall in this wilderness, all of you who were numbered, according to your entire number, from twenty years old and above."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 30,
+          "text": "30 Except for Caleb the son of Jephunneh and Joshua the son of Nun, you shall by no means enter the land which I swore I would make you dwell in."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 31,
+          "text": "31 But your little ones, whom you said would be victims, I will bring in, and they shall know the land which you have despised."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 32,
+          "text": "32 But as for you, your carcasses shall fall in this wilderness."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 33,
+          "text": "33 And your sons shall be shepherds in the wilderness forty years, and bear the brunt of your infidelity, until your carcasses are consumed in the wilderness."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 34,
+          "text": "34 According to the number of the days in which you spied out the land, forty days, for each day you shall bear your guilt one year, namely forty years, and you shall know My rejection."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 35,
+          "text": "35 I the L\u1d0f\u0280\u1d05 have spoken this; I will surely do so to all this evil congregation who are gathered together against Me. In this wilderness they shall be consumed, and there they shall die.\u2019 \u201c"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 36,
+          "text": "36 Now the men whom Moses sent to spy out the land, who returned and made all the congregation complain against him by bringing a bad report of the land,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 37,
+          "text": "37 those very men who brought the evil report about the land, died by the plague before the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 38,
+          "text": "38 But Joshua the son of Nun and Caleb the son of Jephunneh remained alive, of the men who went to spy out the land."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 39,
+          "text": "39 Then Moses told these words to all the children of Israel, and the people mourned greatly."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 40,
+          "text": "40 And they rose early in the morning and went up to the top of the mountain, saying, \u201cHere we are, and we will go up to the place which the L\u1d0f\u0280\u1d05 has promised, for we have sinned!\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 41,
+          "text": "41 And Moses said, \u201cNow why do you transgress the command of the L\u1d0f\u0280\u1d05? For this will not succeed."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 42,
+          "text": "42 Do not go up, lest you be defeated by your enemies, for the L\u1d0f\u0280\u1d05 is not among you."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 43,
+          "text": "43 For the Amalekites and the Canaanites are there before you, and you shall fall by the sword; because you have turned away from the L\u1d0f\u0280\u1d05, the L\u1d0f\u0280\u1d05 will not be with you.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 44,
+          "text": "44 But they presumed to go up to the mountaintop; nevertheless, neither the ark of the covenant of the L\u1d0f\u0280\u1d05 nor Moses departed from the camp."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 14,
+          "verse": 45,
+          "text": "45 Then the Amalekites and the Canaanites who dwelt in that mountain came down and attacked them, and drove them back as far as Hormah."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:54:01.495958"
+    },
+    {
+      "reference": "Psalm 50",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 1,
+          "text": "1 A Psalm of Asaph. The Mighty One, God the L\u1d0f\u0280\u1d05, Has spoken and called the earth From the rising of the sun to its going down."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 2,
+          "text": "2 Out of Zion, the perfection of beauty, God will shine forth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 3,
+          "text": "3 Our God shall come, and shall not keep silent; A fire shall devour before Him, And it shall be very tempestuous all around Him."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 4,
+          "text": "4 He shall call to the heavens from above, And to the earth, that He may judge His people:"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 5,
+          "text": "5 \u201cGather My saints together to Me, Those who have made a covenant with Me by sacrifice.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 6,
+          "text": "6 Let the heavens declare His righteousness, For God Himself is Judge. Selah"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 7,
+          "text": "7 \u201cHear, O My people, and I will speak, O Israel, and I will testify against you; I am God, your God!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 8,
+          "text": "8 I will not rebuke you for your sacrifices Or your burnt offerings, Which are continually before Me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 9,
+          "text": "9 I will not take a bull from your house, Nor goats out of your folds."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 10,
+          "text": "10 For every beast of the forest is Mine, And the cattle on a thousand hills."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 11,
+          "text": "11 I know all the birds of the mountains, And the wild beasts of the field are Mine."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 12,
+          "text": "12 \u201cIf I were hungry, I would not tell you; For the world is Mine, and all its fullness."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 13,
+          "text": "13 Will I eat the flesh of bulls, Or drink the blood of goats?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 14,
+          "text": "14 Offer to God thanksgiving, And pay your vows to the Most High."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 15,
+          "text": "15 Call upon Me in the day of trouble; I will deliver you, and you shall glorify Me.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 16,
+          "text": "16 But to the wicked God says: \u201cWhat right have you to declare My statutes, Or take My covenant in your mouth,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 17,
+          "text": "17 Seeing you hate instruction And cast My words behind you?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 18,
+          "text": "18 When you saw a thief, you consented with him, And have been a partaker with adulterers."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 19,
+          "text": "19 You give your mouth to evil, And your tongue frames deceit."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 20,
+          "text": "20 You sit and speak against your brother; You slander your own mother\u2019s son."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 21,
+          "text": "21 These things you have done, and I kept silent; You thought that I was altogether like you; But I will rebuke you, And set them in order before your eyes."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 22,
+          "text": "22 \u201cNow consider this, you who forget God, Lest I tear you in pieces, And there be none to deliver:"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 50,
+          "verse": 23,
+          "text": "23 Whoever offers praise glorifies Me; And to him who orders his conduct aright I will show the salvation of God.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:54:02.374823"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Isaiah 3-4",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 1,
+          "text": "1 For behold, the L\u1d0f\u0280\u1d05, the L\u1d0f\u0280\u1d05 of hosts, Takes away from Jerusalem and from Judah The stock and the store, The whole supply of bread and the whole supply of water;"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 2,
+          "text": "2 The mighty man and the man of war, The judge and the prophet, And the diviner and the elder;"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 3,
+          "text": "3 The captain of fifty and the honorable man, The counselor and the skillful artisan, And the expert enchanter."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 4,
+          "text": "4 \u201cI will give children to be their princes, And babes shall rule over them."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 5,
+          "text": "5 The people will be oppressed, Every one by another and every one by his neighbor; The child will be insolent toward the elder, And the base toward the honorable.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 6,
+          "text": "6 When a man takes hold of his brother In the house of his father, saying, \u201cYou have clothing; You be our ruler, And let these ruins be under your power,\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 7,
+          "text": "7 In that day he will protest, saying, \u201cI cannot cure your ills, For in my house is neither food nor clothing; Do not make me a ruler of the people.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 8,
+          "text": "8 For Jerusalem stumbled, And Judah is fallen, Because their tongue and their doings Are against the L\u1d0f\u0280\u1d05, To provoke the eyes of His glory."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 9,
+          "text": "9 The look on their countenance witnesses against them, And they declare their sin as Sodom; They do not hide it. Woe to their soul! For they have brought evil upon themselves."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 10,
+          "text": "10 \u201cSay to the righteous that it shall be well with them, For they shall eat the fruit of their doings."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 11,
+          "text": "11 Woe to the wicked! It shall be ill with him, For the reward of his hands shall be given him."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 12,
+          "text": "12 As for My people, children are their oppressors, And women rule over them. O My people! Those who lead you cause you to err, And destroy the way of your paths.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 13,
+          "text": "13 The L\u1d0f\u0280\u1d05 stands up to plead, And stands to judge the people."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 14,
+          "text": "14 The L\u1d0f\u0280\u1d05 will enter into judgment With the elders of His people And His princes: \u201cFor you have eaten up the vineyard; The plunder of the poor is in your houses."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 15,
+          "text": "15 What do you mean by crushing My people And grinding the faces of the poor?\u201d Says the L\u1d0f\u0280\u1d05 God of hosts."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 16,
+          "text": "16 Moreover the L\u1d0f\u0280\u1d05 says: \u201cBecause the daughters of Zion are haughty, And walk with outstretched necks And wanton eyes, Walking and mincing as they go, Making a jingling with their feet,"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 17,
+          "text": "17 Therefore the L\u1d0f\u0280\u1d05 will strike with a scab The crown of the head of the daughters of Zion, And the L\u1d0f\u0280\u1d05 will uncover their secret parts.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 18,
+          "text": "18 In that day the L\u1d0f\u0280\u1d05 will take away the finery: The jingling anklets, the scarves, and the crescents;"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 19,
+          "text": "19 The pendants, the bracelets, and the veils;"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 20,
+          "text": "20 The headdresses, the leg ornaments, and the headbands; The perfume boxes, the charms,"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 21,
+          "text": "21 and the rings; The nose jewels,"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 22,
+          "text": "22 the festal apparel, and the mantles; The outer garments, the purses,"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 23,
+          "text": "23 and the mirrors; The fine linen, the turbans, and the robes."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 24,
+          "text": "24 And so it shall be: Instead of a sweet smell there will be a stench; Instead of a sash, a rope; Instead of well-set hair, baldness; Instead of a rich robe, a girding of sackcloth; And branding instead of beauty."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 25,
+          "text": "25 Your men shall fall by the sword, And your mighty in the war."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 3,
+          "verse": 26,
+          "text": "26 Her gates shall lament and mourn, And she being desolate shall sit on the ground."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 4,
+          "verse": 1,
+          "text": "1 And in that day seven women shall take hold of one man, saying, \u201cWe will eat our own food and wear our own apparel; Only let us be called by your name, To take away our reproach.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 4,
+          "verse": 2,
+          "text": "2 In that day the Branch of the L\u1d0f\u0280\u1d05 shall be beautiful and glorious; And the fruit of the earth shall be excellent and appealing For those of Israel who have escaped."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 4,
+          "verse": 3,
+          "text": "3 And it shall come to pass that he who is left in Zion and remains in Jerusalem will be called holy\u2014everyone who is recorded among the living in Jerusalem."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 4,
+          "verse": 4,
+          "text": "4 When the L\u1d0f\u0280\u1d05 has washed away the filth of the daughters of Zion, and purged the blood of Jerusalem from her midst, by the spirit of judgment and by the spirit of burning,"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 4,
+          "verse": 5,
+          "text": "5 then the L\u1d0f\u0280\u1d05 will create above every dwelling place of Mount Zion, and above her assemblies, a cloud and smoke by day and the shining of a flaming fire by night. For over all the glory there will be a covering."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 4,
+          "verse": 6,
+          "text": "6 And there will be a tabernacle for shade in the daytime from the heat, for a place of refuge, and for a shelter from storm and rain."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:54:04.510601"
+    },
+    {
+      "reference": "Hebrews 11",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 1,
+          "text": "1 Now faith is the substance of things hoped for, the evidence of things not seen."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 2,
+          "text": "2 For by it the elders obtained a good testimony."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 3,
+          "text": "3 By faith we understand that the worlds were framed by the word of God, so that the things which are seen were not made of things which are visible."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 4,
+          "text": "4 By faith Abel offered to God a more excellent sacrifice than Cain, through which he obtained witness that he was righteous, God testifying of his gifts; and through it he being dead still speaks."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 5,
+          "text": "5 By faith Enoch was taken away so that he did not see death, \u201cand was not found, because God had taken him\u201d; for before he was taken he had this testimony, that he pleased God."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 6,
+          "text": "6 But without faith it is impossible to please Him, for he who comes to God must believe that He is, and that He is a rewarder of those who diligently seek Him."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 7,
+          "text": "7 By faith Noah, being divinely warned of things not yet seen, moved with godly fear, prepared an ark for the saving of his household, by which he condemned the world and became heir of the righteousness which is according to faith."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 8,
+          "text": "8 By faith Abraham obeyed when he was called to go out to the place which he would receive as an inheritance. And he went out, not knowing where he was going."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 9,
+          "text": "9 By faith he dwelt in the land of promise as in a foreign country, dwelling in tents with Isaac and Jacob, the heirs with him of the same promise;"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 10,
+          "text": "10 for he waited for the city which has foundations, whose builder and maker is God."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 11,
+          "text": "11 By faith Sarah herself also received strength to conceive seed, and she bore a child when she was past the age, because she judged Him faithful who had promised."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 12,
+          "text": "12 Therefore from one man, and him as good as dead, were born as many as the stars of the sky in multitude\u2014innumerable as the sand which is by the seashore."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 13,
+          "text": "13 These all died in faith, not having received the promises, but having seen them afar off were assured of them, embraced them and confessed that they were strangers and pilgrims on the earth."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 14,
+          "text": "14 For those who say such things declare plainly that they seek a homeland."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 15,
+          "text": "15 And truly if they had called to mind that country from which they had come out, they would have had opportunity to return."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 16,
+          "text": "16 But now they desire a better, that is, a heavenly country. Therefore God is not ashamed to be called their God, for He has prepared a city for them."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 17,
+          "text": "17 By faith Abraham, when he was tested, offered up Isaac, and he who had received the promises offered up his only begotten son,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 18,
+          "text": "18 of whom it was said, \u201cIn Isaac your seed shall be called,\u201d"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 19,
+          "text": "19 concluding that God was able to raise him up, even from the dead, from which he also received him in a figurative sense."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 20,
+          "text": "20 By faith Isaac blessed Jacob and Esau concerning things to come."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 21,
+          "text": "21 By faith Jacob, when he was dying, blessed each of the sons of Joseph, and worshiped, leaning on the top of his staff."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 22,
+          "text": "22 By faith Joseph, when he was dying, made mention of the departure of the children of Israel, and gave instructions concerning his bones."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 23,
+          "text": "23 By faith Moses, when he was born, was hidden three months by his parents, because they saw he was a beautiful child; and they were not afraid of the king\u2019s command."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 24,
+          "text": "24 By faith Moses, when he became of age, refused to be called the son of Pharaoh\u2019s daughter,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 25,
+          "text": "25 choosing rather to suffer affliction with the people of God than to enjoy the passing pleasures of sin,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 26,
+          "text": "26 esteeming the reproach of Christ greater riches than the treasures in Egypt; for he looked to the reward."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 27,
+          "text": "27 By faith he forsook Egypt, not fearing the wrath of the king; for he endured as seeing Him who is invisible."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 28,
+          "text": "28 By faith he kept the Passover and the sprinkling of blood, lest he who destroyed the firstborn should touch them."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 29,
+          "text": "29 By faith they passed through the Red Sea as by dry land, whereas the Egyptians, attempting to do so, were drowned."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 30,
+          "text": "30 By faith the walls of Jericho fell down after they were encircled for seven days."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 31,
+          "text": "31 By faith the harlot Rahab did not perish with those who did not believe, when she had received the spies with peace."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 32,
+          "text": "32 And what more shall I say? For the time would fail me to tell of Gideon and Barak and Samson and Jephthah, also of David and Samuel and the prophets:"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 33,
+          "text": "33 who through faith subdued kingdoms, worked righteousness, obtained promises, stopped the mouths of lions,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 34,
+          "text": "34 quenched the violence of fire, escaped the edge of the sword, out of weakness were made strong, became valiant in battle, turned to flight the armies of the aliens."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 35,
+          "text": "35 Women received their dead raised to life again. And others were tortured, not accepting deliverance, that they might obtain a better resurrection."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 36,
+          "text": "36 Still others had trial of mockings and scourgings, yes, and of chains and imprisonment."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 37,
+          "text": "37 They were stoned, they were sawn in two, were tempted, were slain with the sword. They wandered about in sheepskins and goatskins, being destitute, afflicted, tormented\u2014"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 38,
+          "text": "38 of whom the world was not worthy. They wandered in deserts and mountains, in dens and caves of the earth."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 39,
+          "text": "39 And all these, having obtained a good testimony through faith, did not receive the promise,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 11,
+          "verse": 40,
+          "text": "40 God having provided something better for us, that they should not be made perfect apart from us."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:54:05.043399"
+    }
+  ]
+}

@@ -13,30 +13,37 @@ import os
 import requests
 import time
 from datetime import datetime, timezone, timedelta
+from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Union
 import re
 from bs4 import BeautifulSoup
 import logging
+
+# Load the static M'Cheyne reading plan (built by build_mcheyne_plan.py)
+_PLAN_PATH = Path(__file__).parent / "mcheyne_passages.json"
+with open(_PLAN_PATH) as _f:
+    MCHEYNE_PLAN: Dict[str, Dict[str, List[str]]] = json.load(_f)
 
 # Configure logging
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 
 class McCheyneUpdater:
-    def __init__(self):
+    def __init__(self, download_locally: bool = False):
         self.s3_client = boto3.client('s3')
         self.ecs_client = boto3.client('ecs')
         self.bucket_name = os.environ['S3_BUCKET']
         self.ecs_service_arn = os.environ.get('ECS_SERVICE_ARN')
         self.ecs_cluster_arn = os.environ.get('ECS_CLUSTER_ARN')
-        
-        # Web scraping setup - use same URLs as working mccheyne.py
-        self.base_url = "https://bibleplan.org/plans/mcheyne/"
+        self.download_locally = download_locally
+
+        if self.download_locally:
+            self.local_dir = os.path.join(os.getcwd(), "mcheyne_readings")
+            os.makedirs(self.local_dir, exist_ok=True)
+            logger.info(f"Local download enabled, saving to: {self.local_dir}")
+
+        # Bible text fetching
         self.bible_url = "https://www.biblestudytools.com/nkjv/"
-        self.session = requests.Session()
-        self.session.headers.update({
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36'
-        })
     
     def get_todays_date(self) -> tuple:
         """Get today's month and day in GMT"""
@@ -73,210 +80,63 @@ class McCheyneUpdater:
         except Exception as e:
             logger.error(f"Error checking S3 file existence: {e}")
             return False
+
+    def save_locally(self, s3_key: str, data: dict) -> None:
+        """Save JSON data to the local directory"""
+        local_path = os.path.join(self.local_dir, s3_key)
+        with open(local_path, 'w') as f:
+            json.dump(data, f, indent=2)
+        logger.info(f"Saved locally: {local_path}")
+
+    def download_from_s3(self, s3_key: str) -> None:
+        """Download a file from S3 to the local directory"""
+        local_path = os.path.join(self.local_dir, s3_key)
+        response = self.s3_client.get_object(Bucket=self.bucket_name, Key=s3_key)
+        data = json.loads(response['Body'].read().decode('utf-8'))
+        with open(local_path, 'w') as f:
+            json.dump(data, f, indent=2)
+        logger.info(f"Downloaded from S3 to: {local_path}")
     
     def fetch_reading_plan(self, month: int, day: int) -> Dict[str, List[str]]:
-        """Fetch reading passages from M'Cheyne plan - using exact logic from mccheyne.py"""
-        try:
-            # The main M'Cheyne plan page
-            url = "https://bibleplan.org/plans/mcheyne/"
-            logger.info(f"Fetching reading plan from: {url}")
-            
-            headers = {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-            }
-            
-            # Retry logic with exponential backoff
-            max_retries = 3
-            for attempt in range(max_retries):
-                try:
-                    timeout = 60 + (attempt * 30)  # 60s, 90s, 120s
-                    logger.info(f"Attempt {attempt + 1}/{max_retries} - Timeout: {timeout}s")
-                    response = requests.get(url, headers=headers, timeout=timeout)
-                    response.raise_for_status()
-                    break
-                except requests.exceptions.Timeout as e:
-                    logger.warning(f"Timeout on attempt {attempt + 1}: {e}")
-                    if attempt == max_retries - 1:
-                        raise
-                    time.sleep(2 ** attempt)  # Exponential backoff
-                except requests.exceptions.RequestException as e:
-                    logger.warning(f"Request error on attempt {attempt + 1}: {e}")
-                    if attempt == max_retries - 1:
-                        raise
-                    time.sleep(2 ** attempt)
-            
-            soup = BeautifulSoup(response.content, 'html.parser')
-            
-            readings = {"Family": [], "Secret": []}
-            
-            months = ['January','February','March',
-                      'April','May','June',
-                      'July','August','September',
-                      'October','November','December']
-            month_name = months[month-1]
+        """Look up reading passages from the static M'Cheyne plan JSON."""
+        key = f"{month:02d}_{day:02d}"
+        entry = MCHEYNE_PLAN.get(key)
+        if entry:
+            logger.info(f"Plan lookup {key}: Family={entry['Family']}, Secret={entry['Secret']}")
+            return {"Family": list(entry["Family"]), "Secret": list(entry["Secret"])}
+        logger.warning(f"No plan entry for {key}")
+        return {"Family": [], "Secret": []}
 
-            # Create specific date patterns to search for
-            # Create the specific date string with ordinal suffix
-            if day in [1, 21, 31]:
-                ordinal = f"{day}st"
-            elif day in [2, 22]:
-                ordinal = f"{day}nd"
-            elif day in [3, 23]:
-                ordinal = f"{day}rd"
-            else:
-                ordinal = f"{day}th"
-            
-            date_patterns = [
-                f"{month_name} {ordinal}:",  # "October 12th:"
-                f"{month_name[:3]} {ordinal}:",      # "Oct 12th:"
-                f"{month}/{day}",
-                f"{month:02d}/{day:02d}",
-            ]
-            
-            logger.info(f"Looking for date patterns: {date_patterns}")
-            
-            # Look for the reading plan table
-            tables = soup.find_all('table')
-            for table in tables:
-                rows = table.find_all('tr')
-                
-                for row in rows:
-                    row_text = row.get_text(strip=True)
-                    
-                    # Check if this row contains today's date
-                    date_found = False
-                    for pattern in date_patterns:
-                        if pattern in row_text:
-                            date_found = True
-                            logger.info(f"Found date pattern '{pattern}' in row")
-                            break
-                    
-                    if date_found:
-                        cells = row.find_all(['td', 'th'])
-                        
-                        # Extract text from each cell
-                        cell_texts = [cell.get_text(strip=True) for cell in cells]
-                        
-                        # Look for the specific date pattern in the cells
-                        target_date = f"{month_name} {day}"
-                        if day in [1, 21, 31]:
-                            target_date += "st"
-                        elif day in [2, 22]:
-                            target_date += "nd"
-                        elif day in [3, 23]:
-                            target_date += "rd"
-                        else:
-                            target_date += "th"
-                        
-                        # Find the index of the cell containing our target date
-                        target_index = -1
-                        for i, cell_text in enumerate(cell_texts):
-                            if target_date in cell_text:
-                                target_index = i
-                                break
-                        
-                        if target_index >= 0:
-                            # Look for Family and Secret readings in the next few cells
-                            family_refs = []
-                            secret_refs = []
-                            
-                            # Check the next 3 cells after the date cell
-                            for i in range(target_index + 1, min(target_index + 4, len(cell_texts))):
-                                if i < len(cell_texts):
-                                    cell_text = cell_texts[i]
-                                    
-                                    if 'Family:' in cell_text:
-                                        family_refs = self.extract_bible_references(cell_text)
-                                        logger.info(f"Found Family readings: {family_refs}")
-                                    elif 'Secret:' in cell_text:
-                                        secret_refs = self.extract_bible_references(cell_text)
-                                        logger.info(f"Found Secret readings: {secret_refs}")
-                            
-                            if family_refs and secret_refs:
-                                readings["Family"] = family_refs
-                                readings["Secret"] = secret_refs
-                                return readings
-            
-            return readings
-            
-        except Exception as e:
-            logger.error(f"Error fetching reading plan: {e}")
-            return {"Family": [], "Secret": []}
-    
-    def extract_bible_references(self, text: str) -> List[str]:
-        """Extract Bible references from formatted text like 'Family:1 Kings 15|Colossians 2'"""
-        if not text:
-            return []
-        
-        # Remove prefixes like "Family:" or "Secret:"
-        text = re.sub(r'^(Family|Secret):\s*', '', text, flags=re.IGNORECASE)
-        
-        # Split by | or similar separators
-        parts = re.split(r'[|,;]', text)
-        
-        references = []
-        for part in parts:
-            part = part.strip()
-            if part and self.is_bible_reference(part):
-                references.append(part)
-        
-        return references
-
-    def is_bible_reference(self, text: str) -> bool:
-        """Check if text looks like a Bible reference"""
-        if not text or len(text) > 50:  # Too long to be a simple reference
-            return False
-        
-        # Clean the text
-        text = text.strip()
-        
-        # Skip common non-Bible text (but allow if it's part of a longer reference)
-        skip_words = ['old testament', 'new testament', 'bible in', 'days', 'plan', 'reading', 'testament in']
-        if any(skip.lower() in text.lower() for skip in skip_words):
-            return False
-        
-        # Pattern for Bible references
-        # Examples: "Genesis 1", "1 Kings 15", "Psalm 99-101", "Matthew 1:1-10", "Colossians 2"
-        patterns = [
-            r'^\d*\s*[A-Za-z]+\s+\d+(?:\s*-\s*\d+)?(?::\d+(?:\s*-\s*\d+)?)?$',  # "1 Kings 15" or "Psalm 99-101"
-            r'^[A-Za-z]+\s+\d+(?:\s*-\s*\d+)?(?::\d+(?:\s*-\s*\d+)?)?$',        # "Genesis 1" or "Matthew 1:1-10"
-        ]
-        
-        for pattern in patterns:
-            if re.match(pattern, text):
-                return True
-        
-        return False
-    
     def parse_bible_reference(self, reference: str) -> Tuple[str, str, str]:
         """Parse a Bible reference into book, chapter, and verses"""
         # Clean up the reference
         reference = reference.strip()
-        
+
+        # Regex for book name: optional leading digit, then one or more words
+        # e.g. "1 Kings", "Song of Solomon", "Genesis"
+        book_re = r'(\d?\s*[A-Za-z]+(?:\s+[A-Za-z]+)*)'
+
         # Handle ranges like "Psalm 99-101" - take the first chapter for URL
         if '-' in reference and ':' not in reference:
             # This is a chapter range like "Psalm 99-101"
             parts = reference.split('-')
             if len(parts) == 2:
-                # Extract book and first chapter
                 first_part = parts[0].strip()
-                pattern = r'(\d?\s*[A-Za-z]+)\s+(\d+)'
-                match = re.match(pattern, first_part)
+                match = re.match(rf'{book_re}\s+(\d+)', first_part)
                 if match:
                     book = match.group(1).strip()
                     chapter = match.group(2)
-                    return book, chapter, f"chapters {reference.split()[-1]}"  # Keep original range info
-        
+                    return book, chapter, f"chapters {reference.split()[-1]}"
+
         # Pattern to match: "Book Chapter:Verse-Verse" or "Book Chapter"
-        pattern = r'(\d?\s*[A-Za-z]+)\s+(\d+)(?::(\d+(?:-\d+)?))?'
-        match = re.match(pattern, reference)
-        
+        match = re.match(rf'{book_re}\s+(\d+)(?::(\d+(?:-\d+)?))?', reference)
+
         if match:
             book = match.group(1).strip()
             chapter = match.group(2)
             verses = match.group(3) if match.group(3) else ""
             return book, chapter, verses
-        
+
         return "", "", ""
     
     def format_book_name(self, book: str) -> str:
@@ -324,7 +184,7 @@ class McCheyneUpdater:
             last_chapter = parts[1].strip()
             
             # Parse first part to get book and starting chapter
-            pattern = r'(\d?\s*[A-Za-z]+)\s+(\d+)'
+            pattern = r'(\d?\s*[A-Za-z]+(?:\s+[a-z]+)*)\s+(\d+)'
             match = re.match(pattern, first_part)
             if not match:
                 logger.error(f"Could not parse range start: {first_part}")
@@ -467,10 +327,14 @@ class McCheyneUpdater:
         
         # Check if file already exists
         if self.s3_file_exists(s3_key):
-            logger.info(f"Readings for {date_str} already exist, skipped")
+            if self.download_locally:
+                logger.info(f"Readings for {date_str} exist in S3, downloading locally")
+                self.download_from_s3(s3_key)
+            else:
+                logger.info(f"Readings for {date_str} already exist, skipped")
             return {
                 "success": True,
-                "message": f"Readings for {date_str} already exist, skipped",
+                "message": f"Readings for {date_str} already exist, {'downloaded locally' if self.download_locally else 'skipped'}",
                 "date": date_str,
                 "family_count": 0,
                 "secret_count": 0,
@@ -480,7 +344,13 @@ class McCheyneUpdater:
         
         # Fetch reading plan
         readings = self.fetch_reading_plan(month, day)
-        
+
+        for category in ["Family", "Secret"]:
+            if len(readings[category]) != 2:
+                logger.warning(
+                    f"{date_str} {category}: expected 2 passages, got {len(readings[category])}: {readings[category]}"
+                )
+
         if not readings["Family"] and not readings["Secret"]:
             logger.warning(f"No readings found for {date_str}")
             return {
@@ -526,7 +396,10 @@ class McCheyneUpdater:
                 ContentType='application/json'
             )
             logger.info(f"Successfully saved data to S3: {s3_key}")
-            
+
+            if self.download_locally:
+                self.save_locally(s3_key, structured_data)
+
             return {
                 "success": True,
                 "message": f"Successfully updated readings for {date_str}",
@@ -800,17 +673,18 @@ def lambda_handler(event, context):
         
         # Check for test mode
         test_mode = event.get('test_mode', False)
+        download_locally = event.get('download_locally', False)
         base_date = None
-        
+
         if test_mode and 'base_date' in event:
             try:
                 base_date = datetime.fromisoformat(event['base_date'].replace('Z', '+00:00'))
                 logger.info(f"Test mode: using base date {base_date}")
             except Exception as e:
                 logger.warning(f"Invalid base_date format: {e}, using current time")
-        
+
         # Create updater and run
-        updater = McCheyneUpdater()
+        updater = McCheyneUpdater(download_locally=download_locally)
         result = updater.run_weekly_update(base_date)
         
         return {

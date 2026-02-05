@@ -1,0 +1,677 @@
+{
+  "format_version": "1.0",
+  "date": "04/27",
+  "cached_at": "2026-02-05T17:39:30.107105",
+  "Family": [
+    {
+      "reference": "Numbers 4",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 1,
+          "text": "1 Then the L\u1d0f\u0280\u1d05 spoke to Moses and Aaron, saying:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 2,
+          "text": "2 \u201cTake a census of the sons of Kohath from among the children of Levi, by their families, by their fathers\u2019 house,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 3,
+          "text": "3 from thirty years old and above, even to fifty years old, all who enter the service to do the work in the tabernacle of meeting."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 4,
+          "text": "4 \u201cThis is the service of the sons of Kohath in the tabernacle of meeting, relating to the most holy things:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 5,
+          "text": "5 When the camp prepares to journey, Aaron and his sons shall come, and they shall take down the covering veil and cover the ark of the Testimony with it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 6,
+          "text": "6 Then they shall put on it a covering of badger skins, and spread over that a cloth entirely of blue; and they shall insert its poles."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 7,
+          "text": "7 On the table of showbread they shall spread a blue cloth, and put on it the dishes, the pans, the bowls, and the pitchers for pouring; and the showbread shall be on it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 8,
+          "text": "8 They shall spread over them a scarlet cloth, and cover the same with a covering of badger skins; and they shall insert its poles."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 9,
+          "text": "9 And they shall take a blue cloth and cover the lampstand of the light, with its lamps, its wick-trimmers, its trays, and all its oil vessels, with which they service it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 10,
+          "text": "10 Then they shall put it with all its utensils in a covering of badger skins, and put it on a carrying beam."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 11,
+          "text": "11 Over the golden altar they shall spread a blue cloth, and cover it with a covering of badger skins; and they shall insert its poles."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 12,
+          "text": "12 Then they shall take all the utensils of service with which they minister in the sanctuary, put them in a blue cloth, cover them with a covering of badger skins, and put them on a carrying beam."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 13,
+          "text": "13 Also they shall take away the ashes from the altar, and spread a purple cloth over it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 14,
+          "text": "14 They shall put on it all its implements with which they minister there\u2014the firepans, the forks, the shovels, the basins, and all the utensils of the altar\u2014and they shall spread on it a covering of badger skins, and insert its poles."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 15,
+          "text": "15 And when Aaron and his sons have finished covering the sanctuary and all the furnishings of the sanctuary, when the camp is set to go, then the sons of Kohath shall come to carry them; but they shall not touch any holy thing, lest they die. These are the things in the tabernacle of meeting which the sons of Kohath are to carry."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 16,
+          "text": "16 The appointed duty of Eleazar the son of Aaron the priest is the oil for the light, the sweet incense, the daily grain offering, the anointing oil, the oversight of all the tabernacle, of all that is in it, with the sanctuary and its furnishings.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 17,
+          "text": "17 Then the L\u1d0f\u0280\u1d05 spoke to Moses and Aaron, saying:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 18,
+          "text": "18 \u201cDo not cut off the tribe of the families of the Kohathites from among the Levites;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 19,
+          "text": "19 but do this in regard to them, that they may live and not die when they approach the most holy things: Aaron and his sons shall go in and appoint each of them to his service and his task."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 20,
+          "text": "20 But they shall not go in to watch while the holy things are being covered, lest they die.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 21,
+          "text": "21 Then the L\u1d0f\u0280\u1d05 spoke to Moses, saying:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 22,
+          "text": "22 \u201cAlso take a census of the sons of Gershon, by their fathers\u2019 house, by their families."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 23,
+          "text": "23 From thirty years old and above, even to fifty years old, you shall number them, all who enter to perform the service, to do the work in the tabernacle of meeting."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 24,
+          "text": "24 This is the service of the families of the Gershonites, in serving and carrying:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 25,
+          "text": "25 They shall carry the curtains of the tabernacle and the tabernacle of meeting with its covering, the covering of badger skins that is on it, the screen for the door of the tabernacle of meeting,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 26,
+          "text": "26 the screen for the door of the gate of the court, the hangings of the court which are around the tabernacle and altar, and their cords, all the furnishings for their service and all that is made for these things: so shall they serve."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 27,
+          "text": "27 Aaron and his sons shall assign all the service of the sons of the Gershonites, all their tasks and all their service. And you shall appoint to them all their tasks as their duty."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 28,
+          "text": "28 This is the service of the families of the sons of Gershon in the tabernacle of meeting. And their duties shall be under the authority of Ithamar the son of Aaron the priest."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 29,
+          "text": "29 \u201cAs for the sons of Merari, you shall number them by their families and by their fathers\u2019 house."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 30,
+          "text": "30 From thirty years old and above, even to fifty years old, you shall number them, everyone who enters the service to do the work of the tabernacle of meeting."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 31,
+          "text": "31 And this is what they must carry as all their service for the tabernacle of meeting: the boards of the tabernacle, its bars, its pillars, its sockets,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 32,
+          "text": "32 and the pillars around the court with their sockets, pegs, and cords, with all their furnishings and all their service; and you shall assign to each man by name the items he must carry."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 33,
+          "text": "33 This is the service of the families of the sons of Merari, as all their service for the tabernacle of meeting, under the authority of Ithamar the son of Aaron the priest.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 34,
+          "text": "34 And Moses, Aaron, and the leaders of the congregation numbered the sons of the Kohathites by their families and by their fathers\u2019 house,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 35,
+          "text": "35 from thirty years old and above, even to fifty years old, everyone who entered the service for work in the tabernacle of meeting;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 36,
+          "text": "36 and those who were numbered by their families were two thousand seven hundred and fifty."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 37,
+          "text": "37 These were the ones who were numbered of the families of the Kohathites, all who might serve in the tabernacle of meeting, whom Moses and Aaron numbered according to the commandment of the L\u1d0f\u0280\u1d05 by the hand of Moses."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 38,
+          "text": "38 And those who were numbered of the sons of Gershon, by their families and by their fathers\u2019 house,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 39,
+          "text": "39 from thirty years old and above, even to fifty years old, everyone who entered the service for work in the tabernacle of meeting\u2014"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 40,
+          "text": "40 those who were numbered by their families, by their fathers\u2019 house, were two thousand six hundred and thirty."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 41,
+          "text": "41 These are the ones who were numbered of the families of the sons of Gershon, of all who might serve in the tabernacle of meeting, whom Moses and Aaron numbered according to the commandment of the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 42,
+          "text": "42 Those of the families of the sons of Merari who were numbered, by their families, by their fathers\u2019 house,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 43,
+          "text": "43 from thirty years old and above, even to fifty years old, everyone who entered the service for work in the tabernacle of meeting\u2014"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 44,
+          "text": "44 those who were numbered by their families were three thousand two hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 45,
+          "text": "45 These are the ones who were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the L\u1d0f\u0280\u1d05 by the hand of Moses."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 46,
+          "text": "46 All who were numbered of the Levites, whom Moses, Aaron, and the leaders of Israel numbered, by their families and by their fathers\u2019 houses,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 47,
+          "text": "47 from thirty years old and above, even to fifty years old, everyone who came to do the work of service and the work of bearing burdens in the tabernacle of meeting\u2014"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 48,
+          "text": "48 those who were numbered were eight thousand five hundred and eighty."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 4,
+          "verse": 49,
+          "text": "49 According to the commandment of the L\u1d0f\u0280\u1d05 they were numbered by the hand of Moses, each according to his service and according to his task; thus were they numbered by him, as the L\u1d0f\u0280\u1d05 commanded Moses."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:39:30.597122"
+    },
+    {
+      "reference": "Psalm 38",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 1,
+          "text": "1 A Psalm of David. To bring to remembrance. O L\u1d0f\u0280\u1d05, do not rebuke me in Your wrath, Nor chasten me in Your hot displeasure!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 2,
+          "text": "2 For Your arrows pierce me deeply, And Your hand presses me down."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 3,
+          "text": "3 There is no soundness in my flesh Because of Your anger, Nor any health in my bones Because of my sin."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 4,
+          "text": "4 For my iniquities have gone over my head; Like a heavy burden they are too heavy for me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 5,
+          "text": "5 My wounds are foul and festering Because of my foolishness."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 6,
+          "text": "6 I am troubled, I am bowed down greatly; I go mourning all the day long."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 7,
+          "text": "7 For my loins are full of inflammation, And there is no soundness in my flesh."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 8,
+          "text": "8 I am feeble and severely broken; I groan because of the turmoil of my heart."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 9,
+          "text": "9 Lord, all my desire is before You; And my sighing is not hidden from You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 10,
+          "text": "10 My heart pants, my strength fails me; As for the light of my eyes, it also has gone from me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 11,
+          "text": "11 My loved ones and my friends stand aloof from my plague, And my relatives stand afar off."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 12,
+          "text": "12 Those also who seek my life lay snares for me; Those who seek my hurt speak of destruction, And plan deception all the day long."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 13,
+          "text": "13 But I, like a deaf man, do not hear; And I am like a mute who does not open his mouth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 14,
+          "text": "14 Thus I am like a man who does not hear, And in whose mouth is no response."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 15,
+          "text": "15 For in You, O L\u1d0f\u0280\u1d05, I hope; You will hear, O L\u1d0f\u0280\u1d05 my God."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 16,
+          "text": "16 For I said, \u201cHear me, lest they rejoice over me, Lest, when my foot slips, they exalt themselves against me.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 17,
+          "text": "17 For I am ready to fall, And my sorrow is continually before me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 18,
+          "text": "18 For I will declare my iniquity; I will be in anguish over my sin."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 19,
+          "text": "19 But my enemies are vigorous, and they are strong; And those who hate me wrongfully have multiplied."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 20,
+          "text": "20 Those also who render evil for good, They are my adversaries, because I follow what is good."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 21,
+          "text": "21 Do not forsake me, O L\u1d0f\u0280\u1d05; O my God, be not far from me!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 38,
+          "verse": 22,
+          "text": "22 Make haste to help me, O L\u1d0f\u0280\u1d05, my salvation!"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:39:31.027081"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Song of Solomon 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 1,
+          "text": "1 I am the rose of Sharon, And the lily of the valleys."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 2,
+          "text": "2 The Beloved Like a lily among thorns, So is my love among the daughters."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 3,
+          "text": "3 The Shulamite Like an apple tree among the trees of the woods, So is my beloved among the sons. I sat down in his shade with great delight, And his fruit was sweet to my taste."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 4,
+          "text": "4 The Shulamite to the Daughters of Jerusalem He brought me to the banqueting house, And his banner over me was love."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 5,
+          "text": "5 Sustain me with cakes of raisins, Refresh me with apples, For I am lovesick."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 6,
+          "text": "6 His left hand is under my head, And his right hand embraces me."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 7,
+          "text": "7 I charge you, O daughters of Jerusalem, By the gazelles or by the does of the field, Do not stir up nor awaken love Until it pleases."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 8,
+          "text": "8 The Shulamite The voice of my beloved! Behold, he comes Leaping upon the mountains, Skipping upon the hills."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 9,
+          "text": "9 My beloved is like a gazelle or a young stag. Behold, he stands behind our wall; He is looking through the windows, Gazing through the lattice."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 10,
+          "text": "10 My beloved spoke, and said to me: \u201cRise up, my love, my fair one, And come away."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 11,
+          "text": "11 For lo, the winter is past, The rain is over and gone."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 12,
+          "text": "12 The flowers appear on the earth; The time of singing has come, And the voice of the turtledove Is heard in our land."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 13,
+          "text": "13 The fig tree puts forth her green figs, And the vines with the tender grapes Give a good smell. Rise up, my love, my fair one, And come away!"
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 14,
+          "text": "14 \u201cO my dove, in the clefts of the rock, In the secret places of the cliff, Let me see your face, Let me hear your voice; For your voice is sweet, And your face is lovely.\u201d"
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 15,
+          "text": "15 Her Brothers Catch us the foxes, The little foxes that spoil the vines, For our vines have tender grapes."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 16,
+          "text": "16 The Shulamite My beloved is mine, and I am his. He feeds his flock among the lilies."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 2,
+          "verse": 17,
+          "text": "17 (To Her Beloved) Until the day breaks And the shadows flee away, Turn, my beloved, And be like a gazelle Or a young stag Upon the mountains of Bether."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:39:31.636005"
+    },
+    {
+      "reference": "Hebrews 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 1,
+          "text": "1 Therefore we must give the more earnest heed to the things we have heard, lest we drift away."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 2,
+          "text": "2 For if the word spoken through angels proved steadfast, and every transgression and disobedience received a just reward,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 3,
+          "text": "3 how shall we escape if we neglect so great a salvation, which at the first began to be spoken by the Lord, and was confirmed to us by those who heard Him,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 4,
+          "text": "4 God also bearing witness both with signs and wonders, with various miracles, and gifts of the Holy Spirit, according to His own will?"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 5,
+          "text": "5 For He has not put the world to come, of which we speak, in subjection to angels."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 6,
+          "text": "6 But one testified in a certain place, saying: \u201cWhat is man that You are mindful of him, Or the son of man that You take care of him?"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 7,
+          "text": "7 You have made him a little lower than the angels; You have crowned him with glory and honor, And set him over the works of Your hands."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 8,
+          "text": "8 You have put all things in subjection under his feet.\u201d For in that He put all in subjection under him, He left nothing that is not put under him. But now we do not yet see all things put under him."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 9,
+          "text": "9 But we see Jesus, who was made a little lower than the angels, for the suffering of death crowned with glory and honor, that He, by the grace of God, might taste death for everyone."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 10,
+          "text": "10 For it was fitting for Him, for whom are all things and by whom are all things, in bringing many sons to glory, to make the captain of their salvation perfect through sufferings."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 11,
+          "text": "11 For both He who sanctifies and those who are being sanctified are all of one, for which reason He is not ashamed to call them brethren,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 12,
+          "text": "12 saying: \u201cI will declare Your name to My brethren; In the midst of the assembly I will sing praise to You.\u201d"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 13,
+          "text": "13 And again: \u201cI will put My trust in Him.\u201d And again: \u201cHere am I and the children whom God has given Me.\u201d"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 14,
+          "text": "14 Inasmuch then as the children have partaken of flesh and blood, He Himself likewise shared in the same, that through death He might destroy him who had the power of death, that is, the devil,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 15,
+          "text": "15 and release those who through fear of death were all their lifetime subject to bondage."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 16,
+          "text": "16 For indeed He does not give aid to angels, but He does give aid to the seed of Abraham."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 17,
+          "text": "17 Therefore, in all things He had to be made like His brethren, that He might be a merciful and faithful High Priest in things pertaining to God, to make propitiation for the sins of the people."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 2,
+          "verse": 18,
+          "text": "18 For in that He Himself has suffered, being tempted, He is able to aid those who are tempted."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:39:32.075948"
+    }
+  ]
+}

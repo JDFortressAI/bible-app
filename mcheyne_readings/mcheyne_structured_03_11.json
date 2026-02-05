@@ -1,0 +1,785 @@
+{
+  "format_version": "1.0",
+  "date": "03/11",
+  "cached_at": "2026-02-05T17:11:13.186805",
+  "Family": [
+    {
+      "reference": "Exodus 22",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 1,
+          "text": "1 \u201cIf a man steals an ox or a sheep, and slaughters it or sells it, he shall restore five oxen for an ox and four sheep for a sheep."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 2,
+          "text": "2 If the thief is found breaking in, and he is struck so that he dies, there shall be no guilt for his bloodshed."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 3,
+          "text": "3 If the sun has risen on him, there shall be guilt for his bloodshed. He should make full restitution; if he has nothing, then he shall be sold for his theft."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 4,
+          "text": "4 If the theft is certainly found alive in his hand, whether it is an ox or donkey or sheep, he shall restore double."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 5,
+          "text": "5 \u201cIf a man causes a field or vineyard to be grazed, and lets loose his animal, and it feeds in another man\u2019s field, he shall make restitution from the best of his own field and the best of his own vineyard."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 6,
+          "text": "6 \u201cIf fire breaks out and catches in thorns, so that stacked grain, standing grain, or the field is consumed, he who kindled the fire shall surely make restitution."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 7,
+          "text": "7 \u201cIf a man delivers to his neighbor money or articles to keep, and it is stolen out of the man\u2019s house, if the thief is found, he shall pay double."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 8,
+          "text": "8 If the thief is not found, then the master of the house shall be brought to the judges to see whether he has put his hand into his neighbor\u2019s goods."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 9,
+          "text": "9 \u201cFor any kind of trespass, whether it concerns an ox, a donkey, a sheep, or clothing, or for any kind of lost thing which another claims to be his, the cause of both parties shall come before the judges; and whomever the judges condemn shall pay double to his neighbor."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 10,
+          "text": "10 If a man delivers to his neighbor a donkey, an ox, a sheep, or any animal to keep, and it dies, is hurt, or driven away, no one seeing it,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 11,
+          "text": "11 then an oath of the L\u1d0f\u0280\u1d05 shall be between them both, that he has not put his hand into his neighbor\u2019s goods; and the owner of it shall accept that, and he shall not make it good."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 12,
+          "text": "12 But if, in fact, it is stolen from him, he shall make restitution to the owner of it."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 13,
+          "text": "13 If it is torn to pieces by a beast, then he shall bring it as evidence, and he shall not make good what was torn."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 14,
+          "text": "14 \u201cAnd if a man borrows anything from his neighbor, and it becomes injured or dies, the owner of it not being with it, he shall surely make it good."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 15,
+          "text": "15 If its owner was with it, he shall not make it good; if it was hired, it came for its hire."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 16,
+          "text": "16 \u201cIf a man entices a virgin who is not betrothed, and lies with her, he shall surely pay the bride-price for her to be his wife."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 17,
+          "text": "17 If her father utterly refuses to give her to him, he shall pay money according to the bride-price of virgins."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 18,
+          "text": "18 \u201cYou shall not permit a sorceress to live."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 19,
+          "text": "19 \u201cWhoever lies with an animal shall surely be put to death."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 20,
+          "text": "20 \u201cHe who sacrifices to any god, except to the L\u1d0f\u0280\u1d05 only, he shall be utterly destroyed."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 21,
+          "text": "21 \u201cYou shall neither mistreat a stranger nor oppress him, for you were strangers in the land of Egypt."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 22,
+          "text": "22 \u201cYou shall not afflict any widow or fatherless child."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 23,
+          "text": "23 If you afflict them in any way, and they cry at all to Me, I will surely hear their cry;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 24,
+          "text": "24 and My wrath will become hot, and I will kill you with the sword; your wives shall be widows, and your children fatherless."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 25,
+          "text": "25 \u201cIf you lend money to any of My people who are poor among you, you shall not be like a moneylender to him; you shall not charge him interest."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 26,
+          "text": "26 If you ever take your neighbor\u2019s garment as a pledge, you shall return it to him before the sun goes down."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 27,
+          "text": "27 For that is his only covering, it is his garment for his skin. What will he sleep in? And it will be that when he cries to Me, I will hear, for I am gracious."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 28,
+          "text": "28 \u201cYou shall not revile God, nor curse a ruler of your people."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 29,
+          "text": "29 \u201cYou shall not delay to offer the first of your ripe produce and your juices. The firstborn of your sons you shall give to Me."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 30,
+          "text": "30 Likewise you shall do with your oxen and your sheep. It shall be with its mother seven days; on the eighth day you shall give it to Me."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 22,
+          "verse": 31,
+          "text": "31 \u201cAnd you shall be holy men to Me: you shall not eat meat torn by beasts in the field; you shall throw it to the dogs."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:13.845889"
+    },
+    {
+      "reference": "John 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 1,
+          "text": "1 In the beginning was the Word, and the Word was with God, and the Word was God."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 2,
+          "text": "2 He was in the beginning with God."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 3,
+          "text": "3 All things were made through Him, and without Him nothing was made that was made."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 4,
+          "text": "4 In Him was life, and the life was the light of men."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 5,
+          "text": "5 And the light shines in the darkness, and the darkness did not comprehend [a] it."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 6,
+          "text": "6 There was a man sent from God, whose name was John."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 7,
+          "text": "7 This man came for a witness, to bear witness of the Light, that all through him might believe."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 8,
+          "text": "8 He was not that Light, but was sent to bear witness of that Light."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 9,
+          "text": "9 That was the true Light which gives light to every man coming into the world. [b]"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 10,
+          "text": "10 He was in the world, and the world was made through Him, and the world did not know Him."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 11,
+          "text": "11 He came to His own, [c] and His own [d] did not receive Him."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 12,
+          "text": "12 But as many as received Him, to them He gave the right to become children of God, to those who believe in His name:"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 13,
+          "text": "13 who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 14,
+          "text": "14 And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 15,
+          "text": "15 John bore witness of Him and cried out, saying, \u201cThis was He of whom I said, \u2018He who comes after me is preferred before me, for He was before me.\u2019 \u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 16,
+          "text": "16 And [e] of His fullness we have all received, and grace for grace."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 17,
+          "text": "17 For the law was given through Moses, but grace and truth came through Jesus Christ."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 18,
+          "text": "18 No one has seen God at any time. The only begotten Son, [f] who is in the bosom of the Father, He has declared Him."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 19,
+          "text": "19 Now this is the testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, \u201cWho are you?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 20,
+          "text": "20 He confessed, and did not deny, but confessed, \u201cI am not the Christ.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 21,
+          "text": "21 And they asked him, \u201cWhat then? Are you Elijah?\u201d He said, \u201cI am not.\u201d \u201cAre you the Prophet?\u201d And he answered, \u201cNo.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 22,
+          "text": "22 Then they said to him, \u201cWho are you, that we may give an answer to those who sent us? What do you say about yourself?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 23,
+          "text": "23 He said: \u201cI am \u2018The voice of one crying in the wilderness: \u201cMake straight the way of the Lord,\u201d \u2019 [g] as the prophet Isaiah said.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 24,
+          "text": "24 Now those who were sent were from the Pharisees."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 25,
+          "text": "25 And they asked him, saying, \u201cWhy then do you baptize if you are not the Christ, nor Elijah, nor the Prophet?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 26,
+          "text": "26 John answered them, saying, \u201cI baptize with water, but there stands One among you whom you do not know."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 27,
+          "text": "27 It is He who, coming after me, is preferred before me, whose sandal strap I am not worthy to loose.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 28,
+          "text": "28 These things were done in Bethabara [h] beyond the Jordan, where John was baptizing."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 29,
+          "text": "29 The next day John saw Jesus coming toward him, and said, \u201cBehold! The Lamb of God who takes away the sin of the world!"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 30,
+          "text": "30 This is He of whom I said, \u2018After me comes a Man who is preferred before me, for He was before me.\u2019"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 31,
+          "text": "31 I did not know Him; but that He should be revealed to Israel, therefore I came baptizing with water.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 32,
+          "text": "32 And John bore witness, saying, \u201cI saw the Spirit descending from heaven like a dove, and He remained upon Him."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 33,
+          "text": "33 I did not know Him, but He who sent me to baptize with water said to me, \u2018Upon whom you see the Spirit descending, and remaining on Him, this is He who baptizes with the Holy Spirit.\u2019"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 34,
+          "text": "34 And I have seen and testified that this is the Son of God.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 35,
+          "text": "35 Again, the next day, John stood with two of his disciples."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 36,
+          "text": "36 And looking at Jesus as He walked, he said, \u201cBehold the Lamb of God!\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 37,
+          "text": "37 The two disciples heard him speak, and they followed Jesus."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 38,
+          "text": "38 Then Jesus turned, and seeing them following, said to them, \u201cWhat do you seek?\u201d They said to Him, \u201cRabbi\u201d (which is to say, when translated, Teacher), \u201cwhere are You staying?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 39,
+          "text": "39 He said to them, \u201cCome and see.\u201d They came and saw where He was staying, and remained with Him that day (now it was about the tenth hour)."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 40,
+          "text": "40 One of the two who heard John speak, and followed Him, was Andrew, Simon Peter\u2019s brother."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 41,
+          "text": "41 He first found his own brother Simon, and said to him, \u201cWe have found the Messiah\u201d (which is translated, the Christ)."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 42,
+          "text": "42 And he brought him to Jesus. Now when Jesus looked at him, He said, \u201cYou are Simon the son of Jonah. [i] You shall be called Cephas\u201d (which is translated, A Stone)."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 43,
+          "text": "43 The following day Jesus wanted to go to Galilee, and He found Philip and said to him, \u201cFollow Me.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 44,
+          "text": "44 Now Philip was from Bethsaida, the city of Andrew and Peter."
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 45,
+          "text": "45 Philip found Nathanael and said to him, \u201cWe have found Him of whom Moses in the law, and also the prophets, wrote\u2014Jesus of Nazareth, the son of Joseph.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 46,
+          "text": "46 And Nathanael said to him, \u201cCan anything good come out of Nazareth?\u201d Philip said to him, \u201cCome and see.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 47,
+          "text": "47 Jesus saw Nathanael coming toward Him, and said of him, \u201cBehold, an Israelite indeed, in whom is no deceit!\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 48,
+          "text": "48 Nathanael said to Him, \u201cHow do You know me?\u201d Jesus answered and said to him, \u201cBefore Philip called you, when you were under the fig tree, I saw you.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 49,
+          "text": "49 Nathanael answered and said to Him, \u201cRabbi, You are the Son of God! You are the King of Israel!\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 50,
+          "text": "50 Jesus answered and said to him, \u201cBecause I said to you, \u2018I saw you under the fig tree,\u2019 do you believe? You will see greater things than these.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 1,
+          "verse": 51,
+          "text": "51 And He said to him, \u201cMost assuredly, I say to you, hereafter [j] you shall see heaven open, and the angels of God ascending and descending upon the Son of Man.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:14.491716"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Job 40",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 1,
+          "text": "1 Moreover the L\u1d0f\u0280\u1d05 answered Job, and said:"
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 2,
+          "text": "2 \u201cShall the one who contends with the Almighty correct Him? He who rebukes God, let him answer it.\u201d"
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 3,
+          "text": "3 Then Job answered the L\u1d0f\u0280\u1d05 and said:"
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 4,
+          "text": "4 \u201cBehold, I am vile; What shall I answer You? I lay my hand over my mouth."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 5,
+          "text": "5 Once I have spoken, but I will not answer; Yes, twice, but I will proceed no further.\u201d"
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 6,
+          "text": "6 Then the L\u1d0f\u0280\u1d05 answered Job out of the whirlwind, and said:"
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 7,
+          "text": "7 \u201cNow prepare yourself like a man; I will question you, and you shall answer Me:"
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 8,
+          "text": "8 \u201cWould you indeed annul My judgment? Would you condemn Me that you may be justified?"
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 9,
+          "text": "9 Have you an arm like God? Or can you thunder with a voice like His?"
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 10,
+          "text": "10 Then adorn yourself with majesty and splendor, And array yourself with glory and beauty."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 11,
+          "text": "11 Disperse the rage of your wrath; Look on everyone who is proud, and humble him."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 12,
+          "text": "12 Look on everyone who is proud, and bring him low; Tread down the wicked in their place."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 13,
+          "text": "13 Hide them in the dust together, Bind their faces in hidden darkness."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 14,
+          "text": "14 Then I will also confess to you That your own right hand can save you."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 15,
+          "text": "15 \u201cLook now at the behemoth, which I made along with you; He eats grass like an ox."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 16,
+          "text": "16 See now, his strength is in his hips, And his power is in his stomach muscles."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 17,
+          "text": "17 He moves his tail like a cedar; The sinews of his thighs are tightly knit."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 18,
+          "text": "18 His bones are like beams of bronze, His ribs like bars of iron."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 19,
+          "text": "19 He is the first of the ways of God; Only He who made him can bring near His sword."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 20,
+          "text": "20 Surely the mountains yield food for him, And all the beasts of the field play there."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 21,
+          "text": "21 He lies under the lotus trees, In a covert of reeds and marsh."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 22,
+          "text": "22 The lotus trees cover him with their shade; The willows by the brook surround him."
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 23,
+          "text": "23 Indeed the river may rage, Yet he is not disturbed; He is confident, though the Jordan gushes into his mouth,"
+        },
+        {
+          "book": "Job",
+          "chapter": 40,
+          "verse": 24,
+          "text": "24 Though he takes it in his eyes, Or one pierces his nose with a snare."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:15.170774"
+    },
+    {
+      "reference": "2 Corinthians 10",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 1,
+          "text": "1 Now I, Paul, myself am pleading with you by the meekness and gentleness of Christ\u2014who in presence am lowly among you, but being absent am bold toward you."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 2,
+          "text": "2 But I beg you that when I am present I may not be bold with that confidence by which I intend to be bold against some, who think of us as if we walked according to the flesh."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 3,
+          "text": "3 For though we walk in the flesh, we do not war according to the flesh."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 4,
+          "text": "4 For the weapons of our warfare are not carnal but mighty in God for pulling down strongholds,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 5,
+          "text": "5 casting down arguments and every high thing that exalts itself against the knowledge of God, bringing every thought into captivity to the obedience of Christ,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 6,
+          "text": "6 and being ready to punish all disobedience when your obedience is fulfilled."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 7,
+          "text": "7 Do you look at things according to the outward appearance? If anyone is convinced in himself that he is Christ\u2019s, let him again consider this in himself, that just as he is Christ\u2019s, even so we are Christ\u2019s."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 8,
+          "text": "8 For even if I should boast somewhat more about our authority, which the Lord gave us for edification and not for your destruction, I shall not be ashamed\u2014"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 9,
+          "text": "9 lest I seem to terrify you by letters."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 10,
+          "text": "10 \u201cFor his letters,\u201d they say, \u201care weighty and powerful, but his bodily presence is weak, and his speech contemptible.\u201d"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 11,
+          "text": "11 Let such a person consider this, that what we are in word by letters when we are absent, such we will also be in deed when we are present."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 12,
+          "text": "12 For we dare not class ourselves or compare ourselves with those who commend themselves. But they, measuring themselves by themselves, and comparing themselves among themselves, are not wise."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 13,
+          "text": "13 We, however, will not boast beyond measure, but within the limits of the sphere which God appointed us\u2014a sphere which especially includes you."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 14,
+          "text": "14 For we are not overextending ourselves (as though our authority did not extend to you), for it was to you that we came with the gospel of Christ;"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 15,
+          "text": "15 not boasting of things beyond measure, that is, in other men\u2019s labors, but having hope, that as your faith is increased, we shall be greatly enlarged by you in our sphere,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 16,
+          "text": "16 to preach the gospel in the regions beyond you, and not to boast in another man\u2019s sphere of accomplishment."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 17,
+          "text": "17 But \u201che who glories, let him glory in the Lord.\u201d"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 10,
+          "verse": 18,
+          "text": "18 For not he who commends himself is approved, but whom the Lord commends."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:15.886754"
+    }
+  ]
+}

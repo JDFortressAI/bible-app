@@ -1,0 +1,683 @@
+{
+  "format_version": "1.0",
+  "date": "04/24",
+  "cached_at": "2026-02-05T17:13:44.221495",
+  "Family": [
+    {
+      "reference": "Numbers 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 1,
+          "text": "1 Now the L\u1d0f\u0280\u1d05 spoke to Moses in the Wilderness of Sinai, in the tabernacle of meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 2,
+          "text": "2 \u201cTake a census of all the congregation of the children of Israel, by their families, by their fathers\u2019 houses, according to the number of names, every male individually,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 3,
+          "text": "3 from twenty years old and above\u2014all who are able to go to war in Israel. You and Aaron shall number them by their armies."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 4,
+          "text": "4 And with you there shall be a man from every tribe, each one the head of his father\u2019s house."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 5,
+          "text": "5 \u201cThese are the names of the men who shall stand with you: from Reuben, Elizur the son of Shedeur;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 6,
+          "text": "6 from Simeon, Shelumiel the son of Zurishaddai;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 7,
+          "text": "7 from Judah, Nahshon the son of Amminadab;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 8,
+          "text": "8 from Issachar, Nethanel the son of Zuar;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 9,
+          "text": "9 from Zebulun, Eliab the son of Helon;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 10,
+          "text": "10 from the sons of Joseph: from Ephraim, Elishama the son of Ammihud; from Manasseh, Gamaliel the son of Pedahzur;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 11,
+          "text": "11 from Benjamin, Abidan the son of Gideoni;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 12,
+          "text": "12 from Dan, Ahiezer the son of Ammishaddai;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 13,
+          "text": "13 from Asher, Pagiel the son of Ocran;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 14,
+          "text": "14 from Gad, Eliasaph the son of Deuel; [a]"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 15,
+          "text": "15 from Naphtali, Ahira the son of Enan.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 16,
+          "text": "16 These were chosen from the congregation, leaders of their fathers\u2019 tribes, heads of the divisions in Israel."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 17,
+          "text": "17 Then Moses and Aaron took these men who had been mentioned by name,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 18,
+          "text": "18 and they assembled all the congregation together on the first day of the second month; and they recited their ancestry by families, by their fathers\u2019 houses, according to the number of names, from twenty years old and above, each one individually."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 19,
+          "text": "19 As the L\u1d0f\u0280\u1d05 commanded Moses, so he numbered them in the Wilderness of Sinai."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 20,
+          "text": "20 Now the children of Reuben, Israel\u2019s oldest son, their genealogies by their families, by their fathers\u2019 house, according to the number of names, every male individually, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 21,
+          "text": "21 those who were numbered of the tribe of Reuben were forty-six thousand five hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 22,
+          "text": "22 From the children of Simeon, their genealogies by their families, by their fathers\u2019 house, of those who were numbered, according to the number of names, every male individually, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 23,
+          "text": "23 those who were numbered of the tribe of Simeon were fifty-nine thousand three hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 24,
+          "text": "24 From the children of Gad, their genealogies by their families, by their fathers\u2019 house, according to the number of names, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 25,
+          "text": "25 those who were numbered of the tribe of Gad were forty-five thousand six hundred and fifty."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 26,
+          "text": "26 From the children of Judah, their genealogies by their families, by their fathers\u2019 house, according to the number of names, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 27,
+          "text": "27 those who were numbered of the tribe of Judah were seventy-four thousand six hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 28,
+          "text": "28 From the children of Issachar, their genealogies by their families, by their fathers\u2019 house, according to the number of names, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 29,
+          "text": "29 those who were numbered of the tribe of Issachar were fifty-four thousand four hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 30,
+          "text": "30 From the children of Zebulun, their genealogies by their families, by their fathers\u2019 house, according to the number of names, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 31,
+          "text": "31 those who were numbered of the tribe of Zebulun were fifty-seven thousand four hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 32,
+          "text": "32 From the sons of Joseph, the children of Ephraim, their genealogies by their families, by their fathers\u2019 house, according to the number of names, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 33,
+          "text": "33 those who were numbered of the tribe of Ephraim were forty thousand five hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 34,
+          "text": "34 From the children of Manasseh, their genealogies by their families, by their fathers\u2019 house, according to the number of names, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 35,
+          "text": "35 those who were numbered of the tribe of Manasseh were thirty-two thousand two hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 36,
+          "text": "36 From the children of Benjamin, their genealogies by their families, by their fathers\u2019 house, according to the number of names, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 37,
+          "text": "37 those who were numbered of the tribe of Benjamin were thirty-five thousand four hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 38,
+          "text": "38 From the children of Dan, their genealogies by their families, by their fathers\u2019 house, according to the number of names, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 39,
+          "text": "39 those who were numbered of the tribe of Dan were sixty-two thousand seven hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 40,
+          "text": "40 From the children of Asher, their genealogies by their families, by their fathers\u2019 house, according to the number of names, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 41,
+          "text": "41 those who were numbered of the tribe of Asher were forty-one thousand five hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 42,
+          "text": "42 From the children of Naphtali, their genealogies by their families, by their fathers\u2019 house, according to the number of names, from twenty years old and above, all who were able to go to war:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 43,
+          "text": "43 those who were numbered of the tribe of Naphtali were fifty-three thousand four hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 44,
+          "text": "44 These are the ones who were numbered, whom Moses and Aaron numbered, with the leaders of Israel, twelve men, each one representing his father\u2019s house."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 45,
+          "text": "45 So all who were numbered of the children of Israel, by their fathers\u2019 houses, from twenty years old and above, all who were able to go to war in Israel\u2014"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 46,
+          "text": "46 all who were numbered were six hundred and three thousand five hundred and fifty."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 47,
+          "text": "47 But the Levites were not numbered among them by their fathers\u2019 tribe;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 48,
+          "text": "48 for the L\u1d0f\u0280\u1d05 had spoken to Moses, saying:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 49,
+          "text": "49 \u201cOnly the tribe of Levi you shall not number, nor take a census of them among the children of Israel;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 50,
+          "text": "50 but you shall appoint the Levites over the tabernacle of the Testimony, over all its furnishings, and over all things that belong to it; they shall carry the tabernacle and all its furnishings; they shall attend to it and camp around the tabernacle."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 51,
+          "text": "51 And when the tabernacle is to go forward, the Levites shall take it down; and when the tabernacle is to be set up, the Levites shall set it up. The outsider who comes near shall be put to death."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 52,
+          "text": "52 The children of Israel shall pitch their tents, everyone by his own camp, everyone by his own standard, according to their armies;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 53,
+          "text": "53 but the Levites shall camp around the tabernacle of the Testimony, that there may be no wrath on the congregation of the children of Israel; and the Levites shall keep charge of the tabernacle of the Testimony.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 1,
+          "verse": 54,
+          "text": "54 Thus the children of Israel did; according to all that the L\u1d0f\u0280\u1d05 commanded Moses, so they did."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:44.806229"
+    },
+    {
+      "reference": "Psalm 35",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 1,
+          "text": "1 A Psalm of David. Plead my cause, O L\u1d0f\u0280\u1d05, with those who strive with me; Fight against those who fight against me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 2,
+          "text": "2 Take hold of shield and buckler, And stand up for my help."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 3,
+          "text": "3 Also draw out the spear, And stop those who pursue me. Say to my soul, \u201cI am your salvation.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 4,
+          "text": "4 Let those be put to shame and brought to dishonor Who seek after my life; Let those be turned back and brought to confusion Who plot my hurt."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 5,
+          "text": "5 Let them be like chaff before the wind, And let the angel of the L\u1d0f\u0280\u1d05 chase them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 6,
+          "text": "6 Let their way be dark and slippery, And let the angel of the L\u1d0f\u0280\u1d05 pursue them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 7,
+          "text": "7 For without cause they have hidden their net for me in a pit, Which they have dug without cause for my life."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 8,
+          "text": "8 Let destruction come upon him unexpectedly, And let his net that he has hidden catch himself; Into that very destruction let him fall."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 9,
+          "text": "9 And my soul shall be joyful in the L\u1d0f\u0280\u1d05; It shall rejoice in His salvation."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 10,
+          "text": "10 All my bones shall say, \u201cLord, who is like You, Delivering the poor from him who is too strong for him, Yes, the poor and the needy from him who plunders him?\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 11,
+          "text": "11 Fierce witnesses rise up; They ask me things that I do not know."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 12,
+          "text": "12 They reward me evil for good, To the sorrow of my soul."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 13,
+          "text": "13 But as for me, when they were sick, My clothing was sackcloth; I humbled myself with fasting; And my prayer would return to my own heart."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 14,
+          "text": "14 I paced about as though he were my friend or brother; I bowed down heavily, as one who mourns for his mother."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 15,
+          "text": "15 But in my adversity they rejoiced And gathered together; Attackers gathered against me, And I did not know it; They tore at me and did not cease;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 16,
+          "text": "16 With ungodly mockers at feasts They gnashed at me with their teeth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 17,
+          "text": "17 Lord, how long will You look on? Rescue me from their destructions, My precious life from the lions."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 18,
+          "text": "18 I will give You thanks in the great assembly; I will praise You among many people."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 19,
+          "text": "19 Let them not rejoice over me who are wrongfully my enemies; Nor let them wink with the eye who hate me without a cause."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 20,
+          "text": "20 For they do not speak peace, But they devise deceitful matters Against the quiet ones in the land."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 21,
+          "text": "21 They also opened their mouth wide against me, And said, \u201cAha, aha! Our eyes have seen it.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 22,
+          "text": "22 This You have seen, O L\u1d0f\u0280\u1d05; Do not keep silence. O L\u1d0f\u0280\u1d05, do not be far from me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 23,
+          "text": "23 Stir up Yourself, and awake to my vindication, To my cause, my God and my Lord."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 24,
+          "text": "24 Vindicate me, O L\u1d0f\u0280\u1d05 my God, according to Your righteousness; And let them not rejoice over me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 25,
+          "text": "25 Let them not say in their hearts, \u201cAh, so we would have it!\u201d Let them not say, \u201cWe have swallowed him up.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 26,
+          "text": "26 Let them be ashamed and brought to mutual confusion Who rejoice at my hurt; Let them be clothed with shame and dishonor Who exalt themselves against me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 27,
+          "text": "27 Let them shout for joy and be glad, Who favor my righteous cause; And let them say continually, \u201cLet the L\u1d0f\u0280\u1d05 be magnified, Who has pleasure in the prosperity of His servant.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 35,
+          "verse": 28,
+          "text": "28 And my tongue shall speak of Your righteousness And of Your praise all the day long."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:45.609570"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Ecclesiastes 11",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "verse": 1,
+          "text": "1 Cast your bread upon the waters, For you will find it after many days."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "verse": 2,
+          "text": "2 Give a serving to seven, and also to eight, For you do not know what evil will be on the earth."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "verse": 3,
+          "text": "3 If the clouds are full of rain, They empty themselves upon the earth; And if a tree falls to the south or the north, In the place where the tree falls, there it shall lie."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "verse": 4,
+          "text": "4 He who observes the wind will not sow, And he who regards the clouds will not reap."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "verse": 5,
+          "text": "5 As you do not know what is the way of the wind, Or how the bones grow in the womb of her who is with child, So you do not know the works of God who makes everything."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "verse": 6,
+          "text": "6 In the morning sow your seed, And in the evening do not withhold your hand; For you do not know which will prosper, Either this or that, Or whether both alike will be good."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "verse": 7,
+          "text": "7 Truly the light is sweet, And it is pleasant for the eyes to behold the sun;"
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "verse": 8,
+          "text": "8 But if a man lives many years And rejoices in them all, Yet let him remember the days of darkness, For they will be many. All that is coming is vanity."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "verse": 9,
+          "text": "9 Rejoice, O young man, in your youth, And let your heart cheer you in the days of your youth; Walk in the ways of your heart, And in the sight of your eyes; But know that for all these God will bring you into judgment."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 11,
+          "verse": 10,
+          "text": "10 Therefore remove sorrow from your heart, And put away evil from your flesh, For childhood and youth are vanity."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:46.152800"
+    },
+    {
+      "reference": "Titus 3",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 1,
+          "text": "1 Remind them to be subject to rulers and authorities, to obey, to be ready for every good work,"
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 2,
+          "text": "2 to speak evil of no one, to be peaceable, gentle, showing all humility to all men."
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 3,
+          "text": "3 For we ourselves were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful and hating one another."
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 4,
+          "text": "4 But when the kindness and the love of God our Savior toward man appeared,"
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 5,
+          "text": "5 not by works of righteousness which we have done, but according to His mercy He saved us, through the washing of regeneration and renewing of the Holy Spirit,"
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 6,
+          "text": "6 whom He poured out on us abundantly through Jesus Christ our Savior,"
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 7,
+          "text": "7 that having been justified by His grace we should become heirs according to the hope of eternal life."
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 8,
+          "text": "8 This is a faithful saying, and these things I want you to affirm constantly, that those who have believed in God should be careful to maintain good works. These things are good and profitable to men."
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 9,
+          "text": "9 But avoid foolish disputes, genealogies, contentions, and strivings about the law; for they are unprofitable and useless."
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 10,
+          "text": "10 Reject a divisive man after the first and second admonition,"
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 11,
+          "text": "11 knowing that such a person is warped and sinning, being self-condemned."
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 12,
+          "text": "12 When I send Artemas to you, or Tychicus, be diligent to come to me at Nicopolis, for I have decided to spend the winter there."
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 13,
+          "text": "13 Send Zenas the lawyer and Apollos on their journey with haste, that they may lack nothing."
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 14,
+          "text": "14 And let our people also learn to maintain good works, to meet urgent needs, that they may not be unfruitful."
+        },
+        {
+          "book": "Titus",
+          "chapter": 3,
+          "verse": 15,
+          "text": "15 All who are with me greet you. Greet those who love us in the faith. Grace be with you all. Amen."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:46.810153"
+    }
+  ]
+}

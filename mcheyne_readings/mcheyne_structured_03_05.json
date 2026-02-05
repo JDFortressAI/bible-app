@@ -1,0 +1,875 @@
+{
+  "format_version": "1.0",
+  "date": "03/05",
+  "cached_at": "2026-02-05T17:10:53.298040",
+  "Family": [
+    {
+      "reference": "Exodus 16",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 1,
+          "text": "1 And they journeyed from Elim, and all the congregation of the children of Israel came to the Wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after they departed from the land of Egypt."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 2,
+          "text": "2 Then the whole congregation of the children of Israel complained against Moses and Aaron in the wilderness."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 3,
+          "text": "3 And the children of Israel said to them, \u201cOh, that we had died by the hand of the L\u1d0f\u0280\u1d05 in the land of Egypt, when we sat by the pots of meat and when we ate bread to the full! For you have brought us out into this wilderness to kill this whole assembly with hunger.\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 4,
+          "text": "4 Then the L\u1d0f\u0280\u1d05 said to Moses, \u201cBehold, I will rain bread from heaven for you. And the people shall go out and gather a certain quota every day, that I may test them, whether they will walk in My law or not."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 5,
+          "text": "5 And it shall be on the sixth day that they shall prepare what they bring in, and it shall be twice as much as they gather daily.\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 6,
+          "text": "6 Then Moses and Aaron said to all the children of Israel, \u201cAt evening you shall know that the L\u1d0f\u0280\u1d05 has brought you out of the land of Egypt."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 7,
+          "text": "7 And in the morning you shall see the glory of the L\u1d0f\u0280\u1d05; for He hears your complaints against the L\u1d0f\u0280\u1d05. But what are we, that you complain against us?\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 8,
+          "text": "8 Also Moses said, \u201cThis shall be seen when the L\u1d0f\u0280\u1d05 gives you meat to eat in the evening, and in the morning bread to the full; for the L\u1d0f\u0280\u1d05 hears your complaints which you make against Him. And what are we? Your complaints are not against us but against the L\u1d0f\u0280\u1d05.\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 9,
+          "text": "9 Then Moses spoke to Aaron, \u201cSay to all the congregation of the children of Israel, \u2018Come near before the L\u1d0f\u0280\u1d05, for He has heard your complaints.\u2019 \u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 10,
+          "text": "10 Now it came to pass, as Aaron spoke to the whole congregation of the children of Israel, that they looked toward the wilderness, and behold, the glory of the L\u1d0f\u0280\u1d05 appeared in the cloud."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 11,
+          "text": "11 And the L\u1d0f\u0280\u1d05 spoke to Moses, saying,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 12,
+          "text": "12 \u201cI have heard the complaints of the children of Israel. Speak to them, saying, \u2018At twilight you shall eat meat, and in the morning you shall be filled with bread. And you shall know that I am the L\u1d0f\u0280\u1d05 your God.\u2019 \u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 13,
+          "text": "13 So it was that quails came up at evening and covered the camp, and in the morning the dew lay all around the camp."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 14,
+          "text": "14 And when the layer of dew lifted, there, on the surface of the wilderness, was a small round substance, as fine as frost on the ground."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 15,
+          "text": "15 So when the children of Israel saw it, they said to one another, \u201cWhat is it?\u201d For they did not know what it was. And Moses said to them, \u201cThis is the bread which the L\u1d0f\u0280\u1d05 has given you to eat."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 16,
+          "text": "16 This is the thing which the L\u1d0f\u0280\u1d05 has commanded: \u2018Let every man gather it according to each one\u2019s need, one omer for each person, according to the number of persons; let every man take for those who are in his tent.\u2019 \u201c"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 17,
+          "text": "17 Then the children of Israel did so and gathered, some more, some less."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 18,
+          "text": "18 So when they measured it by omers, he who gathered much had nothing left over, and he who gathered little had no lack. Every man had gathered according to each one\u2019s need."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 19,
+          "text": "19 And Moses said, \u201cLet no one leave any of it till morning.\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 20,
+          "text": "20 Notwithstanding they did not heed Moses. But some of them left part of it until morning, and it bred worms and stank. And Moses was angry with them."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 21,
+          "text": "21 So they gathered it every morning, every man according to his need. And when the sun became hot, it melted."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 22,
+          "text": "22 And so it was, on the sixth day, that they gathered twice as much bread, two omers for each one. And all the rulers of the congregation came and told Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 23,
+          "text": "23 Then he said to them, \u201cThis is what the L\u1d0f\u0280\u1d05 has said: \u2018Tomorrow is a Sabbath rest, a holy Sabbath to the L\u1d0f\u0280\u1d05. Bake what you will bake today, and boil what you will boil; and lay up for yourselves all that remains, to be kept until morning.\u2019 \u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 24,
+          "text": "24 So they laid it up till morning, as Moses commanded; and it did not stink, nor were there any worms in it."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 25,
+          "text": "25 Then Moses said, \u201cEat that today, for today is a Sabbath to the L\u1d0f\u0280\u1d05; today you will not find it in the field."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 26,
+          "text": "26 Six days you shall gather it, but on the seventh day, which is the Sabbath, there will be none.\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 27,
+          "text": "27 Now it happened that some of the people went out on the seventh day to gather, but they found none."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 28,
+          "text": "28 And the L\u1d0f\u0280\u1d05 said to Moses, \u201cHow long do you refuse to keep My commandments and My laws?"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 29,
+          "text": "29 See! For the L\u1d0f\u0280\u1d05 has given you the Sabbath; therefore He gives you on the sixth day bread for two days. Let every man remain in his place; let no man go out of his place on the seventh day.\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 30,
+          "text": "30 So the people rested on the seventh day."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 31,
+          "text": "31 And the house of Israel called its name Manna. And it was like white coriander seed, and the taste of it was like wafers made with honey."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 32,
+          "text": "32 Then Moses said, \u201cThis is the thing which the L\u1d0f\u0280\u1d05 has commanded: \u2018Fill an omer with it, to be kept for your generations, that they may see the bread with which I fed you in the wilderness, when I brought you out of the land of Egypt.\u2019 \u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 33,
+          "text": "33 And Moses said to Aaron, \u201cTake a pot and put an omer of manna in it, and lay it up before the L\u1d0f\u0280\u1d05, to be kept for your generations.\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 34,
+          "text": "34 As the L\u1d0f\u0280\u1d05 commanded Moses, so Aaron laid it up before the Testimony, to be kept."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 35,
+          "text": "35 And the children of Israel ate manna forty years, until they came to an inhabited land; they ate manna until they came to the border of the land of Canaan."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 16,
+          "verse": 36,
+          "text": "36 Now an omer is one-tenth of an ephah."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:10:54.327400"
+    },
+    {
+      "reference": "Luke 19",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 1,
+          "text": "1 Then Jesus entered and passed through Jericho."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 2,
+          "text": "2 Now behold, there was a man named Zacchaeus who was a chief tax collector, and he was rich."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 3,
+          "text": "3 And he sought to see who Jesus was, but could not because of the crowd, for he was of short stature."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 4,
+          "text": "4 So he ran ahead and climbed up into a sycamore tree to see Him, for He was going to pass that way."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 5,
+          "text": "5 And when Jesus came to the place, He looked up and saw him, and said to him, \u201cZacchaeus, make haste and come down, for today I must stay at your house.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 6,
+          "text": "6 So he made haste and came down, and received Him joyfully."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 7,
+          "text": "7 But when they saw it, they all complained, saying, \u201cHe has gone to be a guest with a man who is a sinner.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 8,
+          "text": "8 Then Zacchaeus stood and said to the Lord, \u201cLook, Lord, I give half of my goods to the poor; and if I have taken anything from anyone by false accusation, I restore fourfold.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 9,
+          "text": "9 And Jesus said to him, \u201cToday salvation has come to this house, because he also is a son of Abraham;"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 10,
+          "text": "10 for the Son of Man has come to seek and to save that which was lost.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 11,
+          "text": "11 Now as they heard these things, He spoke another parable, because He was near Jerusalem and because they thought the kingdom of God would appear immediately."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 12,
+          "text": "12 Therefore He said: \u201cA certain nobleman went into a far country to receive for himself a kingdom and to return."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 13,
+          "text": "13 So he called ten of his servants, delivered to them ten minas, and said to them, \u2018Do business till I come.\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 14,
+          "text": "14 But his citizens hated him, and sent a delegation after him, saying, \u2018We will not have this man to reign over us.\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 15,
+          "text": "15 And so it was that when he returned, having received the kingdom, he then commanded these servants, to whom he had given the money, to be called to him, that he might know how much every man had gained by trading."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 16,
+          "text": "16 Then came the first, saying, \u2018Master, your mina has earned ten minas.\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 17,
+          "text": "17 And he said to him, \u2018Well done, good servant; because you were faithful in a very little, have authority over ten cities.\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 18,
+          "text": "18 And the second came, saying, \u2018Master, your mina has earned five minas.\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 19,
+          "text": "19 Likewise he said to him, \u2018You also be over five cities.\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 20,
+          "text": "20 Then another came, saying, \u2018Master, here is your mina, which I have kept put away in a handkerchief."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 21,
+          "text": "21 For I feared you, because you are an austere man. You collect what you did not deposit, and reap what you did not sow.\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 22,
+          "text": "22 And he said to him, \u2018Out of your own mouth I will judge you, you wicked servant. You knew that I was an austere man, collecting what I did not deposit and reaping what I did not sow."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 23,
+          "text": "23 Why then did you not put my money in the bank, that at my coming I might have collected it with interest?\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 24,
+          "text": "24 And he said to those who stood by, \u2018Take the mina from him, and give it to him who has ten minas.\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 25,
+          "text": "25 (But they said to him, \u2018Master, he has ten minas.\u2019)"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 26,
+          "text": "26 For I say to you, that to everyone who has will be given; and from him who does not have, even what he has will be taken away from him."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 27,
+          "text": "27 But bring here those enemies of mine, who did not want me to reign over them, and slay them before me.\u2019 \u201c"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 28,
+          "text": "28 When He had said this, He went on ahead, going up to Jerusalem."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 29,
+          "text": "29 And it came to pass, when He came near to Bethphage and Bethany, at the mountain called Olivet, that He sent two of His disciples,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 30,
+          "text": "30 saying, \u201cGo into the village opposite you, where as you enter you will find a colt tied, on which no one has ever sat. Loose it and bring it here."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 31,
+          "text": "31 And if anyone asks you, \u2018Why are you loosing it?\u2019 thus you shall say to him, \u2018Because the Lord has need of it.\u2019 \u201c"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 32,
+          "text": "32 So those who were sent went their way and found it just as He had said to them."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 33,
+          "text": "33 But as they were loosing the colt, the owners of it said to them, \u201cWhy are you loosing the colt?\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 34,
+          "text": "34 And they said, \u201cThe Lord has need of him.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 35,
+          "text": "35 Then they brought him to Jesus. And they threw their own clothes on the colt, and they set Jesus on him."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 36,
+          "text": "36 And as He went, many spread their clothes on the road."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 37,
+          "text": "37 Then, as He was now drawing near the descent of the Mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works they had seen,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 38,
+          "text": "38 saying: \u201c\u2018Blessed is the King who comes in the name of the Lord!\u2019 Peace in heaven and glory in the highest!\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 39,
+          "text": "39 And some of the Pharisees called to Him from the crowd, \u201cTeacher, rebuke Your disciples.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 40,
+          "text": "40 But He answered and said to them, \u201cI tell you that if these should keep silent, the stones would immediately cry out.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 41,
+          "text": "41 Now as He drew near, He saw the city and wept over it,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 42,
+          "text": "42 saying, \u201cIf you had known, even you, especially in this your day, the things that make for your peace! But now they are hidden from your eyes."
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 43,
+          "text": "43 For days will come upon you when your enemies will build an embankment around you, surround you and close you in on every side,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 44,
+          "text": "44 and level you, and your children within you, to the ground; and they will not leave in you one stone upon another, because you did not know the time of your visitation.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 45,
+          "text": "45 Then He went into the temple and began to drive out those who bought and sold in it,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 46,
+          "text": "46 saying to them, \u201cIt is written, \u2018My house is a house of prayer,\u2019 but you have made it a \u2018den of thieves.\u2019 \u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 47,
+          "text": "47 And He was teaching daily in the temple. But the chief priests, the scribes, and the leaders of the people sought to destroy Him,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 19,
+          "verse": 48,
+          "text": "48 and were unable to do anything; for all the people were very attentive to hear Him."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:10:55.161785"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Job 34",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 1,
+          "text": "1 Elihu further answered and said:"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 2,
+          "text": "2 \u201cHear my words, you wise men; Give ear to me, you who have knowledge."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 3,
+          "text": "3 For the ear tests words As the palate tastes food."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 4,
+          "text": "4 Let us choose justice for ourselves; Let us know among ourselves what is good."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 5,
+          "text": "5 \u201cFor Job has said, \u2018I am righteous, But God has taken away my justice;"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 6,
+          "text": "6 Should I lie concerning my right? My wound is incurable, though I am without transgression.\u2019"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 7,
+          "text": "7 What man is like Job, Who drinks scorn like water,"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 8,
+          "text": "8 Who goes in company with the workers of iniquity, And walks with wicked men?"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 9,
+          "text": "9 For he has said, \u2018It profits a man nothing That he should delight in God.\u2019"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 10,
+          "text": "10 \u201cTherefore listen to me, you men of understanding: Far be it from God to do wickedness, And from the Almighty to commit iniquity."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 11,
+          "text": "11 For He repays man according to his work, And makes man to find a reward according to his way."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 12,
+          "text": "12 Surely God will never do wickedly, Nor will the Almighty pervert justice."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 13,
+          "text": "13 Who gave Him charge over the earth? Or who appointed Him over the whole world?"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 14,
+          "text": "14 If He should set His heart on it, If He should gather to Himself His Spirit and His breath,"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 15,
+          "text": "15 All flesh would perish together, And man would return to dust."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 16,
+          "text": "16 \u201cIf you have understanding, hear this; Listen to the sound of my words:"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 17,
+          "text": "17 Should one who hates justice govern? Will you condemn Him who is most just?"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 18,
+          "text": "18 Is it fitting to say to a king, \u2018You are worthless,\u2019 And to nobles, \u2018You are wicked\u2019?"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 19,
+          "text": "19 Yet He is not partial to princes, Nor does He regard the rich more than the poor; For they are all the work of His hands."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 20,
+          "text": "20 In a moment they die, in the middle of the night; The people are shaken and pass away; The mighty are taken away without a hand."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 21,
+          "text": "21 \u201cFor His eyes are on the ways of man, And He sees all his steps."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 22,
+          "text": "22 There is no darkness nor shadow of death Where the workers of iniquity may hide themselves."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 23,
+          "text": "23 For He need not further consider a man, That he should go before God in judgment."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 24,
+          "text": "24 He breaks in pieces mighty men without inquiry, And sets others in their place."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 25,
+          "text": "25 Therefore he knows their works; He overthrows them in the night, And they are crushed."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 26,
+          "text": "26 He strikes them as wicked men In the open sight of others,"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 27,
+          "text": "27 Because they turned back from Him, And would not consider any of His ways,"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 28,
+          "text": "28 So that they caused the cry of the poor to come to Him; For He hears the cry of the afflicted."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 29,
+          "text": "29 When He gives quietness, who then can make trouble? And when He hides His face, who then can see Him, Whether it is against a nation or a man alone?\u2014"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 30,
+          "text": "30 That the hypocrite should not reign, Lest the people be ensnared."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 31,
+          "text": "31 \u201cFor has anyone said to God, \u2018 I have borne chastening; I will offend no more;"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 32,
+          "text": "32 Teach me what I do not see; If I have done iniquity, I will do no more\u2019?"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 33,
+          "text": "33 Should He repay it according to your terms, Just because you disavow it? You must choose, and not I; Therefore speak what you know."
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 34,
+          "text": "34 \u201cMen of understanding say to me, Wise men who listen to me:"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 35,
+          "text": "35 \u2018Job speaks without knowledge, His words are without wisdom.\u2019"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 36,
+          "text": "36 Oh, that Job were tried to the utmost, Because his answers are like those of wicked men!"
+        },
+        {
+          "book": "Job",
+          "chapter": 34,
+          "verse": 37,
+          "text": "37 For he adds rebellion to his sin; He claps his hands among us, And multiplies his words against God.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:10:55.626928"
+    },
+    {
+      "reference": "2 Corinthians 4",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 1,
+          "text": "1 Therefore, since we have this ministry, as we have received mercy, we do not lose heart."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 2,
+          "text": "2 But we have renounced the hidden things of shame, not walking in craftiness nor handling the word of God deceitfully, but by manifestation of the truth commending ourselves to every man\u2019s conscience in the sight of God."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 3,
+          "text": "3 But even if our gospel is veiled, it is veiled to those who are perishing,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 4,
+          "text": "4 whose minds the god of this age has blinded, who do not believe, lest the light of the gospel of the glory of Christ, who is the image of God, should shine on them."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 5,
+          "text": "5 For we do not preach ourselves, but Christ Jesus the Lord, and ourselves your bondservants for Jesus\u2019 sake."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 6,
+          "text": "6 For it is the God who commanded light to shine out of darkness, who has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 7,
+          "text": "7 But we have this treasure in earthen vessels, that the excellence of the power may be of God and not of us."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 8,
+          "text": "8 We are hard pressed on every side, yet not crushed; we are perplexed, but not in despair;"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 9,
+          "text": "9 persecuted, but not forsaken; struck down, but not destroyed\u2014"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 10,
+          "text": "10 always carrying about in the body the dying of the Lord Jesus, that the life of Jesus also may be manifested in our body."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 11,
+          "text": "11 For we who live are always delivered to death for Jesus\u2019 sake, that the life of Jesus also may be manifested in our mortal flesh."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 12,
+          "text": "12 So then death is working in us, but life in you."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 13,
+          "text": "13 And since we have the same spirit of faith, according to what is written, \u201cI believed and therefore I spoke,\u201d we also believe and therefore speak,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 14,
+          "text": "14 knowing that He who raised up the Lord Jesus will also raise us up with Jesus, and will present us with you."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 15,
+          "text": "15 For all things are for your sakes, that grace, having spread through the many, may cause thanksgiving to abound to the glory of God."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 16,
+          "text": "16 Therefore we do not lose heart. Even though our outward man is perishing, yet the inward man is being renewed day by day."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 17,
+          "text": "17 For our light affliction, which is but for a moment, is working for us a far more exceeding and eternal weight of glory,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 4,
+          "verse": 18,
+          "text": "18 while we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:10:56.111874"
+    }
+  ]
+}

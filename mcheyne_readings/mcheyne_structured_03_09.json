@@ -1,0 +1,923 @@
+{
+  "format_version": "1.0",
+  "date": "03/09",
+  "cached_at": "2026-02-05T17:11:07.103399",
+  "Family": [
+    {
+      "reference": "Exodus 20",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 1,
+          "text": "1 And God spoke all these words, saying:"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 2,
+          "text": "2 \u201cI am the L\u1d0f\u0280\u1d05 your God, who brought you out of the land of Egypt, out of the house of bondage."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 3,
+          "text": "3 You shall have no other gods before Me."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 4,
+          "text": "4 \u201cYou shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 5,
+          "text": "5 you shall not bow down to them nor serve them. For I, the L\u1d0f\u0280\u1d05 your God, am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generations of those who hate Me,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 6,
+          "text": "6 but showing mercy to thousands, to those who love Me and keep My commandments."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 7,
+          "text": "7 \u201cYou shall not take the name of the L\u1d0f\u0280\u1d05 your God in vain, for the L\u1d0f\u0280\u1d05 will not hold him guiltless who takes His name in vain."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 8,
+          "text": "8 \u201cRemember the Sabbath day, to keep it holy."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 9,
+          "text": "9 Six days you shall labor and do all your work,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 10,
+          "text": "10 but the seventh day is the Sabbath of the L\u1d0f\u0280\u1d05 your God. In it you shall do no work: you, nor your son, nor your daughter, nor your male servant, nor your female servant, nor your cattle, nor your stranger who is within your gates."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 11,
+          "text": "11 For in six days the L\u1d0f\u0280\u1d05 made the heavens and the earth, the sea, and all that is in them, and rested the seventh day. Therefore the L\u1d0f\u0280\u1d05 blessed the Sabbath day and hallowed it."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 12,
+          "text": "12 \u201cHonor your father and your mother, that your days may be long upon the land which the L\u1d0f\u0280\u1d05 your God is giving you."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 13,
+          "text": "13 \u201cYou shall not murder."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 14,
+          "text": "14 \u201cYou shall not commit adultery."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 15,
+          "text": "15 \u201cYou shall not steal."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 16,
+          "text": "16 \u201cYou shall not bear false witness against your neighbor."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 17,
+          "text": "17 \u201cYou shall not covet your neighbor\u2019s house; you shall not covet your neighbor\u2019s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor\u2019s.\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 18,
+          "text": "18 Now all the people witnessed the thunderings, the lightning flashes, the sound of the trumpet, and the mountain smoking; and when the people saw it, they trembled and stood afar off."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 19,
+          "text": "19 Then they said to Moses, \u201cYou speak with us, and we will hear; but let not God speak with us, lest we die.\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 20,
+          "text": "20 And Moses said to the people, \u201cDo not fear; for God has come to test you, and that His fear may be before you, so that you may not sin.\u201d"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 21,
+          "text": "21 So the people stood afar off, but Moses drew near the thick darkness where God was."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 22,
+          "text": "22 Then the L\u1d0f\u0280\u1d05 said to Moses, \u201cThus you shall say to the children of Israel: \u2018You have seen that I have talked with you from heaven."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 23,
+          "text": "23 You shall not make anything to be with Me\u2014gods of silver or gods of gold you shall not make for yourselves."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 24,
+          "text": "24 An altar of earth you shall make for Me, and you shall sacrifice on it your burnt offerings and your peace offerings, your sheep and your oxen. In every place where I record My name I will come to you, and I will bless you."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 25,
+          "text": "25 And if you make Me an altar of stone, you shall not build it of hewn stone; for if you use your tool on it, you have profaned it."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 20,
+          "verse": 26,
+          "text": "26 Nor shall you go up by steps to My altar, that your nakedness may not be exposed on it.\u2019"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:07.718315"
+    },
+    {
+      "reference": "Luke 23",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 1,
+          "text": "1 Then the whole multitude of them arose and led Him to Pilate."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 2,
+          "text": "2 And they began to accuse Him, saying, \u201cWe found this fellow perverting the nation, and forbidding to pay taxes to Caesar, saying that He Himself is Christ, a King.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 3,
+          "text": "3 Then Pilate asked Him, saying, \u201cAre You the King of the Jews?\u201d He answered him and said, \u201cIt is as you say.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 4,
+          "text": "4 So Pilate said to the chief priests and the crowd, \u201cI find no fault in this Man."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 5,
+          "text": "5 But they were the more fierce, saying, \u201cHe stirs up the people, teaching throughout all Judea, beginning from Galilee to this place.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 6,
+          "text": "6 When Pilate heard of Galilee, he asked if the Man were a Galilean."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 7,
+          "text": "7 And as soon as he knew that He belonged to Herod\u2019s jurisdiction, he sent Him to Herod, who was also in Jerusalem at that time."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 8,
+          "text": "8 Now when Herod saw Jesus, he was exceedingly glad; for he had desired for a long time to see Him, because he had heard many things about Him, and he hoped to see some miracle done by Him."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 9,
+          "text": "9 Then he questioned Him with many words, but He answered him nothing."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 10,
+          "text": "10 And the chief priests and scribes stood and vehemently accused Him."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 11,
+          "text": "11 Then Herod, with his men of war, treated Him with contempt and mocked Him, arrayed Him in a gorgeous robe, and sent Him back to Pilate."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 12,
+          "text": "12 That very day Pilate and Herod became friends with each other, for previously they had been at enmity with each other."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 13,
+          "text": "13 Then Pilate, when he had called together the chief priests, the rulers, and the people,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 14,
+          "text": "14 said to them, \u201cYou have brought this Man to me, as one who misleads the people. And indeed, having examined Him in your presence, I have found no fault in this Man concerning those things of which you accuse Him"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 15,
+          "text": "15 no, neither did Herod, for I sent you back to him; and indeed nothing deserving of death has been done by Him."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 16,
+          "text": "16 I will therefore chastise Him and release Him\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 17,
+          "text": "17 (for it was necessary for him to release one to them at the feast)."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 18,
+          "text": "18 And they all cried out at once, saying, \u201cAway with this Man, and release to us Barabbas\u201d\u2014"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 19,
+          "text": "19 who had been thrown into prison for a certain rebellion made in the city, and for murder"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 20,
+          "text": "20 Pilate, therefore, wishing to release Jesus, again called out to them."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 21,
+          "text": "21 But they shouted, saying, \u201cCrucify Him, crucify Him!"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 22,
+          "text": "22 Then he said to them the third time, \u201cWhy, what evil has He done? I have found no reason for death in Him. I will therefore chastise Him and let Him go.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 23,
+          "text": "23 But they were insistent, demanding with loud voices that He be crucified. And the voices of these men and of the chief priests prevailed."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 24,
+          "text": "24 So Pilate gave sentence that it should be as they requested."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 25,
+          "text": "25 And he released to them the one they requested, who for rebellion and murder had been thrown into prison; but he delivered Jesus to their will."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 26,
+          "text": "26 Now as they led Him away, they laid hold of a certain man, Simon a Cyrenian, who was coming from the country, and on him they laid the cross that he might bear it after Jesus."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 27,
+          "text": "27 And a great multitude of the people followed Him, and women who also mourned and lamented Him."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 28,
+          "text": "28 But Jesus, turning to them, said, \u201cDaughters of Jerusalem, do not weep for Me, but weep for yourselves and for your children."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 29,
+          "text": "29 For indeed the days are coming in which they will say, \u2018Blessed are the barren, wombs that never bore, and breasts which never nursed!\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 30,
+          "text": "30 Then they will begin \u2018to say to the mountains, \u201cFall on us!\u201d and to the hills, \u201cCover us!\u201d \u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 31,
+          "text": "31 For if they do these things in the green wood, what will be done in the dry?\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 32,
+          "text": "32 There were also two others, criminals, led with Him to be put to death."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 33,
+          "text": "33 And when they had come to the place called Calvary, there they crucified Him, and the criminals, one on the right hand and the other on the left."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 34,
+          "text": "34 Then Jesus said, \u201cFather, forgive them, for they do not know what they do.\u201d And they divided His garments and cast lots."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 35,
+          "text": "35 And the people stood looking on. But even the rulers with them sneered, saying, \u201cHe saved others; let Him save Himself if He is the Christ, the chosen of God.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 36,
+          "text": "36 The soldiers also mocked Him, coming and offering Him sour wine"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 37,
+          "text": "37 and saying, \u201cIf You are the King of the Jews, save Yourself.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 38,
+          "text": "38 And an inscription also was written over Him in letters of Greek, Latin, and Hebrew: THIS IS THE KING OF THE JEWS"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 39,
+          "text": "39 Then one of the criminals who were hanged blasphemed Him, saying, \u201cIf You are the Christ, save Yourself and us.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 40,
+          "text": "40 But the other, answering, rebuked him, saying, \u201cDo you not even fear God, seeing you are under the same condemnation?"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 41,
+          "text": "41 And we indeed justly, for we receive the due reward of our deeds; but this Man has done nothing wrong.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 42,
+          "text": "42 Then he said to Jesus, \u201cLord, remember me when You come into Your kingdom.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 43,
+          "text": "43 And Jesus said to him, \u201cAssuredly, I say to you, today you will be with Me in Paradise.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 44,
+          "text": "44 Now it was about the sixth hour, and there was darkness over all the earth until the ninth hour."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 45,
+          "text": "45 Then the sun was darkened, and the veil of the temple was torn in two."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 46,
+          "text": "46 And when Jesus had cried out with a loud voice, He said, \u201cFather, \u2018into Your hands I commit My spirit.\u2019 \u201d Having said this, He breathed His last."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 47,
+          "text": "47 So when the centurion saw what had happened, he glorified God, saying, \u201cCertainly this was a righteous Man!\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 48,
+          "text": "48 And the whole crowd who came together to that sight, seeing what had been done, beat their breasts and returned."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 49,
+          "text": "49 But all His acquaintances, and the women who followed Him from Galilee, stood at a distance, watching these things."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 50,
+          "text": "50 Now behold, there was a man named Joseph, a council member, a good and just man."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 51,
+          "text": "51 He had not consented to their decision and deed. He was from Arimathea, a city of the Jews, who himself was also waiting for the kingdom of God."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 52,
+          "text": "52 This man went to Pilate and asked for the body of Jesus."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 53,
+          "text": "53 Then he took it down, wrapped it in linen, and laid it in a tomb that was hewn out of the rock, where no one had ever lain before."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 54,
+          "text": "54 That day was the Preparation, and the Sabbath drew near."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 55,
+          "text": "55 And the women who had come with Him from Galilee followed after, and they observed the tomb and how His body was laid."
+        },
+        {
+          "book": "Luke",
+          "chapter": 23,
+          "verse": 56,
+          "text": "56 Then they returned and prepared spices and fragrant oils. And they rested on the Sabbath according to the commandment."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:08.430002"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Job 38",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 1,
+          "text": "1 Then the L\u1d0f\u0280\u1d05 answered Job out of the whirlwind, and said:"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 2,
+          "text": "2 \u201cWho is this who darkens counsel By words without knowledge?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 3,
+          "text": "3 Now prepare yourself like a man; I will question you, and you shall answer Me."
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 4,
+          "text": "4 \u201cWhere were you when I laid the foundations of the earth? Tell Me, if you have understanding."
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 5,
+          "text": "5 Who determined its measurements? Surely you know! Or who stretched the line upon it?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 6,
+          "text": "6 To what were its foundations fastened? Or who laid its cornerstone,"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 7,
+          "text": "7 When the morning stars sang together, And all the sons of God shouted for joy?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 8,
+          "text": "8 \u201cOr who shut in the sea with doors, When it burst forth and issued from the womb;"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 9,
+          "text": "9 When I made the clouds its garment, And thick darkness its swaddling band;"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 10,
+          "text": "10 When I fixed My limit for it, And set bars and doors;"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 11,
+          "text": "11 When I said, \u2018This far you may come, but no farther, And here your proud waves must stop!\u2019"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 12,
+          "text": "12 \u201cHave you commanded the morning since your days began, And caused the dawn to know its place,"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 13,
+          "text": "13 That it might take hold of the ends of the earth, And the wicked be shaken out of it?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 14,
+          "text": "14 It takes on form like clay under a seal, And stands out like a garment."
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 15,
+          "text": "15 From the wicked their light is withheld, And the upraised arm is broken."
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 16,
+          "text": "16 \u201cHave you entered the springs of the sea? Or have you walked in search of the depths?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 17,
+          "text": "17 Have the gates of death been revealed to you? Or have you seen the doors of the shadow of death?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 18,
+          "text": "18 Have you comprehended the breadth of the earth? Tell Me, if you know all this."
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 19,
+          "text": "19 \u201cWhere is the way to the dwelling of light? And darkness, where is its place,"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 20,
+          "text": "20 That you may take it to its territory, That you may know the paths to its home?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 21,
+          "text": "21 Do you know it, because you were born then, Or because the number of your days is great?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 22,
+          "text": "22 \u201cHave you entered the treasury of snow, Or have you seen the treasury of hail,"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 23,
+          "text": "23 Which I have reserved for the time of trouble, For the day of battle and war?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 24,
+          "text": "24 By what way is light diffused, Or the east wind scattered over the earth?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 25,
+          "text": "25 \u201cWho has divided a channel for the overflowing water, Or a path for the thunderbolt,"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 26,
+          "text": "26 To cause it to rain on a land where there is no one, A wilderness in which there is no man;"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 27,
+          "text": "27 To satisfy the desolate waste, And cause to spring forth the growth of tender grass?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 28,
+          "text": "28 Has the rain a father? Or who has begotten the drops of dew?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 29,
+          "text": "29 From whose womb comes the ice? And the frost of heaven, who gives it birth?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 30,
+          "text": "30 The waters harden like stone, And the surface of the deep is frozen."
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 31,
+          "text": "31 \u201cCan you bind the cluster of the Pleiades, Or loose the belt of Orion?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 32,
+          "text": "32 Can you bring out Mazzaroth in its season? Or can you guide the Great Bear with its cubs?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 33,
+          "text": "33 Do you know the ordinances of the heavens? Can you set their dominion over the earth?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 34,
+          "text": "34 \u201cCan you lift up your voice to the clouds, That an abundance of water may cover you?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 35,
+          "text": "35 Can you send out lightnings, that they may go, And say to you, \u2018Here we are!\u2019?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 36,
+          "text": "36 Who has put wisdom in the mind? Or who has given understanding to the heart?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 37,
+          "text": "37 Who can number the clouds by wisdom? Or who can pour out the bottles of heaven,"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 38,
+          "text": "38 When the dust hardens in clumps, And the clods cling together?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 39,
+          "text": "39 \u201cCan you hunt the prey for the lion, Or satisfy the appetite of the young lions,"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 40,
+          "text": "40 When they crouch in their dens, Or lurk in their lairs to lie in wait?"
+        },
+        {
+          "book": "Job",
+          "chapter": 38,
+          "verse": 41,
+          "text": "41 Who provides food for the raven, When its young ones cry to God, And wander about for lack of food?"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:09.273500"
+    },
+    {
+      "reference": "2 Corinthians 8",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 1,
+          "text": "1 Moreover, brethren, we make known to you the grace of God bestowed on the churches of Macedonia:"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 2,
+          "text": "2 that in a great trial of affliction the abundance of their joy and their deep poverty abounded in the riches of their liberality."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 3,
+          "text": "3 For I bear witness that according to their ability, yes, and beyond their ability, they were freely willing,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 4,
+          "text": "4 imploring us with much urgency that we would receive the gift and the fellowship of the ministering to the saints."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 5,
+          "text": "5 And not only as we had hoped, but they first gave themselves to the Lord, and then to us by the will of God."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 6,
+          "text": "6 So we urged Titus, that as he had begun, so he would also complete this grace in you as well."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 7,
+          "text": "7 But as you abound in everything\u2014in faith, in speech, in knowledge, in all diligence, and in your love for us\u2014see that you abound in this grace also."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 8,
+          "text": "8 I speak not by commandment, but I am testing the sincerity of your love by the diligence of others."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 9,
+          "text": "9 For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sakes He became poor, that you through His poverty might become rich."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 10,
+          "text": "10 And in this I give advice: It is to your advantage not only to be doing what you began and were desiring to do a year ago;"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 11,
+          "text": "11 but now you also must complete the doing of it; that as there was a readiness to desire it, so there also may be a completion out of what you have."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 12,
+          "text": "12 For if there is first a willing mind, it is accepted according to what one has, and not according to what he does not have."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 13,
+          "text": "13 For I do not mean that others should be eased and you burdened;"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 14,
+          "text": "14 but by an equality, that now at this time your abundance may supply their lack, that their abundance also may supply your lack\u2014that there may be equality."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 15,
+          "text": "15 As it is written, \u201cHe who gathered much had nothing left over, and he who gathered little had no lack.\u201d"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 16,
+          "text": "16 But thanks be to God who puts the same earnest care for you into the heart of Titus."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 17,
+          "text": "17 For he not only accepted the exhortation, but being more diligent, he went to you of his own accord."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 18,
+          "text": "18 And we have sent with him the brother whose praise is in the gospel throughout all the churches,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 19,
+          "text": "19 and not only that, but who was also chosen by the churches to travel with us with this gift, which is administered by us to the glory of the Lord Himself and to show your ready mind,"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 20,
+          "text": "20 avoiding this: that anyone should blame us in this lavish gift which is administered by us\u2014"
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 21,
+          "text": "21 providing honorable things, not only in the sight of the Lord, but also in the sight of men."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 22,
+          "text": "22 And we have sent with them our brother whom we have often proved diligent in many things, but now much more diligent, because of the great confidence which we have in you."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 23,
+          "text": "23 If anyone inquires about Titus, he is my partner and fellow worker concerning you. Or if our brethren are inquired about, they are messengers of the churches, the glory of Christ."
+        },
+        {
+          "book": "2 Corinthians",
+          "chapter": 8,
+          "verse": 24,
+          "text": "24 Therefore show to them, and before the churches the proof of your love and of our boasting on your behalf."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:11:09.835657"
+    }
+  ]
+}

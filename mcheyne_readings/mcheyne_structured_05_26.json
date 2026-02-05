@@ -1,0 +1,527 @@
+{
+  "format_version": "1.0",
+  "date": "05/26",
+  "cached_at": "2026-02-05T17:55:17.606381",
+  "Family": [
+    {
+      "reference": "Numbers 35",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 1,
+          "text": "1 And the L\u1d0f\u0280\u1d05 spoke to Moses in the plains of Moab by the Jordan across from Jericho, saying:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 2,
+          "text": "2 \u201cCommand the children of Israel that they give the Levites cities to dwell in from the inheritance of their possession, and you shall also give the Levites common-land around the cities."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 3,
+          "text": "3 They shall have the cities to dwell in; and their common-land shall be for their cattle, for their herds, and for all their animals."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 4,
+          "text": "4 The common-land of the cities which you shall give the Levites shall extend from the wall of the city outward a thousand cubits all around."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 5,
+          "text": "5 And you shall measure outside the city on the east side two thousand cubits, on the south side two thousand cubits, on the west side two thousand cubits, and on the north side two thousand cubits. The city shall be in the middle. This shall belong to them as common-land for the cities."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 6,
+          "text": "6 Now among the cities which you will give to the Levites you shall appoint six cities of refuge, to which a manslayer may flee. And to these you shall add forty-two cities."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 7,
+          "text": "7 So all the cities you will give to the Levites shall be forty-eight; these you shall give with their common-land."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 8,
+          "text": "8 And the cities which you will give shall be from the possession of the children of Israel; from the larger tribe you shall give many, from the smaller you shall give few. Each shall give some of its cities to the Levites, in proportion to the inheritance that each receives.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 9,
+          "text": "9 Then the L\u1d0f\u0280\u1d05 spoke to Moses, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 10,
+          "text": "10 \u201cSpeak to the children of Israel, and say to them: \u2018When you cross the Jordan into the land of Canaan,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 11,
+          "text": "11 then you shall appoint cities to be cities of refuge for you, that the manslayer who kills any person accidentally may flee there."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 12,
+          "text": "12 They shall be cities of refuge for you from the avenger, that the manslayer may not die until he stands before the congregation in judgment."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 13,
+          "text": "13 And of the cities which you give, you shall have six cities of refuge."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 14,
+          "text": "14 You shall appoint three cities on this side of the Jordan, and three cities you shall appoint in the land of Canaan, which will be cities of refuge."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 15,
+          "text": "15 These six cities shall be for refuge for the children of Israel, for the stranger, and for the sojourner among them, that anyone who kills a person accidentally may flee there."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 16,
+          "text": "16 \u2018But if he strikes him with an iron implement, so that he dies, he is a murderer; the murderer shall surely be put to death."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 17,
+          "text": "17 And if he strikes him with a stone in the hand, by which one could die, and he does die, he is a murderer; the murderer shall surely be put to death."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 18,
+          "text": "18 Or if he strikes him with a wooden hand weapon, by which one could die, and he does die, he is a murderer; the murderer shall surely be put to death."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 19,
+          "text": "19 The avenger of blood himself shall put the murderer to death; when he meets him, he shall put him to death."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 20,
+          "text": "20 If he pushes him out of hatred or, while lying in wait, hurls something at him so that he dies,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 21,
+          "text": "21 or in enmity he strikes him with his hand so that he dies, the one who struck him shall surely be put to death. He is a murderer. The avenger of blood shall put the murderer to death when he meets him."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 22,
+          "text": "22 \u2018However, if he pushes him suddenly without enmity, or throws anything at him without lying in wait,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 23,
+          "text": "23 or uses a stone, by which a man could die, throwing it at him without seeing him, so that he dies, while he was not his enemy or seeking his harm,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 24,
+          "text": "24 then the congregation shall judge between the manslayer and the avenger of blood according to these judgments."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 25,
+          "text": "25 So the congregation shall deliver the manslayer from the hand of the avenger of blood, and the congregation shall return him to the city of refuge where he had fled, and he shall remain there until the death of the high priest who was anointed with the holy oil."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 26,
+          "text": "26 But if the manslayer at any time goes outside the limits of the city of refuge where he fled,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 27,
+          "text": "27 and the avenger of blood finds him outside the limits of his city of refuge, and the avenger of blood kills the manslayer, he shall not be guilty of blood,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 28,
+          "text": "28 because he should have remained in his city of refuge until the death of the high priest. But after the death of the high priest the manslayer may return to the land of his possession."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 29,
+          "text": "29 \u2018And these things shall be a statute of judgment to you throughout your generations in all your dwellings."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 30,
+          "text": "30 Whoever kills a person, the murderer shall be put to death on the testimony of witnesses; but one witness is not sufficient testimony against a person for the death penalty."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 31,
+          "text": "31 Moreover you shall take no ransom for the life of a murderer who is guilty of death, but he shall surely be put to death."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 32,
+          "text": "32 And you shall take no ransom for him who has fled to his city of refuge, that he may return to dwell in the land before the death of the priest."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 33,
+          "text": "33 So you shall not pollute the land where you are; for blood defiles the land, and no atonement can be made for the land, for the blood that is shed on it, except by the blood of him who shed it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 35,
+          "verse": 34,
+          "text": "34 Therefore do not defile the land which you inhabit, in the midst of which I dwell; for I the L\u1d0f\u0280\u1d05 dwell among the children of Israel.\u2019 \u201c"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:18.552662"
+    },
+    {
+      "reference": "Psalm 79",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 1,
+          "text": "1 A Psalm of Asaph. O God, the nations have come into Your inheritance; Your holy temple they have defiled; They have laid Jerusalem in heaps."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 2,
+          "text": "2 The dead bodies of Your servants They have given as food for the birds of the heavens, The flesh of Your saints to the beasts of the earth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 3,
+          "text": "3 Their blood they have shed like water all around Jerusalem, And there was no one to bury them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 4,
+          "text": "4 We have become a reproach to our neighbors, A scorn and derision to those who are around us."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 5,
+          "text": "5 How long, Lord? Will You be angry forever? Will Your jealousy burn like fire?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 6,
+          "text": "6 Pour out Your wrath on the nations that do not know You, And on the kingdoms that do not call on Your name."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 7,
+          "text": "7 For they have devoured Jacob, And laid waste his dwelling place."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 8,
+          "text": "8 Oh, do not remember former iniquities against us! Let Your tender mercies come speedily to meet us, For we have been brought very low."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 9,
+          "text": "9 Help us, O God of our salvation, For the glory of Your name; And deliver us, and provide atonement for our sins, For Your name\u2019s sake!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 10,
+          "text": "10 Why should the nations say, \u201cWhere is their God?\u201d Let there be known among the nations in our sight The avenging of the blood of Your servants which has been shed."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 11,
+          "text": "11 Let the groaning of the prisoner come before You; According to the greatness of Your power Preserve those who are appointed to die;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 12,
+          "text": "12 And return to our neighbors sevenfold into their bosom Their reproach with which they have reproached You, O L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 79,
+          "verse": 13,
+          "text": "13 So we, Your people and sheep of Your pasture, Will give You thanks forever; We will show forth Your praise to all generations."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:19.147184"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Isaiah 27",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 1,
+          "text": "1 In that day the L\u1d0f\u0280\u1d05 with His severe sword, great and strong, Will punish Leviathan the fleeing serpent, Leviathan that twisted serpent; And He will slay the reptile that is in the sea."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 2,
+          "text": "2 In that day sing to her, \u201cA vineyard of red wine!"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 3,
+          "text": "3 I, the L\u1d0f\u0280\u1d05, keep it, I water it every moment; Lest any hurt it, I keep it night and day."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 4,
+          "text": "4 Fury is not in Me. Who would set briers and thorns Against Me in battle? I would go through them, I would burn them together."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 5,
+          "text": "5 Or let him take hold of My strength, That he may make peace with Me; And he shall make peace with Me.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 6,
+          "text": "6 Those who come He shall cause to take root in Jacob; Israel shall blossom and bud, And fill the face of the world with fruit."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 7,
+          "text": "7 Has He struck Israel as He struck those who struck him? Or has He been slain according to the slaughter of those who were slain by Him?"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 8,
+          "text": "8 In measure, by sending it away, You contended with it. He removes it by His rough wind In the day of the east wind."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 9,
+          "text": "9 Therefore by this the iniquity of Jacob will be covered; And this is all the fruit of taking away his sin: When he makes all the stones of the altar Like chalkstones that are beaten to dust, Wooden images and incense altars shall not stand."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 10,
+          "text": "10 Yet the fortified city will be desolate, The habitation forsaken and left like a wilderness; There the calf will feed, and there it will lie down And consume its branches."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 11,
+          "text": "11 When its boughs are withered, they will be broken off; The women come and set them on fire. For it is a people of no understanding; Therefore He who made them will not have mercy on them, And He who formed them will show them no favor."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 12,
+          "text": "12 And it shall come to pass in that day That the L\u1d0f\u0280\u1d05 will thresh, From the channel of the River to the Brook of Egypt; And you will be gathered one by one, O you children of Israel."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 27,
+          "verse": 13,
+          "text": "13 So it shall be in that day: The great trumpet will be blown; They will come, who are about to perish in the land of Assyria, And they who are outcasts in the land of Egypt, And shall worship the L\u1d0f\u0280\u1d05 in the holy mount at Jerusalem."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:19.749305"
+    },
+    {
+      "reference": "1 John 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 1,
+          "text": "1 Whoever believes that Jesus is the Christ is born of God, and everyone who loves Him who begot also loves him who is begotten of Him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 2,
+          "text": "2 By this we know that we love the children of God, when we love God and keep His commandments."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 3,
+          "text": "3 For this is the love of God, that we keep His commandments. And His commandments are not burdensome."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 4,
+          "text": "4 For whatever is born of God overcomes the world. And this is the victory that has overcome the world\u2014our faith."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 5,
+          "text": "5 Who is he who overcomes the world, but he who believes that Jesus is the Son of God?"
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 6,
+          "text": "6 This is He who came by water and blood\u2014Jesus Christ; not only by water, but by water and blood. And it is the Spirit who bears witness, because the Spirit is truth."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 7,
+          "text": "7 For there are three that bear witness in heaven: the Father, the Word, and the Holy Spirit; and these three are one."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 8,
+          "text": "8 And there are three that bear witness on earth: the Spirit, the water, and the blood; and these three agree as one."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 9,
+          "text": "9 If we receive the witness of men, the witness of God is greater; for this is the witness of God which He has testified of His Son."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 10,
+          "text": "10 He who believes in the Son of God has the witness in himself; he who does not believe God has made Him a liar, because he has not believed the testimony that God has given of His Son."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 11,
+          "text": "11 And this is the testimony: that God has given us eternal life, and this life is in His Son."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 12,
+          "text": "12 He who has the Son has life; he who does not have the Son of God does not have life."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 13,
+          "text": "13 These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may continue to believe in the name of the Son of God."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 14,
+          "text": "14 Now this is the confidence that we have in Him, that if we ask anything according to His will, He hears us."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 15,
+          "text": "15 And if we know that He hears us, whatever we ask, we know that we have the petitions that we have asked of Him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 16,
+          "text": "16 If anyone sees his brother sinning a sin which does not lead to death, he will ask, and He will give him life for those who commit sin not leading to death. There is sin leading to death. I do not say that he should pray about that."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 17,
+          "text": "17 All unrighteousness is sin, and there is sin not leading to death."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 18,
+          "text": "18 We know that whoever is born of God does not sin; but he who has been born of God keeps himself, and the wicked one does not touch him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 19,
+          "text": "19 We know that we are of God, and the whole world lies under the sway of the wicked one."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 20,
+          "text": "20 And we know that the Son of God has come and has given us an understanding, that we may know Him who is true; and we are in Him who is true, in His Son Jesus Christ. This is the true God and eternal life."
+        },
+        {
+          "book": "1 John",
+          "chapter": 5,
+          "verse": 21,
+          "text": "21 Little children, keep yourselves from idols. Amen."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:20.549566"
+    }
+  ]
+}

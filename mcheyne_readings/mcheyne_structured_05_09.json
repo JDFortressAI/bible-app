@@ -1,0 +1,761 @@
+{
+  "format_version": "1.0",
+  "date": "05/09",
+  "cached_at": "2026-02-05T17:54:13.709121",
+  "Family": [
+    {
+      "reference": "Numbers 17-18",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 1,
+          "text": "1 And the L\u1d0f\u0280\u1d05 spoke to Moses, saying:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 2,
+          "text": "2 \u201cSpeak to the children of Israel, and get from them a rod from each father\u2019s house, all their leaders according to their fathers\u2019 houses\u2014twelve rods. Write each man\u2019s name on his rod."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 3,
+          "text": "3 And you shall write Aaron\u2019s name on the rod of Levi. For there shall be one rod for the head of each father\u2019s house."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 4,
+          "text": "4 Then you shall place them in the tabernacle of meeting before the Testimony, where I meet with you."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 5,
+          "text": "5 And it shall be that the rod of the man whom I choose will blossom; thus I will rid Myself of the complaints of the children of Israel, which they make against you.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 6,
+          "text": "6 So Moses spoke to the children of Israel, and each of their leaders gave him a rod apiece, for each leader according to their fathers\u2019 houses, twelve rods; and the rod of Aaron was among their rods."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 7,
+          "text": "7 And Moses placed the rods before the L\u1d0f\u0280\u1d05 in the tabernacle of witness."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 8,
+          "text": "8 Now it came to pass on the next day that Moses went into the tabernacle of witness, and behold, the rod of Aaron, of the house of Levi, had sprouted and put forth buds, had produced blossoms and yielded ripe almonds."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 9,
+          "text": "9 Then Moses brought out all the rods from before the L\u1d0f\u0280\u1d05 to all the children of Israel; and they looked, and each man took his rod."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 10,
+          "text": "10 And the L\u1d0f\u0280\u1d05 said to Moses, \u201cBring Aaron\u2019s rod back before the Testimony, to be kept as a sign against the rebels, that you may put their complaints away from Me, lest they die.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 11,
+          "text": "11 Thus did Moses; just as the L\u1d0f\u0280\u1d05 had commanded him, so he did."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 12,
+          "text": "12 So the children of Israel spoke to Moses, saying, \u201cSurely we die, we perish, we all perish!"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 17,
+          "verse": 13,
+          "text": "13 Whoever even comes near the tabernacle of the L\u1d0f\u0280\u1d05 must die. Shall we all utterly die?\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 1,
+          "text": "1 Then the L\u1d0f\u0280\u1d05 said to Aaron: \u201cYou and your sons and your father\u2019s house with you shall bear the iniquity related to the sanctuary, and you and your sons with you shall bear the iniquity associated with your priesthood."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 2,
+          "text": "2 Also bring with you your brethren of the tribe of Levi, the tribe of your father, that they may be joined with you and serve you while you and your sons are with you before the tabernacle of witness."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 3,
+          "text": "3 They shall attend to your needs and all the needs of the tabernacle; but they shall not come near the articles of the sanctuary and the altar, lest they die\u2014they and you also."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 4,
+          "text": "4 They shall be joined with you and attend to the needs of the tabernacle of meeting, for all the work of the tabernacle; but an outsider shall not come near you."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 5,
+          "text": "5 And you shall attend to the duties of the sanctuary and the duties of the altar, that there may be no more wrath on the children of Israel."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 6,
+          "text": "6 Behold, I Myself have taken your brethren the Levites from among the children of Israel; they are a gift to you, given by the L\u1d0f\u0280\u1d05, to do the work of the tabernacle of meeting."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 7,
+          "text": "7 Therefore you and your sons with you shall attend to your priesthood for everything at the altar and behind the veil; and you shall serve. I give your priesthood to you as a gift for service, but the outsider who comes near shall be put to death.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 8,
+          "text": "8 And the L\u1d0f\u0280\u1d05 spoke to Aaron: \u201cHere, I Myself have also given you charge of My heave offerings, all the holy gifts of the children of Israel; I have given them as a portion to you and your sons, as an ordinance forever."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 9,
+          "text": "9 This shall be yours of the most holy things reserved from the fire: every offering of theirs, every grain offering and every sin offering and every trespass offering which they render to Me, shall be most holy for you and your sons."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 10,
+          "text": "10 In a most holy place you shall eat it; every male shall eat it. It shall be holy to you."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 11,
+          "text": "11 This also is yours: the heave offering of their gift, with all the wave offerings of the children of Israel; I have given them to you, and your sons and daughters with you, as an ordinance forever. Everyone who is clean in your house may eat it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 12,
+          "text": "12 All the best of the oil, all the best of the new wine and the grain, their firstfruits which they offer to the L\u1d0f\u0280\u1d05, I have given them to you."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 13,
+          "text": "13 Whatever first ripe fruit is in their land, which they bring to the L\u1d0f\u0280\u1d05, shall be yours. Everyone who is clean in your house may eat it."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 14,
+          "text": "14 Every devoted thing in Israel shall be yours."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 15,
+          "text": "15 Everything that first opens the womb of all flesh, which they bring to the L\u1d0f\u0280\u1d05, whether man or beast, shall be yours; nevertheless the firstborn of man you shall surely redeem, and the firstborn of unclean animals you shall redeem."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 16,
+          "text": "16 And those redeemed of the devoted things you shall redeem when one month old, according to your valuation, for five shekels of silver, according to the shekel of the sanctuary, which is twenty gerahs."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 17,
+          "text": "17 But the firstborn of a cow, the firstborn of a sheep, or the firstborn of a goat you shall not redeem; they are holy. You shall sprinkle their blood on the altar, and burn their fat as an offering made by fire for a sweet aroma to the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 18,
+          "text": "18 And their flesh shall be yours, just as the wave breast and the right thigh are yours."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 19,
+          "text": "19 All the heave offerings of the holy things, which the children of Israel offer to the L\u1d0f\u0280\u1d05, I have given to you and your sons and daughters with you as an ordinance forever; it is a covenant of salt forever before the L\u1d0f\u0280\u1d05 with you and your descendants with you.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 20,
+          "text": "20 Then the L\u1d0f\u0280\u1d05 said to Aaron: \u201cYou shall have no inheritance in their land, nor shall you have any portion among them; I am your portion and your inheritance among the children of Israel."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 21,
+          "text": "21 \u201cBehold, I have given the children of Levi all the tithes in Israel as an inheritance in return for the work which they perform, the work of the tabernacle of meeting."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 22,
+          "text": "22 Hereafter the children of Israel shall not come near the tabernacle of meeting, lest they bear sin and die."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 23,
+          "text": "23 But the Levites shall perform the work of the tabernacle of meeting, and they shall bear their iniquity; it shall be a statute forever, throughout your generations, that among the children of Israel they shall have no inheritance."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 24,
+          "text": "24 For the tithes of the children of Israel, which they offer up as a heave offering to the L\u1d0f\u0280\u1d05, I have given to the Levites as an inheritance; therefore I have said to them, \u2018Among the children of Israel they shall have no inheritance.\u2019 \u201c"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 25,
+          "text": "25 Then the L\u1d0f\u0280\u1d05 spoke to Moses, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 26,
+          "text": "26 \u201cSpeak thus to the Levites, and say to them: \u2018When you take from the children of Israel the tithes which I have given you from them as your inheritance, then you shall offer up a heave offering of it to the L\u1d0f\u0280\u1d05, a tenth of the tithe."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 27,
+          "text": "27 And your heave offering shall be reckoned to you as though it were the grain of the threshing floor and as the fullness of the winepress."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 28,
+          "text": "28 Thus you shall also offer a heave offering to the L\u1d0f\u0280\u1d05 from all your tithes which you receive from the children of Israel, and you shall give the L\u1d0f\u0280\u1d05\u2019s heave offering from it to Aaron the priest."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 29,
+          "text": "29 Of all your gifts you shall offer up every heave offering due to the L\u1d0f\u0280\u1d05, from all the best of them, the consecrated part of them.\u2019"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 30,
+          "text": "30 Therefore you shall say to them: \u2018When you have lifted up the best of it, then the rest shall be accounted to the Levites as the produce of the threshing floor and as the produce of the winepress."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 31,
+          "text": "31 You may eat it in any place, you and your households, for it is your reward for your work in the tabernacle of meeting."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 18,
+          "verse": 32,
+          "text": "32 And you shall bear no sin because of it, when you have lifted up the best of it. But you shall not profane the holy gifts of the children of Israel, lest you die.\u2019 \u201c"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:54:15.768619"
+    },
+    {
+      "reference": "Psalm 55",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 1,
+          "text": "1 To the Chief Musician. With stringed instruments. A Contemplation of David. Give ear to my prayer, O God, And do not hide Yourself from my supplication."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 2,
+          "text": "2 Attend to me, and hear me; I am restless in my complaint, and moan noisily,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 3,
+          "text": "3 Because of the voice of the enemy, Because of the oppression of the wicked; For they bring down trouble upon me, And in wrath they hate me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 4,
+          "text": "4 My heart is severely pained within me, And the terrors of death have fallen upon me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 5,
+          "text": "5 Fearfulness and trembling have come upon me, And horror has overwhelmed me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 6,
+          "text": "6 So I said, \u201cOh, that I had wings like a dove! I would fly away and be at rest."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 7,
+          "text": "7 Indeed, I would wander far off, And remain in the wilderness. Selah"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 8,
+          "text": "8 I would hasten my escape From the windy storm and tempest.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 9,
+          "text": "9 Destroy, O L\u1d0f\u0280\u1d05, and divide their tongues, For I have seen violence and strife in the city."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 10,
+          "text": "10 Day and night they go around it on its walls; Iniquity and trouble are also in the midst of it."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 11,
+          "text": "11 Destruction is in its midst; Oppression and deceit do not depart from its streets."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 12,
+          "text": "12 For it is not an enemy who reproaches me; Then I could bear it. Nor is it one who hates me who has exalted himself against me; Then I could hide from him."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 13,
+          "text": "13 But it was you, a man my equal, My companion and my acquaintance."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 14,
+          "text": "14 We took sweet counsel together, And walked to the house of God in the throng."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 15,
+          "text": "15 Let death seize them; Let them go down alive into hell, For wickedness is in their dwellings and among them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 16,
+          "text": "16 As for me, I will call upon God, And the L\u1d0f\u0280\u1d05 shall save me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 17,
+          "text": "17 Evening and morning and at noon I will pray, and cry aloud, And He shall hear my voice."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 18,
+          "text": "18 He has redeemed my soul in peace from the battle that was against me, For there were many against me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 19,
+          "text": "19 God will hear, and afflict them, Even He who abides from of old. Selah Because they do not change, Therefore they do not fear God."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 20,
+          "text": "20 He has put forth his hands against those who were at peace with him; He has broken his covenant."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 21,
+          "text": "21 The words of his mouth were smoother than butter, But war was in his heart; His words were softer than oil, Yet they were drawn swords."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 22,
+          "text": "22 Cast your burden on the L\u1d0f\u0280\u1d05, And He shall sustain you; He shall never permit the righteous to be moved."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 55,
+          "verse": 23,
+          "text": "23 But You, O God, shall bring them down to the pit of destruction; Bloodthirsty and deceitful men shall not live out half their days; But I will trust in You."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:54:16.486090"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Isaiah 7",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 1,
+          "text": "1 Now it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin king of Syria and Pekah the son of Remaliah, king of Israel, went up to Jerusalem to make war against it, but could not prevail against it."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 2,
+          "text": "2 And it was told to the house of David, saying, \u201cSyria\u2019s forces are deployed in Ephraim.\u201d So his heart and the heart of his people were moved as the trees of the woods are moved with the wind."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 3,
+          "text": "3 Then the L\u1d0f\u0280\u1d05 said to Isaiah, \u201cGo out now to meet Ahaz, you and Shear-Jashub your son, at the end of the aqueduct from the upper pool, on the highway to the Fuller\u2019s Field,"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 4,
+          "text": "4 and say to him: \u2018Take heed, and be quiet; do not fear or be fainthearted for these two stubs of smoking firebrands, for the fierce anger of Rezin and Syria, and the son of Remaliah."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 5,
+          "text": "5 Because Syria, Ephraim, and the son of Remaliah have plotted evil against you, saying,"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 6,
+          "text": "6 \u201cLet us go up against Judah and trouble it, and let us make a gap in its wall for ourselves, and set a king over them, the son of Tabel\u201d\u2014"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 7,
+          "text": "7 thus says the L\u1d0f\u0280\u1d05 God: \u201cIt shall not stand, Nor shall it come to pass."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 8,
+          "text": "8 For the head of Syria is Damascus, And the head of Damascus is Rezin. Within sixty-five years Ephraim will be broken, So that it will not be a people."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 9,
+          "text": "9 The head of Ephraim is Samaria, And the head of Samaria is Remaliah\u2019s son. If you will not believe, Surely you shall not be established.\u201d \u2018 \u201c"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 10,
+          "text": "10 Moreover the L\u1d0f\u0280\u1d05 spoke again to Ahaz, saying,"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 11,
+          "text": "11 \u201cAsk a sign for yourself from the L\u1d0f\u0280\u1d05 your God; ask it either in the depth or in the height above.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 12,
+          "text": "12 But Ahaz said, \u201cI will not ask, nor will I test the L\u1d0f\u0280\u1d05!\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 13,
+          "text": "13 Then he said, \u201cHear now, O house of David! Is it a small thing for you to weary men, but will you weary my God also?"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 14,
+          "text": "14 Therefore the L\u1d0f\u0280\u1d05 Himself will give you a sign: Behold, the virgin shall conceive and bear a Son, and shall call His name Immanuel."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 15,
+          "text": "15 Curds and honey He shall eat, that He may know to refuse the evil and choose the good."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 16,
+          "text": "16 For before the Child shall know to refuse the evil and choose the good, the land that you dread will be forsaken by both her kings."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 17,
+          "text": "17 The L\u1d0f\u0280\u1d05 will bring the king of Assyria upon you and your people and your father\u2019s house\u2014days that have not come since the day that Ephraim departed from Judah.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 18,
+          "text": "18 And it shall come to pass in that day That the L\u1d0f\u0280\u1d05 will whistle for the fly That is in the farthest part of the rivers of Egypt, And for the bee that is in the land of Assyria."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 19,
+          "text": "19 They will come, and all of them will rest In the desolate valleys and in the clefts of the rocks, And on all thorns and in all pastures."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 20,
+          "text": "20 In the same day the L\u1d0f\u0280\u1d05 will shave with a hired razor, With those from beyond the River, with the king of Assyria, The head and the hair of the legs, And will also remove the beard."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 21,
+          "text": "21 It shall be in that day That a man will keep alive a young cow and two sheep;"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 22,
+          "text": "22 So it shall be, from the abundance of milk they give, That he will eat curds; For curds and honey everyone will eat who is left in the land."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 23,
+          "text": "23 It shall happen in that day, That wherever there could be a thousand vines Worth a thousand shekels of silver, It will be for briers and thorns."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 24,
+          "text": "24 With arrows and bows men will come there, Because all the land will become briers and thorns."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 7,
+          "verse": 25,
+          "text": "25 And to any hill which could be dug with the hoe, You will not go there for fear of briers and thorns; But it will become a range for oxen And a place for sheep to roam."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:54:17.327738"
+    },
+    {
+      "reference": "James 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 1,
+          "text": "1 James, a bondservant of God and of the Lord Jesus Christ, To the twelve tribes which are scattered abroad: Greetings."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 2,
+          "text": "2 My brethren, count it all joy when you fall into various trials,"
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 3,
+          "text": "3 knowing that the testing of your faith produces patience."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 4,
+          "text": "4 But let patience have its perfect work, that you may be perfect and complete, lacking nothing."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 5,
+          "text": "5 If any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 6,
+          "text": "6 But let him ask in faith, with no doubting, for he who doubts is like a wave of the sea driven and tossed by the wind."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 7,
+          "text": "7 For let not that man suppose that he will receive anything from the Lord;"
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 8,
+          "text": "8 he is a double-minded man, unstable in all his ways."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 9,
+          "text": "9 Let the lowly brother glory in his exaltation,"
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 10,
+          "text": "10 but the rich in his humiliation, because as a flower of the field he will pass away."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 11,
+          "text": "11 For no sooner has the sun risen with a burning heat than it withers the grass; its flower falls, and its beautiful appearance perishes. So the rich man also will fade away in his pursuits."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 12,
+          "text": "12 Blessed is the man who endures temptation; for when he has been approved, he will receive the crown of life which the Lord has promised to those who love Him."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 13,
+          "text": "13 Let no one say when he is tempted, \u201cI am tempted by God\u201d; for God cannot be tempted by evil, nor does He Himself tempt anyone."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 14,
+          "text": "14 But each one is tempted when he is drawn away by his own desires and enticed."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 15,
+          "text": "15 Then, when desire has conceived, it gives birth to sin; and sin, when it is full-grown, brings forth death."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 16,
+          "text": "16 Do not be deceived, my beloved brethren."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 17,
+          "text": "17 Every good gift and every perfect gift is from above, and comes down from the Father of lights, with whom there is no variation or shadow of turning."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 18,
+          "text": "18 Of His own will He brought us forth by the word of truth, that we might be a kind of firstfruits of His creatures."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 19,
+          "text": "19 So then, [a] my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath;"
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 20,
+          "text": "20 for the wrath of man does not produce the righteousness of God."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 21,
+          "text": "21 Therefore lay aside all filthiness and overflow of wickedness, and receive with meekness the implanted word, which is able to save your souls."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 22,
+          "text": "22 But be doers of the word, and not hearers only, deceiving yourselves."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 23,
+          "text": "23 For if anyone is a hearer of the word and not a doer, he is like a man observing his natural face in a mirror;"
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 24,
+          "text": "24 for he observes himself, goes away, and immediately forgets what kind of man he was."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 25,
+          "text": "25 But he who looks into the perfect law of liberty and continues in it, and is not a forgetful hearer but a doer of the work, this one will be blessed in what he does."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 26,
+          "text": "26 If anyone among you [b] thinks he is religious, and does not bridle his tongue but deceives his own heart, this one\u2019s religion is useless."
+        },
+        {
+          "book": "James",
+          "chapter": 1,
+          "verse": 27,
+          "text": "27 Pure and undefiled religion before God and the Father is this: to visit orphans and widows in their trouble, and to keep oneself unspotted from the world."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:54:17.930837"
+    }
+  ]
+}

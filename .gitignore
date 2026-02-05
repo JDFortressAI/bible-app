@@ -26,3 +26,4 @@ aws/*_override.tf
 aws/*_override.tf.json
 aws/manual_run.py
 aws/manual_run.toml
+aws/build_mcheyne_plan.py

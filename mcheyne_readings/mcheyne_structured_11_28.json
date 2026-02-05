@@ -1,0 +1,923 @@
+{
+  "format_version": "1.0",
+  "date": "11/28",
+  "cached_at": "2025-11-20T04:00:18.938700",
+  "Family": [
+    {
+      "reference": "1 Chronicles 24-25",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 1,
+          "text": "Now these are the divisions of the sons of Aaron. The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 2,
+          "text": "And Nadab and Abihu died before their father, and had no children; therefore Eleazar and Ithamar ministered as priests."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 3,
+          "text": "Then David with Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, divided them according to the schedule of their service."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 4,
+          "text": "There were more leaders found of the sons of Eleazar than of the sons of Ithamar, and thus they were divided. Among the sons of Eleazar were sixteen heads of their fathers\u2019 houses, and eight heads of their fathers\u2019 houses among the sons of Ithamar."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 5,
+          "text": "Thus they were divided by lot, one group as another, for there were officials of the sanctuary and officials of the house of God, from the sons of Eleazar and from the sons of Ithamar."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 6,
+          "text": "And the scribe, Shemaiah the son of Nethanel, one of the Levites, wrote them down before the king, the leaders, Zadok the priest, Ahimelech the son of Abiathar, and the heads of the fathers\u2019 houses of the priests and Levites, one father\u2019s house taken for Eleazar and one for Ithamar."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 7,
+          "text": "Now the first lot fell to Jehoiarib, the second to Jedaiah,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 8,
+          "text": "the third to Harim, the fourth to Seorim,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 9,
+          "text": "the fifth to Malchijah, the sixth to Mijamin,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 10,
+          "text": "the seventh to Hakkoz, the eighth to Abijah,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 11,
+          "text": "the ninth to Jeshua, the tenth to Shecaniah,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 12,
+          "text": "the eleventh to Eliashib, the twelfth to Jakim,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 13,
+          "text": "the thirteenth to Huppah, the fourteenth to Jeshebeab,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 14,
+          "text": "the fifteenth to Bilgah, the sixteenth to Immer,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 15,
+          "text": "the seventeenth to Hezir, the eighteenth to Happizzez,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 16,
+          "text": "the nineteenth to Pethahiah, the twentieth to Jehezekel,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 17,
+          "text": "the twenty-first to Jachin, the twenty-second to Gamul,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 18,
+          "text": "the twenty-third to Delaiah, the twenty-fourth to Maaziah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 19,
+          "text": "This was the schedule of their service for coming into the house of the L\u1d0f\u0280\u1d05 according to their ordinance by the hand of Aaron their father, as the L\u1d0f\u0280\u1d05 God of Israel had commanded him."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 20,
+          "text": "And the rest of the sons of Levi: of the sons of Amram, Shubael; of the sons of Shubael, Jehdeiah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 21,
+          "text": "Concerning Rehabiah, of the sons of Rehabiah, the first was Isshiah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 22,
+          "text": "Of the Izharites, Shelomoth; of the sons of Shelomoth, Jahath."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 23,
+          "text": "Of the sons of Hebron, Jeriah was the first, Amariah the second, Jahaziel the third, and Jekameam the fourth."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 24,
+          "text": "Of the sons of Uzziel, Michah; of the sons of Michah, Shamir."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 25,
+          "text": "The brother of Michah, Isshiah; of the sons of Isshiah, Zechariah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 26,
+          "text": "The sons of Merari were Mahli and Mushi; the son of Jaaziah, Beno."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 27,
+          "text": "The sons of Merari by Jaaziah were Beno, Shoham, Zaccur, and Ibri."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 28,
+          "text": "Of Mahli: Eleazar, who had no sons."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 29,
+          "text": "Of Kish: the son of Kish, Jerahmeel."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 30,
+          "text": "Also the sons of Mushi were Mahli, Eder, and Jerimoth. These were the sons of the Levites according to their fathers\u2019 houses."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 24,
+          "verse": 31,
+          "text": "These also cast lots just as their brothers the sons of Aaron did, in the presence of King David, Zadok, Ahimelech, and the heads of the fathers\u2019 houses of the priests and Levites. The chief fathers did just as their younger brethren."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 1,
+          "text": "Moreover David and the captains of the army separated for the service some of the sons of Asaph, of Heman, and of Jeduthun, who should prophesy with harps, stringed instruments, and cymbals. And the number of the skilled men performing their service was:"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 2,
+          "text": "Of the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah; the sons of Asaph were under the direction of Asaph, who prophesied according to the order of the king."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 3,
+          "text": "Of Jeduthun, the sons of Jeduthun: Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah, six, under the direction of their father Jeduthun, who prophesied with a harp to give thanks and to praise the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 4,
+          "text": "Of Heman, the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-Ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 5,
+          "text": "All these were the sons of Heman the king\u2019s seer in the words of God, to exalt his horn. For God gave Heman fourteen sons and three daughters."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 6,
+          "text": "All these were under the direction of their father for the music in the house of the L\u1d0f\u0280\u1d05, with cymbals, stringed instruments, and harps, for the service of the house of God. Asaph, Jeduthun, and Heman were under the authority of the king."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 7,
+          "text": "So the number of them, with their brethren who were instructed in the songs of the L\u1d0f\u0280\u1d05, all who were skillful, was two hundred and eighty-eight."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 8,
+          "text": "And they cast lots for their duty, the small as well as the great, the teacher with the student."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 9,
+          "text": "Now the first lot for Asaph came out for Joseph; the second for Gedaliah, him with his brethren and sons, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 10,
+          "text": "the third for Zaccur, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 11,
+          "text": "the fourth for Jizri, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 12,
+          "text": "the fifth for Nethaniah, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 13,
+          "text": "the sixth for Bukkiah, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 14,
+          "text": "the seventh for Jesharelah, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 15,
+          "text": "the eighth for Jeshaiah, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 16,
+          "text": "the ninth for Mattaniah, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 17,
+          "text": "the tenth for Shimei, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 18,
+          "text": "the eleventh for Azarel, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 19,
+          "text": "the twelfth for Hashabiah, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 20,
+          "text": "the thirteenth for Shubael, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 21,
+          "text": "the fourteenth for Mattithiah, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 22,
+          "text": "the fifteenth for Jeremoth, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 23,
+          "text": "the sixteenth for Hananiah, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 24,
+          "text": "the seventeenth for Joshbekashah, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 25,
+          "text": "the eighteenth for Hanani, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 26,
+          "text": "the nineteenth for Mallothi, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 27,
+          "text": "the twentieth for Eliathah, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 28,
+          "text": "the twenty-first for Hothir, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 29,
+          "text": "the twenty-second for Giddalti, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 30,
+          "text": "the twenty-third for Mahazioth, his sons and his brethren, twelve;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 25,
+          "verse": 31,
+          "text": "the twenty-fourth for Romamti-Ezer, his sons and his brethren, twelve."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-20T04:00:23.001260"
+    },
+    {
+      "reference": "1 Peter 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 1,
+          "text": "The elders who are among you I exhort, I who am a fellow elder and a witness of the sufferings of Christ, and also a partaker of the glory that will be revealed:"
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 2,
+          "text": "Shepherd the flock of God which is among you, serving as overseers, not by compulsion but willingly, not for dishonest gain but eagerly;"
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 3,
+          "text": "nor as being lords over those entrusted to you, but being examples to the flock;"
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 4,
+          "text": "and when the Chief Shepherd appears, you will receive the crown of glory that does not fade away."
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Likewise you younger people, submit yourselves to your elders. Yes, all of you be submissive to one another, and be clothed with humility, for \u201cGod resists the proud, But gives grace to the humble.\u201d"
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 6,
+          "text": "Therefore humble yourselves under the mighty hand of God, that He may exalt you in due time,"
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 7,
+          "text": "casting all your care upon Him, for He cares for you."
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 8,
+          "text": "Be sober, be vigilant; because your adversary the devil walks about like a roaring lion, seeking whom he may devour."
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Resist him, steadfast in the faith, knowing that the same sufferings are experienced by your brotherhood in the world."
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 10,
+          "text": "But may the God of all grace, who called us to His eternal glory by Christ Jesus, after you have suffered a while, perfect, establish, strengthen, and settle you."
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 11,
+          "text": "To Him be the glory and the dominion forever and ever. Amen."
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 12,
+          "text": "By Silvanus, our faithful brother as I consider him, I have written to you briefly, exhorting and testifying that this is the true grace of God in which you stand."
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 13,
+          "text": "She who is in Babylon, elect together with you, greets you; and so does Mark my son."
+        },
+        {
+          "book": "1 Peter",
+          "chapter": 5,
+          "verse": 14,
+          "text": "Greet one another with a kiss of love. Peace to you all who are in Christ Jesus. Amen."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-20T04:00:24.281241"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Micah 3",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 1,
+          "text": "And I said: \u201cHear now, O heads of Jacob, And you rulers of the house of Israel: Is it not for you to know justice?"
+        },
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 2,
+          "text": "You who hate good and love evil; Who strip the skin from My people, And the flesh from their bones;"
+        },
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Who also eat the flesh of My people, Flay their skin from them, Break their bones, And chop them in pieces Like meat for the pot, Like flesh in the caldron.\u201d"
+        },
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Then they will cry to the L\u1d0f\u0280\u1d05, But He will not hear them; He will even hide His face from them at that time, Because they have been evil in their deeds."
+        },
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Thus says the L\u1d0f\u0280\u1d05 concerning the prophets Who make my people stray; Who chant \u201cPeace\u201d While they chew with their teeth, But who prepare war against him Who puts nothing into their mouths:"
+        },
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 6,
+          "text": "\u201cTherefore you shall have night without vision, And you shall have darkness without divination; The sun shall go down on the prophets, And the day shall be dark for them."
+        },
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 7,
+          "text": "So the seers shall be ashamed, And the diviners abashed; Indeed they shall all cover their lips; For there is no answer from God.\u201d"
+        },
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 8,
+          "text": "But truly I am full of power by the Spirit of the L\u1d0f\u0280\u1d05, And of justice and might, To declare to Jacob his transgression And to Israel his sin."
+        },
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 9,
+          "text": "Now hear this, You heads of the house of Jacob And rulers of the house of Israel, Who abhor justice And pervert all equity,"
+        },
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 10,
+          "text": "Who build up Zion with bloodshed And Jerusalem with iniquity:"
+        },
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 11,
+          "text": "Her heads judge for a bribe, Her priests teach for pay, And her prophets divine for money. Yet they lean on the L\u1d0f\u0280\u1d05, and say, \u201cIs not the L\u1d0f\u0280\u1d05 among us? No harm can come upon us.\u201d"
+        },
+        {
+          "book": "Micah",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Therefore because of you Zion shall be plowed like a field, Jerusalem shall become heaps of ruins, And the mountain of the temple Like the bare hills of the forest."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-20T04:00:26.619664"
+    },
+    {
+      "reference": "Luke 12",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 1,
+          "text": "In the meantime, when an innumerable multitude of people had gathered together, so that they trampled one another, He began to say to His disciples first of all, \u201cBeware of the leaven of the Pharisees, which is hypocrisy."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 2,
+          "text": "For there is nothing covered that will not be revealed, nor hidden that will not be known."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 3,
+          "text": "Therefore whatever you have spoken in the dark will be heard in the light, and what you have spoken in the ear in inner rooms will be proclaimed on the housetops."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 4,
+          "text": "\u201cAnd I say to you, My friends, do not be afraid of those who kill the body, and after that have no more that they can do."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 5,
+          "text": "But I will show you whom you should fear: Fear Him who, after He has killed, has power to cast into hell; yes, I say to you, fear Him!"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 6,
+          "text": "Are not five sparrows sold for two copper coins? And not one of them is forgotten before God."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 7,
+          "text": "But the very hairs of your head are all numbered. Do not fear therefore; you are of more value than many sparrows."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 8,
+          "text": "\u201cAlso I say to you, whoever confesses Me before men, him the Son of Man also will confess before the angels of God."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 9,
+          "text": "But he who denies Me before men will be denied before the angels of God."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 10,
+          "text": "And anyone who speaks a word against the Son of Man, it will be forgiven him; but to him who blasphemes against the Holy Spirit, it will not be forgiven."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 11,
+          "text": "Now when they bring you to the synagogues and magistrates and authorities, do not worry about how or what you should answer, or what you should say."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 12,
+          "text": "For the Holy Spirit will teach you in that very hour what you ought to say.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 13,
+          "text": "Then one from the crowd said to Him, \u201cTeacher, tell my brother to divide the inheritance with me.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 14,
+          "text": "But He said to him, \u201cMan, who made Me a judge or an arbitrator over you?\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 15,
+          "text": "And He said to them, \u201cTake heed and beware of covetousness, for one\u2019s life does not consist in the abundance of the things he possesses.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 16,
+          "text": "Then He spoke a parable to them, saying: \u201cThe ground of a certain rich man yielded plentifully."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 17,
+          "text": "And he thought within himself, saying, \u2018What shall I do, since I have no room to store my crops?\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 18,
+          "text": "So he said, \u2018I will do this: I will pull down my barns and build greater, and there I will store all my crops and my goods."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 19,
+          "text": "And I will say to my soul, \u201cSoul, you have many goods laid up for many years; take your ease; eat, drink, and be merry.\u201d \u2018"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 20,
+          "text": "But God said to him, \u2018Fool! This night your soul will be required of you; then whose will those things be which you have provided?\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 21,
+          "text": "So is he who lays up treasure for himself, and is not rich toward God.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 22,
+          "text": "Then He said to His disciples, \u201cTherefore I say to you, do not worry about your life, what you will eat; nor about the body, what you will put on."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 23,
+          "text": "Life is more than food, and the body is more than clothing."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 24,
+          "text": "Consider the ravens, for they neither sow nor reap, which have neither storehouse nor barn; and God feeds them. Of how much more value are you than the birds?"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 25,
+          "text": "And which of you by worrying can add one cubit to his stature?"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 26,
+          "text": "If you then are not able to do the least, why are you anxious for the rest?"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 27,
+          "text": "Consider the lilies, how they grow: they neither toil nor spin; and yet I say to you, even Solomon in all his glory was not arrayed like one of these."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 28,
+          "text": "If then God so clothes the grass, which today is in the field and tomorrow is thrown into the oven, how much more will He clothe you, O you of little faith?"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 29,
+          "text": "And do not seek what you should eat or what you should drink, nor have an anxious mind."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 30,
+          "text": "For all these things the nations of the world seek after, and your Father knows that you need these things."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 31,
+          "text": "But seek the kingdom of God, and all these things shall be added to you."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 32,
+          "text": "Do not fear, little flock, for it is your Father\u2019s good pleasure to give you the kingdom."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 33,
+          "text": "Sell what you have and give alms; provide yourselves money bags which do not grow old, a treasure in the heavens that does not fail, where no thief approaches nor moth destroys."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 34,
+          "text": "For where your treasure is, there your heart will be also."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 35,
+          "text": "\u201cLet your waist be girded and your lamps burning;"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 36,
+          "text": "and you yourselves be like men who wait for their master, when he will return from the wedding, that when he comes and knocks they may open to him immediately."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 37,
+          "text": "Blessed are those servants whom the master, when he comes, will find watching. Assuredly, I say to you that he will gird himself and have them sit down to eat, and will come and serve them."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 38,
+          "text": "And if he should come in the second watch, or come in the third watch, and find them so, blessed are those servants."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 39,
+          "text": "But know this, that if the master of the house had known what hour the thief would come, he would have watched and not allowed his house to be broken into."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 40,
+          "text": "Therefore you also be ready, for the Son of Man is coming at an hour you do not expect.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 41,
+          "text": "Then Peter said to Him, \u201cLord, do You speak this parable only to us, or to all people?\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 42,
+          "text": "And the Lord said, \u201cWho then is that faithful and wise steward, whom his master will make ruler over his household, to give them their portion of food in due season?"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 43,
+          "text": "Blessed is that servant whom his master will find so doing when he comes."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 44,
+          "text": "Truly, I say to you that he will make him ruler over all that he has."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 45,
+          "text": "But if that servant says in his heart, \u2018My master is delaying his coming,\u2019 and begins to beat the male and female servants, and to eat and drink and be drunk,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 46,
+          "text": "the master of that servant will come on a day when he is not looking for him, and at an hour when he is not aware, and will cut him in two and appoint him his portion with the unbelievers."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 47,
+          "text": "And that servant who knew his master\u2019s will, and did not prepare himself or do according to his will, shall be beaten with many stripes."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 48,
+          "text": "But he who did not know, yet committed things deserving of stripes, shall be beaten with few. For everyone to whom much is given, from him much will be required; and to whom much has been committed, of him they will ask the more."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 49,
+          "text": "\u201cI came to send fire on the earth, and how I wish it were already kindled!"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 50,
+          "text": "But I have a baptism to be baptized with, and how distressed I am till it is accomplished!"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 51,
+          "text": "Do you suppose that I came to give peace on earth? I tell you, not at all, but rather division."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 52,
+          "text": "For from now on five in one house will be divided: three against two, and two against three."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 53,
+          "text": "Father will be divided against son and son against father, mother against daughter and daughter against mother, mother-in-law against her daughter-in-law and daughter-in-law against her mother-in-law.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 54,
+          "text": "Then He also said to the multitudes, \u201cWhenever you see a cloud rising out of the west, immediately you say, \u2018A shower is coming\u2019; and so it is."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 55,
+          "text": "And when you see the south wind blow, you say, \u2018There will be hot weather\u2019; and there is."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 56,
+          "text": "Hypocrites! You can discern the face of the sky and of the earth, but how is it you do not discern this time?"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 57,
+          "text": "\u201cYes, and why, even of yourselves, do you not judge what is right?"
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 58,
+          "text": "When you go with your adversary to the magistrate, make every effort along the way to settle with him, lest he drag you to the judge, the judge deliver you to the officer, and the officer throw you into prison."
+        },
+        {
+          "book": "Luke",
+          "chapter": 12,
+          "verse": 59,
+          "text": "I tell you, you shall not depart from there till you have paid the very last mite.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-20T04:00:28.260808"
+    }
+  ]
+}

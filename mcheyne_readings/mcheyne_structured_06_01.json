@@ -1,0 +1,623 @@
+{
+  "format_version": "1.0",
+  "date": "06/01",
+  "cached_at": "2026-02-05T17:55:40.423113",
+  "Family": [
+    {
+      "reference": "Deuteronomy 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 1,
+          "text": "1 And Moses called all Israel, and said to them: \u201cHear, O Israel, the statutes and judgments which I speak in your hearing today, that you may learn them and be careful to observe them."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 2,
+          "text": "2 The L\u1d0f\u0280\u1d05 our God made a covenant with us in Horeb."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 3,
+          "text": "3 The L\u1d0f\u0280\u1d05 did not make this covenant with our fathers, but with us, those who are here today, all of us who are alive."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 4,
+          "text": "4 The L\u1d0f\u0280\u1d05 talked with you face to face on the mountain from the midst of the fire."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 5,
+          "text": "5 I stood between the L\u1d0f\u0280\u1d05 and you at that time, to declare to you the word of the L\u1d0f\u0280\u1d05; for you were afraid because of the fire, and you did not go up the mountain. He said:"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 6,
+          "text": "6 \u2018I am the L\u1d0f\u0280\u1d05 your God who brought you out of the land of Egypt, out of the house of bondage."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 7,
+          "text": "7 \u2018You shall have no other gods before Me."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 8,
+          "text": "8 \u2018You shall not make for yourself a carved image\u2014any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth;"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 9,
+          "text": "9 you shall not bow down to them nor serve them. For I, the L\u1d0f\u0280\u1d05 your God, am a jealous God, visiting the iniquity of the fathers upon the children to the third and fourth generations of those who hate Me,"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 10,
+          "text": "10 but showing mercy to thousands, to those who love Me and keep My commandments."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 11,
+          "text": "11 \u2018You shall not take the name of the L\u1d0f\u0280\u1d05 your God in vain, for the L\u1d0f\u0280\u1d05 will not hold him guiltless who takes His name in vain."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 12,
+          "text": "12 \u2018Observe the Sabbath day, to keep it holy, as the L\u1d0f\u0280\u1d05 your God commanded you."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 13,
+          "text": "13 Six days you shall labor and do all your work,"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 14,
+          "text": "14 but the seventh day is the Sabbath of the L\u1d0f\u0280\u1d05 your God. In it you shall do no work: you, nor your son, nor your daughter, nor your male servant, nor your female servant, nor your ox, nor your donkey, nor any of your cattle, nor your stranger who is within your gates, that your male servant and your female servant may rest as well as you."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 15,
+          "text": "15 And remember that you were a slave in the land of Egypt, and the L\u1d0f\u0280\u1d05 your God brought you out from there by a mighty hand and by an outstretched arm; therefore the L\u1d0f\u0280\u1d05 your God commanded you to keep the Sabbath day."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 16,
+          "text": "16 \u2018Honor your father and your mother, as the L\u1d0f\u0280\u1d05 your God has commanded you, that your days may be long, and that it may be well with you in the land which the L\u1d0f\u0280\u1d05 your God is giving you."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 17,
+          "text": "17 \u2018You shall not murder."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 18,
+          "text": "18 \u2018You shall not commit adultery."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 19,
+          "text": "19 \u2018You shall not steal."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 20,
+          "text": "20 \u2018You shall not bear false witness against your neighbor."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 21,
+          "text": "21 \u2018You shall not covet your neighbor\u2019s wife; and you shall not desire your neighbor\u2019s house, his field, his male servant, his female servant, his ox, his donkey, or anything that is your neighbor\u2019s.\u2019"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 22,
+          "text": "22 \u201cThese words the L\u1d0f\u0280\u1d05 spoke to all your assembly, in the mountain from the midst of the fire, the cloud, and the thick darkness, with a loud voice; and He added no more. And He wrote them on two tablets of stone and gave them to me."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 23,
+          "text": "23 \u201cSo it was, when you heard the voice from the midst of the darkness, while the mountain was burning with fire, that you came near to me, all the heads of your tribes and your elders."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 24,
+          "text": "24 And you said: \u2018Surely the L\u1d0f\u0280\u1d05 our God has shown us His glory and His greatness, and we have heard His voice from the midst of the fire. We have seen this day that God speaks with man; yet he still lives."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 25,
+          "text": "25 Now therefore, why should we die? For this great fire will consume us; if we hear the voice of the L\u1d0f\u0280\u1d05 our God anymore, then we shall die."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 26,
+          "text": "26 For who is there of all flesh who has heard the voice of the living God speaking from the midst of the fire, as we have, and lived?"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 27,
+          "text": "27 You go near and hear all that the L\u1d0f\u0280\u1d05 our God may say, and tell us all that the L\u1d0f\u0280\u1d05 our God says to you, and we will hear and do it.\u2019"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 28,
+          "text": "28 Then the L\u1d0f\u0280\u1d05 heard the voice of your words when you spoke to me, and the L\u1d0f\u0280\u1d05 said to me: \u2018I have heard the voice of the words of this people which they have spoken to you. They are right in all that they have spoken."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 29,
+          "text": "29 Oh, that they had such a heart in them that they would fear Me and always keep all My commandments, that it might be well with them and with their children forever!"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 30,
+          "text": "30 Go and say to them, \u201cReturn to your tents.\u201d"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 31,
+          "text": "31 But as for you, stand here by Me, and I will speak to you all the commandments, the statutes, and the judgments which you shall teach them, that they may observe them in the land which I am giving them to possess.\u2019"
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 32,
+          "text": "32 Therefore you shall be careful to do as the L\u1d0f\u0280\u1d05 your God has commanded you; you shall not turn aside to the right hand or to the left."
+        },
+        {
+          "book": "Deuteronomy",
+          "chapter": 5,
+          "verse": 33,
+          "text": "33 You shall walk in all the ways which the L\u1d0f\u0280\u1d05 your God has commanded you, that you may live and that it may be well with you, and that you may prolong your days in the land which you shall possess."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:41.004181"
+    },
+    {
+      "reference": "Psalm 88",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 1,
+          "text": "1 A Song. A Psalm of the sons of Korah. To the Chief Musician. Set to \u2018Mahalath Leannoth.\u2019 A Contemplation of Heman the Ezrahite. O L\u1d0f\u0280\u1d05, God of my salvation, I have cried out day and night before You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 2,
+          "text": "2 Let my prayer come before You; Incline Your ear to my cry."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 3,
+          "text": "3 For my soul is full of troubles, And my life draws near to the grave."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 4,
+          "text": "4 I am counted with those who go down to the pit; I am like a man who has no strength,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 5,
+          "text": "5 Adrift among the dead, Like the slain who lie in the grave, Whom You remember no more, And who are cut off from Your hand."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 6,
+          "text": "6 You have laid me in the lowest pit, In darkness, in the depths."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 7,
+          "text": "7 Your wrath lies heavy upon me, And You have afflicted me with all Your waves. Selah"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 8,
+          "text": "8 You have put away my acquaintances far from me; You have made me an abomination to them; I am shut up, and I cannot get out;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 9,
+          "text": "9 My eye wastes away because of affliction. L\u1d0f\u0280\u1d05, I have called daily upon You; I have stretched out my hands to You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 10,
+          "text": "10 Will You work wonders for the dead? Shall the dead arise and praise You? Selah"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 11,
+          "text": "11 Shall Your lovingkindness be declared in the grave? Or Your faithfulness in the place of destruction?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 12,
+          "text": "12 Shall Your wonders be known in the dark? And Your righteousness in the land of forgetfulness?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 13,
+          "text": "13 But to You I have cried out, O L\u1d0f\u0280\u1d05, And in the morning my prayer comes before You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 14,
+          "text": "14 Lord, why do You cast off my soul? Why do You hide Your face from me?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 15,
+          "text": "15 I have been afflicted and ready to die from my youth; I suffer Your terrors; I am distraught."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 16,
+          "text": "16 Your fierce wrath has gone over me; Your terrors have cut me off."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 17,
+          "text": "17 They came around me all day long like water; They engulfed me altogether."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 88,
+          "verse": 18,
+          "text": "18 Loved one and friend You have put far from me, And my acquaintances into darkness."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:41.627269"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Isaiah 33",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 1,
+          "text": "1 Woe to you who plunder, though you have not been plundered; And you who deal treacherously, though they have not dealt treacherously with you! When you cease plundering, You will be plundered; When you make an end of dealing treacherously, They will deal treacherously with you."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 2,
+          "text": "2 O L\u1d0f\u0280\u1d05, be gracious to us; We have waited for You. Be their arm every morning, Our salvation also in the time of trouble."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 3,
+          "text": "3 At the noise of the tumult the people shall flee; When You lift Yourself up, the nations shall be scattered;"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 4,
+          "text": "4 And Your plunder shall be gathered Like the gathering of the caterpillar; As the running to and fro of locusts, He shall run upon them."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 5,
+          "text": "5 The L\u1d0f\u0280\u1d05 is exalted, for He dwells on high; He has filled Zion with justice and righteousness."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 6,
+          "text": "6 Wisdom and knowledge will be the stability of your times, And the strength of salvation; The fear of the L\u1d0f\u0280\u1d05 is His treasure."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 7,
+          "text": "7 Surely their valiant ones shall cry outside, The ambassadors of peace shall weep bitterly."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 8,
+          "text": "8 The highways lie waste, The traveling man ceases. He has broken the covenant, He has despised the cities, He regards no man."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 9,
+          "text": "9 The earth mourns and languishes, Lebanon is shamed and shriveled; Sharon is like a wilderness, And Bashan and Carmel shake off their fruits."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 10,
+          "text": "10 \u201cNow I will rise,\u201d says the L\u1d0f\u0280\u1d05; \u201cNow I will be exalted, Now I will lift Myself up."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 11,
+          "text": "11 You shall conceive chaff, You shall bring forth stubble; Your breath, as fire, shall devour you."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 12,
+          "text": "12 And the people shall be like the burnings of lime; Like thorns cut up they shall be burned in the fire."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 13,
+          "text": "13 Hear, you who are afar off, what I have done; And you who are near, acknowledge My might.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 14,
+          "text": "14 The sinners in Zion are afraid; Fearfulness has seized the hypocrites: \u201cWho among us shall dwell with the devouring fire? Who among us shall dwell with everlasting burnings?\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 15,
+          "text": "15 He who walks righteously and speaks uprightly, He who despises the gain of oppressions, Who gestures with his hands, refusing bribes, Who stops his ears from hearing of bloodshed, And shuts his eyes from seeing evil:"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 16,
+          "text": "16 He will dwell on high; His place of defense will be the fortress of rocks; Bread will be given him, His water will be sure."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 17,
+          "text": "17 Your eyes will see the King in His beauty; They will see the land that is very far off."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 18,
+          "text": "18 Your heart will meditate on terror: \u201cWhere is the scribe? Where is he who weighs? Where is he who counts the towers?\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 19,
+          "text": "19 You will not see a fierce people, A people of obscure speech, beyond perception, Of a stammering tongue that you cannot understand."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 20,
+          "text": "20 Look upon Zion, the city of our appointed feasts; Your eyes will see Jerusalem, a quiet home, A tabernacle that will not be taken down; Not one of its stakes will ever be removed, Nor will any of its cords be broken."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 21,
+          "text": "21 But there the majestic Lord will be for us A place of broad rivers and streams, In which no galley with oars will sail, Nor majestic ships pass by"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 22,
+          "text": "22 (For the L\u1d0f\u0280\u1d05 is our Judge, The L\u1d0f\u0280\u1d05 is our Lawgiver, The L\u1d0f\u0280\u1d05 is our King; He will save us);"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 23,
+          "text": "23 Your tackle is loosed, They could not strengthen their mast, They could not spread the sail. Then the prey of great plunder is divided; The lame take the prey."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 33,
+          "verse": 24,
+          "text": "24 And the inhabitant will not say, \u201cI am sick\u201d; The people who dwell in it will be forgiven their iniquity."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:42.305396"
+    },
+    {
+      "reference": "Revelation 3",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 1,
+          "text": "1 \u201cAnd to the angel of the church in Sardis write,\u2018These things says He who has the seven Spirits of God and the seven stars: \u201cI know your works, that you have a name that you are alive, but you are dead."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 2,
+          "text": "2 Be watchful, and strengthen the things which remain, that are ready to die, for I have not found your works perfect before God."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 3,
+          "text": "3 Remember therefore how you have received and heard; hold fast and repent. Therefore if you will not watch, I will come upon you as a thief, and you will not know what hour I will come upon you."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 4,
+          "text": "4 You have a few names even in Sardis who have not defiled their garments; and they shall walk with Me in white, for they are worthy."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 5,
+          "text": "5 He who overcomes shall be clothed in white garments, and I will not blot out his name from the Book of Life; but I will confess his name before My Father and before His angels."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 6,
+          "text": "6 He who has an ear, let him hear what the Spirit says to the churches.\u201d \u2018"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 7,
+          "text": "7 \u201cAnd to the angel of the church in Philadelphia write,\u2018These things says He who is holy, He who is true, \u201cHe who has the key of David, He who opens and no one shuts, and shuts and no one opens\u201d:"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 8,
+          "text": "8 I know your works. See, I have set before you an open door, and no one can shut it; for you have a little strength, have kept My word, and have not denied My name."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 9,
+          "text": "9 Indeed I will make those of the synagogue of Satan, who say they are Jews and are not, but lie\u2014indeed I will make them come and worship before your feet, and to know that I have loved you."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 10,
+          "text": "10 Because you have kept My command to persevere, I also will keep you from the hour of trial which shall come upon the whole world, to test those who dwell on the earth."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 11,
+          "text": "11 Behold, I am coming quickly! Hold fast what you have, that no one may take your crown."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 12,
+          "text": "12 He who overcomes, I will make him a pillar in the temple of My God, and he shall go out no more. And I will write on him the name of My God and the name of the city of My God, the New Jerusalem, which comes down out of heaven from My God. And I will write on him My new name."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 13,
+          "text": "13 He who has an ear, let him hear what the Spirit says to the churches.\u201d \u2018"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 14,
+          "text": "14 \u201cAnd to the angel of the church of the Laodiceans write,\u2018These things says the Amen, the Faithful and True Witness, the Beginning of the creation of God:"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 15,
+          "text": "15 I know your works, that you are neither cold nor hot. I could wish you were cold or hot."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 16,
+          "text": "16 So then, because you are lukewarm, and neither cold nor hot, I will vomit you out of My mouth."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 17,
+          "text": "17 Because you say, \u2018I am rich, have become wealthy, and have need of nothing\u2019\u2014and do not know that you are wretched, miserable, poor, blind, and naked\u2014"
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 18,
+          "text": "18 I counsel you to buy from Me gold refined in the fire, that you may be rich; and white garments, that you may be clothed, that the shame of your nakedness may not be revealed; and anoint your eyes with eye salve, that you may see."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 19,
+          "text": "19 As many as I love, I rebuke and chasten. Therefore be zealous and repent."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 20,
+          "text": "20 Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in to him and dine with him, and he with Me."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 21,
+          "text": "21 To him who overcomes I will grant to sit with Me on My throne, as I also overcame and sat down with My Father on His throne."
+        },
+        {
+          "book": "Revelation",
+          "chapter": 3,
+          "verse": 22,
+          "text": "22 He who has an ear, let him hear what the Spirit says to the churches.\u201d \u2018 \u201c"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:55:42.911234"
+    }
+  ]
+}

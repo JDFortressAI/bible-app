@@ -1,0 +1,785 @@
+{
+  "format_version": "1.0",
+  "date": "04/08",
+  "cached_at": "2026-02-05T17:12:50.132266",
+  "Family": [
+    {
+      "reference": "Leviticus 11-12",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 1,
+          "text": "1 Now the L\u1d0f\u0280\u1d05 spoke to Moses and Aaron, saying to them,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 2,
+          "text": "2 \u201cSpeak to the children of Israel, saying, \u2018These are the animals which you may eat among all the animals that are on the earth:"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 3,
+          "text": "3 Among the animals, whatever divides the hoof, having cloven hooves and chewing the cud\u2014that you may eat."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 4,
+          "text": "4 Nevertheless these you shall not eat among those that chew the cud or those that have cloven hooves: the camel, because it chews the cud but does not have cloven hooves, is unclean to you;"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 5,
+          "text": "5 the rock hyrax, because it chews the cud but does not have cloven hooves, is unclean to you;"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 6,
+          "text": "6 the hare, because it chews the cud but does not have cloven hooves, is unclean to you;"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 7,
+          "text": "7 and the swine, though it divides the hoof, having cloven hooves, yet does not chew the cud, is unclean to you."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 8,
+          "text": "8 Their flesh you shall not eat, and their carcasses you shall not touch. They are unclean to you."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 9,
+          "text": "9 \u2018These you may eat of all that are in the water: whatever in the water has fins and scales, whether in the seas or in the rivers\u2014that you may eat."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 10,
+          "text": "10 But all in the seas or in the rivers that do not have fins and scales, all that move in the water or any living thing which is in the water, they are an abomination to you."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 11,
+          "text": "11 They shall be an abomination to you; you shall not eat their flesh, but you shall regard their carcasses as an abomination."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 12,
+          "text": "12 Whatever in the water does not have fins or scales\u2014that shall be an abomination to you."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 13,
+          "text": "13 \u2018And these you shall regard as an abomination among the birds; they shall not be eaten, they are an abomination: the eagle, the vulture, the buzzard,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 14,
+          "text": "14 the kite, and the falcon after its kind;"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 15,
+          "text": "15 every raven after its kind,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 16,
+          "text": "16 the ostrich, the short-eared owl, the sea gull, and the hawk after its kind;"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 17,
+          "text": "17 the little owl, the fisher owl, and the screech owl;"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 18,
+          "text": "18 the white owl, the jackdaw, and the carrion vulture;"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 19,
+          "text": "19 the stork, the heron after its kind, the hoopoe, and the bat."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 20,
+          "text": "20 \u2018All flying insects that creep on all fours shall be an abomination to you."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 21,
+          "text": "21 Yet these you may eat of every flying insect that creeps on all fours: those which have jointed legs above their feet with which to leap on the earth."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 22,
+          "text": "22 These you may eat: the locust after its kind, the destroying locust after its kind, the cricket after its kind, and the grasshopper after its kind."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 23,
+          "text": "23 But all other flying insects which have four feet shall be an abomination to you."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 24,
+          "text": "24 \u2018By these you shall become unclean; whoever touches the carcass of any of them shall be unclean until evening;"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 25,
+          "text": "25 whoever carries part of the carcass of any of them shall wash his clothes and be unclean until evening:"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 26,
+          "text": "26 The carcass of any animal which divides the foot, but is not cloven-hoofed or does not chew the cud, is unclean to you. Everyone who touches it shall be unclean."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 27,
+          "text": "27 And whatever goes on its paws, among all kinds of animals that go on all fours, those are unclean to you. Whoever touches any such carcass shall be unclean until evening."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 28,
+          "text": "28 Whoever carries any such carcass shall wash his clothes and be unclean until evening. It is unclean to you."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 29,
+          "text": "29 \u2018These also shall be unclean to you among the creeping things that creep on the earth: the mole, the mouse, and the large lizard after its kind;"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 30,
+          "text": "30 the gecko, the monitor lizard, the sand reptile, the sand lizard, and the chameleon."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 31,
+          "text": "31 These are unclean to you among all that creep. Whoever touches them when they are dead shall be unclean until evening."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 32,
+          "text": "32 Anything on which any of them falls, when they are dead shall be unclean, whether it is any item of wood or clothing or skin or sack, whatever item it is, in which any work is done, it must be put in water. And it shall be unclean until evening; then it shall be clean."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 33,
+          "text": "33 Any earthen vessel into which any of them falls you shall break; and whatever is in it shall be unclean:"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 34,
+          "text": "34 in such a vessel, any edible food upon which water falls becomes unclean, and any drink that may be drunk from it becomes unclean."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 35,
+          "text": "35 And everything on which a part of any such carcass falls shall be unclean; whether it is an oven or cooking stove, it shall be broken down; for they are unclean, and shall be unclean to you."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 36,
+          "text": "36 Nevertheless a spring or a cistern, in which there is plenty of water, shall be clean, but whatever touches any such carcass becomes unclean."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 37,
+          "text": "37 And if a part of any such carcass falls on any planting seed which is to be sown, it remains clean."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 38,
+          "text": "38 But if water is put on the seed, and if a part of any such carcass falls on it, it becomes unclean to you."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 39,
+          "text": "39 \u2018And if any animal which you may eat dies, he who touches its carcass shall be unclean until evening."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 40,
+          "text": "40 He who eats of its carcass shall wash his clothes and be unclean until evening. He also who carries its carcass shall wash his clothes and be unclean until evening."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 41,
+          "text": "41 \u2018And every creeping thing that creeps on the earth shall be an abomination. It shall not be eaten."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 42,
+          "text": "42 Whatever crawls on its belly, whatever goes on all fours, or whatever has many feet among all creeping things that creep on the earth\u2014these you shall not eat, for they are an abomination."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 43,
+          "text": "43 You shall not make yourselves abominable with any creeping thing that creeps; nor shall you make yourselves unclean with them, lest you be defiled by them."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 44,
+          "text": "44 For I am the L\u1d0f\u0280\u1d05 your God. You shall therefore consecrate yourselves, and you shall be holy; for I am holy. Neither shall you defile yourselves with any creeping thing that creeps on the earth."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 45,
+          "text": "45 For I am the L\u1d0f\u0280\u1d05 who brings you up out of the land of Egypt, to be your God. You shall therefore be holy, for I am holy."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 46,
+          "text": "46 \u2018This is the law of the animals and the birds and every living creature that moves in the waters, and of every creature that creeps on the earth,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 11,
+          "verse": 47,
+          "text": "47 to distinguish between the unclean and the clean, and between the animal that may be eaten and the animal that may not be eaten.\u2019 \u201c"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 12,
+          "verse": 1,
+          "text": "1 Then the L\u1d0f\u0280\u1d05 spoke to Moses, saying,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 12,
+          "verse": 2,
+          "text": "2 \u201cSpeak to the children of Israel, saying: \u2018If a woman has conceived, and borne a male child, then she shall be unclean seven days; as in the days of her customary impurity she shall be unclean."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 12,
+          "verse": 3,
+          "text": "3 And on the eighth day the flesh of his foreskin shall be circumcised."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 12,
+          "verse": 4,
+          "text": "4 She shall then continue in the blood of her purification thirty-three days. She shall not touch any hallowed thing, nor come into the sanctuary until the days of her purification are fulfilled."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 12,
+          "verse": 5,
+          "text": "5 But if she bears a female child, then she shall be unclean two weeks, as in her customary impurity, and she shall continue in the blood of her purification sixty-six days."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 12,
+          "verse": 6,
+          "text": "6 \u2018When the days of her purification are fulfilled, whether for a son or a daughter, she shall bring to the priest a lamb of the first year as a burnt offering, and a young pigeon or a turtledove as a sin offering, to the door of the tabernacle of meeting."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 12,
+          "verse": 7,
+          "text": "7 Then he shall offer it before the L\u1d0f\u0280\u1d05, and make atonement for her. And she shall be clean from the flow of her blood. This is the law for her who has borne a male or a female."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 12,
+          "verse": 8,
+          "text": "8 And if she is not able to bring a lamb, then she may bring two turtledoves or two young pigeons\u2014one as a burnt offering and the other as a sin offering. So the priest shall make atonement for her, and she will be clean.\u2019 \u201c"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:52.548136"
+    },
+    {
+      "reference": "Psalm 13-14",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 13,
+          "verse": 1,
+          "text": "1 To the Chief Musician. A Psalm of David. How long, O L\u1d0f\u0280\u1d05? Will You forget me forever? How long will You hide Your face from me?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 13,
+          "verse": 2,
+          "text": "2 How long shall I take counsel in my soul, Having sorrow in my heart daily? How long will my enemy be exalted over me?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 13,
+          "verse": 3,
+          "text": "3 Consider and hear me, O L\u1d0f\u0280\u1d05 my God; Enlighten my eyes, Lest I sleep the sleep of death;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 13,
+          "verse": 4,
+          "text": "4 Lest my enemy say, \u201cI have prevailed against him\u201d; Lest those who trouble me rejoice when I am moved."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 13,
+          "verse": 5,
+          "text": "5 But I have trusted in Your mercy; My heart shall rejoice in Your salvation."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 13,
+          "verse": 6,
+          "text": "6 I will sing to the L\u1d0f\u0280\u1d05, Because He has dealt bountifully with me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 14,
+          "verse": 1,
+          "text": "1 To the Chief Musician. A Psalm of David. The fool has said in his heart, \u201cThere is no God.\u201d They are corrupt, They have done abominable works, There is none who does good."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 14,
+          "verse": 2,
+          "text": "2 The L\u1d0f\u0280\u1d05 looks down from heaven upon the children of men, To see if there are any who understand, who seek God."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 14,
+          "verse": 3,
+          "text": "3 They have all turned aside, They have together become corrupt; There is none who does good, No, not one."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 14,
+          "verse": 4,
+          "text": "4 Have all the workers of iniquity no knowledge, Who eat up my people as they eat bread, And do not call on the L\u1d0f\u0280\u1d05?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 14,
+          "verse": 5,
+          "text": "5 There they are in great fear, For God is with the generation of the righteous."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 14,
+          "verse": 6,
+          "text": "6 You shame the counsel of the poor, But the L\u1d0f\u0280\u1d05 is his refuge."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 14,
+          "verse": 7,
+          "text": "7 Oh, that the salvation of Israel would come out of Zion! When the L\u1d0f\u0280\u1d05 brings back the captivity of His people, Let Jacob rejoice and Israel be glad."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:54.567929"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Proverbs 26",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 1,
+          "text": "1 As snow in summer and rain in harvest, So honor is not fitting for a fool."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 2,
+          "text": "2 Like a flitting sparrow, like a flying swallow, So a curse without cause shall not alight."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 3,
+          "text": "3 A whip for the horse, A bridle for the donkey, And a rod for the fool\u2019s back."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 4,
+          "text": "4 Do not answer a fool according to his folly, Lest you also be like him."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 5,
+          "text": "5 Answer a fool according to his folly, Lest he be wise in his own eyes."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 6,
+          "text": "6 He who sends a message by the hand of a fool Cuts off his own feet and drinks violence."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 7,
+          "text": "7 Like the legs of the lame that hang limp Is a proverb in the mouth of fools."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 8,
+          "text": "8 Like one who binds a stone in a sling Is he who gives honor to a fool."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 9,
+          "text": "9 Like a thorn that goes into the hand of a drunkard Is a proverb in the mouth of fools."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 10,
+          "text": "10 The great God who formed everything Gives the fool his hire and the transgressor his wages."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 11,
+          "text": "11 As a dog returns to his own vomit, So a fool repeats his folly."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 12,
+          "text": "12 Do you see a man wise in his own eyes? There is more hope for a fool than for him."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 13,
+          "text": "13 The lazy man says, \u201cThere is a lion in the road! A fierce lion is in the streets!\u201d"
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 14,
+          "text": "14 As a door turns on its hinges, So does the lazy man on his bed."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 15,
+          "text": "15 The lazy man buries his hand in the bowl; It wearies him to bring it back to his mouth."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 16,
+          "text": "16 The lazy man is wiser in his own eyes Than seven men who can answer sensibly."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 17,
+          "text": "17 He who passes by and meddles in a quarrel not his own Is like one who takes a dog by the ears."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 18,
+          "text": "18 Like a madman who throws firebrands, arrows, and death,"
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 19,
+          "text": "19 Is the man who deceives his neighbor, And says, \u201cI was only joking!\u201d"
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 20,
+          "text": "20 Where there is no wood, the fire goes out; And where there is no talebearer, strife ceases."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 21,
+          "text": "21 As charcoal is to burning coals, and wood to fire, So is a contentious man to kindle strife."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 22,
+          "text": "22 The words of a talebearer are like tasty trifles, And they go down into the inmost body."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 23,
+          "text": "23 Fervent lips with a wicked heart Are like earthenware covered with silver dross."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 24,
+          "text": "24 He who hates, disguises it with his lips, And lays up deceit within himself;"
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 25,
+          "text": "25 When he speaks kindly, do not believe him, For there are seven abominations in his heart;"
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 26,
+          "text": "26 Though his hatred is covered by deceit, His wickedness will be revealed before the assembly."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 27,
+          "text": "27 Whoever digs a pit will fall into it, And he who rolls a stone will have it roll back on him."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 26,
+          "verse": 28,
+          "text": "28 A lying tongue hates those who are crushed by it, And a flattering mouth works ruin."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:55.016955"
+    },
+    {
+      "reference": "1 Thessalonians 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 1,
+          "text": "1 But concerning the times and the seasons, brethren, you have no need that I should write to you."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 2,
+          "text": "2 For you yourselves know perfectly that the day of the Lord so comes as a thief in the night."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 3,
+          "text": "3 For when they say, \u201cPeace and safety!\u201d then sudden destruction comes upon them, as labor pains upon a pregnant woman. And they shall not escape."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 4,
+          "text": "4 But you, brethren, are not in darkness, so that this Day should overtake you as a thief."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 5,
+          "text": "5 You are all sons of light and sons of the day. We are not of the night nor of darkness."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 6,
+          "text": "6 Therefore let us not sleep, as others do, but let us watch and be sober."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 7,
+          "text": "7 For those who sleep, sleep at night, and those who get drunk are drunk at night."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 8,
+          "text": "8 But let us who are of the day be sober, putting on the breastplate of faith and love, and as a helmet the hope of salvation."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 9,
+          "text": "9 For God did not appoint us to wrath, but to obtain salvation through our Lord Jesus Christ,"
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 10,
+          "text": "10 who died for us, that whether we wake or sleep, we should live together with Him."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 11,
+          "text": "11 Therefore comfort each other and edify one another, just as you also are doing."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 12,
+          "text": "12 And we urge you, brethren, to recognize those who labor among you, and are over you in the Lord and admonish you,"
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 13,
+          "text": "13 and to esteem them very highly in love for their work\u2019s sake. Be at peace among yourselves."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 14,
+          "text": "14 Now we exhort you, brethren, warn those who are unruly, comfort the fainthearted, uphold the weak, be patient with all."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 15,
+          "text": "15 See that no one renders evil for evil to anyone, but always pursue what is good both for yourselves and for all."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 16,
+          "text": "16 Rejoice always,"
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 17,
+          "text": "17 pray without ceasing,"
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 18,
+          "text": "18 in everything give thanks; for this is the will of God in Christ Jesus for you."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 19,
+          "text": "19 Do not quench the Spirit."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 20,
+          "text": "20 Do not despise prophecies."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 21,
+          "text": "21 Test all things; hold fast what is good."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 22,
+          "text": "22 Abstain from every form of evil."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 23,
+          "text": "23 Now may the God of peace Himself sanctify you completely; and may your whole spirit, soul, and body be preserved blameless at the coming of our Lord Jesus Christ."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 24,
+          "text": "24 He who calls you is faithful, who also will do it."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 25,
+          "text": "25 Brethren, pray for us."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 26,
+          "text": "26 Greet all the brethren with a holy kiss."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 27,
+          "text": "27 I charge you by the Lord that this epistle be read to all the holy brethren."
+        },
+        {
+          "book": "1 Thessalonians",
+          "chapter": 5,
+          "verse": 28,
+          "text": "28 The grace of our Lord Jesus Christ be with you. Amen."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:55.743313"
+    }
+  ]
+}

@@ -1,0 +1,893 @@
+{
+  "format_version": "1.0",
+  "date": "07/10",
+  "cached_at": "2026-02-05T17:58:42.120224",
+  "Family": [
+    {
+      "reference": "Joshua 12-13",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 1,
+          "text": "1 These are the kings of the land whom the children of Israel defeated, and whose land they possessed on the other side of the Jordan toward the rising of the sun, from the River Arnon to Mount Hermon, and all the eastern Jordan plain:"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 2,
+          "text": "2 One king was Sihon king of the Amorites, who dwelt in Heshbon and ruled half of Gilead, from Aroer, which is on the bank of the River Arnon, from the middle of that river, even as far as the River Jabbok, which is the border of the Ammonites,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 3,
+          "text": "3 and the eastern Jordan plain from the Sea of Chinneroth as far as the Sea of the Arabah (the Salt Sea), the road to Beth Jeshimoth, and southward below the slopes of Pisgah."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 4,
+          "text": "4 The other king was Og king of Bashan and his territory, who was of the remnant of the giants, who dwelt at Ashtaroth and at Edrei,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 5,
+          "text": "5 and reigned over Mount Hermon, over Salcah, over all Bashan, as far as the border of the Geshurites and the Maachathites, and over half of Gilead to the border of Sihon king of Heshbon."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 6,
+          "text": "6 These Moses the servant of the L\u1d0f\u0280\u1d05 and the children of Israel had conquered; and Moses the servant of the L\u1d0f\u0280\u1d05 had given it as a possession to the Reubenites, the Gadites, and half the tribe of Manasseh."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 7,
+          "text": "7 And these are the kings of the country which Joshua and the children of Israel conquered on this side of the Jordan, on the west, from Baal Gad in the Valley of Lebanon as far as Mount Halak and the ascent to Seir, which Joshua gave to the tribes of Israel as a possession according to their divisions,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 8,
+          "text": "8 in the mountain country, in the lowlands, in the Jordan plain, in the slopes, in the wilderness, and in the South\u2014the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites:"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 9,
+          "text": "9 the king of Jericho, one; the king of Ai, which is beside Bethel, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 10,
+          "text": "10 the king of Jerusalem, one; the king of Hebron, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 11,
+          "text": "11 the king of Jarmuth, one; the king of Lachish, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 12,
+          "text": "12 the king of Eglon, one; the king of Gezer, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 13,
+          "text": "13 the king of Debir, one; the king of Geder, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 14,
+          "text": "14 the king of Hormah, one; the king of Arad, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 15,
+          "text": "15 the king of Libnah, one; the king of Adullam, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 16,
+          "text": "16 the king of Makkedah, one; the king of Bethel, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 17,
+          "text": "17 the king of Tappuah, one; the king of Hepher, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 18,
+          "text": "18 the king of Aphek, one; the king of Lasharon, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 19,
+          "text": "19 the king of Madon, one; the king of Hazor, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 20,
+          "text": "20 the king of Shimron Meron, one; the king of Achshaph, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 21,
+          "text": "21 the king of Taanach, one; the king of Megiddo, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 22,
+          "text": "22 the king of Kedesh, one; the king of Jokneam in Carmel, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 23,
+          "text": "23 the king of Dor in the heights of Dor, one; the king of the people of Gilgal, one;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 12,
+          "verse": 24,
+          "text": "24 the king of Tirzah, one\u2014all the kings, thirty-one."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 1,
+          "text": "1 Now Joshua was old, advanced in years. And the L\u1d0f\u0280\u1d05 said to him: \u201cYou are old, advanced in years, and there remains very much land yet to be possessed."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 2,
+          "text": "2 This is the land that yet remains: all the territory of the Philistines and all that of the Geshurites,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 3,
+          "text": "3 from Sihor, which is east of Egypt, as far as the border of Ekron northward (which is counted as Canaanite); the five lords of the Philistines\u2014the Gazites, the Ashdodites, the Ashkelonites, the Gittites, and the Ekronites; also the Avites;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 4,
+          "text": "4 from the south, all the land of the Canaanites, and Mearah that belongs to the Sidonians as far as Aphek, to the border of the Amorites;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 5,
+          "text": "5 the land of the Gebalites, and all Lebanon, toward the sunrise, from Baal Gad below Mount Hermon as far as the entrance to Hamath;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 6,
+          "text": "6 all the inhabitants of the mountains from Lebanon as far as the Brook Misrephoth, and all the Sidonians\u2014them I will drive out from before the children of Israel; only divide it by lot to Israel as an inheritance, as I have commanded you."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 7,
+          "text": "7 Now therefore, divide this land as an inheritance to the nine tribes and half the tribe of Manasseh.\u201d"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 8,
+          "text": "8 With the other half tribe the Reubenites and the Gadites received their inheritance, which Moses had given them, beyond the Jordan eastward, as Moses the servant of the L\u1d0f\u0280\u1d05 had given them:"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 9,
+          "text": "9 from Aroer which is on the bank of the River Arnon, and the town that is in the midst of the ravine, and all the plain of Medeba as far as Dibon;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 10,
+          "text": "10 all the cities of Sihon king of the Amorites, who reigned in Heshbon, as far as the border of the children of Ammon;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 11,
+          "text": "11 Gilead, and the border of the Geshurites and Maachathites, all Mount Hermon, and all Bashan as far as Salcah;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 12,
+          "text": "12 all the kingdom of Og in Bashan, who reigned in Ashtaroth and Edrei, who remained of the remnant of the giants; for Moses had defeated and cast out these."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 13,
+          "text": "13 Nevertheless the children of Israel did not drive out the Geshurites or the Maachathites, but the Geshurites and the Maachathites dwell among the Israelites until this day."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 14,
+          "text": "14 Only to the tribe of Levi he had given no inheritance; the sacrifices of the L\u1d0f\u0280\u1d05 God of Israel made by fire are their inheritance, as He said to them."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 15,
+          "text": "15 And Moses had given to the tribe of the children of Reuben an inheritance according to their families."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 16,
+          "text": "16 Their territory was from Aroer, which is on the bank of the River Arnon, and the city that is in the midst of the ravine, and all the plain by Medeba;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 17,
+          "text": "17 Heshbon and all its cities that are in the plain: Dibon, Bamoth Baal, Beth Baal Meon,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 18,
+          "text": "18 Jahaza, Kedemoth, Mephaath,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 19,
+          "text": "19 Kirjathaim, Sibmah, Zereth Shahar on the mountain of the valley,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 20,
+          "text": "20 Beth Peor, the slopes of Pisgah, and Beth Jeshimoth\u2014"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 21,
+          "text": "21 all the cities of the plain and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon, whom Moses had struck with the princes of Midian: Evi, Rekem, Zur, Hur, and Reba, who were princes of Sihon dwelling in the country."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 22,
+          "text": "22 The children of Israel also killed with the sword Balaam the son of Beor, the soothsayer, among those who were killed by them."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 23,
+          "text": "23 And the border of the children of Reuben was the bank of the Jordan. This was the inheritance of the children of Reuben according to their families, the cities and their villages."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 24,
+          "text": "24 Moses also had given an inheritance to the tribe of Gad, to the children of Gad according to their families."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 25,
+          "text": "25 Their territory was Jazer, and all the cities of Gilead, and half the land of the Ammonites as far as Aroer, which is before Rabbah,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 26,
+          "text": "26 and from Heshbon to Ramath Mizpah and Betonim, and from Mahanaim to the border of Debir,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 27,
+          "text": "27 and in the valley Beth Haram, Beth Nimrah, Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, with the Jordan as its border, as far as the edge of the Sea of Chinnereth, on the other side of the Jordan eastward."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 28,
+          "text": "28 This is the inheritance of the children of Gad according to their families, the cities and their villages."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 29,
+          "text": "29 Moses also had given an inheritance to half the tribe of Manasseh; it was for half the tribe of the children of Manasseh according to their families:"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 30,
+          "text": "30 Their territory was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair which are in Bashan, sixty cities;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 31,
+          "text": "31 half of Gilead, and Ashtaroth and Edrei, cities of the kingdom of Og in Bashan, were for the children of Machir the son of Manasseh, for half of the children of Machir according to their families."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 32,
+          "text": "32 These are the areas which Moses had distributed as an inheritance in the plains of Moab on the other side of the Jordan, by Jericho eastward."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 13,
+          "verse": 33,
+          "text": "33 But to the tribe of Levi Moses had given no inheritance; the L\u1d0f\u0280\u1d05 God of Israel was their inheritance, as He had said to them."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:58:44.266053"
+    },
+    {
+      "reference": "Psalm 145",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 1,
+          "text": "1 A Praise of David. I will extol You, my God, O King; And I will bless Your name forever and ever."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 2,
+          "text": "2 Every day I will bless You, And I will praise Your name forever and ever."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 3,
+          "text": "3 Great is the L\u1d0f\u0280\u1d05, and greatly to be praised; And His greatness is unsearchable."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 4,
+          "text": "4 One generation shall praise Your works to another, And shall declare Your mighty acts."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 5,
+          "text": "5 I will meditate on the glorious splendor of Your majesty, And on Your wondrous works."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 6,
+          "text": "6 Men shall speak of the might of Your awesome acts, And I will declare Your greatness."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 7,
+          "text": "7 They shall utter the memory of Your great goodness, And shall sing of Your righteousness."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 8,
+          "text": "8 The L\u1d0f\u0280\u1d05 is gracious and full of compassion, Slow to anger and great in mercy."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 9,
+          "text": "9 The L\u1d0f\u0280\u1d05 is good to all, And His tender mercies are over all His works."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 10,
+          "text": "10 All Your works shall praise You, O L\u1d0f\u0280\u1d05, And Your saints shall bless You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 11,
+          "text": "11 They shall speak of the glory of Your kingdom, And talk of Your power,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 12,
+          "text": "12 To make known to the sons of men His mighty acts, And the glorious majesty of His kingdom."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 13,
+          "text": "13 Your kingdom is an everlasting kingdom, And Your dominion endures throughout all generations."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 14,
+          "text": "14 The L\u1d0f\u0280\u1d05 upholds all who fall, And raises up all who are bowed down."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 15,
+          "text": "15 The eyes of all look expectantly to You, And You give them their food in due season."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 16,
+          "text": "16 You open Your hand And satisfy the desire of every living thing."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 17,
+          "text": "17 The L\u1d0f\u0280\u1d05 is righteous in all His ways, Gracious in all His works."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 18,
+          "text": "18 The L\u1d0f\u0280\u1d05 is near to all who call upon Him, To all who call upon Him in truth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 19,
+          "text": "19 He will fulfill the desire of those who fear Him; He also will hear their cry and save them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 20,
+          "text": "20 The L\u1d0f\u0280\u1d05 preserves all who love Him, But all the wicked He will destroy."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 145,
+          "verse": 21,
+          "text": "21 My mouth shall speak the praise of the L\u1d0f\u0280\u1d05, And all flesh shall bless His holy name Forever and ever."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:58:45.088892"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Jeremiah 6",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 1,
+          "text": "1 \u201cO you children of Benjamin, Gather yourselves to flee from the midst of Jerusalem! Blow the trumpet in Tekoa, And set up a signal-fire in Beth Haccerem; For disaster appears out of the north, And great destruction."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 2,
+          "text": "2 I have likened the daughter of Zion To a lovely and delicate woman."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 3,
+          "text": "3 The shepherds with their flocks shall come to her. They shall pitch their tents against her all around. Each one shall pasture in his own place.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 4,
+          "text": "4 \u201cPrepare war against her; Arise, and let us go up at noon. Woe to us, for the day goes away, For the shadows of the evening are lengthening."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 5,
+          "text": "5 Arise, and let us go by night, And let us destroy her palaces.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 6,
+          "text": "6 For thus has the L\u1d0f\u0280\u1d05 of hosts said: \u201cCut down trees, And build a mound against Jerusalem. This is the city to be punished. She is full of oppression in her midst."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 7,
+          "text": "7 As a fountain wells up with water, So she wells up with her wickedness. Violence and plundering are heard in her. Before Me continually are grief and wounds."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 8,
+          "text": "8 Be instructed, O Jerusalem, Lest My soul depart from you; Lest I make you desolate, A land not inhabited.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 9,
+          "text": "9 Thus says the L\u1d0f\u0280\u1d05 of hosts: \u201cThey shall thoroughly glean as a vine the remnant of Israel; As a grape-gatherer, put your hand back into the branches.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 10,
+          "text": "10 To whom shall I speak and give warning, That they may hear? Indeed their ear is uncircumcised, And they cannot give heed. Behold, the word of the L\u1d0f\u0280\u1d05 is a reproach to them; They have no delight in it."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 11,
+          "text": "11 Therefore I am full of the fury of the L\u1d0f\u0280\u1d05. I am weary of holding it in. \u201cI will pour it out on the children outside, And on the assembly of young men together; For even the husband shall be taken with the wife, The aged with him who is full of days."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 12,
+          "text": "12 And their houses shall be turned over to others, Fields and wives together; For I will stretch out My hand Against the inhabitants of the land,\u201d says the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 13,
+          "text": "13 \u201cBecause from the least of them even to the greatest of them, Everyone is given to covetousness; And from the prophet even to the priest, Everyone deals falsely."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 14,
+          "text": "14 They have also healed the hurt of My people slightly, Saying, \u2018Peace, peace!\u2019 When there is no peace."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 15,
+          "text": "15 Were they ashamed when they had committed abomination? No! They were not at all ashamed; Nor did they know how to blush. Therefore they shall fall among those who fall; At the time I punish them, They shall be cast down,\u201d says the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 16,
+          "text": "16 Thus says the L\u1d0f\u0280\u1d05: \u201cStand in the ways and see, And ask for the old paths, where the good way is, And walk in it; Then you will find rest for your souls. But they said, \u2018We will not walk in it.\u2019"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 17,
+          "text": "17 Also, I set watchmen over you, saying, \u2018Listen to the sound of the trumpet!\u2019 But they said, \u2018We will not listen.\u2019"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 18,
+          "text": "18 Therefore hear, you nations, And know, O congregation, what is among them."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 19,
+          "text": "19 Hear, O earth! Behold, I will certainly bring calamity on this people\u2014 The fruit of their thoughts, Because they have not heeded My words, Nor My law, but rejected it."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 20,
+          "text": "20 For what purpose to Me Comes frankincense from Sheba, And sweet cane from a far country? Your burnt offerings are not acceptable, Nor your sacrifices sweet to Me.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 21,
+          "text": "21 Therefore thus says the L\u1d0f\u0280\u1d05: \u201cBehold, I will lay stumbling blocks before this people, And the fathers and the sons together shall fall on them. The neighbor and his friend shall perish.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 22,
+          "text": "22 Thus says the L\u1d0f\u0280\u1d05: \u201cBehold, a people comes from the north country, And a great nation will be raised from the farthest parts of the earth."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 23,
+          "text": "23 They will lay hold on bow and spear; They are cruel and have no mercy; Their voice roars like the sea; And they ride on horses, As men of war set in array against you, O daughter of Zion.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 24,
+          "text": "24 We have heard the report of it; Our hands grow feeble. Anguish has taken hold of us, Pain as of a woman in labor."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 25,
+          "text": "25 Do not go out into the field, Nor walk by the way. Because of the sword of the enemy, Fear is on every side."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 26,
+          "text": "26 O daughter of my people, Dress in sackcloth And roll about in ashes! Make mourning as for an only son, most bitter lamentation; For the plunderer will suddenly come upon us."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 27,
+          "text": "27 \u201cI have set you as an assayer and a fortress among My people, That you may know and test their way."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 28,
+          "text": "28 They are all stubborn rebels, walking as slanderers. They are bronze and iron, They are all corrupters;"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 29,
+          "text": "29 The bellows blow fiercely, The lead is consumed by the fire; The smelter refines in vain, For the wicked are not drawn off."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 6,
+          "verse": 30,
+          "text": "30 People will call them rejected silver, Because the L\u1d0f\u0280\u1d05 has rejected them.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:58:46.014676"
+    },
+    {
+      "reference": "Matthew 20",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 1,
+          "text": "1 \u201cFor the kingdom of heaven is like a landowner who went out early in the morning to hire laborers for his vineyard."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 2,
+          "text": "2 Now when he had agreed with the laborers for a denarius a day, he sent them into his vineyard."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 3,
+          "text": "3 And he went out about the third hour and saw others standing idle in the marketplace,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 4,
+          "text": "4 and said to them, \u2018You also go into the vineyard, and whatever is right I will give you.\u2019 So they went."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 5,
+          "text": "5 Again he went out about the sixth and the ninth hour, and did likewise."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 6,
+          "text": "6 And about the eleventh hour he went out and found others standing idle, and said to them, \u2018Why have you been standing here idle all day?\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 7,
+          "text": "7 They said to him, \u2018Because no one hired us.\u2019 He said to them, \u2018You also go into the vineyard, and whatever is right you will receive.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 8,
+          "text": "8 So when evening had come, the owner of the vineyard said to his steward, \u2018Call the laborers and give them their wages, beginning with the last to the first.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 9,
+          "text": "9 And when those came who were hired about the eleventh hour, they each received a denarius."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 10,
+          "text": "10 But when the first came, they supposed that they would receive more; and they likewise received each a denarius."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 11,
+          "text": "11 And when they had received it, they complained against the landowner,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 12,
+          "text": "12 saying, \u2018These last men have worked only one hour, and you made them equal to us who have borne the burden and the heat of the day.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 13,
+          "text": "13 But he answered one of them and said, \u2018Friend, I am doing you no wrong. Did you not agree with me for a denarius?"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 14,
+          "text": "14 Take what is yours and go your way. I wish to give to this last man the same as to you."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 15,
+          "text": "15 Is it not lawful for me to do what I wish with my own things? Or is your eye evil because I am good?\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 16,
+          "text": "16 So the last will be first, and the first last. For many are called, but few chosen.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 17,
+          "text": "17 Now Jesus, going up to Jerusalem, took the twelve disciples aside on the road and said to them,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 18,
+          "text": "18 \u201cBehold, we are going up to Jerusalem, and the Son of Man will be betrayed to the chief priests and to the scribes; and they will condemn Him to death,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 19,
+          "text": "19 and deliver Him to the Gentiles to mock and to scourge and to crucify. And the third day He will rise again.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 20,
+          "text": "20 Then the mother of Zebedee\u2019s sons came to Him with her sons, kneeling down and asking something from Him."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 21,
+          "text": "21 And He said to her, \u201cWhat do you wish?\u201d She said to Him, \u201cGrant that these two sons of mine may sit, one on Your right hand and the other on the left, in Your kingdom.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 22,
+          "text": "22 But Jesus answered and said, \u201cYou do not know what you ask. Are you able to drink the cup that I am about to drink, and be baptized with the baptism that I am baptized with?\u201d They said to Him, \u201cWe are able.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 23,
+          "text": "23 So He said to them, \u201cYou will indeed drink My cup, and be baptized with the baptism that I am baptized with; but to sit on My right hand and on My left is not Mine to give, but it is for those for whom it is prepared by My Father.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 24,
+          "text": "24 And when the ten heard it, they were greatly displeased with the two brothers."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 25,
+          "text": "25 But Jesus called them to Himself and said, \u201cYou know that the rulers of the Gentiles lord it over them, and those who are great exercise authority over them."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 26,
+          "text": "26 Yet it shall not be so among you; but whoever desires to become great among you, let him be your servant."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 27,
+          "text": "27 And whoever desires to be first among you, let him be your slave\u2014"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 28,
+          "text": "28 just as the Son of Man did not come to be served, but to serve, and to give His life a ransom for many.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 29,
+          "text": "29 Now as they went out of Jericho, a great multitude followed Him."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 30,
+          "text": "30 And behold, two blind men sitting by the road, when they heard that Jesus was passing by, cried out, saying, \u201cHave mercy on us, O Lord, Son of David!\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 31,
+          "text": "31 Then the multitude warned them that they should be quiet; but they cried out all the more, saying, \u201cHave mercy on us, O Lord, Son of David!\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 32,
+          "text": "32 So Jesus stood still and called them, and said, \u201cWhat do you want Me to do for you?\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 33,
+          "text": "33 They said to Him, \u201cLord, that our eyes may be opened.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 20,
+          "verse": 34,
+          "text": "34 So Jesus had compassion and touched their eyes. And immediately their eyes received sight, and they followed Him."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:58:46.527234"
+    }
+  ]
+}

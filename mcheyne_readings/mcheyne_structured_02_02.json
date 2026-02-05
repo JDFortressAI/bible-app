@@ -1,0 +1,743 @@
+{
+  "format_version": "1.0",
+  "date": "02/02",
+  "cached_at": "2026-01-25T04:00:18.471991",
+  "Family": [
+    {
+      "reference": "Genesis 34",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 1,
+          "text": "Now Dinah the daughter of Leah, whom she had borne to Jacob, went out to see the daughters of the land."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 2,
+          "text": "And when Shechem the son of Hamor the Hivite, prince of the country, saw her, he took her and lay with her, and violated her."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 3,
+          "text": "His soul was strongly attracted to Dinah the daughter of Jacob, and he loved the young woman and spoke kindly to the young woman."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 4,
+          "text": "So Shechem spoke to his father Hamor, saying, \u201cGet me this young woman as a wife.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 5,
+          "text": "And Jacob heard that he had defiled Dinah his daughter. Now his sons were with his livestock in the field; so Jacob held his peace until they came."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 6,
+          "text": "Then Hamor the father of Shechem went out to Jacob to speak with him."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 7,
+          "text": "And the sons of Jacob came in from the field when they heard it; and the men were grieved and very angry, because he had done a disgraceful thing in Israel by lying with Jacob\u2019s daughter, a thing which ought not to be done."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 8,
+          "text": "But Hamor spoke with them, saying, \u201cThe soul of my son Shechem longs for your daughter. Please give her to him as a wife."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 9,
+          "text": "And make marriages with us; give your daughters to us, and take our daughters to yourselves."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 10,
+          "text": "So you shall dwell with us, and the land shall be before you. Dwell and trade in it, and acquire possessions for yourselves in it.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 11,
+          "text": "Then Shechem said to her father and her brothers, \u201cLet me find favor in your eyes, and whatever you say to me I will give."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 12,
+          "text": "Ask me ever so much dowry and gift, and I will give according to what you say to me; but give me the young woman as a wife.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 13,
+          "text": "But the sons of Jacob answered Shechem and Hamor his father, and spoke deceitfully, because he had defiled Dinah their sister."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 14,
+          "text": "And they said to them, \u201cWe cannot do this thing, to give our sister to one who is uncircumcised, for that would be a reproach to us."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 15,
+          "text": "But on this condition we will consent to you: If you will become as we are, if every male of you is circumcised,"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 16,
+          "text": "then we will give our daughters to you, and we will take your daughters to us; and we will dwell with you, and we will become one people."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 17,
+          "text": "But if you will not heed us and be circumcised, then we will take our daughter and be gone.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 18,
+          "text": "And their words pleased Hamor and Shechem, Hamor\u2019s son."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 19,
+          "text": "So the young man did not delay to do the thing, because he delighted in Jacob\u2019s daughter. He was more honorable than all the household of his father."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 20,
+          "text": "And Hamor and Shechem his son came to the gate of their city, and spoke with the men of their city, saying:"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 21,
+          "text": "\u201cThese men are at peace with us. Therefore let them dwell in the land and trade in it. For indeed the land is large enough for them. Let us take their daughters to us as wives, and let us give them our daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 22,
+          "text": "Only on this condition will the men consent to dwell with us, to be one people: if every male among us is circumcised as they are circumcised."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 23,
+          "text": "Will not their livestock, their property, and every animal of theirs be ours? Only let us consent to them, and they will dwell with us.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 24,
+          "text": "And all who went out of the gate of his city heeded Hamor and Shechem his son; every male was circumcised, all who went out of the gate of his city."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 25,
+          "text": "Now it came to pass on the third day, when they were in pain, that two of the sons of Jacob, Simeon and Levi, Dinah\u2019s brothers, each took his sword and came boldly upon the city and killed all the males."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 26,
+          "text": "And they killed Hamor and Shechem his son with the edge of the sword, and took Dinah from Shechem\u2019s house, and went out."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 27,
+          "text": "The sons of Jacob came upon the slain, and plundered the city, because their sister had been defiled."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 28,
+          "text": "They took their sheep, their oxen, and their donkeys, what was in the city and what was in the field,"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 29,
+          "text": "and all their wealth. All their little ones and their wives they took captive; and they plundered even all that was in the houses."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 30,
+          "text": "Then Jacob said to Simeon and Levi, \u201cYou have troubled me by making me obnoxious among the inhabitants of the land, among the Canaanites and the Perizzites; and since I am few in number, they will gather themselves together against me and kill me. I shall be destroyed, my household and I.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 34,
+          "verse": 31,
+          "text": "But they said, \u201cShould he treat our sister like a harlot?\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-25T04:00:19.833468"
+    },
+    {
+      "reference": "Mark 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Then they came to the other side of the sea, to the country of the Gadarenes."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 2,
+          "text": "And when He had come out of the boat, immediately there met Him out of the tombs a man with an unclean spirit,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 3,
+          "text": "who had his dwelling among the tombs; and no one could bind him, not even with chains,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 4,
+          "text": "because he had often been bound with shackles and chains. And the chains had been pulled apart by him, and the shackles broken in pieces; neither could anyone tame him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 5,
+          "text": "And always, night and day, he was in the mountains and in the tombs, crying out and cutting himself with stones."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 6,
+          "text": "When he saw Jesus from afar, he ran and worshiped Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 7,
+          "text": "And he cried out with a loud voice and said, \u201cWhat have I to do with You, Jesus, Son of the Most High God? I implore You by God that You do not torment me.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 8,
+          "text": "For He said to him, \u201cCome out of the man, unclean spirit!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Then He asked him, \u201cWhat is your name?\u201d And he answered, saying, \u201cMy name is Legion; for we are many.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 10,
+          "text": "Also he begged Him earnestly that He would not send them out of the country."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 11,
+          "text": "Now a large herd of swine was feeding there near the mountains."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 12,
+          "text": "So all the demons begged Him, saying, \u201cSend us to the swine, that we may enter them.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 13,
+          "text": "And at once Jesus gave them permission. Then the unclean spirits went out and entered the swine (there were about two thousand); and the herd ran violently down the steep place into the sea, and drowned in the sea."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 14,
+          "text": "So those who fed the swine fled, and they told it in the city and in the country. And they went out to see what it was that had happened."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 15,
+          "text": "Then they came to Jesus, and saw the one who had been demon-possessed and had the legion, sitting and clothed and in his right mind. And they were afraid."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 16,
+          "text": "And those who saw it told them how it happened to him who had been demon-possessed, and about the swine."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 17,
+          "text": "Then they began to plead with Him to depart from their region."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 18,
+          "text": "And when He got into the boat, he who had been demon-possessed begged Him that he might be with Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 19,
+          "text": "However, Jesus did not permit him, but said to him, \u201cGo home to your friends, and tell them what great things the Lord has done for you, and how He has had compassion on you.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 20,
+          "text": "And he departed and began to proclaim in Decapolis all that Jesus had done for him; and all marveled."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 21,
+          "text": "Now when Jesus had crossed over again by boat to the other side, a great multitude gathered to Him; and He was by the sea."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 22,
+          "text": "And behold, one of the rulers of the synagogue came, Jairus by name. And when he saw Him, he fell at His feet"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 23,
+          "text": "and begged Him earnestly, saying, \u201cMy little daughter lies at the point of death. Come and lay Your hands on her, that she may be healed, and she will live.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 24,
+          "text": "So Jesus went with him, and a great multitude followed Him and thronged Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 25,
+          "text": "Now a certain woman had a flow of blood for twelve years,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 26,
+          "text": "and had suffered many things from many physicians. She had spent all that she had and was no better, but rather grew worse."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 27,
+          "text": "When she heard about Jesus, she came behind Him in the crowd and touched His garment."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 28,
+          "text": "For she said, \u201cIf only I may touch His clothes, I shall be made well.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 29,
+          "text": "Immediately the fountain of her blood was dried up, and she felt in her body that she was healed of the affliction."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 30,
+          "text": "And Jesus, immediately knowing in Himself that power had gone out of Him, turned around in the crowd and said, \u201cWho touched My clothes?\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 31,
+          "text": "But His disciples said to Him, \u201cYou see the multitude thronging You, and You say, Who touched Me?\u2019 \u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 32,
+          "text": "And He looked around to see her who had done this thing."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 33,
+          "text": "But the woman, fearing and trembling, knowing what had happened to her, came and fell down before Him and told Him the whole truth."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 34,
+          "text": "And He said to her, \u201cDaughter, your faith has made you well. Go in peace, and be healed of your affliction.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 35,
+          "text": "While He was still speaking, some came from the ruler of the synagogue\u2019s house who said, \u201cYour daughter is dead. Why trouble the Teacher any further?\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 36,
+          "text": "As soon as Jesus heard the word that was spoken, He said to the ruler of the synagogue, \u201cDo not be afraid; only believe.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 37,
+          "text": "And He permitted no one to follow Him except Peter, James, and John the brother of James."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 38,
+          "text": "Then He came to the house of the ruler of the synagogue, and saw a tumult and those who wept and wailed loudly."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 39,
+          "text": "When He came in, He said to them, \u201cWhy make this commotion and weep? The child is not dead, but sleeping.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 40,
+          "text": "And they ridiculed Him. But when He had put them all outside, He took the father and the mother of the child, and those who were with Him, and entered where the child was lying."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 41,
+          "text": "Then He took the child by the hand, and said to her, \u201cTalitha, cumi,\u201d which is translated, \u201cLittle girl, I say to you, arise.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 42,
+          "text": "Immediately the girl arose and walked, for she was twelve years of age. And they were overcome with great amazement."
+        },
+        {
+          "book": "Mark",
+          "chapter": 5,
+          "verse": 43,
+          "text": "But He commanded them strictly that no one should know it, and said that something should be given her to eat."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-25T04:00:21.174939"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Job 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 1,
+          "text": "There was a man in the land of Uz, whose name was Job; and that man was blameless and upright, and one who feared God and shunned evil."
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 2,
+          "text": "And seven sons and three daughters were born to him."
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Also, his possessions were seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred female donkeys, and a very large household, so that this man was the greatest of all the people of the East."
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 4,
+          "text": "And his sons would go and feast in their houses, each on his appointed day, and would send and invite their three sisters to eat and drink with them."
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 5,
+          "text": "So it was, when the days of feasting had run their course, that Job would send and sanctify them, and he would rise early in the morning and offer burnt offerings according to the number of them all. For Job said, \u201cIt may be that my sons have sinned and cursed [a] God in their hearts.\u201d Thus Job did regularly."
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 6,
+          "text": "Now there was a day when the sons of God came to present themselves before the L\u1d0f\u0280\u1d05, and Satan [b] also came among them."
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 7,
+          "text": "And the L\u1d0f\u0280\u1d05 said to Satan, \u201cFrom where do you come?\u201d So Satan answered the L\u1d0f\u0280\u1d05 and said, \u201cFrom going to and fro on the earth, and from walking back and forth on it.\u201d"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 8,
+          "text": "Then the L\u1d0f\u0280\u1d05 said to Satan, \u201cHave you considered My servant Job, that there is none like him on the earth, a blameless and upright man, one who fears God and shuns evil?\u201d"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 9,
+          "text": "So Satan answered the L\u1d0f\u0280\u1d05 and said, \u201cDoes Job fear God for nothing?"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 10,
+          "text": "Have You not made a hedge around him, around his household, and around all that he has on every side? You have blessed the work of his hands, and his possessions have increased in the land."
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 11,
+          "text": "But now, stretch out Your hand and touch all that he has, and he will surely curse You to Your face!\u201d"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 12,
+          "text": "And the L\u1d0f\u0280\u1d05 said to Satan, \u201cBehold, all that he has is in your power; only do not lay a hand on his person.\u201d So Satan went out from the presence of the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Now there was a day when his sons and daughters were eating and drinking wine in their oldest brother\u2019s house;"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 14,
+          "text": "and a messenger came to Job and said, \u201cThe oxen were plowing and the donkeys feeding beside them,"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 15,
+          "text": "when the Sabeans [c] raided them and took them away\u2014indeed they have killed the servants with the edge of the sword; and I alone have escaped to tell you!\u201d"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 16,
+          "text": "While he was still speaking, another also came and said, \u201cThe fire of God fell from heaven and burned up the sheep and the servants, and consumed them; and I alone have escaped to tell you!\u201d"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 17,
+          "text": "While he was still speaking, another also came and said, \u201cThe Chaldeans formed three bands, raided the camels and took them away, yes, and killed the servants with the edge of the sword; and I alone have escaped to tell you!\u201d"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 18,
+          "text": "While he was still speaking, another also came and said, \u201cYour sons and daughters were eating and drinking wine in their oldest brother\u2019s house,"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 19,
+          "text": "and suddenly a great wind came from across [d] the wilderness and struck the four corners of the house, and it fell on the young people, and they are dead; and I alone have escaped to tell you!\u201d"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 20,
+          "text": "Then Job arose, tore his robe, and shaved his head; and he fell to the ground and worshiped."
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 21,
+          "text": "And he said: \u201cNaked I came from my mother\u2019s womb, And naked shall I return there. The L\u1d0f\u0280\u1d05 gave, and the L\u1d0f\u0280\u1d05 has taken away; Blessed be the name of the L\u1d0f\u0280\u1d05.\u201d"
+        },
+        {
+          "book": "Job",
+          "chapter": 1,
+          "verse": 22,
+          "text": "In all this Job did not sin nor charge God with wrong."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-25T04:00:22.591894"
+    },
+    {
+      "reference": "Romans 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 2,
+          "text": "through whom also we have access by faith into this grace in which we stand, and rejoice in hope of the glory of God."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 3,
+          "text": "And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance;"
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 4,
+          "text": "and perseverance, character; and character, hope."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 6,
+          "text": "For when we were still without strength, in due time Christ died for the ungodly."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 7,
+          "text": "For scarcely for a righteous man will one die; yet perhaps for a good man someone would even dare to die."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 8,
+          "text": "But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Much more then, having now been justified by His blood, we shall be saved from wrath through Him."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 10,
+          "text": "For if when we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 11,
+          "text": "And not only that, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received the reconciliation."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 12,
+          "text": "Therefore, just as through one man sin entered the world, and death through sin, and thus death spread to all men, because all sinned\u2014"
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 13,
+          "text": "(For until the law sin was in the world, but sin is not imputed when there is no law."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 14,
+          "text": "Nevertheless death reigned from Adam to Moses, even over those who had not sinned according to the likeness of the transgression of Adam, who is a type of Him who was to come."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 15,
+          "text": "But the free gift is not like the offense. For if by the one man\u2019s offense many died, much more the grace of God and the gift by the grace of the one Man, Jesus Christ, abounded to many."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 16,
+          "text": "And the gift is not like that which came through the one who sinned. For the judgment which came from one offense resulted in condemnation, but the free gift which came from many offenses resulted in justification."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 17,
+          "text": "For if by the one man\u2019s offense death reigned through the one, much more those who receive abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.)"
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 18,
+          "text": "Therefore, as through one man\u2019s offense judgment came to all men, resulting in condemnation, even so through one Man\u2019s righteous act the free gift came to all men, resulting in justification of life."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 19,
+          "text": "For as by one man\u2019s disobedience many were made sinners, so also by one Man\u2019s obedience many will be made righteous."
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 20,
+          "text": "Moreover the law entered that the offense might abound. But where sin abounded, grace abounded much more,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 5,
+          "verse": 21,
+          "text": "so that as sin reigned in death, even so grace might reign through righteousness to eternal life through Jesus Christ our Lord."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-25T04:00:24.751724"
+    }
+  ]
+}

@@ -1,0 +1,1037 @@
+{
+  "format_version": "1.0",
+  "date": "01/10",
+  "cached_at": "2026-01-02T04:00:18.863829",
+  "Family": [
+    {
+      "reference": "Genesis 11",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 1,
+          "text": "Now the whole earth had one language and one speech."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 2,
+          "text": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar, and they dwelt there."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 3,
+          "text": "Then they said to one another, \u201cCome, let us make bricks and bake them thoroughly.\u201d They had brick for stone, and they had asphalt for mortar."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 4,
+          "text": "And they said, \u201cCome, let us build ourselves a city, and a tower whose top is in the heavens; let us make a name for ourselves, lest we be scattered abroad over the face of the whole earth.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 5,
+          "text": "But the L\u1d0f\u0280\u1d05 came down to see the city and the tower which the sons of men had built."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 6,
+          "text": "And the L\u1d0f\u0280\u1d05 said, \u201cIndeed the people are one and they all have one language, and this is what they begin to do; now nothing that they propose to do will be withheld from them."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 7,
+          "text": "Come, let Us go down and there confuse their language, that they may not understand one another\u2019s speech.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 8,
+          "text": "So the L\u1d0f\u0280\u1d05 scattered them abroad from there over the face of all the earth, and they ceased building the city."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 9,
+          "text": "Therefore its name is called Babel, because there the L\u1d0f\u0280\u1d05 confused the language of all the earth; and from there the L\u1d0f\u0280\u1d05 scattered them abroad over the face of all the earth."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 10,
+          "text": "This is the genealogy of Shem: Shem was one hundred years old, and begot Arphaxad two years after the flood."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 11,
+          "text": "After he begot Arphaxad, Shem lived five hundred years, and begot sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 12,
+          "text": "Arphaxad lived thirty-five years, and begot Salah."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 13,
+          "text": "After he begot Salah, Arphaxad lived four hundred and three years, and begot sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 14,
+          "text": "Salah lived thirty years, and begot Eber."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 15,
+          "text": "After he begot Eber, Salah lived four hundred and three years, and begot sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 16,
+          "text": "Eber lived thirty-four years, and begot Peleg."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 17,
+          "text": "After he begot Peleg, Eber lived four hundred and thirty years, and begot sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 18,
+          "text": "Peleg lived thirty years, and begot Reu."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 19,
+          "text": "After he begot Reu, Peleg lived two hundred and nine years, and begot sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 20,
+          "text": "Reu lived thirty-two years, and begot Serug."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 21,
+          "text": "After he begot Serug, Reu lived two hundred and seven years, and begot sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 22,
+          "text": "Serug lived thirty years, and begot Nahor."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 23,
+          "text": "After he begot Nahor, Serug lived two hundred years, and begot sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 24,
+          "text": "Nahor lived twenty-nine years, and begot Terah."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 25,
+          "text": "After he begot Terah, Nahor lived one hundred and nineteen years, and begot sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 26,
+          "text": "Now Terah lived seventy years, and begot Abram, Nahor, and Haran."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 27,
+          "text": "This is the genealogy of Terah: Terah begot Abram, Nahor, and Haran. Haran begot Lot."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 28,
+          "text": "And Haran died before his father Terah in his native land, in Ur of the Chaldeans."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 29,
+          "text": "Then Abram and Nahor took wives: the name of Abram\u2019s wife was Sarai, and the name of Nahor\u2019s wife, Milcah, the daughter of Haran the father of Milcah and the father of Iscah."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 30,
+          "text": "But Sarai was barren; she had no child."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 31,
+          "text": "And Terah took his son Abram and his grandson Lot, the son of Haran, and his daughter-in-law Sarai, his son Abram\u2019s wife, and they went out with them from Ur of the Chaldeans to go to the land of Canaan; and they came to Haran and dwelt there."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 11,
+          "verse": 32,
+          "text": "So the days of Terah were two hundred and five years, and Terah died in Haran."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-02T04:00:20.345295"
+    },
+    {
+      "reference": "Matthew 10",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 1,
+          "text": "And when He had called His twelve disciples to Him, He gave them power over unclean spirits, to cast them out, and to heal all kinds of sickness and all kinds of disease."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 2,
+          "text": "Now the names of the twelve apostles are these: first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 3,
+          "text": "Philip and Bartholomew; Thomas and Matthew the tax collector; James the son of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 4,
+          "text": "Simon the Cananite, and Judas Iscariot, who also betrayed Him."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 5,
+          "text": "These twelve Jesus sent out and commanded them, saying: \u201cDo not go into the way of the Gentiles, and do not enter a city of the Samaritans."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 6,
+          "text": "But go rather to the lost sheep of the house of Israel."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 7,
+          "text": "And as you go, preach, saying, \u2018The kingdom of heaven is at hand.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 8,
+          "text": "Heal the sick, cleanse the lepers, raise the dead, cast out demons. Freely you have received, freely give."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 9,
+          "text": "Provide neither gold nor silver nor copper in your money belts,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 10,
+          "text": "nor bag for your journey, nor two tunics, nor sandals, nor staffs; for a worker is worthy of his food."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 11,
+          "text": "Now whatever city or town you enter, inquire who in it is worthy, and stay there till you go out."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 12,
+          "text": "And when you go into a household, greet it."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 13,
+          "text": "If the household is worthy, let your peace come upon it. But if it is not worthy, let your peace return to you."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 14,
+          "text": "And whoever will not receive you nor hear your words, when you depart from that house or city, shake off the dust from your feet."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 15,
+          "text": "Assuredly, I say to you, it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city!"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 16,
+          "text": "\u201cBehold, I send you out as sheep in the midst of wolves. Therefore be wise as serpents and harmless as doves."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 17,
+          "text": "But beware of men, for they will deliver you up to councils and scourge you in their synagogues."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 18,
+          "text": "You will be brought before governors and kings for My sake, as a testimony to them and to the Gentiles."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 19,
+          "text": "But when they deliver you up, do not worry about how or what you should speak. For it will be given to you in that hour what you should speak;"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 20,
+          "text": "for it is not you who speak, but the Spirit of your Father who speaks in you."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 21,
+          "text": "Now brother will deliver up brother to death, and a father his child; and children will rise up against parents and cause them to be put to death."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 22,
+          "text": "And you will be hated by all for My name\u2019s sake. But he who endures to the end will be saved."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 23,
+          "text": "When they persecute you in this city, flee to another. For assuredly, I say to you, you will not have gone through the cities of Israel before the Son of Man comes."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 24,
+          "text": "A disciple is not above his teacher, nor a servant above his master."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 25,
+          "text": "It is enough for a disciple that he be like his teacher, and a servant like his master. If they have called the master of the house Beelzebub, how much more will they call those of his household!"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 26,
+          "text": "Therefore do not fear them. For there is nothing covered that will not be revealed, and hidden that will not be known."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 27,
+          "text": "\u201cWhatever I tell you in the dark, speak in the light; and what you hear in the ear, preach on the housetops."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 28,
+          "text": "And do not fear those who kill the body but cannot kill the soul. But rather fear Him who is able to destroy both soul and body in hell."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 29,
+          "text": "Are not two sparrows sold for a copper coin? And not one of them falls to the ground apart from your Father\u2019s will."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 30,
+          "text": "But the very hairs of your head are all numbered."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 31,
+          "text": "Do not fear therefore; you are of more value than many sparrows."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 32,
+          "text": "\u201cTherefore whoever confesses Me before men, him I will also confess before My Father who is in heaven."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 33,
+          "text": "But whoever denies Me before men, him I will also deny before My Father who is in heaven."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 34,
+          "text": "\u201cDo not think that I came to bring peace on earth. I did not come to bring peace but a sword."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 35,
+          "text": "For I have come to \u2018set a man against his father, a daughter against her mother, and a daughter-in-law against her mother-in-law\u2019;"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 36,
+          "text": "and \u2018a man\u2019s enemies will be those of his own household.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 37,
+          "text": "He who loves father or mother more than Me is not worthy of Me. And he who loves son or daughter more than Me is not worthy of Me."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 38,
+          "text": "And he who does not take his cross and follow after Me is not worthy of Me."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 39,
+          "text": "He who finds his life will lose it, and he who loses his life for My sake will find it."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 40,
+          "text": "\u201cHe who receives you receives Me, and he who receives Me receives Him who sent Me."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 41,
+          "text": "He who receives a prophet in the name of a prophet shall receive a prophet\u2019s reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man\u2019s reward."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 10,
+          "verse": 42,
+          "text": "And whoever gives one of these little ones only a cup of cold water in the name of a disciple, assuredly, I say to you, he shall by no means lose his reward.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-02T04:00:21.705363"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Ezra 10",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 1,
+          "text": "Now while Ezra was praying, and while he was confessing, weeping, and bowing down before the house of God, a very large assembly of men, women, and children gathered to him from Israel; for the people wept very bitterly."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 2,
+          "text": "And Shechaniah the son of Jehiel, one of the sons of Elam, spoke up and said to Ezra, \u201cWe have trespassed against our God, and have taken pagan wives from the peoples of the land; yet now there is hope in Israel in spite of this."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 3,
+          "text": "Now therefore, let us make a covenant with our God to put away all these wives and those who have been born to them, according to the advice of my master and of those who tremble at the commandment of our God; and let it be done according to the law."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 4,
+          "text": "Arise, for this matter is your responsibility. We also are with you. Be of good courage, and do it.\u201d"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 5,
+          "text": "Then Ezra arose, and made the leaders of the priests, the Levites, and all Israel swear an oath that they would do according to this word. So they swore an oath."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 6,
+          "text": "Then Ezra rose up from before the house of God, and went into the chamber of Jehohanan the son of Eliashib; and when he came there, he ate no bread and drank no water, for he mourned because of the guilt of those from the captivity."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 7,
+          "text": "And they issued a proclamation throughout Judah and Jerusalem to all the descendants of the captivity, that they must gather at Jerusalem,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 8,
+          "text": "and that whoever would not come within three days, according to the instructions of the leaders and elders, all his property would be confiscated, and he himself would be separated from the assembly of those from the captivity."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 9,
+          "text": "So all the men of Judah and Benjamin gathered at Jerusalem within three days. It was the ninth month, on the twentieth of the month; and all the people sat in the open square of the house of God, trembling because of this matter and because of heavy rain."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 10,
+          "text": "Then Ezra the priest stood up and said to them, \u201cYou have transgressed and have taken pagan wives, adding to the guilt of Israel."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 11,
+          "text": "Now therefore, make confession to the L\u1d0f\u0280\u1d05 God of your fathers, and do His will; separate yourselves from the peoples of the land, and from the pagan wives.\u201d"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 12,
+          "text": "Then all the assembly answered and said with a loud voice, \u201cYes! As you have said, so we must do."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 13,
+          "text": "But there are many people; it is the season for heavy rain, and we are not able to stand outside. Nor is this the work of one or two days, for there are many of us who have transgressed in this matter."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 14,
+          "text": "Please, let the leaders of our entire assembly stand; and let all those in our cities who have taken pagan wives come at appointed times, together with the elders and judges of their cities, until the fierce wrath of our God is turned away from us in this matter.\u201d"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 15,
+          "text": "Only Jonathan the son of Asahel and Jahaziah the son of Tikvah opposed this, and Meshullam and Shabbethai the Levite gave them support."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 16,
+          "text": "Then the descendants of the captivity did so. And Ezra the priest, with certain heads of the fathers\u2019 households, were set apart by the fathers\u2019 households, each of them by name; and they sat down on the first day of the tenth month to examine the matter."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 17,
+          "text": "By the first day of the first month they finished questioning all the men who had taken pagan wives."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 18,
+          "text": "And among the sons of the priests who had taken pagan wives the following were found of the sons of Jeshua the son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 19,
+          "text": "And they gave their promise that they would put away their wives; and being guilty, they presented a ram of the flock as their trespass offering."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 20,
+          "text": "Also of the sons of Immer: Hanani and Zebadiah;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 21,
+          "text": "of the sons of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 22,
+          "text": "of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 23,
+          "text": "Also of the Levites: Jozabad, Shimei, Kelaiah (the same is Kelita), Pethahiah, Judah, and Eliezer."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 24,
+          "text": "Also of the singers: Eliashib; and of the gatekeepers: Shallum, Telem, and Uri."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 25,
+          "text": "And others of Israel: of the sons of Parosh: Ramiah, Jeziah, Malchiah, Mijamin, Eleazar, Malchijah, and Benaiah;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 26,
+          "text": "of the sons of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Eliah;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 27,
+          "text": "of the sons of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 28,
+          "text": "of the sons of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 29,
+          "text": "of the sons of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Ramoth;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 30,
+          "text": "of the sons of Pahath-Moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 31,
+          "text": "of the sons of Harim: Eliezer, Ishijah, Malchijah, Shemaiah, Shimeon,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 32,
+          "text": "Benjamin, Malluch, and Shemariah;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 33,
+          "text": "of the sons of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 34,
+          "text": "of the sons of Bani: Maadai, Amram, Uel,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 35,
+          "text": "Benaiah, Bedeiah, Cheluh,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 36,
+          "text": "Vaniah, Meremoth, Eliashib,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 37,
+          "text": "Mattaniah, Mattenai, Jaasai,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 38,
+          "text": "Bani, Binnui, Shimei,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 39,
+          "text": "Shelemiah, Nathan, Adaiah,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 40,
+          "text": "Machnadebai, Shashai, Sharai,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 41,
+          "text": "Azarel, Shelemiah, Shemariah,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 42,
+          "text": "Shallum, Amariah, and Joseph;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 43,
+          "text": "of the sons of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 10,
+          "verse": 44,
+          "text": "All these had taken pagan wives, and some of them had wives by whom they had children."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-02T04:00:23.183855"
+    },
+    {
+      "reference": "Acts 10",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 1,
+          "text": "There was a certain man in Caesarea called Cornelius, a centurion of what was called the Italian Regiment,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 2,
+          "text": "a devout man and one who feared God with all his household, who gave alms generously to the people, and prayed to God always."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 3,
+          "text": "About the ninth hour of the day he saw clearly in a vision an angel of God coming in and saying to him, \u201cCornelius!\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 4,
+          "text": "And when he observed him, he was afraid, and said, \u201cWhat is it, lord?\u201d So he said to him, \u201cYour prayers and your alms have come up for a memorial before God."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 5,
+          "text": "Now send men to Joppa, and send for Simon whose surname is Peter."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 6,
+          "text": "He is lodging with Simon, a tanner, whose house is by the sea. He will tell you what you must do.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 7,
+          "text": "And when the angel who spoke to him had departed, Cornelius called two of his household servants and a devout soldier from among those who waited on him continually."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 8,
+          "text": "So when he had explained all these things to them, he sent them to Joppa."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 9,
+          "text": "The next day, as they went on their journey and drew near the city, Peter went up on the housetop to pray, about the sixth hour."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 10,
+          "text": "Then he became very hungry and wanted to eat; but while they made ready, he fell into a trance"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 11,
+          "text": "and saw heaven opened and an object like a great sheet bound at the four corners, descending to him and let down to the earth."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 12,
+          "text": "In it were all kinds of four-footed animals of the earth, wild beasts, creeping things, and birds of the air."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 13,
+          "text": "And a voice came to him, \u201cRise, Peter; kill and eat.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 14,
+          "text": "But Peter said, \u201cNot so, Lord! For I have never eaten anything common or unclean.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 15,
+          "text": "And a voice spoke to him again the second time, \u201cWhat God has cleansed you must not call common.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 16,
+          "text": "This was done three times. And the object was taken up into heaven again."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 17,
+          "text": "Now while Peter wondered within himself what this vision which he had seen meant, behold, the men who had been sent from Cornelius had made inquiry for Simon\u2019s house, and stood before the gate."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 18,
+          "text": "And they called and asked whether Simon, whose surname was Peter, was lodging there."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 19,
+          "text": "While Peter thought about the vision, the Spirit said to him, \u201cBehold, three men are seeking you."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 20,
+          "text": "Arise therefore, go down and go with them, doubting nothing; for I have sent them.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 21,
+          "text": "Then Peter went down to the men who had been sent to him from Cornelius, and said, \u201cYes, I am he whom you seek. For what reason have you come?\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 22,
+          "text": "And they said, \u201cCornelius the centurion, a just man, one who fears God and has a good reputation among all the nation of the Jews, was divinely instructed by a holy angel to summon you to his house, and to hear words from you.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 23,
+          "text": "Then he invited them in and lodged them. On the next day Peter went away with them, and some brethren from Joppa accompanied him."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 24,
+          "text": "And the following day they entered Caesarea. Now Cornelius was waiting for them, and had called together his relatives and close friends."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 25,
+          "text": "As Peter was coming in, Cornelius met him and fell down at his feet and worshiped him."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 26,
+          "text": "But Peter lifted him up, saying, \u201cStand up; I myself am also a man.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 27,
+          "text": "And as he talked with him, he went in and found many who had come together."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 28,
+          "text": "Then he said to them, \u201cYou know how unlawful it is for a Jewish man to keep company with or go to one of another nation. But God has shown me that I should not call any man common or unclean."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 29,
+          "text": "Therefore I came without objection as soon as I was sent for. I ask, then, for what reason have you sent for me?\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 30,
+          "text": "So Cornelius said, \u201cFour days ago I was fasting until this hour; and at the ninth hour I prayed in my house, and behold, a man stood before me in bright clothing,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 31,
+          "text": "and said, \u2018Cornelius, your prayer has been heard, and your alms are remembered in the sight of God."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 32,
+          "text": "Send therefore to Joppa and call Simon here, whose surname is Peter. He is lodging in the house of Simon, a tanner, by the sea. When he comes, he will speak to you.\u2019"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 33,
+          "text": "So I sent to you immediately, and you have done well to come. Now therefore, we are all present before God, to hear all the things commanded you by God.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 34,
+          "text": "Then Peter opened his mouth and said: \u201cIn truth I perceive that God shows no partiality."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 35,
+          "text": "But in every nation whoever fears Him and works righteousness is accepted by Him."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 36,
+          "text": "The word which God sent to the children of Israel, preaching peace through Jesus Christ\u2014He is Lord of all\u2014"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 37,
+          "text": "that word you know, which was proclaimed throughout all Judea, and began from Galilee after the baptism which John preached:"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 38,
+          "text": "how God anointed Jesus of Nazareth with the Holy Spirit and with power, who went about doing good and healing all who were oppressed by the devil, for God was with Him."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 39,
+          "text": "And we are witnesses of all things which He did both in the land of the Jews and in Jerusalem, whom they killed by hanging on a tree."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 40,
+          "text": "Him God raised up on the third day, and showed Him openly,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 41,
+          "text": "not to all the people, but to witnesses chosen before by God, even to us who ate and drank with Him after He arose from the dead."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 42,
+          "text": "And He commanded us to preach to the people, and to testify that it is He who was ordained by God to be Judge of the living and the dead."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 43,
+          "text": "To Him all the prophets witness that, through His name, whoever believes in Him will receive remission of sins.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 44,
+          "text": "While Peter was still speaking these words, the Holy Spirit fell upon all those who heard the word."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 45,
+          "text": "And those of the circumcision who believed were astonished, as many as came with Peter, because the gift of the Holy Spirit had been poured out on the Gentiles also."
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 46,
+          "text": "For they heard them speak with tongues and magnify God. Then Peter answered,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 47,
+          "text": "\u201cCan anyone forbid water, that these should not be baptized who have received the Holy Spirit just as we have?\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 10,
+          "verse": 48,
+          "text": "And he commanded them to be baptized in the name of the Lord. Then they asked him to stay a few days."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-02T04:00:25.703012"
+    }
+  ]
+}

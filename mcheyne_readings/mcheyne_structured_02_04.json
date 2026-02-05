@@ -1,0 +1,785 @@
+{
+  "format_version": "1.0",
+  "date": "02/04",
+  "cached_at": "2026-01-27T04:00:18.452108",
+  "Family": [
+    {
+      "reference": "Genesis 37",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 1,
+          "text": "Now Jacob dwelt in the land where his father was a stranger, in the land of Canaan."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 2,
+          "text": "This is the history of Jacob. Joseph, being seventeen years old, was feeding the flock with his brothers. And the lad was with the sons of Bilhah and the sons of Zilpah, his father\u2019s wives; and Joseph brought a bad report of them to his father."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 3,
+          "text": "Now Israel loved Joseph more than all his children, because he was the son of his old age. Also he made him a tunic of many colors."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 4,
+          "text": "But when his brothers saw that their father loved him more than all his brothers, they hated him and could not speak peaceably to him."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 5,
+          "text": "Now Joseph had a dream, and he told it to his brothers; and they hated him even more."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 6,
+          "text": "So he said to them, \u201cPlease hear this dream which I have dreamed:"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 7,
+          "text": "There we were, binding sheaves in the field. Then behold, my sheaf arose and also stood upright; and indeed your sheaves stood all around and bowed down to my sheaf.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 8,
+          "text": "And his brothers said to him, \u201cShall you indeed reign over us? Or shall you indeed have dominion over us?\u201d So they hated him even more for his dreams and for his words."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 9,
+          "text": "Then he dreamed still another dream and told it to his brothers, and said, \u201cLook, I have dreamed another dream. And this time, the sun, the moon, and the eleven stars bowed down to me.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 10,
+          "text": "So he told it to his father and his brothers; and his father rebuked him and said to him, \u201cWhat is this dream that you have dreamed? Shall your mother and I and your brothers indeed come to bow down to the earth before you?\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 11,
+          "text": "And his brothers envied him, but his father kept the matter in mind."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 12,
+          "text": "Then his brothers went to feed their father\u2019s flock in Shechem."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 13,
+          "text": "And Israel said to Joseph, \u201cAre not your brothers feeding the flock in Shechem? Come, I will send you to them.\u201d So he said to him, \u201cHere I am.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 14,
+          "text": "Then he said to him, \u201cPlease go and see if it is well with your brothers and well with the flocks, and bring back word to me.\u201d So he sent him out of the Valley of Hebron, and he went to Shechem."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 15,
+          "text": "Now a certain man found him, and there he was, wandering in the field. And the man asked him, saying, \u201cWhat are you seeking?\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 16,
+          "text": "So he said, \u201cI am seeking my brothers. Please tell me where they are feeding their flocks.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 17,
+          "text": "And the man said, \u201cThey have departed from here, for I heard them say, \u2018Let us go to Dothan.\u2019 \u201d So Joseph went after his brothers and found them in Dothan."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 18,
+          "text": "Now when they saw him afar off, even before he came near them, they conspired against him to kill him."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 19,
+          "text": "Then they said to one another, \u201cLook, this dreamer is coming!"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 20,
+          "text": "Come therefore, let us now kill him and cast him into some pit; and we shall say, \u2018Some wild beast has devoured him.\u2019 We shall see what will become of his dreams!\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 21,
+          "text": "But Reuben heard it, and he delivered him out of their hands, and said, \u201cLet us not kill him.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 22,
+          "text": "And Reuben said to them, \u201cShed no blood, but cast him into this pit which is in the wilderness, and do not lay a hand on him\u201d\u2014that he might deliver him out of their hands, and bring him back to his father."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 23,
+          "text": "So it came to pass, when Joseph had come to his brothers, that they stripped Joseph of his tunic, the tunic of many colors that was on him."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 24,
+          "text": "Then they took him and cast him into a pit. And the pit was empty; there was no water in it."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 25,
+          "text": "And they sat down to eat a meal. Then they lifted their eyes and looked, and there was a company of Ishmaelites, coming from Gilead with their camels, bearing spices, balm, and myrrh, on their way to carry them down to Egypt."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 26,
+          "text": "So Judah said to his brothers, \u201cWhat profit is there if we kill our brother and conceal his blood?"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 27,
+          "text": "Come and let us sell him to the Ishmaelites, and let not our hand be upon him, for he is our brother and our flesh.\u201d And his brothers listened."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 28,
+          "text": "Then Midianite traders passed by; so the brothers pulled Joseph up and lifted him out of the pit, and sold him to the Ishmaelites for twenty shekels of silver. And they took Joseph to Egypt."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 29,
+          "text": "Then Reuben returned to the pit, and indeed Joseph was not in the pit; and he tore his clothes."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 30,
+          "text": "And he returned to his brothers and said, \u201cThe lad is no more; and I, where shall I go?\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 31,
+          "text": "So they took Joseph\u2019s tunic, killed a kid of the goats, and dipped the tunic in the blood."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 32,
+          "text": "Then they sent the tunic of many colors, and they brought it to their father and said, \u201cWe have found this. Do you know whether it is your son\u2019s tunic or not?\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 33,
+          "text": "And he recognized it and said, \u201cIt is my son\u2019s tunic. A wild beast has devoured him. Without doubt Joseph is torn to pieces.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 34,
+          "text": "Then Jacob tore his clothes, put sackcloth on his waist, and mourned for his son many days."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 35,
+          "text": "And all his sons and all his daughters arose to comfort him; but he refused to be comforted, and he said, \u201cFor I shall go down into the grave to my son in mourning.\u201d Thus his father wept for him."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 37,
+          "verse": 36,
+          "text": "Now the Midianites had sold him in Egypt to Potiphar, an officer of Pharaoh and captain of the guard."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-27T04:00:19.891531"
+    },
+    {
+      "reference": "Mark 7",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 1,
+          "text": "Then the Pharisees and some of the scribes came together to Him, having come from Jerusalem."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 2,
+          "text": "Now when they saw some of His disciples eat bread with defiled, that is, with unwashed hands, they found fault."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 3,
+          "text": "For the Pharisees and all the Jews do not eat unless they wash their hands in a special way, holding the tradition of the elders."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 4,
+          "text": "When they come from the marketplace, they do not eat unless they wash. And there are many other things which they have received and hold, like the washing of cups, pitchers, copper vessels, and couches."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 5,
+          "text": "Then the Pharisees and scribes asked Him, \u201cWhy do Your disciples not walk according to the tradition of the elders, but eat bread with unwashed hands?\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 6,
+          "text": "He answered and said to them, \u201cWell did Isaiah prophesy of you hypocrites, as it is written: \u2018This people honors Me with their lips, But their heart is far from Me."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 7,
+          "text": "And in vain they worship Me, Teaching as doctrines the commandments of men.\u2019"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 8,
+          "text": "\u201cFor laying aside the commandment of God, you hold the tradition of men\u2014the washing of pitchers and cups, and many other such things you do.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 9,
+          "text": "He said to them, \u201cAll too well you reject the commandment of God, that you may keep your tradition."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 10,
+          "text": "For Moses said, \u2018Honor your father and your mother\u2019; and, \u2018He who curses father or mother, let him be put to death.\u2019"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 11,
+          "text": "But you say, \u2018If a man says to his father or mother, \u201cWhatever profit you might have received from me is Corban\u201d\u2014\u2019 (that is, a gift to God),"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 12,
+          "text": "then you no longer let him do anything for his father or his mother,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 13,
+          "text": "making the word of God of no effect through your tradition which you have handed down. And many such things you do.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 14,
+          "text": "When He had called all the multitude to Himself, He said to them, \u201cHear Me, everyone, and understand:"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 15,
+          "text": "There is nothing that enters a man from outside which can defile him; but the things which come out of him, those are the things that defile a man."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 16,
+          "text": "If anyone has ears to hear, let him hear!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 17,
+          "text": "When He had entered a house away from the crowd, His disciples asked Him concerning the parable."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 18,
+          "text": "So He said to them, \u201cAre you thus without understanding also? Do you not perceive that whatever enters a man from outside cannot defile him,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 19,
+          "text": "because it does not enter his heart but his stomach, and is eliminated, thus purifying all foods?\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 20,
+          "text": "And He said, \u201cWhat comes out of a man, that defiles a man."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 21,
+          "text": "For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 22,
+          "text": "thefts, covetousness, wickedness, deceit, lewdness, an evil eye, blasphemy, pride, foolishness."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 23,
+          "text": "All these evil things come from within and defile a man.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 24,
+          "text": "From there He arose and went to the region of Tyre and Sidon. And He entered a house and wanted no one to know it, but He could not be hidden."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 25,
+          "text": "For a woman whose young daughter had an unclean spirit heard about Him, and she came and fell at His feet."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 26,
+          "text": "The woman was a Greek, a Syro-Phoenician by birth, and she kept asking Him to cast the demon out of her daughter."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 27,
+          "text": "But Jesus said to her, \u201cLet the children be filled first, for it is not good to take the children\u2019s bread and throw it to the little dogs.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 28,
+          "text": "And she answered and said to Him, \u201cYes, Lord, yet even the little dogs under the table eat from the children\u2019s crumbs.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 29,
+          "text": "Then He said to her, \u201cFor this saying go your way; the demon has gone out of your daughter.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 30,
+          "text": "And when she had come to her house, she found the demon gone out, and her daughter lying on the bed."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 31,
+          "text": "Again, departing from the region of Tyre and Sidon, He came through the midst of the region of Decapolis to the Sea of Galilee."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 32,
+          "text": "Then they brought to Him one who was deaf and had an impediment in his speech, and they begged Him to put His hand on him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 33,
+          "text": "And He took him aside from the multitude, and put His fingers in his ears, and He spat and touched his tongue."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 34,
+          "text": "Then, looking up to heaven, He sighed, and said to him, \u201cEphphatha,\u201d that is, \u201cBe opened.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 35,
+          "text": "Immediately his ears were opened, and the impediment of his tongue was loosed, and he spoke plainly."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 36,
+          "text": "Then He commanded them that they should tell no one; but the more He commanded them, the more widely they proclaimed it."
+        },
+        {
+          "book": "Mark",
+          "chapter": 7,
+          "verse": 37,
+          "text": "And they were astonished beyond measure, saying, \u201cHe has done all things well. He makes both the deaf to hear and the mute to speak.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-27T04:00:21.393022"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Job 3",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 1,
+          "text": "After this Job opened his mouth and cursed the day of his birth."
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 2,
+          "text": "And Job spoke, and said:"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 3,
+          "text": "\u201cMay the day perish on which I was born, And the night in which it was said, \u2018A male child is conceived.\u2019"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 4,
+          "text": "May that day be darkness; May God above not seek it, Nor the light shine upon it."
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 5,
+          "text": "May darkness and the shadow of death claim it; May a cloud settle on it; May the blackness of the day terrify it."
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 6,
+          "text": "As for that night, may darkness seize it; May it not rejoice among the days of the year, May it not come into the number of the months."
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Oh, may that night be barren! May no joyful shout come into it!"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 8,
+          "text": "May those curse it who curse the day, Those who are ready to arouse Leviathan."
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 9,
+          "text": "May the stars of its morning be dark; May it look for light, but have none, And not see the dawning of the day;"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 10,
+          "text": "Because it did not shut up the doors of my mother\u2019s womb, Nor hide sorrow from my eyes."
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 11,
+          "text": "\u201cWhy did I not die at birth? Why did I not perish when I came from the womb?"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Why did the knees receive me? Or why the breasts, that I should nurse?"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 13,
+          "text": "For now I would have lain still and been quiet, I would have been asleep; Then I would have been at rest"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 14,
+          "text": "With kings and counselors of the earth, Who built ruins for themselves,"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 15,
+          "text": "Or with princes who had gold, Who filled their houses with silver;"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 16,
+          "text": "Or why was I not hidden like a stillborn child, Like infants who never saw light?"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 17,
+          "text": "There the wicked cease from troubling, And there the weary are at rest."
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 18,
+          "text": "There the prisoners rest together; They do not hear the voice of the oppressor."
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 19,
+          "text": "The small and great are there, And the servant is free from his master."
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 20,
+          "text": "\u201cWhy is light given to him who is in misery, And life to the bitter of soul,"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 21,
+          "text": "Who long for death, but it does not come, And search for it more than hidden treasures;"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 22,
+          "text": "Who rejoice exceedingly, And are glad when they can find the grave?"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 23,
+          "text": "Why is light given to a man whose way is hidden, And whom God has hedged in?"
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 24,
+          "text": "For my sighing comes before I eat, And my groanings pour out like water."
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 25,
+          "text": "For the thing I greatly feared has come upon me, And what I dreaded has happened to me."
+        },
+        {
+          "book": "Job",
+          "chapter": 3,
+          "verse": 26,
+          "text": "I am not at ease, nor am I quiet; I have no rest, for trouble comes.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-27T04:00:22.711123"
+    },
+    {
+      "reference": "Romans 7",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 1,
+          "text": "Or do you not know, brethren (for I speak to those who know the law), that the law has dominion over a man as long as he lives?"
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 2,
+          "text": "For the woman who has a husband is bound by the law to her husband as long as he lives. But if the husband dies, she is released from the law of her husband."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 3,
+          "text": "So then if, while her husband lives, she marries another man, she will be called an adulteress; but if her husband dies, she is free from that law, so that she is no adulteress, though she has married another man."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 4,
+          "text": "Therefore, my brethren, you also have become dead to the law through the body of Christ, that you may be married to another\u2014to Him who was raised from the dead, that we should bear fruit to God."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 5,
+          "text": "For when we were in the flesh, the sinful passions which were aroused by the law were at work in our members to bear fruit to death."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 6,
+          "text": "But now we have been delivered from the law, having died to what we were held by, so that we should serve in the newness of the Spirit and not in the oldness of the letter."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 7,
+          "text": "What shall we say then? Is the law sin? Certainly not! On the contrary, I would not have known sin except through the law. For I would not have known covetousness unless the law had said, \u201cYou shall not covet.\u201d"
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 8,
+          "text": "But sin, taking opportunity by the commandment, produced in me all manner of evil desire. For apart from the law sin was dead."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 9,
+          "text": "I was alive once without the law, but when the commandment came, sin revived and I died."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 10,
+          "text": "And the commandment, which was to bring life, I found to bring death."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 11,
+          "text": "For sin, taking occasion by the commandment, deceived me, and by it killed me."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 12,
+          "text": "Therefore the law is holy, and the commandment holy and just and good."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 13,
+          "text": "Has then what is good become death to me? Certainly not! But sin, that it might appear sin, was producing death in me through what is good, so that sin through the commandment might become exceedingly sinful."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 14,
+          "text": "For we know that the law is spiritual, but I am carnal, sold under sin."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 15,
+          "text": "For what I am doing, I do not understand. For what I will to do, that I do not practice; but what I hate, that I do."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 16,
+          "text": "If, then, I do what I will not to do, I agree with the law that it is good."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 17,
+          "text": "But now, it is no longer I who do it, but sin that dwells in me."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 18,
+          "text": "For I know that in me (that is, in my flesh) nothing good dwells; for to will is present with me, but how to perform what is good I do not find."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 19,
+          "text": "For the good that I will to do, I do not do; but the evil I will not to do, that I practice."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 20,
+          "text": "Now if I do what I will not to do, it is no longer I who do it, but sin that dwells in me."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 21,
+          "text": "I find then a law, that evil is present with me, the one who wills to do good."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 22,
+          "text": "For I delight in the law of God according to the inward man."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 23,
+          "text": "But I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members."
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 24,
+          "text": "O wretched man that I am! Who will deliver me from this body of death?"
+        },
+        {
+          "book": "Romans",
+          "chapter": 7,
+          "verse": 25,
+          "text": "I thank God\u2014through Jesus Christ our Lord! So then, with the mind I myself serve the law of God, but with the flesh the law of sin."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-27T04:00:25.050834"
+    }
+  ]
+}

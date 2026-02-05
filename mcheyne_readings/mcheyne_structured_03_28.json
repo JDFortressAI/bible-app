@@ -1,0 +1,917 @@
+{
+  "format_version": "1.0",
+  "date": "03/28",
+  "cached_at": "2026-02-05T17:12:06.665186",
+  "Family": [
+    {
+      "reference": "Exodus 39",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 1,
+          "text": "1 Of the blue, purple, and scarlet thread they made garments of ministry, for ministering in the holy place, and made the holy garments for Aaron, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 2,
+          "text": "2 He made the ephod of gold, blue, purple, and scarlet thread, and of fine woven linen."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 3,
+          "text": "3 And they beat the gold into thin sheets and cut it into threads, to work it in with the blue, purple, and scarlet thread and the fine linen, into artistic designs."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 4,
+          "text": "4 They made shoulder straps for it to couple it together; it was coupled together at its two edges."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 5,
+          "text": "5 And the intricately woven band of his ephod that was on it was of the same workmanship, woven of gold, blue, purple, and scarlet thread, and of fine woven linen, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 6,
+          "text": "6 And they set onyx stones, enclosed in settings of gold; they were engraved, as signets are engraved, with the names of the sons of Israel."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 7,
+          "text": "7 He put them on the shoulders of the ephod as memorial stones for the sons of Israel, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 8,
+          "text": "8 And he made the breastplate, artistically woven like the workmanship of the ephod, of gold, blue, purple, and scarlet thread, and of fine woven linen."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 9,
+          "text": "9 They made the breastplate square by doubling it; a span was its length and a span its width when doubled."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 10,
+          "text": "10 And they set in it four rows of stones: a row with a sardius, a topaz, and an emerald was the first row;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 11,
+          "text": "11 the second row, a turquoise, a sapphire, and a diamond;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 12,
+          "text": "12 the third row, a jacinth, an agate, and an amethyst;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 13,
+          "text": "13 the fourth row, a beryl, an onyx, and a jasper. They were enclosed in settings of gold in their mountings."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 14,
+          "text": "14 There were twelve stones according to the names of the sons of Israel: according to their names, engraved like a signet, each one with its own name according to the twelve tribes."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 15,
+          "text": "15 And they made chains for the breastplate at the ends, like braided cords of pure gold."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 16,
+          "text": "16 They also made two settings of gold and two gold rings, and put the two rings on the two ends of the breastplate."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 17,
+          "text": "17 And they put the two braided chains of gold in the two rings on the ends of the breastplate."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 18,
+          "text": "18 The two ends of the two braided chains they fastened in the two settings, and put them on the shoulder straps of the ephod in the front."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 19,
+          "text": "19 And they made two rings of gold and put them on the two ends of the breastplate, on the edge of it, which was on the inward side of the ephod."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 20,
+          "text": "20 They made two other gold rings and put them on the two shoulder straps, underneath the ephod toward its front, right at the seam above the intricately woven band of the ephod."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 21,
+          "text": "21 And they bound the breastplate by means of its rings to the rings of the ephod with a blue cord, so that it would be above the intricately woven band of the ephod, and that the breastplate would not come loose from the ephod, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 22,
+          "text": "22 He made the robe of the ephod of woven work, all of blue."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 23,
+          "text": "23 And there was an opening in the middle of the robe, like the opening in a coat of mail, with a woven binding all around the opening, so that it would not tear."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 24,
+          "text": "24 They made on the hem of the robe pomegranates of blue, purple, and scarlet, and of fine woven linen."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 25,
+          "text": "25 And they made bells of pure gold, and put the bells between the pomegranates on the hem of the robe all around between the pomegranates:"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 26,
+          "text": "26 a bell and a pomegranate, a bell and a pomegranate, all around the hem of the robe to minister in, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 27,
+          "text": "27 They made tunics, artistically woven of fine linen, for Aaron and his sons,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 28,
+          "text": "28 a turban of fine linen, exquisite hats of fine linen, short trousers of fine woven linen,"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 29,
+          "text": "29 and a sash of fine woven linen with blue, purple, and scarlet thread, made by a weaver, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 30,
+          "text": "30 Then they made the plate of the holy crown of pure gold, and wrote on it an inscription like the engraving of a signet: HOLINESS TO THE LORD."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 31,
+          "text": "31 And they tied to it a blue cord, to fasten it above on the turban, as the L\u1d0f\u0280\u1d05 had commanded Moses."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 32,
+          "text": "32 Thus all the work of the tabernacle of the tent of meeting was finished. And the children of Israel did according to all that the L\u1d0f\u0280\u1d05 had commanded Moses; so they did."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 33,
+          "text": "33 And they brought the tabernacle to Moses, the tent and all its furnishings: its clasps, its boards, its bars, its pillars, and its sockets;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 34,
+          "text": "34 the covering of ram skins dyed red, the covering of badger skins, and the veil of the covering;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 35,
+          "text": "35 the ark of the Testimony with its poles, and the mercy seat;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 36,
+          "text": "36 the table, all its utensils, and the showbread;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 37,
+          "text": "37 the pure gold lampstand with its lamps (the lamps set in order), all its utensils, and the oil for light;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 38,
+          "text": "38 the gold altar, the anointing oil, and the sweet incense; the screen for the tabernacle door;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 39,
+          "text": "39 the bronze altar, its grate of bronze, its poles, and all its utensils; the laver with its base;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 40,
+          "text": "40 the hangings of the court, its pillars and its sockets, the screen for the court gate, its cords, and its pegs; all the utensils for the service of the tabernacle, for the tent of meeting;"
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 41,
+          "text": "41 and the garments of ministry, to minister in the holy place: the holy garments for Aaron the priest, and his sons\u2019 garments, to minister as priests."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 42,
+          "text": "42 According to all that the L\u1d0f\u0280\u1d05 had commanded Moses, so the children of Israel did all the work."
+        },
+        {
+          "book": "Exodus",
+          "chapter": 39,
+          "verse": 43,
+          "text": "43 Then Moses looked over all the work, and indeed they had done it; as the L\u1d0f\u0280\u1d05 had commanded, just so they had done it. And Moses blessed them."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:07.210530"
+    },
+    {
+      "reference": "John 18",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 1,
+          "text": "1 When Jesus had spoken these words, He went out with His disciples over the Brook Kidron, where there was a garden, which He and His disciples entered."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 2,
+          "text": "2 And Judas, who betrayed Him, also knew the place; for Jesus often met there with His disciples."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 3,
+          "text": "3 Then Judas, having received a detachment of troops, and officers from the chief priests and Pharisees, came there with lanterns, torches, and weapons."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 4,
+          "text": "4 Jesus therefore, knowing all things that would come upon Him, went forward and said to them, \u201cWhom are you seeking?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 5,
+          "text": "5 They answered Him, \u201cJesus of Nazareth.\u201d Jesus said to them, \u201cI am He.\u201d And Judas, who betrayed Him, also stood with them."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 6,
+          "text": "6 Now when He said to them, \u201cI am He,\u201d they drew back and fell to the ground."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 7,
+          "text": "7 Then He asked them again, \u201cWhom are you seeking?\u201d And they said, \u201cJesus of Nazareth.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 8,
+          "text": "8 Jesus answered, \u201cI have told you that I am He. Therefore, if you seek Me, let these go their way,\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 9,
+          "text": "9 that the saying might be fulfilled which He spoke, \u201cOf those whom You gave Me I have lost none.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 10,
+          "text": "10 Then Simon Peter, having a sword, drew it and struck the high priest\u2019s servant, and cut off his right ear. The servant\u2019s name was Malchus."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 11,
+          "text": "11 So Jesus said to Peter, \u201cPut your sword into the sheath. Shall I not drink the cup which My Father has given Me?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 12,
+          "text": "12 Then the detachment of troops and the captain and the officers of the Jews arrested Jesus and bound Him."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 13,
+          "text": "13 And they led Him away to Annas first, for he was the father-in-law of Caiaphas who was high priest that year."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 14,
+          "text": "14 Now it was Caiaphas who advised the Jews that it was expedient that one man should die for the people."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 15,
+          "text": "15 And Simon Peter followed Jesus, and so did another disciple. Now that disciple was known to the high priest, and went with Jesus into the courtyard of the high priest."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 16,
+          "text": "16 But Peter stood at the door outside. Then the other disciple, who was known to the high priest, went out and spoke to her who kept the door, and brought Peter in."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 17,
+          "text": "17 Then the servant girl who kept the door said to Peter, \u201cYou are not also one of this Man\u2019s disciples, are you?\u201d He said, \u201cI am not.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 18,
+          "text": "18 Now the servants and officers who had made a fire of coals stood there, for it was cold, and they warmed themselves. And Peter stood with them and warmed himself."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 19,
+          "text": "19 The high priest then asked Jesus about His disciples and His doctrine."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 20,
+          "text": "20 Jesus answered him, \u201cI spoke openly to the world. I always taught in synagogues and in the temple, where the Jews always meet, and in secret I have said nothing."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 21,
+          "text": "21 Why do you ask Me? Ask those who have heard Me what I said to them. Indeed they know what I said.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 22,
+          "text": "22 And when He had said these things, one of the officers who stood by struck Jesus with the palm of his hand, saying, \u201cDo You answer the high priest like that?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 23,
+          "text": "23 Jesus answered him, \u201cIf I have spoken evil, bear witness of the evil; but if well, why do you strike Me?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 24,
+          "text": "24 Then Annas sent Him bound to Caiaphas the high priest."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 25,
+          "text": "25 Now Simon Peter stood and warmed himself. Therefore they said to him, \u201cYou are not also one of His disciples, are you?\u201d He denied it and said, \u201cI am not!\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 26,
+          "text": "26 One of the servants of the high priest, a relative of him whose ear Peter cut off, said, \u201cDid I not see you in the garden with Him?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 27,
+          "text": "27 Peter then denied again; and immediately a rooster crowed."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 28,
+          "text": "28 Then they led Jesus from Caiaphas to the Praetorium, and it was early morning. But they themselves did not go into the Praetorium, lest they should be defiled, but that they might eat the Passover."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 29,
+          "text": "29 Pilate then went out to them and said, \u201cWhat accusation do you bring against this Man?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 30,
+          "text": "30 They answered and said to him, \u201cIf He were not an evildoer, we would not have delivered Him up to you.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 31,
+          "text": "31 Then Pilate said to them, \u201cYou take Him and judge Him according to your law.\u201d Therefore the Jews said to him, \u201cIt is not lawful for us to put anyone to death,\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 32,
+          "text": "32 that the saying of Jesus might be fulfilled which He spoke, signifying by what death He would die."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 33,
+          "text": "33 Then Pilate entered the Praetorium again, called Jesus, and said to Him, \u201cAre You the King of the Jews?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 34,
+          "text": "34 Jesus answered him, \u201cAre you speaking for yourself about this, or did others tell you this concerning Me?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 35,
+          "text": "35 Pilate answered, \u201cAm I a Jew? Your own nation and the chief priests have delivered You to me. What have You done?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 36,
+          "text": "36 Jesus answered, \u201cMy kingdom is not of this world. If My kingdom were of this world, My servants would fight, so that I should not be delivered to the Jews; but now My kingdom is not from here.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 37,
+          "text": "37 Pilate therefore said to Him, \u201cAre You a king then?\u201d Jesus answered, \u201cYou say rightly that I am a king. For this cause I was born, and for this cause I have come into the world, that I should bear witness to the truth. Everyone who is of the truth hears My voice.\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 38,
+          "text": "38 Pilate said to Him, \u201cWhat is truth?\u201d And when he had said this, he went out again to the Jews, and said to them, \u201cI find no fault in Him at all."
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 39,
+          "text": "39 \u201cBut you have a custom that I should release someone to you at the Passover. Do you therefore want me to release to you the King of the Jews?\u201d"
+        },
+        {
+          "book": "John",
+          "chapter": 18,
+          "verse": 40,
+          "text": "40 Then they all cried again, saying, \u201cNot this Man, but Barabbas!\u201d Now Barabbas was a robber."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:08.016434"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Proverbs 15",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 1,
+          "text": "1 A soft answer turns away wrath, But a harsh word stirs up anger."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 2,
+          "text": "2 The tongue of the wise uses knowledge rightly, But the mouth of fools pours forth foolishness."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 3,
+          "text": "3 The eyes of the L\u1d0f\u0280\u1d05 are in every place, Keeping watch on the evil and the good."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 4,
+          "text": "4 A wholesome tongue is a tree of life, But perverseness in it breaks the spirit."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 5,
+          "text": "5 A fool despises his father\u2019s instruction, But he who receives correction is prudent."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 6,
+          "text": "6 In the house of the righteous there is much treasure, But in the revenue of the wicked is trouble."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 7,
+          "text": "7 The lips of the wise disperse knowledge, But the heart of the fool does not do so."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 8,
+          "text": "8 The sacrifice of the wicked is an abomination to the L\u1d0f\u0280\u1d05, But the prayer of the upright is His delight."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 9,
+          "text": "9 The way of the wicked is an abomination to the L\u1d0f\u0280\u1d05, But He loves him who follows righteousness."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 10,
+          "text": "10 Harsh discipline is for him who forsakes the way, And he who hates correction will die."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 11,
+          "text": "11 Hell and Destruction are before the L\u1d0f\u0280\u1d05; So how much more the hearts of the sons of men."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 12,
+          "text": "12 A scoffer does not love one who corrects him, Nor will he go to the wise."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 13,
+          "text": "13 A merry heart makes a cheerful countenance, But by sorrow of the heart the spirit is broken."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 14,
+          "text": "14 The heart of him who has understanding seeks knowledge, But the mouth of fools feeds on foolishness."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 15,
+          "text": "15 All the days of the afflicted are evil, But he who is of a merry heart has a continual feast."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 16,
+          "text": "16 Better is a little with the fear of the L\u1d0f\u0280\u1d05, Than great treasure with trouble."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 17,
+          "text": "17 Better is a dinner of herbs where love is, Than a fatted calf with hatred."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 18,
+          "text": "18 A wrathful man stirs up strife, But he who is slow to anger allays contention."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 19,
+          "text": "19 The way of the lazy man is like a hedge of thorns, But the way of the upright is a highway."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 20,
+          "text": "20 A wise son makes a father glad, But a foolish man despises his mother."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 21,
+          "text": "21 Folly is joy to him who is destitute of discernment, But a man of understanding walks uprightly."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 22,
+          "text": "22 Without counsel, plans go awry, But in the multitude of counselors they are established."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 23,
+          "text": "23 A man has joy by the answer of his mouth, And a word spoken in due season, how good it is!"
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 24,
+          "text": "24 The way of life winds upward for the wise, That he may turn away from hell below."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 25,
+          "text": "25 The L\u1d0f\u0280\u1d05 will destroy the house of the proud, But He will establish the boundary of the widow."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 26,
+          "text": "26 The thoughts of the wicked are an abomination to the L\u1d0f\u0280\u1d05, But the words of the pure are pleasant."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 27,
+          "text": "27 He who is greedy for gain troubles his own house, But he who hates bribes will live."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 28,
+          "text": "28 The heart of the righteous studies how to answer, But the mouth of the wicked pours forth evil."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 29,
+          "text": "29 The L\u1d0f\u0280\u1d05 is far from the wicked, But He hears the prayer of the righteous."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 30,
+          "text": "30 The light of the eyes rejoices the heart, And a good report makes the bones healthy."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 31,
+          "text": "31 The ear that hears the rebukes of life Will abide among the wise."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 32,
+          "text": "32 He who disdains instruction despises his own soul, But he who heeds rebuke gets understanding."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 15,
+          "verse": 33,
+          "text": "33 The fear of the L\u1d0f\u0280\u1d05 is the instruction of wisdom, And before honor is humility."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:09.035434"
+    },
+    {
+      "reference": "Philippians 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 1,
+          "text": "1 Therefore if there is any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any affection and mercy,"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 2,
+          "text": "2 fulfill my joy by being like-minded, having the same love, being of one accord, of one mind."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 3,
+          "text": "3 Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 4,
+          "text": "4 Let each of you look out not only for his own interests, but also for the interests of others."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 5,
+          "text": "5 Let this mind be in you which was also in Christ Jesus,"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 6,
+          "text": "6 who, being in the form of God, did not consider it robbery to be equal with God,"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 7,
+          "text": "7 but made Himself of no reputation, taking the form of a bondservant, and coming in the likeness of men."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 8,
+          "text": "8 And being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 9,
+          "text": "9 Therefore God also has highly exalted Him and given Him the name which is above every name,"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 10,
+          "text": "10 that at the name of Jesus every knee should bow, of those in heaven, and of those on earth, and of those under the earth,"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 11,
+          "text": "11 and that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 12,
+          "text": "12 Therefore, my beloved, as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling;"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 13,
+          "text": "13 for it is God who works in you both to will and to do for His good pleasure."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 14,
+          "text": "14 Do all things without complaining and disputing,"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 15,
+          "text": "15 that you may become blameless and harmless, children of God without fault in the midst of a crooked and perverse generation, among whom you shine as lights in the world,"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 16,
+          "text": "16 holding fast the word of life, so that I may rejoice in the day of Christ that I have not run in vain or labored in vain."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 17,
+          "text": "17 Yes, and if I am being poured out as a drink offering on the sacrifice and service of your faith, I am glad and rejoice with you all."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 18,
+          "text": "18 For the same reason you also be glad and rejoice with me."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 19,
+          "text": "19 But I trust in the Lord Jesus to send Timothy to you shortly, that I also may be encouraged when I know your state."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 20,
+          "text": "20 For I have no one like-minded, who will sincerely care for your state."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 21,
+          "text": "21 For all seek their own, not the things which are of Christ Jesus."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 22,
+          "text": "22 But you know his proven character, that as a son with his father he served with me in the gospel."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 23,
+          "text": "23 Therefore I hope to send him at once, as soon as I see how it goes with me."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 24,
+          "text": "24 But I trust in the Lord that I myself shall also come shortly."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 25,
+          "text": "25 Yet I considered it necessary to send to you Epaphroditus, my brother, fellow worker, and fellow soldier, but your messenger and the one who ministered to my need;"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 26,
+          "text": "26 since he was longing for you all, and was distressed because you had heard that he was sick."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 27,
+          "text": "27 For indeed he was sick almost unto death; but God had mercy on him, and not only on him but on me also, lest I should have sorrow upon sorrow."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 28,
+          "text": "28 Therefore I sent him the more eagerly, that when you see him again you may rejoice, and I may be less sorrowful."
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 29,
+          "text": "29 Receive him therefore in the Lord with all gladness, and hold such men in esteem;"
+        },
+        {
+          "book": "Philippians",
+          "chapter": 2,
+          "verse": 30,
+          "text": "30 because for the work of Christ he came close to death, not regarding his life, to supply what was lacking in your service toward me."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:12:09.403393"
+    }
+  ]
+}

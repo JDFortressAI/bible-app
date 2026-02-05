@@ -1,0 +1,881 @@
+{
+  "format_version": "1.0",
+  "date": "11/14",
+  "cached_at": "2025-11-06T04:00:18.490761",
+  "Family": [
+    {
+      "reference": "1 Chronicles 3-4",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Now these were the sons of David who were born to him in Hebron: The firstborn was Amnon, by Ahinoam the Jezreelitess; the second, Daniel, by Abigail the Carmelitess;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 2,
+          "text": "the third, Absalom the son of Maacah, the daughter of Talmai, king of Geshur; the fourth, Adonijah the son of Haggith;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 3,
+          "text": "the fifth, Shephatiah, by Abital; the sixth, Ithream, by his wife Eglah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 4,
+          "text": "These six were born to him in Hebron. There he reigned seven years and six months, and in Jerusalem he reigned thirty-three years."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 5,
+          "text": "And these were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon\u2014four by Bathshua the daughter of Ammiel."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 6,
+          "text": "Also there were Ibhar, Elishama, Eliphelet,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Nogah, Nepheg, Japhia,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 8,
+          "text": "Elishama, Eliada, and Eliphelet\u2014nine in all."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 9,
+          "text": "These were all the sons of David, besides the sons of the concubines, and Tamar their sister."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 10,
+          "text": "Solomon\u2019s son was Rehoboam; Abijah was his son, Asa his son, Jehoshaphat his son,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 11,
+          "text": "Joram his son, Ahaziah his son, Joash his son,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Amaziah his son, Azariah his son, Jotham his son,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Ahaz his son, Hezekiah his son, Manasseh his son,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 14,
+          "text": "Amon his son, and Josiah his son."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 15,
+          "text": "The sons of Josiah were Johanan the firstborn, the second Jehoiakim, the third Zedekiah, and the fourth Shallum."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 16,
+          "text": "The sons of Jehoiakim were Jeconiah his son and Zedekiah his son."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 17,
+          "text": "And the sons of Jeconiah were Assir, Shealtiel his son,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 18,
+          "text": "and Malchiram, Pedaiah, Shenazzar, Jecamiah, Hoshama, and Nedabiah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 19,
+          "text": "The sons of Pedaiah were Zerubbabel and Shimei. The sons of Zerubbabel were Meshullam, Hananiah, Shelomith their sister,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 20,
+          "text": "and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-Hesed\u2014five in all."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 21,
+          "text": "The sons of Hananiah were Pelatiah and Jeshaiah, the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, and the sons of Shechaniah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 22,
+          "text": "The son of Shechaniah was Shemaiah. The sons of Shemaiah were Hattush, Igal, Bariah, Neariah, and Shaphat\u2014six in all."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 23,
+          "text": "The sons of Neariah were Elioenai, Hezekiah, and Azrikam\u2014three in all."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 3,
+          "verse": 24,
+          "text": "The sons of Elioenai were Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani\u2014seven in all."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 1,
+          "text": "The sons of Judah were Perez, Hezron, Carmi, Hur, and Shobal."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 2,
+          "text": "And Reaiah the son of Shobal begot Jahath, and Jahath begot Ahumai and Lahad. These were the families of the Zorathites."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 3,
+          "text": "These were the sons of the father of Etam: Jezreel, Ishma, and Idbash; and the name of their sister was Hazelelponi;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 4,
+          "text": "and Penuel was the father of Gedor, and Ezer was the father of Hushah. These were the sons of Hur, the firstborn of Ephrathah the father of Bethlehem."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 5,
+          "text": "And Ashhur the father of Tekoa had two wives, Helah and Naarah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 6,
+          "text": "Naarah bore him Ahuzzam, Hepher, Temeni, and Haahashtari. These were the sons of Naarah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 7,
+          "text": "The sons of Helah were Zereth, Zohar, and Ethnan;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 8,
+          "text": "and Koz begot Anub, Zobebah, and the families of Aharhel the son of Harum."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 9,
+          "text": "Now Jabez was more honorable than his brothers, and his mother called his name Jabez, saying, \u201cBecause I bore him in pain.\u201d"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 10,
+          "text": "And Jabez called on the God of Israel saying, \u201cOh, that You would bless me indeed, and enlarge my territory, that Your hand would be with me, and that You would keep me from evil, that I may not cause pain!\u201d So God granted him what he requested."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 11,
+          "text": "Chelub the brother of Shuhah begot Mehir, who was the father of Eshton."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 12,
+          "text": "And Eshton begot Beth-Rapha, Paseah, and Tehinnah the father of Ir-Nahash. These were the men of Rechah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 13,
+          "text": "The sons of Kenaz were Othniel and Seraiah. The sons of Othniel were Hathath,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 14,
+          "text": "and Meonothai who begot Ophrah. Seraiah begot Joab the father of Ge Harashim, for they were craftsmen."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 15,
+          "text": "The sons of Caleb the son of Jephunneh were Iru, Elah, and Naam. The son of Elah was Kenaz."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 16,
+          "text": "The sons of Jehallelel were Ziph, Ziphah, Tiria, and Asarel."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 17,
+          "text": "The sons of Ezrah were Jether, Mered, Epher, and Jalon. And Mered\u2019s wife bore Miriam, Shammai, and Ishbah the father of Eshtemoa."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 18,
+          "text": "(His wife Jehudijah bore Jered the father of Gedor, Heber the father of Sochoh, and Jekuthiel the father of Zanoah.) And these were the sons of Bithiah the daughter of Pharaoh, whom Mered took."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 19,
+          "text": "The sons of Hodiah\u2019s wife, the sister of Naham, were the fathers of Keilah the Garmite and of Eshtemoa the Maachathite."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 20,
+          "text": "And the sons of Shimon were Amnon, Rinnah, Ben-Hanan, and Tilon. And the sons of Ishi were Zoheth and Ben-Zoheth."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 21,
+          "text": "The sons of Shelah the son of Judah were Er the father of Lecah, Laadah the father of Mareshah, and the families of the house of the linen workers of the house of Ashbea;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 22,
+          "text": "also Jokim, the men of Chozeba, and Joash; Saraph, who ruled in Moab, and Jashubi-Lehem. Now the records are ancient."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 23,
+          "text": "These were the potters and those who dwell at Netaim and Gederah; there they dwelt with the king for his work."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 24,
+          "text": "The sons of Simeon were Nemuel, Jamin, Jarib, Zerah, and Shaul,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 25,
+          "text": "Shallum his son, Mibsam his son, and Mishma his son."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 26,
+          "text": "And the sons of Mishma were Hamuel his son, Zacchur his son, and Shimei his son."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 27,
+          "text": "Shimei had sixteen sons and six daughters; but his brothers did not have many children, nor did any of their families multiply as much as the children of Judah."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 28,
+          "text": "They dwelt at Beersheba, Moladah, Hazar Shual,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 29,
+          "text": "Bilhah, Ezem, Tolad,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 30,
+          "text": "Bethuel, Hormah, Ziklag,"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 31,
+          "text": "Beth Marcaboth, Hazar Susim, Beth Biri, and at Shaaraim. These were their cities until the reign of David."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 32,
+          "text": "And their villages were Etam, Ain, Rimmon, Tochen, and Ashan\u2014five cities\u2014"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 33,
+          "text": "and all the villages that were around these cities as far as Baal. These were their dwelling places, and they maintained their genealogy:"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 34,
+          "text": "Meshobab, Jamlech, and Joshah the son of Amaziah;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 35,
+          "text": "Joel, and Jehu the son of Joshibiah, the son of Seraiah, the son of Asiel;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 36,
+          "text": "Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, and Benaiah;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 37,
+          "text": "Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah\u2014"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 38,
+          "text": "these mentioned by name were leaders in their families, and their father\u2019s house increased greatly."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 39,
+          "text": "So they went to the entrance of Gedor, as far as the east side of the valley, to seek pasture for their flocks."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 40,
+          "text": "And they found rich, good pasture, and the land was broad, quiet, and peaceful; for some Hamites formerly lived there."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 41,
+          "text": "These recorded by name came in the days of Hezekiah king of Judah; and they attacked their tents and the Meunites who were found there, and utterly destroyed them, as it is to this day. So they dwelt in their place, because there was pasture for their flocks there."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 42,
+          "text": "Now some of them, five hundred men of the sons of Simeon, went to Mount Seir, having as their captains Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 4,
+          "verse": 43,
+          "text": "And they defeated the rest of the Amalekites who had escaped. They have dwelt there to this day."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-06T04:00:22.650633"
+    },
+    {
+      "reference": "Hebrews 9",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 1,
+          "text": "Then indeed, even the first covenant had ordinances of divine service and the earthly sanctuary."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 2,
+          "text": "For a tabernacle was prepared: the first part, in which was the lampstand, the table, and the showbread, which is called the sanctuary;"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 3,
+          "text": "and behind the second veil, the part of the tabernacle which is called the Holiest of All,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 4,
+          "text": "which had the golden censer and the ark of the covenant overlaid on all sides with gold, in which were the golden pot that had the manna, Aaron\u2019s rod that budded, and the tablets of the covenant;"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 5,
+          "text": "and above it were the cherubim of glory overshadowing the mercy seat. Of these things we cannot now speak in detail."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 6,
+          "text": "Now when these things had been thus prepared, the priests always went into the first part of the tabernacle, performing the services."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 7,
+          "text": "But into the second part the high priest went alone once a year, not without blood, which he offered for himself and for the people\u2019s sins committed in ignorance;"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 8,
+          "text": "the Holy Spirit indicating this, that the way into the Holiest of All was not yet made manifest while the first tabernacle was still standing."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 9,
+          "text": "It was symbolic for the present time in which both gifts and sacrifices are offered which cannot make him who performed the service perfect in regard to the conscience\u2014"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 10,
+          "text": "concerned only with foods and drinks, various washings, and fleshly ordinances imposed until the time of reformation."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 11,
+          "text": "But Christ came as High Priest of the good things to come, with the greater and more perfect tabernacle not made with hands, that is, not of this creation."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 12,
+          "text": "Not with the blood of goats and calves, but with His own blood He entered the Most Holy Place once for all, having obtained eternal redemption."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 13,
+          "text": "For if the blood of bulls and goats and the ashes of a heifer, sprinkling the unclean, sanctifies for the purifying of the flesh,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 14,
+          "text": "how much more shall the blood of Christ, who through the eternal Spirit offered Himself without spot to God, cleanse your conscience from dead works to serve the living God?"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 15,
+          "text": "And for this reason He is the Mediator of the new covenant, by means of death, for the redemption of the transgressions under the first covenant, that those who are called may receive the promise of the eternal inheritance."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 16,
+          "text": "For where there is a testament, there must also of necessity be the death of the testator."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 17,
+          "text": "For a testament is in force after men are dead, since it has no power at all while the testator lives."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 18,
+          "text": "Therefore not even the first covenant was dedicated without blood."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 19,
+          "text": "For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and goats, with water, scarlet wool, and hyssop, and sprinkled both the book itself and all the people,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 20,
+          "text": "saying, \u201cThis is the blood of the covenant which God has commanded you.\u201d"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 21,
+          "text": "Then likewise he sprinkled with blood both the tabernacle and all the vessels of the ministry."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 22,
+          "text": "And according to the law almost all things are purified with blood, and without shedding of blood there is no remission."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 23,
+          "text": "Therefore it was necessary that the copies of the things in the heavens should be purified with these, but the heavenly things themselves with better sacrifices than these."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 24,
+          "text": "For Christ has not entered the holy places made with hands, which are copies of the true, but into heaven itself, now to appear in the presence of God for us;"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 25,
+          "text": "not that He should offer Himself often, as the high priest enters the Most Holy Place every year with blood of another\u2014"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 26,
+          "text": "He then would have had to suffer often since the foundation of the world; but now, once at the end of the ages, He has appeared to put away sin by the sacrifice of Himself."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 27,
+          "text": "And as it is appointed for men to die once, but after this the judgment,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 9,
+          "verse": 28,
+          "text": "so Christ was offered once to bear the sins of many. To those who eagerly wait for Him He will appear a second time, apart from sin, for salvation."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-06T04:00:24.110507"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Amos 3",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 1,
+          "text": "Hear this word that the L\u1d0f\u0280\u1d05 has spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying:"
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 2,
+          "text": "\u201cYou only have I known of all the families of the earth; Therefore I will punish you for all your iniquities.\u201d"
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 3,
+          "text": "Can two walk together, unless they are agreed?"
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 4,
+          "text": "Will a lion roar in the forest, when he has no prey? Will a young lion cry out of his den, if he has caught nothing?"
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Will a bird fall into a snare on the earth, where there is no trap for it? Will a snare spring up from the earth, if it has caught nothing at all?"
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 6,
+          "text": "If a trumpet is blown in a city, will not the people be afraid? If there is calamity in a city, will not the L\u1d0f\u0280\u1d05 have done it?"
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 7,
+          "text": "Surely the L\u1d0f\u0280\u1d05 God does nothing, Unless He reveals His secret to His servants the prophets."
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 8,
+          "text": "A lion has roared! Who will not fear? The L\u1d0f\u0280\u1d05 God has spoken! Who can but prophesy?"
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 9,
+          "text": "\u201cProclaim in the palaces at Ashdod, And in the palaces in the land of Egypt, and say: \u2018Assemble on the mountains of Samaria; See great tumults in her midst, And the oppressed within her."
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 10,
+          "text": "For they do not know to do right,\u2019 Says the L\u1d0f\u0280\u1d05, \u2018Who store up violence and robbery in their palaces.\u2019 \u201c"
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 11,
+          "text": "Therefore thus says the L\u1d0f\u0280\u1d05 God: \u201cAn adversary shall be all around the land; He shall sap your strength from you, And your palaces shall be plundered.\u201d"
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 12,
+          "text": "Thus says the L\u1d0f\u0280\u1d05: \u201cAs a shepherd takes from the mouth of a lion Two legs or a piece of an ear, So shall the children of Israel be taken out Who dwell in Samaria\u2014 In the corner of a bed and on the edge of a couch!"
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 13,
+          "text": "Hear and testify against the house of Jacob,\u201d Says the L\u1d0f\u0280\u1d05 God, the God of hosts,"
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 14,
+          "text": "\u201cThat in the day I punish Israel for their transgressions, I will also visit destruction on the altars of Bethel; And the horns of the altar shall be cut off And fall to the ground."
+        },
+        {
+          "book": "Amos",
+          "chapter": 3,
+          "verse": 15,
+          "text": "I will destroy the winter house along with the summer house; The houses of ivory shall perish, And the great houses shall have an end,\u201d Says the L\u1d0f\u0280\u1d05."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-06T04:00:26.712818"
+    },
+    {
+      "reference": "Psalm 146-147",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 146,
+          "verse": 1,
+          "text": "Praise the L\u1d0f\u0280\u1d05! Praise the L\u1d0f\u0280\u1d05, O my soul!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 146,
+          "verse": 2,
+          "text": "While I live I will praise the L\u1d0f\u0280\u1d05; I will sing praises to my God while I have my being."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 146,
+          "verse": 3,
+          "text": "Do not put your trust in princes, Nor in a son of man, in whom there is no help."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 146,
+          "verse": 4,
+          "text": "His spirit departs, he returns to his earth; In that very day his plans perish."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 146,
+          "verse": 5,
+          "text": "Happy is he who has the God of Jacob for his help, Whose hope is in the L\u1d0f\u0280\u1d05 his God,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 146,
+          "verse": 6,
+          "text": "Who made heaven and earth, The sea, and all that is in them; Who keeps truth forever,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 146,
+          "verse": 7,
+          "text": "Who executes justice for the oppressed, Who gives food to the hungry. The L\u1d0f\u0280\u1d05 gives freedom to the prisoners."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 146,
+          "verse": 8,
+          "text": "The L\u1d0f\u0280\u1d05 opens the eyes of the blind; The L\u1d0f\u0280\u1d05 raises those who are bowed down; The L\u1d0f\u0280\u1d05 loves the righteous."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 146,
+          "verse": 9,
+          "text": "The L\u1d0f\u0280\u1d05 watches over the strangers; He relieves the fatherless and widow; But the way of the wicked He turns upside down."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 146,
+          "verse": 10,
+          "text": "The L\u1d0f\u0280\u1d05 shall reign forever\u2014 Your God, O Zion, to all generations. Praise the L\u1d0f\u0280\u1d05!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 1,
+          "text": "Praise the L\u1d0f\u0280\u1d05! For it is good to sing praises to our God; For it is pleasant, and praise is beautiful."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 2,
+          "text": "The L\u1d0f\u0280\u1d05 builds up Jerusalem; He gathers together the outcasts of Israel."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 3,
+          "text": "He heals the brokenhearted And binds up their wounds."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 4,
+          "text": "He counts the number of the stars; He calls them all by name."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 5,
+          "text": "Great is our Lord, and mighty in power; His understanding is infinite."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 6,
+          "text": "The L\u1d0f\u0280\u1d05 lifts up the humble; He casts the wicked down to the ground."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 7,
+          "text": "Sing to the L\u1d0f\u0280\u1d05 with thanksgiving; Sing praises on the harp to our God,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 8,
+          "text": "Who covers the heavens with clouds, Who prepares rain for the earth, Who makes grass to grow on the mountains."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 9,
+          "text": "He gives to the beast its food, And to the young ravens that cry."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 10,
+          "text": "He does not delight in the strength of the horse; He takes no pleasure in the legs of a man."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 11,
+          "text": "The L\u1d0f\u0280\u1d05 takes pleasure in those who fear Him, In those who hope in His mercy."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 12,
+          "text": "Praise the L\u1d0f\u0280\u1d05, O Jerusalem! Praise your God, O Zion!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 13,
+          "text": "For He has strengthened the bars of your gates; He has blessed your children within you."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 14,
+          "text": "He makes peace in your borders, And fills you with the finest wheat."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 15,
+          "text": "He sends out His command to the earth; His word runs very swiftly."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 16,
+          "text": "He gives snow like wool; He scatters the frost like ashes;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 17,
+          "text": "He casts out His hail like morsels; Who can stand before His cold?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 18,
+          "text": "He sends out His word and melts them; He causes His wind to blow, and the waters flow."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 19,
+          "text": "He declares His word to Jacob, His statutes and His judgments to Israel."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 147,
+          "verse": 20,
+          "text": "He has not dealt thus with any nation; And as for His judgments, they have not known them. Praise the L\u1d0f\u0280\u1d05!"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-06T04:00:30.092638"
+    }
+  ]
+}

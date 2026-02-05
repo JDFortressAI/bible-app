@@ -1,0 +1,743 @@
+{
+  "format_version": "1.0",
+  "date": "04/10",
+  "cached_at": "2026-02-05T17:13:00.194420",
+  "Family": [
+    {
+      "reference": "Leviticus 14",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 1,
+          "text": "1 Then the L\u1d0f\u0280\u1d05 spoke to Moses, saying,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 2,
+          "text": "2 \u201cThis shall be the law of the leper for the day of his cleansing: He shall be brought to the priest."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 3,
+          "text": "3 And the priest shall go out of the camp, and the priest shall examine him; and indeed, if the leprosy is healed in the leper,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 4,
+          "text": "4 then the priest shall command to take for him who is to be cleansed two living and clean birds, cedar wood, scarlet, and hyssop."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 5,
+          "text": "5 And the priest shall command that one of the birds be killed in an earthen vessel over running water."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 6,
+          "text": "6 As for the living bird, he shall take it, the cedar wood and the scarlet and the hyssop, and dip them and the living bird in the blood of the bird that was killed over the running water."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 7,
+          "text": "7 And he shall sprinkle it seven times on him who is to be cleansed from the leprosy, and shall pronounce him clean, and shall let the living bird loose in the open field."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 8,
+          "text": "8 He who is to be cleansed shall wash his clothes, shave off all his hair, and wash himself in water, that he may be clean. After that he shall come into the camp, and shall stay outside his tent seven days."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 9,
+          "text": "9 But on the seventh day he shall shave all the hair off his head and his beard and his eyebrows\u2014all his hair he shall shave off. He shall wash his clothes and wash his body in water, and he shall be clean."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 10,
+          "text": "10 \u201cAnd on the eighth day he shall take two male lambs without blemish, one ewe lamb of the first year without blemish, three-tenths of an ephah of fine flour mixed with oil as a grain offering, and one log of oil."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 11,
+          "text": "11 Then the priest who makes him clean shall present the man who is to be made clean, and those things, before the L\u1d0f\u0280\u1d05, at the door of the tabernacle of meeting."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 12,
+          "text": "12 And the priest shall take one male lamb and offer it as a trespass offering, and the log of oil, and wave them as a wave offering before the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 13,
+          "text": "13 Then he shall kill the lamb in the place where he kills the sin offering and the burnt offering, in a holy place; for as the sin offering is the priest\u2019s, so is the trespass offering. It is most holy."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 14,
+          "text": "14 The priest shall take some of the blood of the trespass offering, and the priest shall put it on the tip of the right ear of him who is to be cleansed, on the thumb of his right hand, and on the big toe of his right foot."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 15,
+          "text": "15 And the priest shall take some of the log of oil, and pour it into the palm of his own left hand."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 16,
+          "text": "16 Then the priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle some of the oil with his finger seven times before the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 17,
+          "text": "17 And of the rest of the oil in his hand, the priest shall put some on the tip of the right ear of him who is to be cleansed, on the thumb of his right hand, and on the big toe of his right foot, on the blood of the trespass offering."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 18,
+          "text": "18 The rest of the oil that is in the priest\u2019s hand he shall put on the head of him who is to be cleansed. So the priest shall make atonement for him before the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 19,
+          "text": "19 Then the priest shall offer the sin offering, and make atonement for him who is to be cleansed from his uncleanness. Afterward he shall kill the burnt offering."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 20,
+          "text": "20 And the priest shall offer the burnt offering and the grain offering on the altar. So the priest shall make atonement for him, and he shall be clean."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 21,
+          "text": "21 \u201cBut if he is poor and cannot afford it, then he shall take one male lamb as a trespass offering to be waved, to make atonement for him, one-tenth of an ephah of fine flour mixed with oil as a grain offering, a log of oil,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 22,
+          "text": "22 and two turtledoves or two young pigeons, such as he is able to afford: one shall be a sin offering and the other a burnt offering."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 23,
+          "text": "23 He shall bring them to the priest on the eighth day for his cleansing, to the door of the tabernacle of meeting, before the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 24,
+          "text": "24 And the priest shall take the lamb of the trespass offering and the log of oil, and the priest shall wave them as a wave offering before the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 25,
+          "text": "25 Then he shall kill the lamb of the trespass offering, and the priest shall take some of the blood of the trespass offering and put it on the tip of the right ear of him who is to be cleansed, on the thumb of his right hand, and on the big toe of his right foot."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 26,
+          "text": "26 And the priest shall pour some of the oil into the palm of his own left hand."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 27,
+          "text": "27 Then the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 28,
+          "text": "28 And the priest shall put some of the oil that is in his hand on the tip of the right ear of him who is to be cleansed, on the thumb of the right hand, and on the big toe of his right foot, on the place of the blood of the trespass offering."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 29,
+          "text": "29 The rest of the oil that is in the priest\u2019s hand he shall put on the head of him who is to be cleansed, to make atonement for him before the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 30,
+          "text": "30 And he shall offer one of the turtledoves or young pigeons, such as he can afford\u2014"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 31,
+          "text": "31 such as he is able to afford, the one as a sin offering and the other as a burnt offering, with the grain offering. So the priest shall make atonement for him who is to be cleansed before the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 32,
+          "text": "32 This is the law for one who had a leprous sore, who cannot afford the usual cleansing.\u201d"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 33,
+          "text": "33 And the L\u1d0f\u0280\u1d05 spoke to Moses and Aaron, saying:"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 34,
+          "text": "34 \u201cWhen you have come into the land of Canaan, which I give you as a possession, and I put the leprous plague in a house in the land of your possession,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 35,
+          "text": "35 and he who owns the house comes and tells the priest, saying, \u2018It seems to me that there is some plague in the house,\u2019"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 36,
+          "text": "36 then the priest shall command that they empty the house, before the priest goes into it to examine the plague, that all that is in the house may not be made unclean; and afterward the priest shall go in to examine the house."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 37,
+          "text": "37 And he shall examine the plague; and indeed if the plague is on the walls of the house with ingrained streaks, greenish or reddish, which appear to be deep in the wall,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 38,
+          "text": "38 then the priest shall go out of the house, to the door of the house, and shut up the house seven days."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 39,
+          "text": "39 And the priest shall come again on the seventh day and look; and indeed if the plague has spread on the walls of the house,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 40,
+          "text": "40 then the priest shall command that they take away the stones in which is the plague, and they shall cast them into an unclean place outside the city."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 41,
+          "text": "41 And he shall cause the house to be scraped inside, all around, and the dust that they scrape off they shall pour out in an unclean place outside the city."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 42,
+          "text": "42 Then they shall take other stones and put them in the place of those stones, and he shall take other mortar and plaster the house."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 43,
+          "text": "43 \u201cNow if the plague comes back and breaks out in the house, after he has taken away the stones, after he has scraped the house, and after it is plastered,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 44,
+          "text": "44 then the priest shall come and look; and indeed if the plague has spread in the house, it is an active leprosy in the house. It is unclean."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 45,
+          "text": "45 And he shall break down the house, its stones, its timber, and all the plaster of the house, and he shall carry them outside the city to an unclean place."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 46,
+          "text": "46 Moreover he who goes into the house at all while it is shut up shall be unclean until evening."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 47,
+          "text": "47 And he who lies down in the house shall wash his clothes, and he who eats in the house shall wash his clothes."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 48,
+          "text": "48 \u201cBut if the priest comes in and examines it, and indeed the plague has not spread in the house after the house was plastered, then the priest shall pronounce the house clean, because the plague is healed."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 49,
+          "text": "49 And he shall take, to cleanse the house, two birds, cedar wood, scarlet, and hyssop."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 50,
+          "text": "50 Then he shall kill one of the birds in an earthen vessel over running water;"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 51,
+          "text": "51 and he shall take the cedar wood, the hyssop, the scarlet, and the living bird, and dip them in the blood of the slain bird and in the running water, and sprinkle the house seven times."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 52,
+          "text": "52 And he shall cleanse the house with the blood of the bird and the running water and the living bird, with the cedar wood, the hyssop, and the scarlet."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 53,
+          "text": "53 Then he shall let the living bird loose outside the city in the open field, and make atonement for the house, and it shall be clean."
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 54,
+          "text": "54 \u201cThis is the law for any leprous sore and scale,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 55,
+          "text": "55 for the leprosy of a garment and of a house,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 56,
+          "text": "56 for a swelling and a scab and a bright spot,"
+        },
+        {
+          "book": "Leviticus",
+          "chapter": 14,
+          "verse": 57,
+          "text": "57 to teach when it is unclean and when it is clean. This is the law of leprosy.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:01.020436"
+    },
+    {
+      "reference": "Psalm 17",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 1,
+          "text": "1 A Prayer of David. Hear a just cause, O L\u1d0f\u0280\u1d05, Attend to my cry; Give ear to my prayer which is not from deceitful lips."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 2,
+          "text": "2 Let my vindication come from Your presence; Let Your eyes look on the things that are upright."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 3,
+          "text": "3 You have tested my heart; You have visited me in the night; You have tried me and have found nothing; I have purposed that my mouth shall not transgress."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 4,
+          "text": "4 Concerning the works of men, By the word of Your lips, I have kept away from the paths of the destroyer."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 5,
+          "text": "5 Uphold my steps in Your paths, That my footsteps may not slip."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 6,
+          "text": "6 I have called upon You, for You will hear me, O God; Incline Your ear to me, and hear my speech."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 7,
+          "text": "7 Show Your marvelous lovingkindness by Your right hand, O You who save those who trust in You From those who rise up against them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 8,
+          "text": "8 Keep me as the apple of Your eye; Hide me under the shadow of Your wings,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 9,
+          "text": "9 From the wicked who oppress me, From my deadly enemies who surround me."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 10,
+          "text": "10 They have closed up their fat hearts; With their mouths they speak proudly."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 11,
+          "text": "11 They have now surrounded us in our steps; They have set their eyes, crouching down to the earth,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 12,
+          "text": "12 As a lion is eager to tear his prey, And like a young lion lurking in secret places."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 13,
+          "text": "13 Arise, O L\u1d0f\u0280\u1d05, Confront him, cast him down; Deliver my life from the wicked with Your sword,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 14,
+          "text": "14 With Your hand from men, O L\u1d0f\u0280\u1d05, From men of the world who have their portion in this life, And whose belly You fill with Your hidden treasure. They are satisfied with children, And leave the rest of their possession for their babes."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 17,
+          "verse": 15,
+          "text": "15 As for me, I will see Your face in righteousness; I shall be satisfied when I awake in Your likeness."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:01.447437"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Proverbs 28",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 1,
+          "text": "1 The wicked flee when no one pursues, But the righteous are bold as a lion."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 2,
+          "text": "2 Because of the transgression of a land, many are its princes; But by a man of understanding and knowledge Right will be prolonged."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 3,
+          "text": "3 A poor man who oppresses the poor Is like a driving rain which leaves no food."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 4,
+          "text": "4 Those who forsake the law praise the wicked, But such as keep the law contend with them."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 5,
+          "text": "5 Evil men do not understand justice, But those who seek the L\u1d0f\u0280\u1d05 understand all."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 6,
+          "text": "6 Better is the poor who walks in his integrity Than one perverse in his ways, though he be rich."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 7,
+          "text": "7 Whoever keeps the law is a discerning son, But a companion of gluttons shames his father."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 8,
+          "text": "8 One who increases his possessions by usury and extortion Gathers it for him who will pity the poor."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 9,
+          "text": "9 One who turns away his ear from hearing the law, Even his prayer is an abomination."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 10,
+          "text": "10 Whoever causes the upright to go astray in an evil way, He himself will fall into his own pit; But the blameless will inherit good."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 11,
+          "text": "11 The rich man is wise in his own eyes, But the poor who has understanding searches him out."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 12,
+          "text": "12 When the righteous rejoice, there is great glory; But when the wicked arise, men hide themselves."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 13,
+          "text": "13 He who covers his sins will not prosper, But whoever confesses and forsakes them will have mercy."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 14,
+          "text": "14 Happy is the man who is always reverent, But he who hardens his heart will fall into calamity."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 15,
+          "text": "15 Like a roaring lion and a charging bear Is a wicked ruler over poor people."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 16,
+          "text": "16 A ruler who lacks understanding is a great oppressor, But he who hates covetousness will prolong his days."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 17,
+          "text": "17 A man burdened with bloodshed will flee into a pit; Let no one help him."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 18,
+          "text": "18 Whoever walks blamelessly will be saved, But he who is perverse in his ways will suddenly fall."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 19,
+          "text": "19 He who tills his land will have plenty of bread, But he who follows frivolity will have poverty enough!"
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 20,
+          "text": "20 A faithful man will abound with blessings, But he who hastens to be rich will not go unpunished."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 21,
+          "text": "21 To show partiality is not good, Because for a piece of bread a man will transgress."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 22,
+          "text": "22 A man with an evil eye hastens after riches, And does not consider that poverty will come upon him."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 23,
+          "text": "23 He who rebukes a man will find more favor afterward Than he who flatters with the tongue."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 24,
+          "text": "24 Whoever robs his father or his mother, And says, \u201cIt is no transgression,\u201d The same is companion to a destroyer."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 25,
+          "text": "25 He who is of a proud heart stirs up strife, But he who trusts in the L\u1d0f\u0280\u1d05 will be prospered."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 26,
+          "text": "26 He who trusts in his own heart is a fool, But whoever walks wisely will be delivered."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 27,
+          "text": "27 He who gives to the poor will not lack, But he who hides his eyes will have many curses."
+        },
+        {
+          "book": "Proverbs",
+          "chapter": 28,
+          "verse": 28,
+          "text": "28 When the wicked arise, men hide themselves; But when they perish, the righteous increase."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:01.931488"
+    },
+    {
+      "reference": "2 Thessalonians 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 1,
+          "text": "1 Now, brethren, concerning the coming of our Lord Jesus Christ and our gathering together to Him, we ask you,"
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 2,
+          "text": "2 not to be soon shaken in mind or troubled, either by spirit or by word or by letter, as if from us, as though the day of Christ [a] had come."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 3,
+          "text": "3 Let no one deceive you by any means; for that Day will not come unless the falling away comes first, and the man of sin [b] is revealed, the son of perdition,"
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 4,
+          "text": "4 who opposes and exalts himself above all that is called God or that is worshiped, so that he sits as God [c] in the temple of God, showing himself that he is God."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 5,
+          "text": "5 Do you not remember that when I was still with you I told you these things?"
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 6,
+          "text": "6 And now you know what is restraining, that he may be revealed in his own time."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 7,
+          "text": "7 For the mystery of lawlessness is already at work; only He [d] who now restrains will do so until He is taken out of the way."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 8,
+          "text": "8 And then the lawless one will be revealed, whom the Lord will consume with the breath of His mouth and destroy with the brightness of His coming."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 9,
+          "text": "9 The coming of the lawless one is according to the working of Satan, with all power, signs, and lying wonders,"
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 10,
+          "text": "10 and with all unrighteous deception among those who perish, because they did not receive the love of the truth, that they might be saved."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 11,
+          "text": "11 And for this reason God will send them strong delusion, that they should believe the lie,"
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 12,
+          "text": "12 that they all may be condemned who did not believe the truth but had pleasure in unrighteousness."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 13,
+          "text": "13 But we are bound to give thanks to God always for you, brethren beloved by the Lord, because God from the beginning chose you for salvation through sanctification by the Spirit and belief in the truth,"
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 14,
+          "text": "14 to which He called you by our gospel, for the obtaining of the glory of our Lord Jesus Christ."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 15,
+          "text": "15 Therefore, brethren, stand fast and hold the traditions which you were taught, whether by word or our epistle."
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 16,
+          "text": "16 Now may our Lord Jesus Christ Himself, and our God and Father, who has loved us and given us everlasting consolation and good hope by grace,"
+        },
+        {
+          "book": "2 Thessalonians",
+          "chapter": 2,
+          "verse": 17,
+          "text": "17 comfort your hearts and establish you in every good word and work."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:02.494164"
+    }
+  ]
+}

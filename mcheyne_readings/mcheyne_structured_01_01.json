@@ -1,0 +1,599 @@
+{
+  "format_version": "1.0",
+  "date": "01/01",
+  "cached_at": "2025-12-24T04:00:18.516680",
+  "Family": [
+    {
+      "reference": "Genesis 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 1,
+          "text": "In the beginning God created the heavens and the earth."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 2,
+          "text": "The earth was without form, and void; and darkness was [a] on the face of the deep. And the Spirit of God was hovering over the face of the waters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Then God said, \u201cLet there be light\u201d; and there was light."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 4,
+          "text": "And God saw the light, that it was good; and God divided the light from the darkness."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 5,
+          "text": "God called the light Day, and the darkness He called Night. So the evening and the morning were the first day."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 6,
+          "text": "Then God said, \u201cLet there be a firmament in the midst of the waters, and let it divide the waters from the waters.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 7,
+          "text": "Thus God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament; and it was so."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 8,
+          "text": "And God called the firmament Heaven. So the evening and the morning were the second day."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 9,
+          "text": "Then God said, \u201cLet the waters under the heavens be gathered together into one place, and let the dry land appear\u201d; and it was so."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 10,
+          "text": "And God called the dry land Earth, and the gathering together of the waters He called Seas. And God saw that it was good."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Then God said, \u201cLet the earth bring forth grass, the herb that yields seed, and the fruit tree that yields fruit according to its kind, whose seed is in itself, on the earth\u201d; and it was so."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 12,
+          "text": "And the earth brought forth grass, the herb that yields seed according to its kind, and the tree that yields fruit, whose seed is in itself according to its kind. And God saw that it was good."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 13,
+          "text": "So the evening and the morning were the third day."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 14,
+          "text": "Then God said, \u201cLet there be lights in the firmament of the heavens to divide the day from the night; and let them be for signs and seasons, and for days and years;"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 15,
+          "text": "and let them be for lights in the firmament of the heavens to give light on the earth\u201d; and it was so."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 16,
+          "text": "Then God made two great lights: the greater light to rule the day, and the lesser light to rule the night. He made the stars also."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 17,
+          "text": "God set them in the firmament of the heavens to give light on the earth,"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 18,
+          "text": "and to rule over the day and over the night, and to divide the light from the darkness. And God saw that it was good."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 19,
+          "text": "So the evening and the morning were the fourth day."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 20,
+          "text": "Then God said, \u201cLet the waters abound with an abundance of living creatures, and let birds fly above the earth across the face of the firmament of the heavens.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 21,
+          "text": "So God created great sea creatures and every living thing that moves, with which the waters abounded, according to their kind, and every winged bird according to its kind. And God saw that it was good."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 22,
+          "text": "And God blessed them, saying, \u201cBe fruitful and multiply, and fill the waters in the seas, and let birds multiply on the earth.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 23,
+          "text": "So the evening and the morning were the fifth day."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 24,
+          "text": "Then God said, \u201cLet the earth bring forth the living creature according to its kind: cattle and creeping thing and beast of the earth, each according to its kind\u201d; and it was so."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 25,
+          "text": "And God made the beast of the earth according to its kind, cattle according to its kind, and everything that creeps on the earth according to its kind. And God saw that it was good."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 26,
+          "text": "Then God said, \u201cLet Us make man in Our image, according to Our likeness; let them have dominion over the fish of the sea, over the birds of the air, and over the cattle, over all [b] the earth and over every creeping thing that creeps on the earth.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 27,
+          "text": "So God created man in His own image; in the image of God He created him; male and female He created them."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 28,
+          "text": "Then God blessed them, and God said to them, \u201cBe fruitful and multiply; fill the earth and subdue it; have dominion over the fish of the sea, over the birds of the air, and over every living thing that moves on the earth.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 29,
+          "text": "And God said, \u201cSee, I have given you every herb that yields seed which is on the face of all the earth, and every tree whose fruit yields seed; to you it shall be for food."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 30,
+          "text": "Also, to every beast of the earth, to every bird of the air, and to everything that creeps on the earth, in which there is life, I have given every green herb for food\u201d; and it was so."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 1,
+          "verse": 31,
+          "text": "Then God saw everything that He had made, and indeed it was very good. So the evening and the morning were the sixth day."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-12-24T04:00:20.118865"
+    },
+    {
+      "reference": "Matthew 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The book of the genealogy of Jesus Christ, the Son of David, the Son of Abraham:"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Abraham begot Isaac, Isaac begot Jacob, and Jacob begot Judah and his brothers."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Judah begot Perez and Zerah by Tamar, Perez begot Hezron, and Hezron begot Ram."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 4,
+          "text": "Ram begot Amminadab, Amminadab begot Nahshon, and Nahshon begot Salmon."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Salmon begot Boaz by Rahab, Boaz begot Obed by Ruth, Obed begot Jesse,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 6,
+          "text": "and Jesse begot David the king.David the king begot Solomon by her who had been the wife [a] of Uriah."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 7,
+          "text": "Solomon begot Rehoboam, Rehoboam begot Abijah, and Abijah begot Asa. [b]"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 8,
+          "text": "Asa begot Jehoshaphat, Jehoshaphat begot Joram, and Joram begot Uzziah."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 9,
+          "text": "Uzziah begot Jotham, Jotham begot Ahaz, and Ahaz begot Hezekiah."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 10,
+          "text": "Hezekiah begot Manasseh, Manasseh begot Amon, [c] and Amon begot Josiah."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Josiah begot Jeconiah and his brothers about the time they were carried away to Babylon."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 12,
+          "text": "And after they were brought to Babylon, Jeconiah begot Shealtiel, and Shealtiel begot Zerubbabel."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Zerubbabel begot Abiud, Abiud begot Eliakim, and Eliakim begot Azor."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 14,
+          "text": "Azor begot Zadok, Zadok begot Achim, and Achim begot Eliud."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 15,
+          "text": "Eliud begot Eleazar, Eleazar begot Matthan, and Matthan begot Jacob."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 16,
+          "text": "And Jacob begot Joseph the husband of Mary, of whom was born Jesus who is called Christ."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 17,
+          "text": "So all the generations from Abraham to David are fourteen generations, from David until the captivity in Babylon are fourteen generations, and from the captivity in Babylon until the Christ are fourteen generations."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 18,
+          "text": "Now the birth of Jesus Christ was as follows: After His mother Mary was betrothed to Joseph, before they came together, she was found with child of the Holy Spirit."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 19,
+          "text": "Then Joseph her husband, being a just man, and not wanting to make her a public example, was minded to put her away secretly."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 20,
+          "text": "But while he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, \u201cJoseph, son of David, do not be afraid to take to you Mary your wife, for that which is conceived in her is of the Holy Spirit."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 21,
+          "text": "And she will bring forth a Son, and you shall call His name Jesus, for He will save His people from their sins.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 22,
+          "text": "So all this was done that it might be fulfilled which was spoken by the Lord through the prophet, saying:"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 23,
+          "text": "\u201cBehold, the virgin shall be with child, and bear a Son, and they shall call His name Immanuel,\u201d [d] which is translated, \u201cGod with us.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 24,
+          "text": "Then Joseph, being aroused from sleep, did as the angel of the Lord commanded him and took to him his wife,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 1,
+          "verse": 25,
+          "text": "and did not know her till she had brought forth her firstborn Son. [e] And he called His name Jesus."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-12-24T04:00:21.656428"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Ezra 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Ezra",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Now in the first year of Cyrus king of Persia, that the word of the L\u1d0f\u0280\u1d05 by the mouth of Jeremiah might be fulfilled, the L\u1d0f\u0280\u1d05 stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and also put it in writing, saying,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Thus says Cyrus king of Persia: All the kingdoms of the earth the L\u1d0f\u0280\u1d05 God of heaven has given me. And He has commanded me to build Him a house at Jerusalem which is in Judah."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Who is among you of all His people? May his God be with him, and let him go up to Jerusalem which is in Judah, and build the house of the L\u1d0f\u0280\u1d05 God of Israel (He is God), which is in Jerusalem."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 1,
+          "verse": 4,
+          "text": "And whoever is left in any place where he dwells, let the men of his place help him with silver and gold, with goods and livestock, besides the freewill offerings for the house of God which is in Jerusalem."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Then the heads of the fathers\u2019 houses of Judah and Benjamin, and the priests and the Levites, with all whose spirits God had moved, arose to go up and build the house of the L\u1d0f\u0280\u1d05 which is in Jerusalem."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 1,
+          "verse": 6,
+          "text": "And all those who were around them encouraged them with articles of silver and gold, with goods and livestock, and with precious things, besides all that was willingly offered."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 1,
+          "verse": 7,
+          "text": "King Cyrus also brought out the articles of the house of the L\u1d0f\u0280\u1d05, which Nebuchadnezzar had taken from Jerusalem and put in the temple of his gods;"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 1,
+          "verse": 8,
+          "text": "and Cyrus king of Persia brought them out by the hand of Mithredath the treasurer, and counted them out to Sheshbazzar the prince of Judah."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 1,
+          "verse": 9,
+          "text": "This is the number of them: thirty gold platters, one thousand silver platters, twenty-nine knives,"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 1,
+          "verse": 10,
+          "text": "thirty gold basins, four hundred and ten silver basins of a similar kind, and one thousand other articles."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 1,
+          "verse": 11,
+          "text": "All the articles of gold and silver were five thousand four hundred. All these Sheshbazzar took with the captives who were brought from Babylon to Jerusalem."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-12-24T04:00:22.878346"
+    },
+    {
+      "reference": "Acts 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The former account I made, O Theophilus, of all that Jesus began both to do and teach,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 2,
+          "text": "until the day in which He was taken up, after He through the Holy Spirit had given commandments to the apostles whom He had chosen,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 3,
+          "text": "to whom He also presented Himself alive after His suffering by many infallible proofs, being seen by them during forty days and speaking of the things pertaining to the kingdom of God."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 4,
+          "text": "And being assembled together with them, He commanded them not to depart from Jerusalem, but to wait for the Promise of the Father, \u201cwhich,\u201d He said, \u201cyou have heard from Me;"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 5,
+          "text": "for John truly baptized with water, but you shall be baptized with the Holy Spirit not many days from now.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 6,
+          "text": "Therefore, when they had come together, they asked Him, saying, \u201cLord, will You at this time restore the kingdom to Israel?\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 7,
+          "text": "And He said to them, \u201cIt is not for you to know times or seasons which the Father has put in His own authority."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 8,
+          "text": "But you shall receive power when the Holy Spirit has come upon you; and you shall be witnesses to Me [a] in Jerusalem, and in all Judea and Samaria, and to the end of the earth.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 9,
+          "text": "Now when He had spoken these things, while they watched, He was taken up, and a cloud received Him out of their sight."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 10,
+          "text": "And while they looked steadfastly toward heaven as He went up, behold, two men stood by them in white apparel,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 11,
+          "text": "who also said, \u201cMen of Galilee, why do you stand gazing up into heaven? This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 12,
+          "text": "Then they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a Sabbath day\u2019s journey."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 13,
+          "text": "And when they had entered, they went up into the upper room where they were staying: Peter, James, John, and Andrew; Philip and Thomas; Bartholomew and Matthew; James the son of Alphaeus and Simon the Zealot; and Judas the son of James."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 14,
+          "text": "These all continued with one accord in prayer and supplication, [b] with the women and Mary the mother of Jesus, and with His brothers."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 15,
+          "text": "And in those days Peter stood up in the midst of the disciples [c] (altogether the number of names was about a hundred and twenty), and said,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 16,
+          "text": "\u201cMen and brethren, this Scripture had to be fulfilled, which the Holy Spirit spoke before by the mouth of David concerning Judas, who became a guide to those who arrested Jesus;"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 17,
+          "text": "for he was numbered with us and obtained a part in this ministry.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 18,
+          "text": "(Now this man purchased a field with the wages of iniquity; and falling headlong, he burst open in the middle and all his entrails gushed out."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 19,
+          "text": "And it became known to all those dwelling in Jerusalem; so that field is called in their own language, Akel Dama, that is, Field of Blood.)"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 20,
+          "text": "\u201cFor it is written in the book of Psalms: \u2018Let his dwelling place be desolate, And let no one live in it\u2019; [d] and, \u2018Let [e] another take his office.\u2019 [f]"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 21,
+          "text": "\u201cTherefore, of these men who have accompanied us all the time that the Lord Jesus went in and out among us,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 22,
+          "text": "beginning from the baptism of John to that day when He was taken up from us, one of these must become a witness with us of His resurrection.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 23,
+          "text": "And they proposed two: Joseph called Barsabas, who was surnamed Justus, and Matthias."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 24,
+          "text": "And they prayed and said, \u201cYou, O Lord, who know the hearts of all, show which of these two You have chosen"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 25,
+          "text": "to take part in this ministry and apostleship from which Judas by transgression fell, that he might go to his own place.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 26,
+          "text": "And they cast their lots, and the lot fell on Matthias. And he was numbered with the eleven apostles."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-12-24T04:00:25.438150"
+    }
+  ]
+}

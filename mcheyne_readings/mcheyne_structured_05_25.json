@@ -1,0 +1,899 @@
+{
+  "format_version": "1.0",
+  "date": "05/25",
+  "cached_at": "2026-02-05T17:00:59.982476",
+  "Family": [
+    {
+      "reference": "Numbers 34",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 1,
+          "text": "1 Then the L\u1d0f\u0280\u1d05 spoke to Moses, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 2,
+          "text": "2 \u201cCommand the children of Israel, and say to them: \u2018When you come into the land of Canaan, this is the land that shall fall to you as an inheritance\u2014the land of Canaan to its boundaries."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 3,
+          "text": "3 Your southern border shall be from the Wilderness of Zin along the border of Edom; then your southern border shall extend eastward to the end of the Salt Sea;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 4,
+          "text": "4 your border shall turn from the southern side of the Ascent of Akrabbim, continue to Zin, and be on the south of Kadesh Barnea; then it shall go on to Hazar Addar, and continue to Azmon;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 5,
+          "text": "5 the border shall turn from Azmon to the Brook of Egypt, and it shall end at the Sea."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 6,
+          "text": "6 \u2018As for the western border, you shall have the Great Sea for a border; this shall be your western border."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 7,
+          "text": "7 \u2018And this shall be your northern border: From the Great Sea you shall mark out your border line to Mount Hor;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 8,
+          "text": "8 from Mount Hor you shall mark out your border to the entrance of Hamath; then the direction of the border shall be toward Zedad;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 9,
+          "text": "9 the border shall proceed to Ziphron, and it shall end at Hazar Enan. This shall be your northern border."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 10,
+          "text": "10 \u2018You shall mark out your eastern border from Hazar Enan to Shepham;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 11,
+          "text": "11 the border shall go down from Shepham to Riblah on the east side of Ain; the border shall go down and reach to the eastern side of the Sea of Chinnereth;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 12,
+          "text": "12 the border shall go down along the Jordan, and it shall end at the Salt Sea. This shall be your land with its surrounding boundaries.\u2019 \u201c"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 13,
+          "text": "13 Then Moses commanded the children of Israel, saying: \u201cThis is the land which you shall inherit by lot, which the L\u1d0f\u0280\u1d05 has commanded to give to the nine tribes and to the half-tribe."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 14,
+          "text": "14 For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and the half-tribe of Manasseh has received its inheritance."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 15,
+          "text": "15 The two tribes and the half-tribe have received their inheritance on this side of the Jordan, across from Jericho eastward, toward the sunrise.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 16,
+          "text": "16 And the L\u1d0f\u0280\u1d05 spoke to Moses, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 17,
+          "text": "17 \u201cThese are the names of the men who shall divide the land among you as an inheritance: Eleazar the priest and Joshua the son of Nun."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 18,
+          "text": "18 And you shall take one leader of every tribe to divide the land for the inheritance."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 19,
+          "text": "19 These are the names of the men: from the tribe of Judah, Caleb the son of Jephunneh;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 20,
+          "text": "20 from the tribe of the children of Simeon, Shemuel the son of Ammihud;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 21,
+          "text": "21 from the tribe of Benjamin, Elidad the son of Chislon;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 22,
+          "text": "22 a leader from the tribe of the children of Dan, Bukki the son of Jogli;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 23,
+          "text": "23 from the sons of Joseph: a leader from the tribe of the children of Manasseh, Hanniel the son of Ephod,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 24,
+          "text": "24 and a leader from the tribe of the children of Ephraim, Kemuel the son of Shiphtan;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 25,
+          "text": "25 a leader from the tribe of the children of Zebulun, Elizaphan the son of Parnach;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 26,
+          "text": "26 a leader from the tribe of the children of Issachar, Paltiel the son of Azzan;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 27,
+          "text": "27 a leader from the tribe of the children of Asher, Ahihud the son of Shelomi;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 28,
+          "text": "28 and a leader from the tribe of the children of Naphtali, Pedahel the son of Ammihud.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 34,
+          "verse": 29,
+          "text": "29 These are the ones the L\u1d0f\u0280\u1d05 commanded to divide the inheritance among the children of Israel in the land of Canaan."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:01:00.769679"
+    },
+    {
+      "reference": "Psalm 78",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 1,
+          "text": "1 A Contemplation of Asaph. Give ear, O my people, to my law; Incline your ears to the words of my mouth."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 2,
+          "text": "2 I will open my mouth in a parable; I will utter dark sayings of old,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 3,
+          "text": "3 Which we have heard and known, And our fathers have told us."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 4,
+          "text": "4 We will not hide them from their children, Telling to the generation to come the praises of the L\u1d0f\u0280\u1d05, And His strength and His wonderful works that He has done."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 5,
+          "text": "5 For He established a testimony in Jacob, And appointed a law in Israel, Which He commanded our fathers, That they should make them known to their children;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 6,
+          "text": "6 That the generation to come might know them, The children who would be born, That they may arise and declare them to their children,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 7,
+          "text": "7 That they may set their hope in God, And not forget the works of God, But keep His commandments;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 8,
+          "text": "8 And may not be like their fathers, A stubborn and rebellious generation, A generation that did not set its heart aright, And whose spirit was not faithful to God."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 9,
+          "text": "9 The children of Ephraim, being armed and carrying bows, Turned back in the day of battle."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 10,
+          "text": "10 They did not keep the covenant of God; They refused to walk in His law,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 11,
+          "text": "11 And forgot His works And His wonders that He had shown them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 12,
+          "text": "12 Marvelous things He did in the sight of their fathers, In the land of Egypt, in the field of Zoan."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 13,
+          "text": "13 He divided the sea and caused them to pass through; And He made the waters stand up like a heap."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 14,
+          "text": "14 In the daytime also He led them with the cloud, And all the night with a light of fire."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 15,
+          "text": "15 He split the rocks in the wilderness, And gave them drink in abundance like the depths."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 16,
+          "text": "16 He also brought streams out of the rock, And caused waters to run down like rivers."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 17,
+          "text": "17 But they sinned even more against Him By rebelling against the Most High in the wilderness."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 18,
+          "text": "18 And they tested God in their heart By asking for the food of their fancy."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 19,
+          "text": "19 Yes, they spoke against God: They said, \u201cCan God prepare a table in the wilderness?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 20,
+          "text": "20 Behold, He struck the rock, So that the waters gushed out, And the streams overflowed. Can He give bread also? Can He provide meat for His people?\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 21,
+          "text": "21 Therefore the L\u1d0f\u0280\u1d05 heard this and was furious; So a fire was kindled against Jacob, And anger also came up against Israel,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 22,
+          "text": "22 Because they did not believe in God, And did not trust in His salvation."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 23,
+          "text": "23 Yet He had commanded the clouds above, And opened the doors of heaven,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 24,
+          "text": "24 Had rained down manna on them to eat, And given them of the bread of heaven."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 25,
+          "text": "25 Men ate angels\u2019 food; He sent them food to the full."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 26,
+          "text": "26 He caused an east wind to blow in the heavens; And by His power He brought in the south wind."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 27,
+          "text": "27 He also rained meat on them like the dust, Feathered fowl like the sand of the seas;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 28,
+          "text": "28 And He let them fall in the midst of their camp, All around their dwellings."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 29,
+          "text": "29 So they ate and were well filled, For He gave them their own desire."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 30,
+          "text": "30 They were not deprived of their craving; But while their food was still in their mouths,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 31,
+          "text": "31 The wrath of God came against them, And slew the stoutest of them, And struck down the choice men of Israel."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 32,
+          "text": "32 In spite of this they still sinned, And did not believe in His wondrous works."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 33,
+          "text": "33 Therefore their days He consumed in futility, And their years in fear."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 34,
+          "text": "34 When He slew them, then they sought Him; And they returned and sought earnestly for God."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 35,
+          "text": "35 Then they remembered that God was their rock, And the Most High God their Redeemer."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 36,
+          "text": "36 Nevertheless they flattered Him with their mouth, And they lied to Him with their tongue;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 37,
+          "text": "37 For their heart was not steadfast with Him, Nor were they faithful in His covenant."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 38,
+          "text": "38 But He, being full of compassion, forgave their iniquity, And did not destroy them. Yes, many a time He turned His anger away, And did not stir up all His wrath;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 39,
+          "text": "39 For He remembered that they were but flesh, A breath that passes away and does not come again."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 40,
+          "text": "40 How often they provoked Him in the wilderness, And grieved Him in the desert!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 41,
+          "text": "41 Yes, again and again they tempted God, And limited the Holy One of Israel."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 42,
+          "text": "42 They did not remember His power: The day when He redeemed them from the enemy,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 43,
+          "text": "43 When He worked His signs in Egypt, And His wonders in the field of Zoan;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 44,
+          "text": "44 Turned their rivers into blood, And their streams, that they could not drink."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 45,
+          "text": "45 He sent swarms of flies among them, which devoured them, And frogs, which destroyed them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 46,
+          "text": "46 He also gave their crops to the caterpillar, And their labor to the locust."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 47,
+          "text": "47 He destroyed their vines with hail, And their sycamore trees with frost."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 48,
+          "text": "48 He also gave up their cattle to the hail, And their flocks to fiery lightning."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 49,
+          "text": "49 He cast on them the fierceness of His anger, Wrath, indignation, and trouble, By sending angels of destruction among them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 50,
+          "text": "50 He made a path for His anger; He did not spare their soul from death, But gave their life over to the plague,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 51,
+          "text": "51 And destroyed all the firstborn in Egypt, The first of their strength in the tents of Ham."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 52,
+          "text": "52 But He made His own people go forth like sheep, And guided them in the wilderness like a flock;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 53,
+          "text": "53 And He led them on safely, so that they did not fear; But the sea overwhelmed their enemies."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 54,
+          "text": "54 And He brought them to His holy border, This mountain which His right hand had acquired."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 55,
+          "text": "55 He also drove out the nations before them, Allotted them an inheritance by survey, And made the tribes of Israel dwell in their tents."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 56,
+          "text": "56 Yet they tested and provoked the Most High God, And did not keep His testimonies,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 57,
+          "text": "57 But turned back and acted unfaithfully like their fathers; They were turned aside like a deceitful bow."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 58,
+          "text": "58 For they provoked Him to anger with their high places, And moved Him to jealousy with their carved images."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 59,
+          "text": "59 When God heard this, He was furious, And greatly abhorred Israel,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 60,
+          "text": "60 So that He forsook the tabernacle of Shiloh, The tent He had placed among men,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 61,
+          "text": "61 And delivered His strength into captivity, And His glory into the enemy\u2019s hand."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 62,
+          "text": "62 He also gave His people over to the sword, And was furious with His inheritance."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 63,
+          "text": "63 The fire consumed their young men, And their maidens were not given in marriage."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 64,
+          "text": "64 Their priests fell by the sword, And their widows made no lamentation."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 65,
+          "text": "65 Then the L\u1d0f\u0280\u1d05 awoke as from sleep, Like a mighty man who shouts because of wine."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 66,
+          "text": "66 And He beat back His enemies; He put them to a perpetual reproach."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 67,
+          "text": "67 Moreover He rejected the tent of Joseph, And did not choose the tribe of Ephraim,"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 68,
+          "text": "68 But chose the tribe of Judah, Mount Zion which He loved."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 69,
+          "text": "69 And He built His sanctuary like the heights, Like the earth which He has established forever."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 70,
+          "text": "70 He also chose David His servant, And took him from the sheepfolds;"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 71,
+          "text": "71 From following the ewes that had young He brought him, To shepherd Jacob His people, And Israel His inheritance."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 78,
+          "verse": 72,
+          "text": "72 So he shepherded them according to the integrity of his heart, And guided them by the skillfulness of his hands."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:01:01.367471"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Isaiah 26",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 1,
+          "text": "1 In that day this song will be sung in the land of Judah: \u201cWe have a strong city; God will appoint salvation for walls and bulwarks."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 2,
+          "text": "2 Open the gates, That the righteous nation which keeps the truth may enter in."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 3,
+          "text": "3 You will keep him in perfect peace, Whose mind is stayed on You, Because he trusts in You."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 4,
+          "text": "4 Trust in the L\u1d0f\u0280\u1d05 forever, For in Yah, the L\u1d0f\u0280\u1d05, is everlasting strength."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 5,
+          "text": "5 For He brings down those who dwell on high, The lofty city; He lays it low, He lays it low to the ground, He brings it down to the dust."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 6,
+          "text": "6 The foot shall tread it down\u2014 The feet of the poor And the steps of the needy.\u201d"
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 7,
+          "text": "7 The way of the just is uprightness; O Most Upright, You weigh the path of the just."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 8,
+          "text": "8 Yes, in the way of Your judgments, O L\u1d0f\u0280\u1d05, we have waited for You; The desire of our soul is for Your name And for the remembrance of You."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 9,
+          "text": "9 With my soul I have desired You in the night, Yes, by my spirit within me I will seek You early; For when Your judgments are in the earth, The inhabitants of the world will learn righteousness."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 10,
+          "text": "10 Let grace be shown to the wicked, Yet he will not learn righteousness; In the land of uprightness he will deal unjustly, And will not behold the majesty of the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 11,
+          "text": "11 Lord, when Your hand is lifted up, they will not see. But they will see and be ashamed For their envy of people; Yes, the fire of Your enemies shall devour them."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 12,
+          "text": "12 Lord, You will establish peace for us, For You have also done all our works in us."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 13,
+          "text": "13 O L\u1d0f\u0280\u1d05 our God, masters besides You Have had dominion over us; But by You only we make mention of Your name."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 14,
+          "text": "14 They are dead, they will not live; They are deceased, they will not rise. Therefore You have punished and destroyed them, And made all their memory to perish."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 15,
+          "text": "15 You have increased the nation, O L\u1d0f\u0280\u1d05, You have increased the nation; You are glorified; You have expanded all the borders of the land."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 16,
+          "text": "16 Lord, in trouble they have visited You, They poured out a prayer when Your chastening was upon them."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 17,
+          "text": "17 As a woman with child Is in pain and cries out in her pangs, When she draws near the time of her delivery, So have we been in Your sight, O L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 18,
+          "text": "18 We have been with child, we have been in pain; We have, as it were, brought forth wind; We have not accomplished any deliverance in the earth, Nor have the inhabitants of the world fallen."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 19,
+          "text": "19 Your dead shall live; Together with my dead body they shall arise. Awake and sing, you who dwell in dust; For your dew is like the dew of herbs, And the earth shall cast out the dead."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 20,
+          "text": "20 Come, my people, enter your chambers, And shut your doors behind you; Hide yourself, as it were, for a little moment, Until the indignation is past."
+        },
+        {
+          "book": "Isaiah",
+          "chapter": 26,
+          "verse": 21,
+          "text": "21 For behold, the L\u1d0f\u0280\u1d05 comes out of His place To punish the inhabitants of the earth for their iniquity; The earth will also disclose her blood, And will no more cover her slain."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:01:02.062809"
+    },
+    {
+      "reference": "1 John 4",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 1,
+          "text": "1 Beloved, do not believe every spirit, but test the spirits, whether they are of God; because many false prophets have gone out into the world."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 2,
+          "text": "2 By this you know the Spirit of God: Every spirit that confesses that Jesus Christ has come in the flesh is of God,"
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 3,
+          "text": "3 and every spirit that does not confess that Jesus Christ has come in the flesh is not of God. And this is the spirit of the Antichrist, which you have heard was coming, and is now already in the world."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 4,
+          "text": "4 You are of God, little children, and have overcome them, because He who is in you is greater than he who is in the world."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 5,
+          "text": "5 They are of the world. Therefore they speak as of the world, and the world hears them."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 6,
+          "text": "6 We are of God. He who knows God hears us; he who is not of God does not hear us. By this we know the spirit of truth and the spirit of error."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 7,
+          "text": "7 Beloved, let us love one another, for love is of God; and everyone who loves is born of God and knows God."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 8,
+          "text": "8 He who does not love does not know God, for God is love."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 9,
+          "text": "9 In this the love of God was manifested toward us, that God has sent His only begotten Son into the world, that we might live through Him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 10,
+          "text": "10 In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 11,
+          "text": "11 Beloved, if God so loved us, we also ought to love one another."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 12,
+          "text": "12 No one has seen God at any time. If we love one another, God abides in us, and His love has been perfected in us."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 13,
+          "text": "13 By this we know that we abide in Him, and He in us, because He has given us of His Spirit."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 14,
+          "text": "14 And we have seen and testify that the Father has sent the Son as Savior of the world."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 15,
+          "text": "15 Whoever confesses that Jesus is the Son of God, God abides in him, and he in God."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 16,
+          "text": "16 And we have known and believed the love that God has for us. God is love, and he who abides in love abides in God, and God in him."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 17,
+          "text": "17 Love has been perfected among us in this: that we may have boldness in the day of judgment; because as He is, so are we in this world."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 18,
+          "text": "18 There is no fear in love; but perfect love casts out fear, because fear involves torment. But he who fears has not been made perfect in love."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 19,
+          "text": "19 We love Him because He first loved us."
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 20,
+          "text": "20 If someone says, \u201cI love God,\u201d and hates his brother, he is a liar; for he who does not love his brother whom he has seen, how can he love God whom he has not seen?"
+        },
+        {
+          "book": "1 John",
+          "chapter": 4,
+          "verse": 21,
+          "text": "21 And this commandment we have from Him: that he who loves God must love his brother also."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:01:02.603923"
+    }
+  ]
+}

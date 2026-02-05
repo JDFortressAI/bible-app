@@ -1,0 +1,761 @@
+{
+  "format_version": "1.0",
+  "date": "02/10",
+  "cached_at": "2026-02-02T04:00:18.358821",
+  "Family": [
+    {
+      "reference": "Genesis 43",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 1,
+          "text": "1 Now the famine was severe in the land."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 2,
+          "text": "2 And it came to pass, when they had eaten up the grain which they had brought from Egypt, that their father said to them, \u201cGo back, buy us a little food.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 3,
+          "text": "3 But Judah spoke to him, saying, \u201cThe man solemnly warned us, saying, \u2018You shall not see my face unless your brother is with you.\u2019 \u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 4,
+          "text": "4 \u201cIf you send our brother with us, we will go down and buy you food."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 5,
+          "text": "5 But if you will not send him, we will not go down; for the man said to us, \u2018You shall not see my face unless your brother is with you.\u2019 \u201c"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 6,
+          "text": "6 And Israel said, \u201cWhy did you deal so wrongfully with me as to tell the man whether you had still another brother?\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 7,
+          "text": "7 But they said, \u201cThe man asked us pointedly about ourselves and our family, saying, \u2018Is your father still alive? Have you another brother?\u2019 And we told him according to these words. Could we possibly have known that he would say, \u2018Bring your brother down\u2019?\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 8,
+          "text": "8 Then Judah said to Israel his father, \u201cSend the lad with me, and we will arise and go, that we may live and not die, both we and you and also our little ones."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 9,
+          "text": "9 I myself will be surety for him; from my hand you shall require him. If I do not bring him back to you and set him before you, then let me bear the blame forever."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 10,
+          "text": "10 For if we had not lingered, surely by now we would have returned this second time.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 11,
+          "text": "11 And their father Israel said to them, \u201cIf it must be so, then do this: Take some of the best fruits of the land in your vessels and carry down a present for the man\u2014a little balm and a little honey, spices and myrrh, pistachio nuts and almonds."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 12,
+          "text": "12 Take double money in your hand, and take back in your hand the money that was returned in the mouth of your sacks; perhaps it was an oversight."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 13,
+          "text": "13 Take your brother also, and arise, go back to the man."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 14,
+          "text": "14 And may God Almighty give you mercy before the man, that he may release your other brother and Benjamin. If I am bereaved, I am bereaved!\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 15,
+          "text": "15 So the men took that present and Benjamin, and they took double money in their hand, and arose and went down to Egypt; and they stood before Joseph."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 16,
+          "text": "16 When Joseph saw Benjamin with them, he said to the steward of his house, \u201cTake these men to my home, and slaughter an animal and make ready; for these men will dine with me at noon.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 17,
+          "text": "17 Then the man did as Joseph ordered, and the man brought the men into Joseph\u2019s house."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 18,
+          "text": "18 Now the men were afraid because they were brought into Joseph\u2019s house; and they said, \u201cIt is because of the money, which was returned in our sacks the first time, that we are brought in, so that he may make a case against us and fall upon us, to take us as slaves with our donkeys.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 19,
+          "text": "19 When they drew near to the steward of Joseph\u2019s house, they talked with him at the door of the house,"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 20,
+          "text": "20 and said, \u201cO sir, we indeed came down the first time to buy food;"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 21,
+          "text": "21 but it happened, when we came to the encampment, that we opened our sacks, and there, each man\u2019s money was in the mouth of his sack, our money in full weight; so we have brought it back in our hand."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 22,
+          "text": "22 And we have brought down other money in our hands to buy food. We do not know who put our money in our sacks.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 23,
+          "text": "23 But he said, \u201cPeace be with you, do not be afraid. Your God and the God of your father has given you treasure in your sacks; I had your money.\u201d Then he brought Simeon out to them."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 24,
+          "text": "24 So the man brought the men into Joseph\u2019s house and gave them water, and they washed their feet; and he gave their donkeys feed."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 25,
+          "text": "25 Then they made the present ready for Joseph\u2019s coming at noon, for they heard that they would eat bread there."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 26,
+          "text": "26 And when Joseph came home, they brought him the present which was in their hand into the house, and bowed down before him to the earth."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 27,
+          "text": "27 Then he asked them about their well-being, and said, \u201cIs your father well, the old man of whom you spoke? Is he still alive?\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 28,
+          "text": "28 And they answered, \u201cYour servant our father is in good health; he is still alive.\u201d And they bowed their heads down and prostrated themselves."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 29,
+          "text": "29 Then he lifted his eyes and saw his brother Benjamin, his mother\u2019s son, and said, \u201cIs this your younger brother of whom you spoke to me?\u201d And he said, \u201cGod be gracious to you, my son.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 30,
+          "text": "30 Now his heart yearned for his brother; so Joseph made haste and sought somewhere to weep. And he went into his chamber and wept there."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 31,
+          "text": "31 Then he washed his face and came out; and he restrained himself, and said, \u201cServe the bread.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 32,
+          "text": "32 So they set him a place by himself, and them by themselves, and the Egyptians who ate with him by themselves; because the Egyptians could not eat food with the Hebrews, for that is an abomination to the Egyptians."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 33,
+          "text": "33 And they sat before him, the firstborn according to his birthright and the youngest according to his youth; and the men looked in astonishment at one another."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 43,
+          "verse": 34,
+          "text": "34 Then he took servings to them from before him, but Benjamin\u2019s serving was five times as much as any of theirs. So they drank and were merry with him."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-02T04:00:20.176550"
+    },
+    {
+      "reference": "Mark 13",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 1,
+          "text": "1 Then as He went out of the temple, one of His disciples said to Him, \u201cTeacher, see what manner of stones and what buildings are here!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 2,
+          "text": "2 And Jesus answered and said to him, \u201cDo you see these great buildings? Not one stone shall be left upon another, that shall not be thrown down.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 3,
+          "text": "3 Now as He sat on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked Him privately,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 4,
+          "text": "4 \u201cTell us, when will these things be? And what will be the sign when all these things will be fulfilled?\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 5,
+          "text": "5 And Jesus, answering them, began to say: \u201cTake heed that no one deceives you."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 6,
+          "text": "6 For many will come in My name, saying, \u2018I am He,\u2019 and will deceive many."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 7,
+          "text": "7 But when you hear of wars and rumors of wars, do not be troubled; for such things must happen, but the end is not yet."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 8,
+          "text": "8 For nation will rise against nation, and kingdom against kingdom. And there will be earthquakes in various places, and there will be famines and troubles. These are the beginnings of sorrows."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 9,
+          "text": "9 But watch out for yourselves, for they will deliver you up to councils, and you will be beaten in the synagogues. You will be brought before rulers and kings for My sake, for a testimony to them."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 10,
+          "text": "10 And the gospel must first be preached to all the nations."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 11,
+          "text": "11 But when they arrest you and deliver you up, do not worry beforehand, or premeditate what you will speak. But whatever is given you in that hour, speak that; for it is not you who speak, but the Holy Spirit."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 12,
+          "text": "12 Now brother will betray brother to death, and a father his child; and children will rise up against parents and cause them to be put to death."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 13,
+          "text": "13 And you will be hated by all for My name\u2019s sake. But he who endures to the end shall be saved."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 14,
+          "text": "14 \u201cSo when you see the \u2018abomination of desolation,\u2019 spoken of by Daniel the prophet, standing where it ought not\u201d (let the reader understand), \u201cthen let those who are in Judea flee to the mountains."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 15,
+          "text": "15 Let him who is on the housetop not go down into the house, nor enter to take anything out of his house."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 16,
+          "text": "16 And let him who is in the field not go back to get his clothes."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 17,
+          "text": "17 But woe to those who are pregnant and to those who are nursing babies in those days!"
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 18,
+          "text": "18 And pray that your flight may not be in winter."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 19,
+          "text": "19 For in those days there will be tribulation, such as has not been since the beginning of the creation which God created until this time, nor ever shall be."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 20,
+          "text": "20 And unless the Lord had shortened those days, no flesh would be saved; but for the elect\u2019s sake, whom He chose, He shortened the days."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 21,
+          "text": "21 Then if anyone says to you, \u2018Look, here is the Christ!\u2019 or, \u2018Look, He is there!\u2019 do not believe it."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 22,
+          "text": "22 For false christs and false prophets will rise and show signs and wonders to deceive, if possible, even the elect."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 23,
+          "text": "23 But take heed; see, I have told you all things beforehand."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 24,
+          "text": "24 \u201cBut in those days, after that tribulation, the sun will be darkened, and the moon will not give its light;"
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 25,
+          "text": "25 the stars of heaven will fall, and the powers in the heavens will be shaken."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 26,
+          "text": "26 Then they will see the Son of Man coming in the clouds with great power and glory."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 27,
+          "text": "27 And then He will send His angels, and gather together His elect from the four winds, from the farthest part of earth to the farthest part of heaven."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 28,
+          "text": "28 \u201cNow learn this parable from the fig tree: When its branch has already become tender, and puts forth leaves, you know that summer is near."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 29,
+          "text": "29 So you also, when you see these things happening, know that it is near\u2014at the doors!"
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 30,
+          "text": "30 Assuredly, I say to you, this generation will by no means pass away till all these things take place."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 31,
+          "text": "31 Heaven and earth will pass away, but My words will by no means pass away."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 32,
+          "text": "32 \u201cBut of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 33,
+          "text": "33 Take heed, watch and pray; for you do not know when the time is."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 34,
+          "text": "34 It is like a man going to a far country, who left his house and gave authority to his servants, and to each his work, and commanded the doorkeeper to watch."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 35,
+          "text": "35 Watch therefore, for you do not know when the master of the house is coming\u2014in the evening, at midnight, at the crowing of the rooster, or in the morning\u2014"
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 36,
+          "text": "36 lest, coming suddenly, he find you sleeping."
+        },
+        {
+          "book": "Mark",
+          "chapter": 13,
+          "verse": 37,
+          "text": "37 And what I say to you, I say to all: Watch!\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-02T04:00:21.656862"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Job 9",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 1,
+          "text": "1 Then Job answered and said:"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 2,
+          "text": "2 \u201cTruly I know it is so, But how can a man be righteous before God?"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 3,
+          "text": "3 If one wished to contend with Him, He could not answer Him one time out of a thousand."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 4,
+          "text": "4 God is wise in heart and mighty in strength. Who has hardened himself against Him and prospered?"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 5,
+          "text": "5 He removes the mountains, and they do not know When He overturns them in His anger;"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 6,
+          "text": "6 He shakes the earth out of its place, And its pillars tremble;"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 7,
+          "text": "7 He commands the sun, and it does not rise; He seals off the stars;"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 8,
+          "text": "8 He alone spreads out the heavens, And treads on the waves of the sea;"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 9,
+          "text": "9 He made the Bear, Orion, and the Pleiades, And the chambers of the south;"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 10,
+          "text": "10 He does great things past finding out, Yes, wonders without number."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 11,
+          "text": "11 If He goes by me, I do not see Him; If He moves past, I do not perceive Him;"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 12,
+          "text": "12 If He takes away, who can hinder Him? Who can say to Him, \u2018What are You doing?\u2019"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 13,
+          "text": "13 God will not withdraw His anger, The allies of the proud lie prostrate beneath Him."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 14,
+          "text": "14 \u201cHow then can I answer Him, And choose my words to reason with Him?"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 15,
+          "text": "15 For though I were righteous, I could not answer Him; I would beg mercy of my Judge."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 16,
+          "text": "16 If I called and He answered me, I would not believe that He was listening to my voice."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 17,
+          "text": "17 For He crushes me with a tempest, And multiplies my wounds without cause."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 18,
+          "text": "18 He will not allow me to catch my breath, But fills me with bitterness."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 19,
+          "text": "19 If it is a matter of strength, indeed He is strong; And if of justice, who will appoint my day in court?"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 20,
+          "text": "20 Though I were righteous, my own mouth would condemn me; Though I were blameless, it would prove me perverse."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 21,
+          "text": "21 \u201cI am blameless, yet I do not know myself; I despise my life."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 22,
+          "text": "22 It is all one thing; Therefore I say, \u2018He destroys the blameless and the wicked.\u2019"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 23,
+          "text": "23 If the scourge slays suddenly, He laughs at the plight of the innocent."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 24,
+          "text": "24 The earth is given into the hand of the wicked. He covers the faces of its judges. If it is not He, who else could it be?"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 25,
+          "text": "25 \u201cNow my days are swifter than a runner; They flee away, they see no good."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 26,
+          "text": "26 They pass by like swift ships, Like an eagle swooping on its prey."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 27,
+          "text": "27 If I say, \u2018I will forget my complaint, I will put off my sad face and wear a smile,\u2019"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 28,
+          "text": "28 I am afraid of all my sufferings; I know that You will not hold me innocent."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 29,
+          "text": "29 If I am condemned, Why then do I labor in vain?"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 30,
+          "text": "30 If I wash myself with snow water, And cleanse my hands with soap,"
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 31,
+          "text": "31 Yet You will plunge me into the pit, And my own clothes will abhor me."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 32,
+          "text": "32 \u201cFor He is not a man, as I am, That I may answer Him, And that we should go to court together."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 33,
+          "text": "33 Nor is there any mediator between us, Who may lay his hand on us both."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 34,
+          "text": "34 Let Him take His rod away from me, And do not let dread of Him terrify me."
+        },
+        {
+          "book": "Job",
+          "chapter": 9,
+          "verse": 35,
+          "text": "35 Then I would speak and not fear Him, But it is not so with me."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-02T04:00:22.858064"
+    },
+    {
+      "reference": "Romans 13",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 1,
+          "text": "1 Let every soul be subject to the governing authorities. For there is no authority except from God, and the authorities that exist are appointed by God."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 2,
+          "text": "2 Therefore whoever resists the authority resists the ordinance of God, and those who resist will bring judgment on themselves."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 3,
+          "text": "3 For rulers are not a terror to good works, but to evil. Do you want to be unafraid of the authority? Do what is good, and you will have praise from the same."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 4,
+          "text": "4 For he is God\u2019s minister to you for good. But if you do evil, be afraid; for he does not bear the sword in vain; for he is God\u2019s minister, an avenger to execute wrath on him who practices evil."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 5,
+          "text": "5 Therefore you must be subject, not only because of wrath but also for conscience\u2019 sake."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 6,
+          "text": "6 For because of this you also pay taxes, for they are God\u2019s ministers attending continually to this very thing."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 7,
+          "text": "7 Render therefore to all their due: taxes to whom taxes are due, customs to whom customs, fear to whom fear, honor to whom honor."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 8,
+          "text": "8 Owe no one anything except to love one another, for he who loves another has fulfilled the law."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 9,
+          "text": "9 For the commandments, \u201cYou shall not commit adultery,\u201d \u201cYou shall not murder,\u201d \u201cYou shall not steal,\u201d \u201cYou shall not bear false witness,\u201d \u201cYou shall not covet,\u201d and if there is any other commandment, are all summed up in this saying, namely, \u201cYou shall love your neighbor as yourself.\u201d"
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 10,
+          "text": "10 Love does no harm to a neighbor; therefore love is the fulfillment of the law."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 11,
+          "text": "11 And do this, knowing the time, that now it is high time to awake out of sleep; for now our salvation is nearer than when we first believed."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 12,
+          "text": "12 The night is far spent, the day is at hand. Therefore let us cast off the works of darkness, and let us put on the armor of light."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 13,
+          "text": "13 Let us walk properly, as in the day, not in revelry and drunkenness, not in lewdness and lust, not in strife and envy."
+        },
+        {
+          "book": "Romans",
+          "chapter": 13,
+          "verse": 14,
+          "text": "14 But put on the Lord Jesus Christ, and make no provision for the flesh, to fulfill its lusts."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-02T04:00:25.216718"
+    }
+  ]
+}

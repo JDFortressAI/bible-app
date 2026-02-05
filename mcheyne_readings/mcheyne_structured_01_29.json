@@ -1,0 +1,845 @@
+{
+  "format_version": "1.0",
+  "date": "01/29",
+  "cached_at": "2026-01-21T04:00:18.524805",
+  "Family": [
+    {
+      "reference": "Genesis 30",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 1,
+          "text": "Now when Rachel saw that she bore Jacob no children, Rachel envied her sister, and said to Jacob, \u201cGive me children, or else I die!\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 2,
+          "text": "And Jacob\u2019s anger was aroused against Rachel, and he said, \u201cAm I in the place of God, who has withheld from you the fruit of the womb?\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 3,
+          "text": "So she said, \u201cHere is my maid Bilhah; go in to her, and she will bear a child on my knees, that I also may have children by her.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 4,
+          "text": "Then she gave him Bilhah her maid as wife, and Jacob went in to her."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 5,
+          "text": "And Bilhah conceived and bore Jacob a son."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 6,
+          "text": "Then Rachel said, \u201cGod has judged my case; and He has also heard my voice and given me a son.\u201d Therefore she called his name Dan."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 7,
+          "text": "And Rachel\u2019s maid Bilhah conceived again and bore Jacob a second son."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 8,
+          "text": "Then Rachel said, \u201cWith great wrestlings I have wrestled with my sister, and indeed I have prevailed.\u201d So she called his name Naphtali."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 9,
+          "text": "When Leah saw that she had stopped bearing, she took Zilpah her maid and gave her to Jacob as wife."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 10,
+          "text": "And Leah\u2019s maid Zilpah bore Jacob a son."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 11,
+          "text": "Then Leah said, \u201cA troop comes!\u201d So she called his name Gad."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 12,
+          "text": "And Leah\u2019s maid Zilpah bore Jacob a second son."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 13,
+          "text": "Then Leah said, \u201cI am happy, for the daughters will call me blessed.\u201d So she called his name Asher."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 14,
+          "text": "Now Reuben went in the days of wheat harvest and found mandrakes in the field, and brought them to his mother Leah. Then Rachel said to Leah, \u201cPlease give me some of your son\u2019s mandrakes.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 15,
+          "text": "But she said to her, \u201cIs it a small matter that you have taken away my husband? Would you take away my son\u2019s mandrakes also?\u201d And Rachel said, \u201cTherefore he will lie with you tonight for your son\u2019s mandrakes.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 16,
+          "text": "When Jacob came out of the field in the evening, Leah went out to meet him and said, \u201cYou must come in to me, for I have surely hired you with my son\u2019s mandrakes.\u201d And he lay with her that night."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 17,
+          "text": "And God listened to Leah, and she conceived and bore Jacob a fifth son."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 18,
+          "text": "Leah said, \u201cGod has given me my wages, because I have given my maid to my husband.\u201d So she called his name Issachar."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 19,
+          "text": "Then Leah conceived again and bore Jacob a sixth son."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 20,
+          "text": "And Leah said, \u201cGod has endowed me with a good endowment; now my husband will dwell with me, because I have borne him six sons.\u201d So she called his name Zebulun."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 21,
+          "text": "Afterward she bore a daughter, and called her name Dinah."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 22,
+          "text": "Then God remembered Rachel, and God listened to her and opened her womb."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 23,
+          "text": "And she conceived and bore a son, and said, \u201cGod has taken away my reproach.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 24,
+          "text": "So she called his name Joseph, and said, \u201cThe L\u1d0f\u0280\u1d05 shall add to me another son.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 25,
+          "text": "And it came to pass, when Rachel had borne Joseph, that Jacob said to Laban, \u201cSend me away, that I may go to my own place and to my country."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 26,
+          "text": "Give me my wives and my children for whom I have served you, and let me go; for you know my service which I have done for you.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 27,
+          "text": "And Laban said to him, \u201cPlease stay, if I have found favor in your eyes, for I have learned by experience that the L\u1d0f\u0280\u1d05 has blessed me for your sake.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 28,
+          "text": "Then he said, \u201cName me your wages, and I will give it.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 29,
+          "text": "So Jacob said to him, \u201cYou know how I have served you and how your livestock has been with me."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 30,
+          "text": "For what you had before I came was little, and it has increased to a great amount; the L\u1d0f\u0280\u1d05 has blessed you since my coming. And now, when shall I also provide for my own house?\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 31,
+          "text": "So he said, \u201cWhat shall I give you?\u201d And Jacob said, \u201cYou shall not give me anything. If you will do this thing for me, I will again feed and keep your flocks:"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 32,
+          "text": "Let me pass through all your flock today, removing from there all the speckled and spotted sheep, and all the brown ones among the lambs, and the spotted and speckled among the goats; and these shall be my wages."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 33,
+          "text": "So my righteousness will answer for me in time to come, when the subject of my wages comes before you: every one that is not speckled and spotted among the goats, and brown among the lambs, will be considered stolen, if it is with me.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 34,
+          "text": "And Laban said, \u201cOh, that it were according to your word!\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 35,
+          "text": "So he removed that day the male goats that were speckled and spotted, all the female goats that were speckled and spotted, every one that had some white in it, and all the brown ones among the lambs, and gave them into the hand of his sons."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 36,
+          "text": "Then he put three days\u2019 journey between himself and Jacob, and Jacob fed the rest of Laban\u2019s flocks."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 37,
+          "text": "Now Jacob took for himself rods of green poplar and of the almond and chestnut trees, peeled white strips in them, and exposed the white which was in the rods."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 38,
+          "text": "And the rods which he had peeled, he set before the flocks in the gutters, in the watering troughs where the flocks came to drink, so that they should conceive when they came to drink."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 39,
+          "text": "So the flocks conceived before the rods, and the flocks brought forth streaked, speckled, and spotted."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 40,
+          "text": "Then Jacob separated the lambs, and made the flocks face toward the streaked and all the brown in the flock of Laban; but he put his own flocks by themselves and did not put them with Laban\u2019s flock."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 41,
+          "text": "And it came to pass, whenever the stronger livestock conceived, that Jacob placed the rods before the eyes of the livestock in the gutters, that they might conceive among the rods."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 42,
+          "text": "But when the flocks were feeble, he did not put them in; so the feebler were Laban\u2019s and the stronger Jacob\u2019s."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 30,
+          "verse": 43,
+          "text": "Thus the man became exceedingly prosperous, and had large flocks, female and male servants, and camels and donkeys."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-21T04:00:19.963182"
+    },
+    {
+      "reference": "Mark 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 1,
+          "text": "The beginning of the gospel of Jesus Christ, the Son of God."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 2,
+          "text": "As it is written in the Prophets: [a] \u201cBehold, I send My messenger before Your face, Who will prepare Your way before You.\u201d [b]"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 3,
+          "text": "\u201cThe voice of one crying in the wilderness: \u2018Prepare the way of the Lord; Make His paths straight.\u2019 \u201d [c]"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 4,
+          "text": "John came baptizing in the wilderness and preaching a baptism of repentance for the remission of sins."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Then all the land of Judea, and those from Jerusalem, went out to him and were all baptized by him in the Jordan River, confessing their sins."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 6,
+          "text": "Now John was clothed with camel\u2019s hair and with a leather belt around his waist, and he ate locusts and wild honey."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 7,
+          "text": "And he preached, saying, \u201cThere comes One after me who is mightier than I, whose sandal strap I am not worthy to stoop down and loose."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 8,
+          "text": "I indeed baptized you with water, but He will baptize you with the Holy Spirit.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 9,
+          "text": "It came to pass in those days that Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 10,
+          "text": "And immediately, coming up from [d] the water, He saw the heavens parting and the Spirit descending upon Him like a dove."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 11,
+          "text": "Then a voice came from heaven, \u201cYou are My beloved Son, in whom I am well pleased.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 12,
+          "text": "Immediately the Spirit drove Him into the wilderness."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 13,
+          "text": "And He was there in the wilderness forty days, tempted by Satan, and was with the wild beasts; and the angels ministered to Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 14,
+          "text": "Now after John was put in prison, Jesus came to Galilee, preaching the gospel of the kingdom [e] of God,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 15,
+          "text": "and saying, \u201cThe time is fulfilled, and the kingdom of God is at hand. Repent, and believe in the gospel.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 16,
+          "text": "And as He walked by the Sea of Galilee, He saw Simon and Andrew his brother casting a net into the sea; for they were fishermen."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 17,
+          "text": "Then Jesus said to them, \u201cFollow Me, and I will make you become fishers of men.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 18,
+          "text": "They immediately left their nets and followed Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 19,
+          "text": "When He had gone a little farther from there, He saw James the son of Zebedee, and John his brother, who also were in the boat mending their nets."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 20,
+          "text": "And immediately He called them, and they left their father Zebedee in the boat with the hired servants, and went after Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 21,
+          "text": "Then they went into Capernaum, and immediately on the Sabbath He entered the synagogue and taught."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 22,
+          "text": "And they were astonished at His teaching, for He taught them as one having authority, and not as the scribes."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 23,
+          "text": "Now there was a man in their synagogue with an unclean spirit. And he cried out,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 24,
+          "text": "saying, \u201cLet us alone! What have we to do with You, Jesus of Nazareth? Did You come to destroy us? I know who You are\u2014the Holy One of God!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 25,
+          "text": "But Jesus rebuked him, saying, \u201cBe quiet, and come out of him!\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 26,
+          "text": "And when the unclean spirit had convulsed him and cried out with a loud voice, he came out of him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 27,
+          "text": "Then they were all amazed, so that they questioned among themselves, saying, \u201cWhat is this? What new doctrine is this? For with authority [f] He commands even the unclean spirits, and they obey Him.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 28,
+          "text": "And immediately His fame spread throughout all the region around Galilee."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 29,
+          "text": "Now as soon as they had come out of the synagogue, they entered the house of Simon and Andrew, with James and John."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 30,
+          "text": "But Simon\u2019s wife\u2019s mother lay sick with a fever, and they told Him about her at once."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 31,
+          "text": "So He came and took her by the hand and lifted her up, and immediately the fever left her. And she served them."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 32,
+          "text": "At evening, when the sun had set, they brought to Him all who were sick and those who were demon-possessed."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 33,
+          "text": "And the whole city was gathered together at the door."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 34,
+          "text": "Then He healed many who were sick with various diseases, and cast out many demons; and He did not allow the demons to speak, because they knew Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 35,
+          "text": "Now in the morning, having risen a long while before daylight, He went out and departed to a solitary place; and there He prayed."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 36,
+          "text": "And Simon and those who were with Him searched for Him."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 37,
+          "text": "When they found Him, they said to Him, \u201cEveryone is looking for You.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 38,
+          "text": "But He said to them, \u201cLet us go into the next towns, that I may preach there also, because for this purpose I have come forth.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 39,
+          "text": "And He was preaching in their synagogues throughout all Galilee, and casting out demons."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 40,
+          "text": "Now a leper came to Him, imploring Him, kneeling down to Him and saying to Him, \u201cIf You are willing, You can make me clean.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 41,
+          "text": "Then Jesus, moved with compassion, stretched out His hand and touched him, and said to him, \u201cI am willing; be cleansed.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 42,
+          "text": "As soon as He had spoken, immediately the leprosy left him, and he was cleansed."
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 43,
+          "text": "And He strictly warned him and sent him away at once,"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 44,
+          "text": "and said to him, \u201cSee that you say nothing to anyone; but go your way, show yourself to the priest, and offer for your cleansing those things which Moses commanded, as a testimony to them.\u201d"
+        },
+        {
+          "book": "Mark",
+          "chapter": 1,
+          "verse": 45,
+          "text": "However, he went out and began to proclaim it freely, and to spread the matter, so that Jesus could no longer openly enter the city, but was outside in deserted places; and they came to Him from every direction."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-21T04:00:21.462420"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Esther 6",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 1,
+          "text": "That night the king could not sleep. So one was commanded to bring the book of the records of the chronicles; and they were read before the king."
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 2,
+          "text": "And it was found written that Mordecai had told of Bigthana and Teresh, two of the king\u2019s eunuchs, the doorkeepers who had sought to lay hands on King Ahasuerus."
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 3,
+          "text": "Then the king said, \u201cWhat honor or dignity has been bestowed on Mordecai for this?\u201d And the king\u2019s servants who attended him said, \u201cNothing has been done for him.\u201d"
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 4,
+          "text": "So the king said, \u201cWho is in the court?\u201d Now Haman had just entered the outer court of the king\u2019s palace to suggest that the king hang Mordecai on the gallows that he had prepared for him."
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 5,
+          "text": "The king\u2019s servants said to him, \u201cHaman is there, standing in the court.\u201d And the king said, \u201cLet him come in.\u201d"
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 6,
+          "text": "So Haman came in, and the king asked him, \u201cWhat shall be done for the man whom the king delights to honor?\u201d Now Haman thought in his heart, \u201cWhom would the king delight to honor more than me?\u201d"
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 7,
+          "text": "And Haman answered the king, \u201cFor the man whom the king delights to honor,"
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 8,
+          "text": "let a royal robe be brought which the king has worn, and a horse on which the king has ridden, which has a royal crest placed on its head."
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 9,
+          "text": "Then let this robe and horse be delivered to the hand of one of the king\u2019s most noble princes, that he may array the man whom the king delights to honor. Then parade him on horseback through the city square, and proclaim before him: \u2018Thus shall it be done to the man whom the king delights to honor!\u2019 \u201c"
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 10,
+          "text": "Then the king said to Haman, \u201cHurry, take the robe and the horse, as you have suggested, and do so for Mordecai the Jew who sits within the king\u2019s gate! Leave nothing undone of all that you have spoken.\u201d"
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 11,
+          "text": "So Haman took the robe and the horse, arrayed Mordecai and led him on horseback through the city square, and proclaimed before him, \u201cThus shall it be done to the man whom the king delights to honor!\u201d"
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 12,
+          "text": "Afterward Mordecai went back to the king\u2019s gate. But Haman hurried to his house, mourning and with his head covered."
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 13,
+          "text": "When Haman told his wife Zeresh and all his friends everything that had happened to him, his wise men and his wife Zeresh said to him, \u201cIf Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail against him but will surely fall before him.\u201d"
+        },
+        {
+          "book": "Esther",
+          "chapter": 6,
+          "verse": 14,
+          "text": "While they were still talking with him, the king\u2019s eunuchs came, and hastened to bring Haman to the banquet which Esther had prepared."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-21T04:00:22.663645"
+    },
+    {
+      "reference": "Romans 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paul, a bondservant of Jesus Christ, called to be an apostle, separated to the gospel of God"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 2,
+          "text": "which He promised before through His prophets in the Holy Scriptures,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 3,
+          "text": "concerning His Son Jesus Christ our Lord, who was born of the seed of David according to the flesh,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 4,
+          "text": "and declared to be the Son of God with power according to the Spirit of holiness, by the resurrection from the dead."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 5,
+          "text": "Through Him we have received grace and apostleship for obedience to the faith among all nations for His name,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 6,
+          "text": "among whom you also are the called of Jesus Christ;"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 7,
+          "text": "To all who are in Rome, beloved of God, called to be saints:Grace to you and peace from God our Father and the Lord Jesus Christ."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 8,
+          "text": "First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 9,
+          "text": "For God is my witness, whom I serve with my spirit in the gospel of His Son, that without ceasing I make mention of you always in my prayers,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 10,
+          "text": "making request if, by some means, now at last I may find a way in the will of God to come to you."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 11,
+          "text": "For I long to see you, that I may impart to you some spiritual gift, so that you may be established\u2014"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 12,
+          "text": "that is, that I may be encouraged together with you by the mutual faith both of you and me."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 13,
+          "text": "Now I do not want you to be unaware, brethren, that I often planned to come to you (but was hindered until now), that I might have some fruit among you also, just as among the other Gentiles."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 14,
+          "text": "I am a debtor both to Greeks and to barbarians, both to wise and to unwise."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 15,
+          "text": "So, as much as is in me, I am ready to preach the gospel to you who are in Rome also."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 16,
+          "text": "For I am not ashamed of the gospel of Christ, [a] for it is the power of God to salvation for everyone who believes, for the Jew first and also for the Greek."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 17,
+          "text": "For in it the righteousness of God is revealed from faith to faith; as it is written, \u201cThe just shall live by faith.\u201d [b]"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 18,
+          "text": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who suppress the truth in unrighteousness,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 19,
+          "text": "because what may be known of God is manifest in them, for God has shown it to them."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 20,
+          "text": "For since the creation of the world His invisible attributes are clearly seen, being understood by the things that are made, even His eternal power and Godhead, so that they are without excuse,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 21,
+          "text": "because, although they knew God, they did not glorify Him as God, nor were thankful, but became futile in their thoughts, and their foolish hearts were darkened."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 22,
+          "text": "Professing to be wise, they became fools,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 23,
+          "text": "and changed the glory of the incorruptible God into an image made like corruptible man\u2014and birds and four-footed animals and creeping things."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 24,
+          "text": "Therefore God also gave them up to uncleanness, in the lusts of their hearts, to dishonor their bodies among themselves,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 25,
+          "text": "who exchanged the truth of God for the lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 26,
+          "text": "For this reason God gave them up to vile passions. For even their women exchanged the natural use for what is against nature."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 27,
+          "text": "Likewise also the men, leaving the natural use of the woman, burned in their lust for one another, men with men committing what is shameful, and receiving in themselves the penalty of their error which was due."
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 28,
+          "text": "And even as they did not like to retain God in their knowledge, God gave them over to a debased mind, to do those things which are not fitting;"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 29,
+          "text": "being filled with all unrighteousness, sexual immorality, [c] wickedness, covetousness, maliciousness; full of envy, murder, strife, deceit, evil-mindedness; they are whisperers,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 30,
+          "text": "backbiters, haters of God, violent, proud, boasters, inventors of evil things, disobedient to parents,"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 31,
+          "text": "undiscerning, untrustworthy, unloving, unforgiving, [d] unmerciful;"
+        },
+        {
+          "book": "Romans",
+          "chapter": 1,
+          "verse": 32,
+          "text": "who, knowing the righteous judgment of God, that those who practice such things are deserving of death, not only do the same but also approve of those who practice them."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-01-21T04:00:24.983544"
+    }
+  ]
+}

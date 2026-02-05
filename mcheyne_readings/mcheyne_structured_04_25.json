@@ -1,0 +1,551 @@
+{
+  "format_version": "1.0",
+  "date": "04/25",
+  "cached_at": "2026-02-05T17:13:46.933065",
+  "Family": [
+    {
+      "reference": "Numbers 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 1,
+          "text": "1 And the L\u1d0f\u0280\u1d05 spoke to Moses and Aaron, saying:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 2,
+          "text": "2 \u201cEveryone of the children of Israel shall camp by his own standard, beside the emblems of his father\u2019s house; they shall camp some distance from the tabernacle of meeting."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 3,
+          "text": "3 On the east side, toward the rising of the sun, those of the standard of the forces with Judah shall camp according to their armies; and Nahshon the son of Amminadab shall be the leader of the children of Judah.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 4,
+          "text": "4 And his army was numbered at seventy-four thousand six hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 5,
+          "text": "5 \u201cThose who camp next to him shall be the tribe of Issachar, and Nethanel the son of Zuar shall be the leader of the children of Issachar.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 6,
+          "text": "6 And his army was numbered at fifty-four thousand four hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 7,
+          "text": "7 \u201cThen comes the tribe of Zebulun, and Eliab the son of Helon shall be the leader of the children of Zebulun.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 8,
+          "text": "8 And his army was numbered at fifty-seven thousand four hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 9,
+          "text": "9 \u201cAll who were numbered according to their armies of the forces with Judah, one hundred and eighty-six thousand four hundred\u2014these shall break camp first."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 10,
+          "text": "10 \u201cOn the south side shall be the standard of the forces with Reuben according to their armies, and the leader of the children of Reuben shall be Elizur the son of Shedeur.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 11,
+          "text": "11 And his army was numbered at forty-six thousand five hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 12,
+          "text": "12 \u201cThose who camp next to him shall be the tribe of Simeon, and the leader of the children of Simeon shall be Shelumiel the son of Zurishaddai.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 13,
+          "text": "13 And his army was numbered at fifty-nine thousand three hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 14,
+          "text": "14 \u201cThen comes the tribe of Gad, and the leader of the children of Gad shall be Eliasaph the son of Reuel.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 15,
+          "text": "15 And his army was numbered at forty-five thousand six hundred and fifty."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 16,
+          "text": "16 \u201cAll who were numbered according to their armies of the forces with Reuben, one hundred and fifty-one thousand four hundred and fifty\u2014they shall be the second to break camp."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 17,
+          "text": "17 And the tabernacle of meeting shall move out with the camp of the Levites in the middle of the camps; as they camp, so they shall move out, everyone in his place, by their standards."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 18,
+          "text": "18 \u201cOn the west side shall be the standard of the forces with Ephraim according to their armies, and the leader of the children of Ephraim shall be Elishama the son of Ammihud.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 19,
+          "text": "19 And his army was numbered at forty thousand five hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 20,
+          "text": "20 \u201cNext to him comes the tribe of Manasseh, and the leader of the children of Manasseh shall be Gamaliel the son of Pedahzur.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 21,
+          "text": "21 And his army was numbered at thirty-two thousand two hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 22,
+          "text": "22 \u201cThen comes the tribe of Benjamin, and the leader of the children of Benjamin shall be Abidan the son of Gideoni.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 23,
+          "text": "23 And his army was numbered at thirty-five thousand four hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 24,
+          "text": "24 \u201cAll who were numbered according to their armies of the forces with Ephraim, one hundred and eight thousand one hundred\u2014they shall be the third to break camp."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 25,
+          "text": "25 \u201cThe standard of the forces with Dan shall be on the north side according to their armies, and the leader of the children of Dan shall be Ahiezer the son of Ammishaddai.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 26,
+          "text": "26 And his army was numbered at sixty-two thousand seven hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 27,
+          "text": "27 \u201cThose who camp next to him shall be the tribe of Asher, and the leader of the children of Asher shall be Pagiel the son of Ocran.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 28,
+          "text": "28 And his army was numbered at forty-one thousand five hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 29,
+          "text": "29 \u201cThen comes the tribe of Naphtali, and the leader of the children of Naphtali shall be Ahira the son of Enan.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 30,
+          "text": "30 And his army was numbered at fifty-three thousand four hundred."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 31,
+          "text": "31 \u201cAll who were numbered of the forces with Dan, one hundred and fifty-seven thousand six hundred\u2014they shall break camp last, with their standards.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 32,
+          "text": "32 These are the ones who were numbered of the children of Israel by their fathers\u2019 houses. All who were numbered according to their armies of the forces were six hundred and three thousand five hundred and fifty."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 33,
+          "text": "33 But the Levites were not numbered among the children of Israel, just as the L\u1d0f\u0280\u1d05 commanded Moses."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 2,
+          "verse": 34,
+          "text": "34 Thus the children of Israel did according to all that the L\u1d0f\u0280\u1d05 commanded Moses; so they camped by their standards and so they broke camp, each one by his family, according to their fathers\u2019 houses."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:47.732713"
+    },
+    {
+      "reference": "Psalm 36",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 1,
+          "text": "1 To the Chief Musician. A Psalm of David the servant of the L\u1d0f\u0280\u1d05. An oracle within my heart concerning the transgression of the wicked: There is no fear of God before his eyes."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 2,
+          "text": "2 For he flatters himself in his own eyes, When he finds out his iniquity and when he hates."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 3,
+          "text": "3 The words of his mouth are wickedness and deceit; He has ceased to be wise and to do good."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 4,
+          "text": "4 He devises wickedness on his bed; He sets himself in a way that is not good; He does not abhor evil."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 5,
+          "text": "5 Your mercy, O L\u1d0f\u0280\u1d05, is in the heavens; Your faithfulness reaches to the clouds."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 6,
+          "text": "6 Your righteousness is like the great mountains; Your judgments are a great deep; O L\u1d0f\u0280\u1d05, You preserve man and beast."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 7,
+          "text": "7 How precious is Your lovingkindness, O God! Therefore the children of men put their trust under the shadow of Your wings."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 8,
+          "text": "8 They are abundantly satisfied with the fullness of Your house, And You give them drink from the river of Your pleasures."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 9,
+          "text": "9 For with You is the fountain of life; In Your light we see light."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 10,
+          "text": "10 Oh, continue Your lovingkindness to those who know You, And Your righteousness to the upright in heart."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 11,
+          "text": "11 Let not the foot of pride come against me, And let not the hand of the wicked drive me away."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 36,
+          "verse": 12,
+          "text": "12 There the workers of iniquity have fallen; They have been cast down and are not able to rise."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:48.283110"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Ecclesiastes 12",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 1,
+          "text": "1 Remember now your Creator in the days of your youth, Before the difficult days come, And the years draw near when you say, \u201cI have no pleasure in them\u201d:"
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 2,
+          "text": "2 While the sun and the light, The moon and the stars, Are not darkened, And the clouds do not return after the rain;"
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 3,
+          "text": "3 In the day when the keepers of the house tremble, And the strong men bow down; When the grinders cease because they are few, And those that look through the windows grow dim;"
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 4,
+          "text": "4 When the doors are shut in the streets, And the sound of grinding is low; When one rises up at the sound of a bird, And all the daughters of music are brought low;"
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 5,
+          "text": "5 Also they are afraid of height, And of terrors in the way; When the almond tree blossoms, The grasshopper is a burden, And desire fails. For man goes to his eternal home, And the mourners go about the streets."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 6,
+          "text": "6 Remember your Creator before the silver cord is loosed, Or the golden bowl is broken, Or the pitcher shattered at the fountain, Or the wheel broken at the well."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 7,
+          "text": "7 Then the dust will return to the earth as it was, And the spirit will return to God who gave it."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 8,
+          "text": "8 \u201cVanity of vanities,\u201d says the Preacher, \u201cAll is vanity.\u201d"
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 9,
+          "text": "9 And moreover, because the Preacher was wise, he still taught the people knowledge; yes, he pondered and sought out and set in order many proverbs."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 10,
+          "text": "10 The Preacher sought to find acceptable words; and what was written was upright\u2014words of truth."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 11,
+          "text": "11 The words of the wise are like goads, and the words of scholars are like well-driven nails, given by one Shepherd."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 12,
+          "text": "12 And further, my son, be admonished by these. Of making many books there is no end, and much study is wearisome to the flesh."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 13,
+          "text": "13 Let us hear the conclusion of the whole matter: Fear God and keep His commandments, For this is man\u2019s all."
+        },
+        {
+          "book": "Ecclesiastes",
+          "chapter": 12,
+          "verse": 14,
+          "text": "14 For God will bring every work into judgment, Including every secret thing, Whether good or evil."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:49.016019"
+    },
+    {
+      "reference": "Philemon 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 1,
+          "text": "1 Paul, a prisoner of Christ Jesus, and Timothy our brother, To Philemon our beloved friend and fellow laborer,"
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 2,
+          "text": "2 to the beloved [a] Apphia, Archippus our fellow soldier, and to the church in your house:"
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 3,
+          "text": "3 Grace to you and peace from God our Father and the Lord Jesus Christ."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 4,
+          "text": "4 I thank my God, making mention of you always in my prayers,"
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 5,
+          "text": "5 hearing of your love and faith which you have toward the Lord Jesus and toward all the saints,"
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 6,
+          "text": "6 that the sharing of your faith may become effective by the acknowledgment of every good thing which is in you [b] in Christ Jesus."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 7,
+          "text": "7 For we have [c] great joy [d] and consolation in your love, because the hearts of the saints have been refreshed by you, brother."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 8,
+          "text": "8 Therefore, though I might be very bold in Christ to command you what is fitting,"
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 9,
+          "text": "9 yet for love\u2019s sake I rather appeal to you\u2014being such a one as Paul, the aged, and now also a prisoner of Jesus Christ\u2014"
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 10,
+          "text": "10 I appeal to you for my son Onesimus, whom I have begotten while in my chains,"
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 11,
+          "text": "11 who once was unprofitable to you, but now is profitable to you and to me."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 12,
+          "text": "12 I am sending him back. [e] You therefore receive him, that is, my own heart,"
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 13,
+          "text": "13 whom I wished to keep with me, that on your behalf he might minister to me in my chains for the gospel."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 14,
+          "text": "14 But without your consent I wanted to do nothing, that your good deed might not be by compulsion, as it were, but voluntary."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 15,
+          "text": "15 For perhaps he departed for a while for this purpose, that you might receive him forever,"
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 16,
+          "text": "16 no longer as a slave but more than a slave\u2014a beloved brother, especially to me but how much more to you, both in the flesh and in the Lord."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 17,
+          "text": "17 If then you count me as a partner, receive him as you would me."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 18,
+          "text": "18 But if he has wronged you or owes anything, put that on my account."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 19,
+          "text": "19 I, Paul, am writing with my own hand. I will repay\u2014not to mention to you that you owe me even your own self besides."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 20,
+          "text": "20 Yes, brother, let me have joy from you in the Lord; refresh my heart in the Lord."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 21,
+          "text": "21 Having confidence in your obedience, I write to you, knowing that you will do even more than I say."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 22,
+          "text": "22 But, meanwhile, also prepare a guest room for me, for I trust that through your prayers I shall be granted to you."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 23,
+          "text": "23 Epaphras, my fellow prisoner in Christ Jesus, greets you,"
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 24,
+          "text": "24 as do Mark, Aristarchus, Demas, Luke, my fellow laborers."
+        },
+        {
+          "book": "Philemon",
+          "chapter": 1,
+          "verse": 25,
+          "text": "25 The grace of our Lord Jesus Christ be with your spirit. Amen."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:13:49.563953"
+    }
+  ]
+}

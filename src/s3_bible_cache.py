@@ -9,6 +9,7 @@ when running in AWS ECS environment.
 import boto3
 import json
 import os
+from pathlib import Path
 from datetime import datetime, timedelta
 from typing import Dict, List, Optional
 from bible_models import BiblePassage
@@ -16,14 +17,23 @@ import logging
 
 logger = logging.getLogger(__name__)
 
+# Directory where pre-built mcheyne JSON files are bundled (inside Docker image)
+_READINGS_DIR = Path(__file__).resolve().parent.parent / "mcheyne_readings"
+
 class S3BibleCache:
-    """S3-enabled Bible cache for reading M'Cheyne passages"""
-    
+    """Bible cache for reading M'Cheyne passages — prefers local bundled files, falls back to S3"""
+
     def __init__(self):
+        self.readings_dir = _READINGS_DIR
         self.s3_client = None
         self.bucket_name = os.environ.get('S3_BUCKET')
         self.use_s3 = bool(self.bucket_name)
-        
+
+        if self.readings_dir.is_dir():
+            logger.info(f"Local readings directory found: {self.readings_dir}")
+        else:
+            logger.info(f"Local readings directory not found at {self.readings_dir}")
+
         if self.use_s3:
             try:
                 self.s3_client = boto3.client('s3')
@@ -32,7 +42,7 @@ class S3BibleCache:
                 logger.warning(f"Failed to initialize S3 client: {e}")
                 self.use_s3 = False
         else:
-            logger.info("S3_BUCKET not set, using local cache only")
+            logger.info("S3_BUCKET not set, S3 fallback disabled")
     
     def get_cache_key(self, month: int, day: int) -> str:
         """Generate S3 cache key for readings"""
@@ -62,40 +72,47 @@ class S3BibleCache:
             return None
     
     def load_from_local(self, cache_key: str) -> Optional[Dict]:
-        """Load readings from local cache file"""
-        try:
-            # Convert S3 key to local filename
-            local_filename = cache_key
-            
-            if os.path.exists(local_filename):
-                logger.info(f"Loading from local cache: {local_filename}")
-                with open(local_filename, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                logger.info(f"Successfully loaded {local_filename} from local cache")
+        """Load readings from local files — checks bundled mcheyne_readings/ first, then cwd"""
+        # 1. Try the bundled readings directory (inside Docker image)
+        bundled_path = self.readings_dir / cache_key
+        if bundled_path.is_file():
+            try:
+                logger.info(f"Loading from bundled readings: {bundled_path}")
+                data = json.loads(bundled_path.read_text(encoding='utf-8'))
+                logger.info(f"Successfully loaded {cache_key} from bundled readings")
                 return data
-            else:
-                logger.info(f"Local cache file {local_filename} not found")
-                return None
-                
-        except Exception as e:
-            logger.error(f"Error loading from local cache: {e}")
-            return None
+            except Exception as e:
+                logger.error(f"Error reading bundled file {bundled_path}: {e}")
+
+        # 2. Fallback: check current working directory (legacy behaviour)
+        if os.path.exists(cache_key):
+            try:
+                logger.info(f"Loading from local cache: {cache_key}")
+                with open(cache_key, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                logger.info(f"Successfully loaded {cache_key} from local cache")
+                return data
+            except Exception as e:
+                logger.error(f"Error loading from local cache: {e}")
+
+        logger.info(f"Local file {cache_key} not found in bundled dir or cwd")
+        return None
     
     def get_readings_for_date(self, target_date: datetime) -> Optional[Dict]:
-        """Load M'Cheyne readings for a specific date from cache (S3 or local)"""
+        """Load M'Cheyne readings for a specific date — local first, then S3 fallback"""
         cache_key = self.get_cache_key(target_date.month, target_date.day)
-        
-        # Try S3 first if available
+
+        # Try local files first (bundled in Docker image — fast, no network)
+        data = self.load_from_local(cache_key)
+        if data:
+            return self.parse_cache_data(data)
+
+        # Fallback to S3 if local not found
         if self.use_s3:
             data = self.load_from_s3(cache_key)
             if data:
                 return self.parse_cache_data(data)
-        
-        # Fallback to local cache
-        data = self.load_from_local(cache_key)
-        if data:
-            return self.parse_cache_data(data)
-        
+
         logger.warning(f"No cache data found for {target_date.month:02d}/{target_date.day:02d}")
         return None
     

@@ -1,0 +1,725 @@
+{
+  "format_version": "1.0",
+  "date": "11/20",
+  "cached_at": "2025-11-12T04:00:18.410052",
+  "Family": [
+    {
+      "reference": "1 Chronicles 15",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 1,
+          "text": "David built houses for himself in the City of David; and he prepared a place for the ark of God, and pitched a tent for it."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 2,
+          "text": "Then David said, \u201cNo one may carry the ark of God but the Levites, for the L\u1d0f\u0280\u1d05 has chosen them to carry the ark of God and to minister before Him forever.\u201d"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 3,
+          "text": "And David gathered all Israel together at Jerusalem, to bring up the ark of the L\u1d0f\u0280\u1d05 to its place, which he had prepared for it."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 4,
+          "text": "Then David assembled the children of Aaron and the Levites:"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 5,
+          "text": "of the sons of Kohath, Uriel the chief, and one hundred and twenty of his brethren;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 6,
+          "text": "of the sons of Merari, Asaiah the chief, and two hundred and twenty of his brethren;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 7,
+          "text": "of the sons of Gershom, Joel the chief, and one hundred and thirty of his brethren;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 8,
+          "text": "of the sons of Elizaphan, Shemaiah the chief, and two hundred of his brethren;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 9,
+          "text": "of the sons of Hebron, Eliel the chief, and eighty of his brethren;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 10,
+          "text": "of the sons of Uzziel, Amminadab the chief, and one hundred and twelve of his brethren."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 11,
+          "text": "And David called for Zadok and Abiathar the priests, and for the Levites: for Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 12,
+          "text": "He said to them, \u201cYou are the heads of the fathers\u2019 houses of the Levites; sanctify yourselves, you and your brethren, that you may bring up the ark of the L\u1d0f\u0280\u1d05 God of Israel to the place I have prepared for it."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 13,
+          "text": "For because you did not do it the first time, the L\u1d0f\u0280\u1d05 our God broke out against us, because we did not consult Him about the proper order.\u201d"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 14,
+          "text": "So the priests and the Levites sanctified themselves to bring up the ark of the L\u1d0f\u0280\u1d05 God of Israel."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 15,
+          "text": "And the children of the Levites bore the ark of God on their shoulders, by its poles, as Moses had commanded according to the word of the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 16,
+          "text": "Then David spoke to the leaders of the Levites to appoint their brethren to be the singers accompanied by instruments of music, stringed instruments, harps, and cymbals, by raising the voice with resounding joy."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 17,
+          "text": "So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of their brethren, the sons of Merari, Ethan the son of Kushaiah;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 18,
+          "text": "and with them their brethren of the second rank: Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Elipheleh, Mikneiah, Obed-Edom, and Jeiel, the gatekeepers;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 19,
+          "text": "the singers, Heman, Asaph, and Ethan, were to sound the cymbals of bronze;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 20,
+          "text": "Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah, with strings according to Alamoth;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 21,
+          "text": "Mattithiah, Elipheleh, Mikneiah, Obed-Edom, Jeiel, and Azaziah, to direct with harps on the Sheminith;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 22,
+          "text": "Chenaniah, leader of the Levites, was instructor in charge of the music, because he was skillful;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 23,
+          "text": "Berechiah and Elkanah were doorkeepers for the ark;"
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 24,
+          "text": "Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, the priests, were to blow the trumpets before the ark of God; and Obed-Edom and Jehiah, doorkeepers for the ark."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 25,
+          "text": "So David, the elders of Israel, and the captains over thousands went to bring up the ark of the covenant of the L\u1d0f\u0280\u1d05 from the house of Obed-Edom with joy."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 26,
+          "text": "And so it was, when God helped the Levites who bore the ark of the covenant of the L\u1d0f\u0280\u1d05, that they offered seven bulls and seven rams."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 27,
+          "text": "David was clothed with a robe of fine linen, as were all the Levites who bore the ark, the singers, and Chenaniah the music master with the singers. David also wore a linen ephod."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 28,
+          "text": "Thus all Israel brought up the ark of the covenant of the L\u1d0f\u0280\u1d05 with shouting and with the sound of the horn, with trumpets and with cymbals, making music with stringed instruments and harps."
+        },
+        {
+          "book": "1 Chronicles",
+          "chapter": 15,
+          "verse": 29,
+          "text": "And it happened, as the ark of the covenant of the L\u1d0f\u0280\u1d05 came to the City of David, that Michal, Saul\u2019s daughter, looked through a window and saw King David whirling and playing music; and she despised him in her heart."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-12T04:00:20.032852"
+    },
+    {
+      "reference": "James 2",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 1,
+          "text": "My brethren, do not hold the faith of our Lord Jesus Christ, the Lord of glory, with partiality."
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 2,
+          "text": "For if there should come into your assembly a man with gold rings, in fine apparel, and there should also come in a poor man in filthy clothes,"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 3,
+          "text": "and you pay attention to the one wearing the fine clothes and say to him, \u201cYou sit here in a good place,\u201d and say to the poor man, \u201cYou stand there,\u201d or, \u201cSit here at my footstool,\u201d"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 4,
+          "text": "have you not shown partiality among yourselves, and become judges with evil thoughts?"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 5,
+          "text": "Listen, my beloved brethren: Has God not chosen the poor of this world to be rich in faith and heirs of the kingdom which He promised to those who love Him?"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 6,
+          "text": "But you have dishonored the poor man. Do not the rich oppress you and drag you into the courts?"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 7,
+          "text": "Do they not blaspheme that noble name by which you are called?"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 8,
+          "text": "If you really fulfill the royal law according to the Scripture, \u201cYou shall love your neighbor as yourself,\u201d [a] you do well;"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 9,
+          "text": "but if you show partiality, you commit sin, and are convicted by the law as transgressors."
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 10,
+          "text": "For whoever shall keep the whole law, and yet stumble in one point, he is guilty of all."
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 11,
+          "text": "For He who said, \u201cDo not commit adultery,\u201d [b] also said, \u201cDo not murder.\u201d [c] Now if you do not commit adultery, but you do murder, you have become a transgressor of the law."
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 12,
+          "text": "So speak and so do as those who will be judged by the law of liberty."
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 13,
+          "text": "For judgment is without mercy to the one who has shown no mercy. Mercy triumphs over judgment."
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 14,
+          "text": "What does it profit, my brethren, if someone says he has faith but does not have works? Can faith save him?"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 15,
+          "text": "If a brother or sister is naked and destitute of daily food,"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 16,
+          "text": "and one of you says to them, \u201cDepart in peace, be warmed and filled,\u201d but you do not give them the things which are needed for the body, what does it profit?"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 17,
+          "text": "Thus also faith by itself, if it does not have works, is dead."
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 18,
+          "text": "But someone will say, \u201cYou have faith, and I have works.\u201d Show me your faith without your [d] works, and I will show you my faith by my [e] works."
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 19,
+          "text": "You believe that there is one God. You do well. Even the demons believe\u2014and tremble!"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 20,
+          "text": "But do you want to know, O foolish man, that faith without works is dead?"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 21,
+          "text": "Was not Abraham our father justified by works when he offered Isaac his son on the altar?"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 22,
+          "text": "Do you see that faith was working together with his works, and by works faith was made perfect?"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 23,
+          "text": "And the Scripture was fulfilled which says, \u201cAbraham believed God, and it was accounted to him for righteousness.\u201d And he was called the friend of God."
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 24,
+          "text": "You see then that a man is justified by works, and not by faith only."
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 25,
+          "text": "Likewise, was not Rahab the harlot also justified by works when she received the messengers and sent them out another way?"
+        },
+        {
+          "book": "James",
+          "chapter": 2,
+          "verse": 26,
+          "text": "For as the body without the spirit is dead, so faith without works is dead also."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-12T04:00:21.331550"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Amos 9",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 1,
+          "text": "I saw the L\u1d0f\u0280\u1d05 standing by the altar, and He said: \u201cStrike the doorposts, that the thresholds may shake, And break them on the heads of them all. I will slay the last of them with the sword. He who flees from them shall not get away, And he who escapes from them shall not be delivered."
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 2,
+          "text": "\u201cThough they dig into hell, From there my hand shall take them; Though they climb up to heaven, From there I will bring them down;"
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 3,
+          "text": "And though they hide themselves on top of Carmel, From there I will search and take them; Though they hide from My sight at the bottom of the sea, From there I will command the serpent, and it shall bite them;"
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 4,
+          "text": "Though they go into captivity before their enemies, From there I will command the sword, And it shall slay them. I will set My eyes on them for harm and not for good.\u201d"
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 5,
+          "text": "The L\u1d0f\u0280\u1d05 God of hosts, He who touches the earth and it melts, And all who dwell there mourn; All of it shall swell like the River, And subside like the River of Egypt."
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 6,
+          "text": "He who builds His layers in the sky, And has founded His strata in the earth; Who calls for the waters of the sea, And pours them out on the face of the earth\u2014 The L\u1d0f\u0280\u1d05 is His name."
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 7,
+          "text": "\u201cAre you not like the people of Ethiopia to Me, O children of Israel?\u201d says the L\u1d0f\u0280\u1d05. \u201cDid I not bring up Israel from the land of Egypt, The Philistines from Caphtor, And the Syrians from Kir?"
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 8,
+          "text": "\u201cBehold, the eyes of the L\u1d0f\u0280\u1d05 God are on the sinful kingdom, And I will destroy it from the face of the earth; Yet I will not utterly destroy the house of Jacob,\u201d Says the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 9,
+          "text": "\u201cFor surely I will command, And will sift the house of Israel among all nations, As grain is sifted in a sieve; Yet not the smallest grain shall fall to the ground."
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 10,
+          "text": "All the sinners of My people shall die by the sword, Who say, \u2018The calamity shall not overtake nor confront us.\u2019"
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 11,
+          "text": "\u201cOn that day I will raise up The tabernacle of David, which has fallen down, And repair its damages; I will raise up its ruins, And rebuild it as in the days of old;"
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 12,
+          "text": "That they may possess the remnant of Edom, And all the Gentiles who are called by My name,\u201d Says the L\u1d0f\u0280\u1d05 who does this thing."
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 13,
+          "text": "\u201cBehold, the days are coming,\u201d says the L\u1d0f\u0280\u1d05, \u201cWhen the plowman shall overtake the reaper, And the treader of grapes him who sows seed; The mountains shall drip with sweet wine, And all the hills shall flow with it."
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 14,
+          "text": "I will bring back the captives of My people Israel; They shall build the waste cities and inhabit them; They shall plant vineyards and drink wine from them; They shall also make gardens and eat fruit from them."
+        },
+        {
+          "book": "Amos",
+          "chapter": 9,
+          "verse": 15,
+          "text": "I will plant them in their land, And no longer shall they be pulled up From the land I have given them,\u201d Says the L\u1d0f\u0280\u1d05 your God."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-12T04:00:22.790502"
+    },
+    {
+      "reference": "Luke 4",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 1,
+          "text": "Then Jesus, being filled with the Holy Spirit, returned from the Jordan and was led by the Spirit into the wilderness,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 2,
+          "text": "being tempted for forty days by the devil. And in those days He ate nothing, and afterward, when they had ended, He was hungry."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 3,
+          "text": "And the devil said to Him, \u201cIf You are the Son of God, command this stone to become bread.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 4,
+          "text": "But Jesus answered him, saying, \u201cIt is written, \u2018Man shall not live by bread alone, but by every word of God.\u2019 \u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Then the devil, taking Him up on a high mountain, showed Him all the kingdoms of the world in a moment of time."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 6,
+          "text": "And the devil said to Him, \u201cAll this authority I will give You, and their glory; for this has been delivered to me, and I give it to whomever I wish."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 7,
+          "text": "Therefore, if You will worship before me, all will be Yours.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 8,
+          "text": "And Jesus answered and said to him, \u201cGet behind Me, Satan! For it is written, \u2018You shall worship the Lord your God, and Him only you shall serve.\u2019 \u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 9,
+          "text": "Then he brought Him to Jerusalem, set Him on the pinnacle of the temple, and said to Him, \u201cIf You are the Son of God, throw Yourself down from here."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 10,
+          "text": "For it is written: \u2018He shall give His angels charge over you, To keep you,\u2019"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 11,
+          "text": "\u201cand, \u2018In their hands they shall bear you up, Lest you dash your foot against a stone.\u2019 \u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 12,
+          "text": "And Jesus answered and said to him, \u201cIt has been said, \u2018You shall not tempt the Lord your God.\u2019 \u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 13,
+          "text": "Now when the devil had ended every temptation, he departed from Him until an opportune time."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 14,
+          "text": "Then Jesus returned in the power of the Spirit to Galilee, and news of Him went out through all the surrounding region."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 15,
+          "text": "And He taught in their synagogues, being glorified by all."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 16,
+          "text": "So He came to Nazareth, where He had been brought up. And as His custom was, He went into the synagogue on the Sabbath day, and stood up to read."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 17,
+          "text": "And He was handed the book of the prophet Isaiah. And when He had opened the book, He found the place where it was written:"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 18,
+          "text": "\u201cThe Spirit of the Lord is upon Me, Because He has anointed Me To preach the gospel to the poor; He has sent Me to heal the brokenhearted, To proclaim liberty to the captives And recovery of sight to the blind, To set at liberty those who are oppressed;"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 19,
+          "text": "To proclaim the acceptable year of the Lord.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 20,
+          "text": "Then He closed the book, and gave it back to the attendant and sat down. And the eyes of all who were in the synagogue were fixed on Him."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 21,
+          "text": "And He began to say to them, \u201cToday this Scripture is fulfilled in your hearing.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 22,
+          "text": "So all bore witness to Him, and marveled at the gracious words which proceeded out of His mouth. And they said, \u201cIs this not Joseph\u2019s son?\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 23,
+          "text": "He said to them, \u201cYou will surely say this proverb to Me, \u2018Physician, heal yourself! Whatever we have heard done in Capernaum, do also here in Your country.\u2019 \u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 24,
+          "text": "Then He said, \u201cAssuredly, I say to you, no prophet is accepted in his own country."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 25,
+          "text": "But I tell you truly, many widows were in Israel in the days of Elijah, when the heaven was shut up three years and six months, and there was a great famine throughout all the land;"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 26,
+          "text": "but to none of them was Elijah sent except to Zarephath, in the region of Sidon, to a woman who was a widow."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 27,
+          "text": "And many lepers were in Israel in the time of Elisha the prophet, and none of them was cleansed except Naaman the Syrian.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 28,
+          "text": "So all those in the synagogue, when they heard these things, were filled with wrath,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 29,
+          "text": "and rose up and thrust Him out of the city; and they led Him to the brow of the hill on which their city was built, that they might throw Him down over the cliff."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 30,
+          "text": "Then passing through the midst of them, He went His way."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 31,
+          "text": "Then He went down to Capernaum, a city of Galilee, and was teaching them on the Sabbaths."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 32,
+          "text": "And they were astonished at His teaching, for His word was with authority."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 33,
+          "text": "Now in the synagogue there was a man who had a spirit of an unclean demon. And he cried out with a loud voice,"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 34,
+          "text": "saying, \u201cLet us alone! What have we to do with You, Jesus of Nazareth? Did You come to destroy us? I know who You are\u2014the Holy One of God!\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 35,
+          "text": "But Jesus rebuked him, saying, \u201cBe quiet, and come out of him!\u201d And when the demon had thrown him in their midst, it came out of him and did not hurt him."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 36,
+          "text": "Then they were all amazed and spoke among themselves, saying, \u201cWhat a word this is! For with authority and power He commands the unclean spirits, and they come out.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 37,
+          "text": "And the report about Him went out into every place in the surrounding region."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 38,
+          "text": "Now He arose from the synagogue and entered Simon\u2019s house. But Simon\u2019s wife\u2019s mother was sick with a high fever, and they made request of Him concerning her."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 39,
+          "text": "So He stood over her and rebuked the fever, and it left her. And immediately she arose and served them."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 40,
+          "text": "When the sun was setting, all those who had any that were sick with various diseases brought them to Him; and He laid His hands on every one of them and healed them."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 41,
+          "text": "And demons also came out of many, crying out and saying, \u201cYou are the Christ, the Son of God!\u201d And He, rebuking them, did not allow them to speak, for they knew that He was the Christ."
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 42,
+          "text": "Now when it was day, He departed and went into a deserted place. And the crowd sought Him and came to Him, and tried to keep Him from leaving them;"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 43,
+          "text": "but He said to them, \u201cI must preach the kingdom of God to the other cities also, because for this purpose I have been sent.\u201d"
+        },
+        {
+          "book": "Luke",
+          "chapter": 4,
+          "verse": 44,
+          "text": "And He was preaching in the synagogues of Galilee."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-11-12T04:00:25.011114"
+    }
+  ]
+}

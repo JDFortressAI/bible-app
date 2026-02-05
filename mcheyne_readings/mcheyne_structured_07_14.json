@@ -1,0 +1,977 @@
+{
+  "format_version": "1.0",
+  "date": "07/14",
+  "cached_at": "2026-02-05T17:59:04.011039",
+  "Family": [
+    {
+      "reference": "Joshua 20-21",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Joshua",
+          "chapter": 20,
+          "verse": 1,
+          "text": "1 The L\u1d0f\u0280\u1d05 also spoke to Joshua, saying,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 20,
+          "verse": 2,
+          "text": "2 \u201cSpeak to the children of Israel, saying: \u2018Appoint for yourselves cities of refuge, of which I spoke to you through Moses,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 20,
+          "verse": 3,
+          "text": "3 that the slayer who kills a person accidentally or unintentionally may flee there; and they shall be your refuge from the avenger of blood."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 20,
+          "verse": 4,
+          "text": "4 And when he flees to one of those cities, and stands at the entrance of the gate of the city, and declares his case in the hearing of the elders of that city, they shall take him into the city as one of them, and give him a place, that he may dwell among them."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 20,
+          "verse": 5,
+          "text": "5 Then if the avenger of blood pursues him, they shall not deliver the slayer into his hand, because he struck his neighbor unintentionally, but did not hate him beforehand."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 20,
+          "verse": 6,
+          "text": "6 And he shall dwell in that city until he stands before the congregation for judgment, and until the death of the one who is high priest in those days. Then the slayer may return and come to his own city and his own house, to the city from which he fled.\u2019 \u201c"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 20,
+          "verse": 7,
+          "text": "7 So they appointed Kedesh in Galilee, in the mountains of Naphtali, Shechem in the mountains of Ephraim, and Kirjath Arba (which is Hebron) in the mountains of Judah."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 20,
+          "verse": 8,
+          "text": "8 And on the other side of the Jordan, by Jericho eastward, they assigned Bezer in the wilderness on the plain, from the tribe of Reuben, Ramoth in Gilead, from the tribe of Gad, and Golan in Bashan, from the tribe of Manasseh."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 20,
+          "verse": 9,
+          "text": "9 These were the cities appointed for all the children of Israel and for the stranger who dwelt among them, that whoever killed a person accidentally might flee there, and not die by the hand of the avenger of blood until he stood before the congregation."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 1,
+          "text": "1 Then the heads of the fathers\u2019 houses of the Levites came near to Eleazar the priest, to Joshua the son of Nun, and to the heads of the fathers\u2019 houses of the tribes of the children of Israel."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 2,
+          "text": "2 And they spoke to them at Shiloh in the land of Canaan, saying, \u201cThe L\u1d0f\u0280\u1d05 commanded through Moses to give us cities to dwell in, with their common-lands for our livestock.\u201d"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 3,
+          "text": "3 So the children of Israel gave to the Levites from their inheritance, at the commandment of the L\u1d0f\u0280\u1d05, these cities and their common-lands:"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 4,
+          "text": "4 Now the lot came out for the families of the Kohathites. And the children of Aaron the priest, who were of the Levites, had thirteen cities by lot from the tribe of Judah, from the tribe of Simeon, and from the tribe of Benjamin."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 5,
+          "text": "5 The rest of the children of Kohath had ten cities by lot from the families of the tribe of Ephraim, from the tribe of Dan, and from the half-tribe of Manasseh."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 6,
+          "text": "6 And the children of Gershon had thirteen cities by lot from the families of the tribe of Issachar, from the tribe of Asher, from the tribe of Naphtali, and from the half-tribe of Manasseh in Bashan."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 7,
+          "text": "7 The children of Merari according to their families had twelve cities from the tribe of Reuben, from the tribe of Gad, and from the tribe of Zebulun."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 8,
+          "text": "8 And the children of Israel gave these cities with their common-lands by lot to the Levites, as the L\u1d0f\u0280\u1d05 had commanded by the hand of Moses."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 9,
+          "text": "9 So they gave from the tribe of the children of Judah and from the tribe of the children of Simeon these cities which are designated by name,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 10,
+          "text": "10 which were for the children of Aaron, one of the families of the Kohathites, who were of the children of Levi; for the lot was theirs first."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 11,
+          "text": "11 And they gave them Kirjath Arba (Arba was the father of Anak), which is Hebron, in the mountains of Judah, with the common-land surrounding it."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 12,
+          "text": "12 But the fields of the city and its villages they gave to Caleb the son of Jephunneh as his possession."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 13,
+          "text": "13 Thus to the children of Aaron the priest they gave Hebron with its common-land (a city of refuge for the slayer), Libnah with its common-land,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 14,
+          "text": "14 Jattir with its common-land, Eshtemoa with its common-land,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 15,
+          "text": "15 Holon with its common-land, Debir with its common-land,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 16,
+          "text": "16 Ain with its common-land, Juttah with its common-land, and Beth Shemesh with its common-land: nine cities from those two tribes;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 17,
+          "text": "17 and from the tribe of Benjamin, Gibeon with its common-land, Geba with its common-land,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 18,
+          "text": "18 Anathoth with its common-land, and Almon with its common-land: four cities."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 19,
+          "text": "19 All the cities of the children of Aaron, the priests, were thirteen cities with their common-lands."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 20,
+          "text": "20 And the families of the children of Kohath, the Levites, the rest of the children of Kohath, even they had the cities of their lot from the tribe of Ephraim."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 21,
+          "text": "21 For they gave them Shechem with its common-land in the mountains of Ephraim (a city of refuge for the slayer), Gezer with its common-land,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 22,
+          "text": "22 Kibzaim with its common-land, and Beth Horon with its common-land: four cities;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 23,
+          "text": "23 and from the tribe of Dan, Eltekeh with its common-land, Gibbethon with its common-land,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 24,
+          "text": "24 Aijalon with its common-land, and Gath Rimmon with its common-land: four cities;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 25,
+          "text": "25 and from the half-tribe of Manasseh, Tanach with its common-land and Gath Rimmon with its common-land: two cities."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 26,
+          "text": "26 All the ten cities with their common-lands were for the rest of the families of the children of Kohath."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 27,
+          "text": "27 Also to the children of Gershon, of the families of the Levites, from the other half-tribe of Manasseh, they gave Golan in Bashan with its common-land (a city of refuge for the slayer), and Be Eshterah with its common-land: two cities;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 28,
+          "text": "28 and from the tribe of Issachar, Kishion with its common-land, Daberath with its common-land,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 29,
+          "text": "29 Jarmuth with its common-land, and En Gannim with its common-land: four cities;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 30,
+          "text": "30 and from the tribe of Asher, Mishal with its common-land, Abdon with its common-land,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 31,
+          "text": "31 Helkath with its common-land, and Rehob with its common-land: four cities;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 32,
+          "text": "32 and from the tribe of Naphtali, Kedesh in Galilee with its common-land (a city of refuge for the slayer), Hammoth Dor with its common-land, and Kartan with its common-land: three cities."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 33,
+          "text": "33 All the cities of the Gershonites according to their families were thirteen cities with their common-lands."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 34,
+          "text": "34 And to the families of the children of Merari, the rest of the Levites, from the tribe of Zebulun, Jokneam with its common-land, Kartah with its common-land,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 35,
+          "text": "35 Dimnah with its common-land, and Nahalal with its common-land: four cities;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 36,
+          "text": "36 and from the tribe of Reuben, Bezer with its common-land, Jahaz with its common-land,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 37,
+          "text": "37 Kedemoth with its common-land, and Mephaath with its common-land: four cities;"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 38,
+          "text": "38 and from the tribe of Gad, Ramoth in Gilead with its common-land (a city of refuge for the slayer), Mahanaim with its common-land,"
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 39,
+          "text": "39 Heshbon with its common-land, and Jazer with its common-land: four cities in all."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 40,
+          "text": "40 So all the cities for the children of Merari according to their families, the rest of the families of the Levites, were by their lot twelve cities."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 41,
+          "text": "41 All the cities of the Levites within the possession of the children of Israel were forty-eight cities with their common-lands."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 42,
+          "text": "42 Every one of these cities had its common-land surrounding it; thus were all these cities."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 43,
+          "text": "43 So the L\u1d0f\u0280\u1d05 gave to Israel all the land of which He had sworn to give to their fathers, and they took possession of it and dwelt in it."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 44,
+          "text": "44 The L\u1d0f\u0280\u1d05 gave them rest all around, according to all that He had sworn to their fathers. And not a man of all their enemies stood against them; the L\u1d0f\u0280\u1d05 delivered all their enemies into their hand."
+        },
+        {
+          "book": "Joshua",
+          "chapter": 21,
+          "verse": 45,
+          "text": "45 Not a word failed of any good thing which the L\u1d0f\u0280\u1d05 had spoken to the house of Israel. All came to pass."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:59:06.219797"
+    },
+    {
+      "reference": "Acts 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 1,
+          "text": "1 The former account I made, O Theophilus, of all that Jesus began both to do and teach,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 2,
+          "text": "2 until the day in which He was taken up, after He through the Holy Spirit had given commandments to the apostles whom He had chosen,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 3,
+          "text": "3 to whom He also presented Himself alive after His suffering by many infallible proofs, being seen by them during forty days and speaking of the things pertaining to the kingdom of God."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 4,
+          "text": "4 And being assembled together with them, He commanded them not to depart from Jerusalem, but to wait for the Promise of the Father, \u201cwhich,\u201d He said, \u201cyou have heard from Me;"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 5,
+          "text": "5 for John truly baptized with water, but you shall be baptized with the Holy Spirit not many days from now.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 6,
+          "text": "6 Therefore, when they had come together, they asked Him, saying, \u201cLord, will You at this time restore the kingdom to Israel?\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 7,
+          "text": "7 And He said to them, \u201cIt is not for you to know times or seasons which the Father has put in His own authority."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 8,
+          "text": "8 But you shall receive power when the Holy Spirit has come upon you; and you shall be witnesses to Me [a] in Jerusalem, and in all Judea and Samaria, and to the end of the earth.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 9,
+          "text": "9 Now when He had spoken these things, while they watched, He was taken up, and a cloud received Him out of their sight."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 10,
+          "text": "10 And while they looked steadfastly toward heaven as He went up, behold, two men stood by them in white apparel,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 11,
+          "text": "11 who also said, \u201cMen of Galilee, why do you stand gazing up into heaven? This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 12,
+          "text": "12 Then they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a Sabbath day\u2019s journey."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 13,
+          "text": "13 And when they had entered, they went up into the upper room where they were staying: Peter, James, John, and Andrew; Philip and Thomas; Bartholomew and Matthew; James the son of Alphaeus and Simon the Zealot; and Judas the son of James."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 14,
+          "text": "14 These all continued with one accord in prayer and supplication, [b] with the women and Mary the mother of Jesus, and with His brothers."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 15,
+          "text": "15 And in those days Peter stood up in the midst of the disciples [c] (altogether the number of names was about a hundred and twenty), and said,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 16,
+          "text": "16 \u201cMen and brethren, this Scripture had to be fulfilled, which the Holy Spirit spoke before by the mouth of David concerning Judas, who became a guide to those who arrested Jesus;"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 17,
+          "text": "17 for he was numbered with us and obtained a part in this ministry.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 18,
+          "text": "18 (Now this man purchased a field with the wages of iniquity; and falling headlong, he burst open in the middle and all his entrails gushed out."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 19,
+          "text": "19 And it became known to all those dwelling in Jerusalem; so that field is called in their own language, Akel Dama, that is, Field of Blood.)"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 20,
+          "text": "20 \u201cFor it is written in the book of Psalms: \u2018Let his dwelling place be desolate, And let no one live in it\u2019; [d] and, \u2018Let [e] another take his office.\u2019 [f]"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 21,
+          "text": "21 \u201cTherefore, of these men who have accompanied us all the time that the Lord Jesus went in and out among us,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 22,
+          "text": "22 beginning from the baptism of John to that day when He was taken up from us, one of these must become a witness with us of His resurrection.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 23,
+          "text": "23 And they proposed two: Joseph called Barsabas, who was surnamed Justus, and Matthias."
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 24,
+          "text": "24 And they prayed and said, \u201cYou, O Lord, who know the hearts of all, show which of these two You have chosen"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 25,
+          "text": "25 to take part in this ministry and apostleship from which Judas by transgression fell, that he might go to his own place.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 1,
+          "verse": 26,
+          "text": "26 And they cast their lots, and the lot fell on Matthias. And he was numbered with the eleven apostles."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:59:07.001068"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Jeremiah 10",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 1,
+          "text": "1 Hear the word which the L\u1d0f\u0280\u1d05 speaks to you, O house of Israel."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 2,
+          "text": "2 Thus says the L\u1d0f\u0280\u1d05: \u201cDo not learn the way of the Gentiles; Do not be dismayed at the signs of heaven, For the Gentiles are dismayed at them."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 3,
+          "text": "3 For the customs of the peoples are futile; For one cuts a tree from the forest, The work of the hands of the workman, with the ax."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 4,
+          "text": "4 They decorate it with silver and gold; They fasten it with nails and hammers So that it will not topple."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 5,
+          "text": "5 They are upright, like a palm tree, And they cannot speak; They must be carried, Because they cannot go by themselves. Do not be afraid of them, For they cannot do evil, Nor can they do any good.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 6,
+          "text": "6 Inasmuch as there is none like You, O L\u1d0f\u0280\u1d05 (You are great, and Your name is great in might),"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 7,
+          "text": "7 Who would not fear You, O King of the nations? For this is Your rightful due. For among all the wise men of the nations, And in all their kingdoms, There is none like You."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 8,
+          "text": "8 But they are altogether dull-hearted and foolish; A wooden idol is a worthless doctrine."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 9,
+          "text": "9 Silver is beaten into plates; It is brought from Tarshish, And gold from Uphaz, The work of the craftsman And of the hands of the metalsmith; Blue and purple are their clothing; They are all the work of skillful men."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 10,
+          "text": "10 But the L\u1d0f\u0280\u1d05 is the true God; He is the living God and the everlasting King. At His wrath the earth will tremble, And the nations will not be able to endure His indignation."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 11,
+          "text": "11 Thus you shall say to them: \u201cThe gods that have not made the heavens and the earth shall perish from the earth and from under these heavens.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 12,
+          "text": "12 He has made the earth by His power, He has established the world by His wisdom, And has stretched out the heavens at His discretion."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 13,
+          "text": "13 When He utters His voice, There is a multitude of waters in the heavens: \u201cAnd He causes the vapors to ascend from the ends of the earth. He makes lightning for the rain, He brings the wind out of His treasuries.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 14,
+          "text": "14 Everyone is dull-hearted, without knowledge; Every metalsmith is put to shame by an image; For his molded image is falsehood, And there is no breath in them."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 15,
+          "text": "15 They are futile, a work of errors; In the time of their punishment they shall perish."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 16,
+          "text": "16 The Portion of Jacob is not like them, For He is the Maker of all things, And Israel is the tribe of His inheritance; The L\u1d0f\u0280\u1d05 of hosts is His name."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 17,
+          "text": "17 Gather up your wares from the land, O inhabitant of the fortress!"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 18,
+          "text": "18 For thus says the L\u1d0f\u0280\u1d05: \u201cBehold, I will throw out at this time The inhabitants of the land, And will distress them, That they may find it so.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 19,
+          "text": "19 Woe is me for my hurt! My wound is severe. But I say, \u201cTruly this is an infirmity, And I must bear it.\u201d"
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 20,
+          "text": "20 My tent is plundered, And all my cords are broken; My children have gone from me, And they are no more. There is no one to pitch my tent anymore, Or set up my curtains."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 21,
+          "text": "21 For the shepherds have become dull-hearted, And have not sought the L\u1d0f\u0280\u1d05; Therefore they shall not prosper, And all their flocks shall be scattered."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 22,
+          "text": "22 Behold, the noise of the report has come, And a great commotion out of the north country, To make the cities of Judah desolate, a den of jackals."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 23,
+          "text": "23 O L\u1d0f\u0280\u1d05, I know the way of man is not in himself; It is not in man who walks to direct his own steps."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 24,
+          "text": "24 O L\u1d0f\u0280\u1d05, correct me, but with justice; Not in Your anger, lest You bring me to nothing."
+        },
+        {
+          "book": "Jeremiah",
+          "chapter": 10,
+          "verse": 25,
+          "text": "25 Pour out Your fury on the Gentiles, who do not know You, And on the families who do not call on Your name; For they have eaten up Jacob, Devoured him and consumed him, And made his dwelling place desolate."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:59:07.468982"
+    },
+    {
+      "reference": "Matthew 24",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 1,
+          "text": "1 Then Jesus went out and departed from the temple, and His disciples came up to show Him the buildings of the temple."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 2,
+          "text": "2 And Jesus said to them, \u201cDo you not see all these things? Assuredly, I say to you, not one stone shall be left here upon another, that shall not be thrown down.\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 3,
+          "text": "3 Now as He sat on the Mount of Olives, the disciples came to Him privately, saying, \u201cTell us, when will these things be? And what will be the sign of Your coming, and of the end of the age?\u201d"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 4,
+          "text": "4 And Jesus answered and said to them: \u201cTake heed that no one deceives you."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 5,
+          "text": "5 For many will come in My name, saying, \u2018I am the Christ,\u2019 and will deceive many."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 6,
+          "text": "6 And you will hear of wars and rumors of wars. See that you are not troubled; for all these things must come to pass, but the end is not yet."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 7,
+          "text": "7 For nation will rise against nation, and kingdom against kingdom. And there will be famines, pestilences, and earthquakes in various places."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 8,
+          "text": "8 All these are the beginning of sorrows."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 9,
+          "text": "9 Then they will deliver you up to tribulation and kill you, and you will be hated by all nations for My name\u2019s sake."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 10,
+          "text": "10 And then many will be offended, will betray one another, and will hate one another."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 11,
+          "text": "11 Then many false prophets will rise up and deceive many."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 12,
+          "text": "12 And because lawlessness will abound, the love of many will grow cold."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 13,
+          "text": "13 But he who endures to the end shall be saved."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 14,
+          "text": "14 And this gospel of the kingdom will be preached in all the world as a witness to all the nations, and then the end will come."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 15,
+          "text": "15 \u201cTherefore when you see the \u2018abomination of desolation,\u2019 spoken of by Daniel the prophet, standing in the holy place\u201d (whoever reads, let him understand),"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 16,
+          "text": "16 then let those who are in Judea flee to the mountains."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 17,
+          "text": "17 Let him who is on the housetop not go down to take anything out of his house."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 18,
+          "text": "18 And let him who is in the field not go back to get his clothes."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 19,
+          "text": "19 But woe to those who are pregnant and to those who are nursing babies in those days!"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 20,
+          "text": "20 And pray that your flight may not be in winter or on the Sabbath."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 21,
+          "text": "21 For then there will be great tribulation, such as has not been since the beginning of the world until this time, no, nor ever shall be."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 22,
+          "text": "22 And unless those days were shortened, no flesh would be saved; but for the elect\u2019s sake those days will be shortened."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 23,
+          "text": "23 Then if anyone says to you, \u2018Look, here is the Christ!\u2019 or \u2018There!\u2019 do not believe it."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 24,
+          "text": "24 For false christs and false prophets will rise and show great signs and wonders to deceive, if possible, even the elect."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 25,
+          "text": "25 See, I have told you beforehand."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 26,
+          "text": "26 Therefore if they say to you, \u2018Look, He is in the desert!\u2019 do not go out; or \u2018Look, He is in the inner rooms!\u2019 do not believe it."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 27,
+          "text": "27 For as the lightning comes from the east and flashes to the west, so also will the coming of the Son of Man be."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 28,
+          "text": "28 For wherever the carcass is, there the eagles will be gathered together."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 29,
+          "text": "29 \u201cImmediately after the tribulation of those days the sun will be darkened, and the moon will not give its light; the stars will fall from heaven, and the powers of the heavens will be shaken."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 30,
+          "text": "30 Then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 31,
+          "text": "31 And He will send His angels with a great sound of a trumpet, and they will gather together His elect from the four winds, from one end of heaven to the other."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 32,
+          "text": "32 \u201cNow learn this parable from the fig tree: When its branch has already become tender and puts forth leaves, you know that summer is near."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 33,
+          "text": "33 So you also, when you see all these things, know that it is near\u2014at the doors!"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 34,
+          "text": "34 Assuredly, I say to you, this generation will by no means pass away till all these things take place."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 35,
+          "text": "35 Heaven and earth will pass away, but My words will by no means pass away."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 36,
+          "text": "36 \u201cBut of that day and hour no one knows, not even the angels of heaven, but My Father only."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 37,
+          "text": "37 But as the days of Noah were, so also will the coming of the Son of Man be."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 38,
+          "text": "38 For as in the days before the flood, they were eating and drinking, marrying and giving in marriage, until the day that Noah entered the ark,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 39,
+          "text": "39 and did not know until the flood came and took them all away, so also will the coming of the Son of Man be."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 40,
+          "text": "40 Then two men will be in the field: one will be taken and the other left."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 41,
+          "text": "41 Two women will be grinding at the mill: one will be taken and the other left."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 42,
+          "text": "42 Watch therefore, for you do not know what hour your Lord is coming."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 43,
+          "text": "43 But know this, that if the master of the house had known what hour the thief would come, he would have watched and not allowed his house to be broken into."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 44,
+          "text": "44 Therefore you also be ready, for the Son of Man is coming at an hour you do not expect."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 45,
+          "text": "45 \u201cWho then is a faithful and wise servant, whom his master made ruler over his household, to give them food in due season?"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 46,
+          "text": "46 Blessed is that servant whom his master, when he comes, will find so doing."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 47,
+          "text": "47 Assuredly, I say to you that he will make him ruler over all his goods."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 48,
+          "text": "48 But if that evil servant says in his heart, \u2018My master is delaying his coming,\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 49,
+          "text": "49 and begins to beat his fellow servants, and to eat and drink with the drunkards,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 50,
+          "text": "50 the master of that servant will come on a day when he is not looking for him and at an hour that he is not aware of,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 24,
+          "verse": 51,
+          "text": "51 and will cut him in two and appoint him his portion with the hypocrites. There shall be weeping and gnashing of teeth."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:59:08.020522"
+    }
+  ]
+}

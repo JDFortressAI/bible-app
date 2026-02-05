@@ -1,0 +1,485 @@
+{
+  "format_version": "1.0",
+  "date": "04/28",
+  "cached_at": "2026-02-05T17:39:32.194251",
+  "Family": [
+    {
+      "reference": "Numbers 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 1,
+          "text": "1 And the L\u1d0f\u0280\u1d05 spoke to Moses, saying:"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 2,
+          "text": "2 \u201cCommand the children of Israel that they put out of the camp every leper, everyone who has a discharge, and whoever becomes defiled by a corpse."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 3,
+          "text": "3 You shall put out both male and female; you shall put them outside the camp, that they may not defile their camps in the midst of which I dwell.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 4,
+          "text": "4 And the children of Israel did so, and put them outside the camp; as the L\u1d0f\u0280\u1d05 spoke to Moses, so the children of Israel did."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 5,
+          "text": "5 Then the L\u1d0f\u0280\u1d05 spoke to Moses, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 6,
+          "text": "6 \u201cSpeak to the children of Israel: \u2018When a man or woman commits any sin that men commit in unfaithfulness against the L\u1d0f\u0280\u1d05, and that person is guilty,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 7,
+          "text": "7 then he shall confess the sin which he has committed. He shall make restitution for his trespass in full, plus one-fifth of it, and give it to the one he has wronged."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 8,
+          "text": "8 But if the man has no relative to whom restitution may be made for the wrong, the restitution for the wrong must go to the L\u1d0f\u0280\u1d05 for the priest, in addition to the ram of the atonement with which atonement is made for him."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 9,
+          "text": "9 Every offering of all the holy things of the children of Israel, which they bring to the priest, shall be his."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 10,
+          "text": "10 And every man\u2019s holy things shall be his; whatever any man gives the priest shall be his.\u2019 \u201c"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 11,
+          "text": "11 And the L\u1d0f\u0280\u1d05 spoke to Moses, saying,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 12,
+          "text": "12 \u201cSpeak to the children of Israel, and say to them: \u2018If any man\u2019s wife goes astray and behaves unfaithfully toward him,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 13,
+          "text": "13 and a man lies with her carnally, and it is hidden from the eyes of her husband, and it is concealed that she has defiled herself, and there was no witness against her, nor was she caught\u2014"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 14,
+          "text": "14 if the spirit of jealousy comes upon him and he becomes jealous of his wife, who has defiled herself; or if the spirit of jealousy comes upon him and he becomes jealous of his wife, although she has not defiled herself\u2014"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 15,
+          "text": "15 then the man shall bring his wife to the priest. He shall bring the offering required for her, one-tenth of an ephah of barley meal; he shall pour no oil on it and put no frankincense on it, because it is a grain offering of jealousy, an offering for remembering, for bringing iniquity to remembrance."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 16,
+          "text": "16 \u2018And the priest shall bring her near, and set her before the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 17,
+          "text": "17 The priest shall take holy water in an earthen vessel, and take some of the dust that is on the floor of the tabernacle and put it into the water."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 18,
+          "text": "18 Then the priest shall stand the woman before the L\u1d0f\u0280\u1d05, uncover the woman\u2019s head, and put the offering for remembering in her hands, which is the grain offering of jealousy. And the priest shall have in his hand the bitter water that brings a curse."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 19,
+          "text": "19 And the priest shall put her under oath, and say to the woman, \u201cIf no man has lain with you, and if you have not gone astray to uncleanness while under your husband\u2019s authority, be free from this bitter water that brings a curse."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 20,
+          "text": "20 But if you have gone astray while under your husband\u2019s authority, and if you have defiled yourself and some man other than your husband has lain with you\u201d\u2014"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 21,
+          "text": "21 then the priest shall put the woman under the oath of the curse, and he shall say to the woman\u2014\u201cthe L\u1d0f\u0280\u1d05 make you a curse and an oath among your people, when the L\u1d0f\u0280\u1d05 makes your thigh rot and your belly swell;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 22,
+          "text": "22 and may this water that causes the curse go into your stomach, and make your belly swell and your thigh rot.\u201d Then the woman shall say, \u201cAmen, so be it.\u201d"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 23,
+          "text": "23 \u2018Then the priest shall write these curses in a book, and he shall scrape them off into the bitter water."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 24,
+          "text": "24 And he shall make the woman drink the bitter water that brings a curse, and the water that brings the curse shall enter her to become bitter."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 25,
+          "text": "25 Then the priest shall take the grain offering of jealousy from the woman\u2019s hand, shall wave the offering before the L\u1d0f\u0280\u1d05, and bring it to the altar;"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 26,
+          "text": "26 and the priest shall take a handful of the offering, as its memorial portion, burn it on the altar, and afterward make the woman drink the water."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 27,
+          "text": "27 When he has made her drink the water, then it shall be, if she has defiled herself and behaved unfaithfully toward her husband, that the water that brings a curse will enter her and become bitter, and her belly will swell, her thigh will rot, and the woman will become a curse among her people."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 28,
+          "text": "28 But if the woman has not defiled herself, and is clean, then she shall be free and may conceive children."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 29,
+          "text": "29 \u2018This is the law of jealousy, when a wife, while under her husband\u2019s authority, goes astray and defiles herself,"
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 30,
+          "text": "30 or when the spirit of jealousy comes upon a man, and he becomes jealous of his wife; then he shall stand the woman before the L\u1d0f\u0280\u1d05, and the priest shall execute all this law upon her."
+        },
+        {
+          "book": "Numbers",
+          "chapter": 5,
+          "verse": 31,
+          "text": "31 Then the man shall be free from iniquity, but that woman shall bear her guilt.\u2019 \u201c"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:39:46.435166"
+    },
+    {
+      "reference": "Psalm 39",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 1,
+          "text": "1 To the Chief Musician. To Jeduthun. A Psalm of David. I said, \u201cI will guard my ways, Lest I sin with my tongue; I will restrain my mouth with a muzzle, While the wicked are before me.\u201d"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 2,
+          "text": "2 I was mute with silence, I held my peace even from good; And my sorrow was stirred up."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 3,
+          "text": "3 My heart was hot within me; While I was musing, the fire burned. Then I spoke with my tongue:"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 4,
+          "text": "4 \u201cLord, make me to know my end, And what is the measure of my days, That I may know how frail I am."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 5,
+          "text": "5 Indeed, You have made my days as handbreadths, And my age is as nothing before You; Certainly every man at his best state is but vapor. Selah"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 6,
+          "text": "6 Surely every man walks about like a shadow; Surely they busy themselves in vain; He heaps up riches, And does not know who will gather them."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 7,
+          "text": "7 \u201cAnd now, Lord, what do I wait for? My hope is in You."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 8,
+          "text": "8 Deliver me from all my transgressions; Do not make me the reproach of the foolish."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 9,
+          "text": "9 I was mute, I did not open my mouth, Because it was You who did it."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 10,
+          "text": "10 Remove Your plague from me; I am consumed by the blow of Your hand."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 11,
+          "text": "11 When with rebukes You correct man for iniquity, You make his beauty melt away like a moth; Surely every man is vapor. Selah"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 12,
+          "text": "12 \u201cHear my prayer, O L\u1d0f\u0280\u1d05, And give ear to my cry; Do not be silent at my tears; For I am a stranger with You, A sojourner, as all my fathers were."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 39,
+          "verse": 13,
+          "text": "13 Remove Your gaze from me, that I may regain strength, Before I go away and am no more.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:39:47.009952"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Song of Solomon 3",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Song of Solomon",
+          "chapter": 3,
+          "verse": 1,
+          "text": "1 The Shulamite By night on my bed I sought the one I love; I sought him, but I did not find him."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 3,
+          "verse": 2,
+          "text": "2 \u201cI will rise now,\u201d I said, \u201cAnd go about the city; In the streets and in the squares I will seek the one I love.\u201d I sought him, but I did not find him."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 3,
+          "verse": 3,
+          "text": "3 The watchmen who go about the city found me; I said, \u201cHave you seen the one I love?\u201d"
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 3,
+          "verse": 4,
+          "text": "4 Scarcely had I passed by them, When I found the one I love. I held him and would not let him go, Until I had brought him to the house of my mother, And into the chamber of her who conceived me."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 3,
+          "verse": 5,
+          "text": "5 I charge you, O daughters of Jerusalem, By the gazelles or by the does of the field, Do not stir up nor awaken love Until it pleases."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 3,
+          "verse": 6,
+          "text": "6 The Shulamite Who is this coming out of the wilderness Like pillars of smoke, Perfumed with myrrh and frankincense, With all the merchant\u2019s fragrant powders?"
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 3,
+          "verse": 7,
+          "text": "7 Behold, it is Solomon\u2019s couch, With sixty valiant men around it, Of the valiant of Israel."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 3,
+          "verse": 8,
+          "text": "8 They all hold swords, Being expert in war. Every man has his sword on his thigh Because of fear in the night."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 3,
+          "verse": 9,
+          "text": "9 Of the wood of Lebanon Solomon the King Made himself a palanquin:"
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 3,
+          "verse": 10,
+          "text": "10 He made its pillars of silver, Its support of gold, Its seat of purple, Its interior paved with love By the daughters of Jerusalem."
+        },
+        {
+          "book": "Song of Solomon",
+          "chapter": 3,
+          "verse": 11,
+          "text": "11 Go forth, O daughters of Zion, And see King Solomon with the crown With which his mother crowned him On the day of his wedding, The day of the gladness of his heart."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:39:47.639218"
+    },
+    {
+      "reference": "Hebrews 3",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 1,
+          "text": "1 Therefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our confession, Christ Jesus,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 2,
+          "text": "2 who was faithful to Him who appointed Him, as Moses also was faithful in all His house."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 3,
+          "text": "3 For this One has been counted worthy of more glory than Moses, inasmuch as He who built the house has more honor than the house."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 4,
+          "text": "4 For every house is built by someone, but He who built all things is God."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 5,
+          "text": "5 And Moses indeed was faithful in all His house as a servant, for a testimony of those things which would be spoken afterward,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 6,
+          "text": "6 but Christ as a Son over His own house, whose house we are if we hold fast the confidence and the rejoicing of the hope firm to the end."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 7,
+          "text": "7 Therefore, as the Holy Spirit says: \u201cToday, if you will hear His voice,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 8,
+          "text": "8 Do not harden your hearts as in the rebellion, In the day of trial in the wilderness,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 9,
+          "text": "9 Where your fathers tested Me, tried Me, And saw My works forty years."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 10,
+          "text": "10 Therefore I was angry with that generation, And said, \u2018They always go astray in their heart, And they have not known My ways.\u2019"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 11,
+          "text": "11 So I swore in My wrath, \u2018They shall not enter My rest.\u2019 \u201c"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 12,
+          "text": "12 Beware, brethren, lest there be in any of you an evil heart of unbelief in departing from the living God;"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 13,
+          "text": "13 but exhort one another daily, while it is called \u201cToday,\u201d lest any of you be hardened through the deceitfulness of sin."
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 14,
+          "text": "14 For we have become partakers of Christ if we hold the beginning of our confidence steadfast to the end,"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 15,
+          "text": "15 while it is said: \u201cToday, if you will hear His voice, Do not harden your hearts as in the rebellion.\u201d"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 16,
+          "text": "16 For who, having heard, rebelled? Indeed, was it not all who came out of Egypt, led by Moses?"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 17,
+          "text": "17 Now with whom was He angry forty years? Was it not with those who sinned, whose corpses fell in the wilderness?"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 18,
+          "text": "18 And to whom did He swear that they would not enter His rest, but to those who did not obey?"
+        },
+        {
+          "book": "Hebrews",
+          "chapter": 3,
+          "verse": 19,
+          "text": "19 So we see that they could not enter in because of unbelief."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T17:39:48.381643"
+    }
+  ]
+}

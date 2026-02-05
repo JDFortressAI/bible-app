@@ -1,0 +1,875 @@
+{
+  "format_version": "1.0",
+  "date": "01/05",
+  "cached_at": "2025-12-28T04:00:18.528351",
+  "Family": [
+    {
+      "reference": "Genesis 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 1,
+          "text": "This is the book of the genealogy of Adam. In the day that God created man, He made him in the likeness of God."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 2,
+          "text": "He created them male and female, and blessed them and called them Mankind in the day they were created."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 3,
+          "text": "And Adam lived one hundred and thirty years, and begot a son in his own likeness, after his image, and named him Seth."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 4,
+          "text": "After he begot Seth, the days of Adam were eight hundred years; and he had sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 5,
+          "text": "So all the days that Adam lived were nine hundred and thirty years; and he died."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 6,
+          "text": "Seth lived one hundred and five years, and begot Enosh."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 7,
+          "text": "After he begot Enosh, Seth lived eight hundred and seven years, and had sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 8,
+          "text": "So all the days of Seth were nine hundred and twelve years; and he died."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Enosh lived ninety years, and begot Cainan."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 10,
+          "text": "After he begot Cainan, Enosh lived eight hundred and fifteen years, and had sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 11,
+          "text": "So all the days of Enosh were nine hundred and five years; and he died."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 12,
+          "text": "Cainan lived seventy years, and begot Mahalalel."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 13,
+          "text": "After he begot Mahalalel, Cainan lived eight hundred and forty years, and had sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 14,
+          "text": "So all the days of Cainan were nine hundred and ten years; and he died."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 15,
+          "text": "Mahalalel lived sixty-five years, and begot Jared."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 16,
+          "text": "After he begot Jared, Mahalalel lived eight hundred and thirty years, and had sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 17,
+          "text": "So all the days of Mahalalel were eight hundred and ninety-five years; and he died."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 18,
+          "text": "Jared lived one hundred and sixty-two years, and begot Enoch."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 19,
+          "text": "After he begot Enoch, Jared lived eight hundred years, and had sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 20,
+          "text": "So all the days of Jared were nine hundred and sixty-two years; and he died."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 21,
+          "text": "Enoch lived sixty-five years, and begot Methuselah."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 22,
+          "text": "After he begot Methuselah, Enoch walked with God three hundred years, and had sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 23,
+          "text": "So all the days of Enoch were three hundred and sixty-five years."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 24,
+          "text": "And Enoch walked with God; and he was not, for God took him."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 25,
+          "text": "Methuselah lived one hundred and eighty-seven years, and begot Lamech."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 26,
+          "text": "After he begot Lamech, Methuselah lived seven hundred and eighty-two years, and had sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 27,
+          "text": "So all the days of Methuselah were nine hundred and sixty-nine years; and he died."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 28,
+          "text": "Lamech lived one hundred and eighty-two years, and had a son."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 29,
+          "text": "And he called his name Noah, saying, \u201cThis one will comfort us concerning our work and the toil of our hands, because of the ground which the L\u1d0f\u0280\u1d05 has cursed.\u201d"
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 30,
+          "text": "After he begot Noah, Lamech lived five hundred and ninety-five years, and had sons and daughters."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 31,
+          "text": "So all the days of Lamech were seven hundred and seventy-seven years; and he died."
+        },
+        {
+          "book": "Genesis",
+          "chapter": 5,
+          "verse": 32,
+          "text": "And Noah was five hundred years old, and Noah begot Shem, Ham, and Japheth."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-12-28T04:00:19.926854"
+    },
+    {
+      "reference": "Matthew 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 1,
+          "text": "And seeing the multitudes, He went up on a mountain, and when He was seated His disciples came to Him."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 2,
+          "text": "Then He opened His mouth and taught them, saying:"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 3,
+          "text": "\u201cBlessed are the poor in spirit, For theirs is the kingdom of heaven."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 4,
+          "text": "Blessed are those who mourn, For they shall be comforted."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Blessed are the meek, For they shall inherit the earth."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 6,
+          "text": "Blessed are those who hunger and thirst for righteousness, For they shall be filled."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 7,
+          "text": "Blessed are the merciful, For they shall obtain mercy."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 8,
+          "text": "Blessed are the pure in heart, For they shall see God."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Blessed are the peacemakers, For they shall be called sons of God."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 10,
+          "text": "Blessed are those who are persecuted for righteousness\u2019 sake, For theirs is the kingdom of heaven."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 11,
+          "text": "\u201cBlessed are you when they revile and persecute you, and say all kinds of evil against you falsely for My sake."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 12,
+          "text": "Rejoice and be exceedingly glad, for great is your reward in heaven, for so they persecuted the prophets who were before you."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 13,
+          "text": "\u201cYou are the salt of the earth; but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 14,
+          "text": "You are the light of the world. A city that is set on a hill cannot be hidden."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 15,
+          "text": "Nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 16,
+          "text": "Let your light so shine before men, that they may see your good works and glorify your Father in heaven."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 17,
+          "text": "\u201cDo not think that I came to destroy the Law or the Prophets. I did not come to destroy but to fulfill."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 18,
+          "text": "For assuredly, I say to you, till heaven and earth pass away, one jot or one tittle will by no means pass from the law till all is fulfilled."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 19,
+          "text": "Whoever therefore breaks one of the least of these commandments, and teaches men so, shall be called least in the kingdom of heaven; but whoever does and teaches them, he shall be called great in the kingdom of heaven."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 20,
+          "text": "For I say to you, that unless your righteousness exceeds the righteousness of the scribes and Pharisees, you will by no means enter the kingdom of heaven."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 21,
+          "text": "\u201cYou have heard that it was said to those of old, \u2018You shall not murder, and whoever murders will be in danger of the judgment.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 22,
+          "text": "But I say to you that whoever is angry with his brother without a cause shall be in danger of the judgment. And whoever says to his brother, \u2018Raca!\u2019 shall be in danger of the council. But whoever says, \u2018You fool!\u2019 shall be in danger of hell fire."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 23,
+          "text": "Therefore if you bring your gift to the altar, and there remember that your brother has something against you,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 24,
+          "text": "leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 25,
+          "text": "Agree with your adversary quickly, while you are on the way with him, lest your adversary deliver you to the judge, the judge hand you over to the officer, and you be thrown into prison."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 26,
+          "text": "Assuredly, I say to you, you will by no means get out of there till you have paid the last penny."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 27,
+          "text": "\u201cYou have heard that it was said to those of old, \u2018You shall not commit adultery.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 28,
+          "text": "But I say to you that whoever looks at a woman to lust for her has already committed adultery with her in his heart."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 29,
+          "text": "If your right eye causes you to sin, pluck it out and cast it from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 30,
+          "text": "And if your right hand causes you to sin, cut it off and cast it from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 31,
+          "text": "\u201cFurthermore it has been said, \u2018Whoever divorces his wife, let him give her a certificate of divorce.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 32,
+          "text": "But I say to you that whoever divorces his wife for any reason except sexual immorality causes her to commit adultery; and whoever marries a woman who is divorced commits adultery."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 33,
+          "text": "\u201cAgain you have heard that it was said to those of old, \u2018You shall not swear falsely, but shall perform your oaths to the Lord.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 34,
+          "text": "But I say to you, do not swear at all: neither by heaven, for it is God\u2019s throne;"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 35,
+          "text": "nor by the earth, for it is His footstool; nor by Jerusalem, for it is the city of the great King."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 36,
+          "text": "Nor shall you swear by your head, because you cannot make one hair white or black."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 37,
+          "text": "But let your \u2018Yes\u2019 be \u2018Yes,\u2019 and your \u2018No,\u2019 \u2018No.\u2019 For whatever is more than these is from the evil one."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 38,
+          "text": "\u201cYou have heard that it was said, \u2018An eye for an eye and a tooth for a tooth.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 39,
+          "text": "But I tell you not to resist an evil person. But whoever slaps you on your right cheek, turn the other to him also."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 40,
+          "text": "If anyone wants to sue you and take away your tunic, let him have your cloak also."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 41,
+          "text": "And whoever compels you to go one mile, go with him two."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 42,
+          "text": "Give to him who asks you, and from him who wants to borrow from you do not turn away."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 43,
+          "text": "\u201cYou have heard that it was said, \u2018You shall love your neighbor and hate your enemy.\u2019"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 44,
+          "text": "But I say to you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who spitefully use you and persecute you,"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 45,
+          "text": "that you may be sons of your Father in heaven; for He makes His sun rise on the evil and on the good, and sends rain on the just and on the unjust."
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 46,
+          "text": "For if you love those who love you, what reward have you? Do not even the tax collectors do the same?"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 47,
+          "text": "And if you greet your brethren only, what do you do more than others? Do not even the tax collectors do so?"
+        },
+        {
+          "book": "Matthew",
+          "chapter": 5,
+          "verse": 48,
+          "text": "Therefore you shall be perfect, just as your Father in heaven is perfect."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-12-28T04:00:21.986175"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Ezra 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 1,
+          "text": "Then the prophet Haggai and Zechariah the son of Iddo, prophets, prophesied to the Jews who were in Judah and Jerusalem, in the name of the God of Israel, who was over them."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 2,
+          "text": "So Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak rose up and began to build the house of God which is in Jerusalem; and the prophets of God were with them, helping them."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 3,
+          "text": "At the same time Tattenai the governor of the region beyond the River and Shethar-Boznai and their companions came to them and spoke thus to them: \u201cWho has commanded you to build this temple and finish this wall?\u201d"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 4,
+          "text": "Then, accordingly, we told them the names of the men who were constructing this building."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 5,
+          "text": "But the eye of their God was upon the elders of the Jews, so that they could not make them cease till a report could go to Darius. Then a written answer was returned concerning this matter."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 6,
+          "text": "This is a copy of the letter that Tattenai sent: The governor of the region beyond the River, and Shethar-Boznai, and his companions, the Persians who were in the region beyond the River, to Darius the king."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 7,
+          "text": "(They sent a letter to him, in which was written thus) To Darius the king: All peace."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 8,
+          "text": "Let it be known to the king that we went into the province of Judea, to the temple of the great God, which is being built with heavy stones, and timber is being laid in the walls; and this work goes on diligently and prospers in their hands."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Then we asked those elders, and spoke thus to them: \u201cWho commanded you to build this temple and to finish these walls?\u201d"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 10,
+          "text": "We also asked them their names to inform you, that we might write the names of the men who were chief among them."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 11,
+          "text": "And thus they returned us an answer, saying: \u201cWe are the servants of the God of heaven and earth, and we are rebuilding the temple that was built many years ago, which a great king of Israel built and completed."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 12,
+          "text": "But because our fathers provoked the God of heaven to wrath, He gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this temple and carried the people away to Babylon."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 13,
+          "text": "However, in the first year of Cyrus king of Babylon, King Cyrus issued a decree to build this house of God."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 14,
+          "text": "Also, the gold and silver articles of the house of God, which Nebuchadnezzar had taken from the temple that was in Jerusalem and carried into the temple of Babylon\u2014those King Cyrus took from the temple of Babylon, and they were given to one named Sheshbazzar, whom he had made governor."
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 15,
+          "text": "And he said to him, \u2018Take these articles; go, carry them to the temple site that is in Jerusalem, and let the house of God be rebuilt on its former site.\u2019"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 16,
+          "text": "Then the same Sheshbazzar came and laid the foundation of the house of God which is in Jerusalem; but from that time even until now it has been under construction, and it is not finished.\u201d"
+        },
+        {
+          "book": "Ezra",
+          "chapter": 5,
+          "verse": 17,
+          "text": "Now therefore, if it seems good to the king, let a search be made in the king\u2019s treasure house, which is there in Babylon, whether it is so that a decree was issued by King Cyrus to build this house of God at Jerusalem, and let the king send us his pleasure concerning this matter."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-12-28T04:00:23.229389"
+    },
+    {
+      "reference": "Acts 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 1,
+          "text": "But a certain man named Ananias, with Sapphira his wife, sold a possession."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 2,
+          "text": "And he kept back part of the proceeds, his wife also being aware of it, and brought a certain part and laid it at the apostles\u2019 feet."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 3,
+          "text": "But Peter said, \u201cAnanias, why has Satan filled your heart to lie to the Holy Spirit and keep back part of the price of the land for yourself?"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 4,
+          "text": "While it remained, was it not your own? And after it was sold, was it not in your own control? Why have you conceived this thing in your heart? You have not lied to men but to God.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 5,
+          "text": "Then Ananias, hearing these words, fell down and breathed his last. So great fear came upon all those who heard these things."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 6,
+          "text": "And the young men arose and wrapped him up, carried him out, and buried him."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 7,
+          "text": "Now it was about three hours later when his wife came in, not knowing what had happened."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 8,
+          "text": "And Peter answered her, \u201cTell me whether you sold the land for so much?\u201d She said, \u201cYes, for so much.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 9,
+          "text": "Then Peter said to her, \u201cHow is it that you have agreed together to test the Spirit of the Lord? Look, the feet of those who have buried your husband are at the door, and they will carry you out.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 10,
+          "text": "Then immediately she fell down at his feet and breathed her last. And the young men came in and found her dead, and carrying her out, buried her by her husband."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 11,
+          "text": "So great fear came upon all the church and upon all who heard these things."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 12,
+          "text": "And through the hands of the apostles many signs and wonders were done among the people. And they were all with one accord in Solomon\u2019s Porch."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 13,
+          "text": "Yet none of the rest dared join them, but the people esteemed them highly."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 14,
+          "text": "And believers were increasingly added to the Lord, multitudes of both men and women,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 15,
+          "text": "so that they brought the sick out into the streets and laid them on beds and couches, that at least the shadow of Peter passing by might fall on some of them."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 16,
+          "text": "Also a multitude gathered from the surrounding cities to Jerusalem, bringing sick people and those who were tormented by unclean spirits, and they were all healed."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 17,
+          "text": "Then the high priest rose up, and all those who were with him (which is the sect of the Sadducees), and they were filled with indignation,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 18,
+          "text": "and laid their hands on the apostles and put them in the common prison."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 19,
+          "text": "But at night an angel of the Lord opened the prison doors and brought them out, and said,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 20,
+          "text": "\u201cGo, stand in the temple and speak to the people all the words of this life.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 21,
+          "text": "And when they heard that, they entered the temple early in the morning and taught. But the high priest and those with him came and called the council together, with all the elders of the children of Israel, and sent to the prison to have them brought."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 22,
+          "text": "But when the officers came and did not find them in the prison, they returned and reported,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 23,
+          "text": "saying, \u201cIndeed we found the prison shut securely, and the guards standing outside before the doors; but when we opened them, we found no one inside!\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 24,
+          "text": "Now when the high priest, the captain of the temple, and the chief priests heard these things, they wondered what the outcome would be."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 25,
+          "text": "So one came and told them, saying, \u201cLook, the men whom you put in prison are standing in the temple and teaching the people!\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 26,
+          "text": "Then the captain went with the officers and brought them without violence, for they feared the people, lest they should be stoned."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 27,
+          "text": "And when they had brought them, they set them before the council. And the high priest asked them,"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 28,
+          "text": "saying, \u201cDid we not strictly command you not to teach in this name? And look, you have filled Jerusalem with your doctrine, and intend to bring this Man\u2019s blood on us!\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 29,
+          "text": "But Peter and the other apostles answered and said: \u201cWe ought to obey God rather than men."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 30,
+          "text": "The God of our fathers raised up Jesus whom you murdered by hanging on a tree."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 31,
+          "text": "Him God has exalted to His right hand to be Prince and Savior, to give repentance to Israel and forgiveness of sins."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 32,
+          "text": "And we are His witnesses to these things, and so also is the Holy Spirit whom God has given to those who obey Him.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 33,
+          "text": "When they heard this, they were furious and plotted to kill them."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 34,
+          "text": "Then one in the council stood up, a Pharisee named Gamaliel, a teacher of the law held in respect by all the people, and commanded them to put the apostles outside for a little while."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 35,
+          "text": "And he said to them: \u201cMen of Israel, take heed to yourselves what you intend to do regarding these men."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 36,
+          "text": "For some time ago Theudas rose up, claiming to be somebody. A number of men, about four hundred, joined him. He was slain, and all who obeyed him were scattered and came to nothing."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 37,
+          "text": "After this man, Judas of Galilee rose up in the days of the census, and drew away many people after him. He also perished, and all who obeyed him were dispersed."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 38,
+          "text": "And now I say to you, keep away from these men and let them alone; for if this plan or this work is of men, it will come to nothing;"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 39,
+          "text": "but if it is of God, you cannot overthrow it\u2014lest you even be found to fight against God.\u201d"
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 40,
+          "text": "And they agreed with him, and when they had called for the apostles and beaten them, they commanded that they should not speak in the name of Jesus, and let them go."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 41,
+          "text": "So they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for His name."
+        },
+        {
+          "book": "Acts",
+          "chapter": 5,
+          "verse": 42,
+          "text": "And daily in the temple, and in every house, they did not cease teaching and preaching Jesus as the Christ."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2025-12-28T04:00:25.747689"
+    }
+  ]
+}

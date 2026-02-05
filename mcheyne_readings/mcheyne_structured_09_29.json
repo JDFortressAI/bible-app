@@ -1,0 +1,821 @@
+{
+  "format_version": "1.0",
+  "date": "09/29",
+  "cached_at": "2026-02-05T18:03:32.521777",
+  "Family": [
+    {
+      "reference": "1 Kings 1",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 1,
+          "text": "1 Now King David was old, advanced in years; and they put covers on him, but he could not get warm."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 2,
+          "text": "2 Therefore his servants said to him, \u201cLet a young woman, a virgin, be sought for our lord the king, and let her stand before the king, and let her care for him; and let her lie in your bosom, that our lord the king may be warm.\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 3,
+          "text": "3 So they sought for a lovely young woman throughout all the territory of Israel, and found Abishag the Shunammite, and brought her to the king."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 4,
+          "text": "4 The young woman was very lovely; and she cared for the king, and served him; but the king did not know her."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 5,
+          "text": "5 Then Adonijah the son of Haggith exalted himself, saying, \u201cI will be king\u201d; and he prepared for himself chariots and horsemen, and fifty men to run before him."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 6,
+          "text": "6 (And his father had not rebuked him at any time by saying, \u201cWhy have you done so?\u201d He was also very good-looking. His mother had borne him after Absalom.)"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 7,
+          "text": "7 Then he conferred with Joab the son of Zeruiah and with Abiathar the priest, and they followed and helped Adonijah."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 8,
+          "text": "8 But Zadok the priest, Benaiah the son of Jehoiada, Nathan the prophet, Shimei, Rei, and the mighty men who belonged to David were not with Adonijah."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 9,
+          "text": "9 And Adonijah sacrificed sheep and oxen and fattened cattle by the stone of Zoheleth, which is by En Rogel; he also invited all his brothers, the king\u2019s sons, and all the men of Judah, the king\u2019s servants."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 10,
+          "text": "10 But he did not invite Nathan the prophet, Benaiah, the mighty men, or Solomon his brother."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 11,
+          "text": "11 So Nathan spoke to Bathsheba the mother of Solomon, saying, \u201cHave you not heard that Adonijah the son of Haggith has become king, and David our lord does not know it?"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 12,
+          "text": "12 Come, please, let me now give you advice, that you may save your own life and the life of your son Solomon."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 13,
+          "text": "13 Go immediately to King David and say to him, \u2018Did you not, my lord, O king, swear to your maidservant, saying, \u201cAssuredly your son Solomon shall reign after me, and he shall sit on my throne\u201d? Why then has Adonijah become king?\u2019"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 14,
+          "text": "14 Then, while you are still talking there with the king, I also will come in after you and confirm your words.\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 15,
+          "text": "15 So Bathsheba went into the chamber to the king. (Now the king was very old, and Abishag the Shunammite was serving the king.)"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 16,
+          "text": "16 And Bathsheba bowed and did homage to the king. Then the king said, \u201cWhat is your wish?\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 17,
+          "text": "17 Then she said to him, \u201cMy lord, you swore by the L\u1d0f\u0280\u1d05 your God to your maidservant, saying, \u2018Assuredly Solomon your son shall reign after me, and he shall sit on my throne.\u2019"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 18,
+          "text": "18 So now, look! Adonijah has become king; and now, my lord the king, you do not know about it."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 19,
+          "text": "19 He has sacrificed oxen and fattened cattle and sheep in abundance, and has invited all the sons of the king, Abiathar the priest, and Joab the commander of the army; but Solomon your servant he has not invited."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 20,
+          "text": "20 And as for you, my lord, O king, the eyes of all Israel are on you, that you should tell them who will sit on the throne of my lord the king after him."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 21,
+          "text": "21 Otherwise it will happen, when my lord the king rests with his fathers, that I and my son Solomon will be counted as offenders.\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 22,
+          "text": "22 And just then, while she was still talking with the king, Nathan the prophet also came in."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 23,
+          "text": "23 So they told the king, saying, \u201cHere is Nathan the prophet.\u201d And when he came in before the king, he bowed down before the king with his face to the ground."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 24,
+          "text": "24 And Nathan said, \u201cMy lord, O king, have you said, \u2018Adonijah shall reign after me, and he shall sit on my throne\u2019?"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 25,
+          "text": "25 For he has gone down today, and has sacrificed oxen and fattened cattle and sheep in abundance, and has invited all the king\u2019s sons, and the commanders of the army, and Abiathar the priest; and look! They are eating and drinking before him; and they say, \u2018Long live King Adonijah!\u2019"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 26,
+          "text": "26 But he has not invited me\u2014me your servant\u2014nor Zadok the priest, nor Benaiah the son of Jehoiada, nor your servant Solomon."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 27,
+          "text": "27 Has this thing been done by my lord the king, and you have not told your servant who should sit on the throne of my lord the king after him?\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 28,
+          "text": "28 Then King David answered and said, \u201cCall Bathsheba to me.\u201d So she came into the king\u2019s presence and stood before the king."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 29,
+          "text": "29 And the king took an oath and said, \u201cAs the L\u1d0f\u0280\u1d05 lives, who has redeemed my life from every distress,"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 30,
+          "text": "30 just as I swore to you by the L\u1d0f\u0280\u1d05 God of Israel, saying, \u2018Assuredly Solomon your son shall be king after me, and he shall sit on my throne in my place,\u2019 so I certainly will do this day.\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 31,
+          "text": "31 Then Bathsheba bowed with her face to the earth, and paid homage to the king, and said, \u201cLet my lord King David live forever!\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 32,
+          "text": "32 And King David said, \u201cCall to me Zadok the priest, Nathan the prophet, and Benaiah the son of Jehoiada.\u201d So they came before the king."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 33,
+          "text": "33 The king also said to them, \u201cTake with you the servants of your lord, and have Solomon my son ride on my own mule, and take him down to Gihon."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 34,
+          "text": "34 There let Zadok the priest and Nathan the prophet anoint him king over Israel; and blow the horn, and say, \u2018Long live King Solomon!\u2019"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 35,
+          "text": "35 Then you shall come up after him, and he shall come and sit on my throne, and he shall be king in my place. For I have appointed him to be ruler over Israel and Judah.\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 36,
+          "text": "36 Benaiah the son of Jehoiada answered the king and said, \u201cAmen! May the L\u1d0f\u0280\u1d05 God of my lord the king say so too."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 37,
+          "text": "37 As the L\u1d0f\u0280\u1d05 has been with my lord the king, even so may He be with Solomon, and make his throne greater than the throne of my lord King David.\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 38,
+          "text": "38 So Zadok the priest, Nathan the prophet, Benaiah the son of Jehoiada, the Cherethites, and the Pelethites went down and had Solomon ride on King David\u2019s mule, and took him to Gihon."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 39,
+          "text": "39 Then Zadok the priest took a horn of oil from the tabernacle and anointed Solomon. And they blew the horn, and all the people said, \u201cLong live King Solomon!\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 40,
+          "text": "40 And all the people went up after him; and the people played the flutes and rejoiced with great joy, so that the earth seemed to split with their sound."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 41,
+          "text": "41 Now Adonijah and all the guests who were with him heard it as they finished eating. And when Joab heard the sound of the horn, he said, \u201cWhy is the city in such a noisy uproar?\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 42,
+          "text": "42 While he was still speaking, there came Jonathan, the son of Abiathar the priest. And Adonijah said to him, \u201cCome in, for you are a prominent man, and bring good news.\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 43,
+          "text": "43 Then Jonathan answered and said to Adonijah, \u201cNo! Our lord King David has made Solomon king."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 44,
+          "text": "44 The king has sent with him Zadok the priest, Nathan the prophet, Benaiah the son of Jehoiada, the Cherethites, and the Pelethites; and they have made him ride on the king\u2019s mule."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 45,
+          "text": "45 So Zadok the priest and Nathan the prophet have anointed him king at Gihon; and they have gone up from there rejoicing, so that the city is in an uproar. This is the noise that you have heard."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 46,
+          "text": "46 Also Solomon sits on the throne of the kingdom."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 47,
+          "text": "47 And moreover the king\u2019s servants have gone to bless our lord King David, saying, \u2018May God make the name of Solomon better than your name, and may He make his throne greater than your throne.\u2019 Then the king bowed himself on the bed."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 48,
+          "text": "48 Also the king said thus, \u2018Blessed be the L\u1d0f\u0280\u1d05 God of Israel, who has given one to sit on my throne this day, while my eyes see it!\u2019 \u201c"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 49,
+          "text": "49 So all the guests who were with Adonijah were afraid, and arose, and each one went his way."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 50,
+          "text": "50 Now Adonijah was afraid of Solomon; so he arose, and went and took hold of the horns of the altar."
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 51,
+          "text": "51 And it was told Solomon, saying, \u201cIndeed Adonijah is afraid of King Solomon; for look, he has taken hold of the horns of the altar, saying, \u2018Let King Solomon swear to me today that he will not put his servant to death with the sword.\u2019 \u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 52,
+          "text": "52 Then Solomon said, \u201cIf he proves himself a worthy man, not one hair of him shall fall to the earth; but if wickedness is found in him, he shall die.\u201d"
+        },
+        {
+          "book": "1 Kings",
+          "chapter": 1,
+          "verse": 53,
+          "text": "53 So King Solomon sent them to bring him down from the altar. And he came and fell down before King Solomon; and Solomon said to him, \u201cGo to your house.\u201d"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T18:03:32.991419"
+    },
+    {
+      "reference": "Galatians 5",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 1,
+          "text": "1 Stand fast therefore in the liberty by which Christ has made us free, and do not be entangled again with a yoke of bondage."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 2,
+          "text": "2 Indeed I, Paul, say to you that if you become circumcised, Christ will profit you nothing."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 3,
+          "text": "3 And I testify again to every man who becomes circumcised that he is a debtor to keep the whole law."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 4,
+          "text": "4 You have become estranged from Christ, you who attempt to be justified by law; you have fallen from grace."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 5,
+          "text": "5 For we through the Spirit eagerly wait for the hope of righteousness by faith."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 6,
+          "text": "6 For in Christ Jesus neither circumcision nor uncircumcision avails anything, but faith working through love."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 7,
+          "text": "7 You ran well. Who hindered you from obeying the truth?"
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 8,
+          "text": "8 This persuasion does not come from Him who calls you."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 9,
+          "text": "9 A little leaven leavens the whole lump."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 10,
+          "text": "10 I have confidence in you, in the Lord, that you will have no other mind; but he who troubles you shall bear his judgment, whoever he is."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 11,
+          "text": "11 And I, brethren, if I still preach circumcision, why do I still suffer persecution? Then the offense of the cross has ceased."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 12,
+          "text": "12 I could wish that those who trouble you would even cut themselves off!"
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 13,
+          "text": "13 For you, brethren, have been called to liberty; only do not use liberty as an opportunity for the flesh, but through love serve one another."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 14,
+          "text": "14 For all the law is fulfilled in one word, even in this: \u201cYou shall love your neighbor as yourself.\u201d"
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 15,
+          "text": "15 But if you bite and devour one another, beware lest you be consumed by one another!"
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 16,
+          "text": "16 I say then: Walk in the Spirit, and you shall not fulfill the lust of the flesh."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 17,
+          "text": "17 For the flesh lusts against the Spirit, and the Spirit against the flesh; and these are contrary to one another, so that you do not do the things that you wish."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 18,
+          "text": "18 But if you are led by the Spirit, you are not under the law."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 19,
+          "text": "19 Now the works of the flesh are evident, which are: adultery, fornication, uncleanness, lewdness,"
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 20,
+          "text": "20 idolatry, sorcery, hatred, contentions, jealousies, outbursts of wrath, selfish ambitions, dissensions, heresies,"
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 21,
+          "text": "21 envy, murders, drunkenness, revelries, and the like; of which I tell you beforehand, just as I also told you in time past, that those who practice such things will not inherit the kingdom of God."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 22,
+          "text": "22 But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness,"
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 23,
+          "text": "23 gentleness, self-control. Against such there is no law."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 24,
+          "text": "24 And those who are Christ\u2019s have crucified the flesh with its passions and desires."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 25,
+          "text": "25 If we live in the Spirit, let us also walk in the Spirit."
+        },
+        {
+          "book": "Galatians",
+          "chapter": 5,
+          "verse": 26,
+          "text": "26 Let us not become conceited, provoking one another, envying one another."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T18:03:33.586422"
+    }
+  ],
+  "Secret": [
+    {
+      "reference": "Ezekiel 32",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 1,
+          "text": "1 And it came to pass in the twelfth year, in the twelfth month, on the first day of the month, that the word of the L\u1d0f\u0280\u1d05 came to me, saying,"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 2,
+          "text": "2 \u201cSon of man, take up a lamentation for Pharaoh king of Egypt, and say to him: \u2018You are like a young lion among the nations, And you are like a monster in the seas, Bursting forth in your rivers, Troubling the waters with your feet, And fouling their rivers.\u2019"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 3,
+          "text": "3 \u201cThus says the L\u1d0f\u0280\u1d05 God: \u2018I will therefore spread My net over you with a company of many people, And they will draw you up in My net."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 4,
+          "text": "4 Then I will leave you on the land; I will cast you out on the open fields, And cause to settle on you all the birds of the heavens. And with you I will fill the beasts of the whole earth."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 5,
+          "text": "5 I will lay your flesh on the mountains, And fill the valleys with your carcass."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 6,
+          "text": "6 \u2018I will also water the land with the flow of your blood, Even to the mountains; And the riverbeds will be full of you."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 7,
+          "text": "7 When I put out your light, I will cover the heavens, and make its stars dark; I will cover the sun with a cloud, And the moon shall not give her light."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 8,
+          "text": "8 All the bright lights of the heavens I will make dark over you, And bring darkness upon your land,\u2019 Says the L\u1d0f\u0280\u1d05 God."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 9,
+          "text": "9 \u2018I will also trouble the hearts of many peoples, when I bring your destruction among the nations, into the countries which you have not known."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 10,
+          "text": "10 Yes, I will make many peoples astonished at you, and their kings shall be horribly afraid of you when I brandish My sword before them; and they shall tremble every moment, every man for his own life, in the day of your fall.\u2019"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 11,
+          "text": "11 \u201cFor thus says the L\u1d0f\u0280\u1d05 God: \u2018The sword of the king of Babylon shall come upon you."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 12,
+          "text": "12 By the swords of the mighty warriors, all of them the most terrible of the nations, I will cause your multitude to fall. \u2018They shall plunder the pomp of Egypt, And all its multitude shall be destroyed."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 13,
+          "text": "13 Also I will destroy all its animals From beside its great waters; The foot of man shall muddy them no more, Nor shall the hooves of animals muddy them."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 14,
+          "text": "14 Then I will make their waters clear, And make their rivers run like oil,\u2019 Says the L\u1d0f\u0280\u1d05 God."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 15,
+          "text": "15 \u2018When I make the land of Egypt desolate, And the country is destitute of all that once filled it, When I strike all who dwell in it, Then they shall know that I am the L\u1d0f\u0280\u1d05."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 16,
+          "text": "16 \u2018This is the lamentation With which they shall lament her; The daughters of the nations shall lament her; They shall lament for her, for Egypt, And for all her multitude,\u2019 Says the L\u1d0f\u0280\u1d05 God.\u201d"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 17,
+          "text": "17 It came to pass also in the twelfth year, on the fifteenth day of the month, that the word of the L\u1d0f\u0280\u1d05 came to me, saying:"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 18,
+          "text": "18 \u201cSon of man, wail over the multitude of Egypt, And cast them down to the depths of the earth, Her and the daughters of the famous nations, With those who go down to the Pit:"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 19,
+          "text": "19 \u2018Whom do you surpass in beauty? Go down, be placed with the uncircumcised.\u2019"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 20,
+          "text": "20 \u201cThey shall fall in the midst of those slain by the sword; She is delivered to the sword, Drawing her and all her multitudes."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 21,
+          "text": "21 The strong among the mighty Shall speak to him out of the midst of hell With those who help him: \u2018They have gone down, They lie with the uncircumcised, slain by the sword.\u2019"
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 22,
+          "text": "22 \u201cAssyria is there, and all her company, With their graves all around her, All of them slain, fallen by the sword."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 23,
+          "text": "23 Her graves are set in the recesses of the Pit, And her company is all around her grave, All of them slain, fallen by the sword, Who caused terror in the land of the living."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 24,
+          "text": "24 \u201cThere is Elam and all her multitude, All around her grave, All of them slain, fallen by the sword, Who have gone down uncircumcised to the lower parts of the earth, Who caused their terror in the land of the living; Now they bear their shame with those who go down to the Pit."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 25,
+          "text": "25 They have set her bed in the midst of the slain, With all her multitude, With her graves all around it, All of them uncircumcised, slain by the sword; Though their terror was caused In the land of the living, Yet they bear their shame With those who go down to the Pit; It was put in the midst of the slain."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 26,
+          "text": "26 \u201cThere are Meshech and Tubal and all their multitudes, With all their graves around it, All of them uncircumcised, slain by the sword, Though they caused their terror in the land of the living."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 27,
+          "text": "27 They do not lie with the mighty Who are fallen of the uncircumcised, Who have gone down to hell with their weapons of war; They have laid their swords under their heads, But their iniquities will be on their bones, Because of the terror of the mighty in the land of the living."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 28,
+          "text": "28 Yes, you shall be broken in the midst of the uncircumcised, And lie with those slain by the sword."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 29,
+          "text": "29 \u201cThere is Edom, Her kings and all her princes, Who despite their might Are laid beside those slain by the sword; They shall lie with the uncircumcised, And with those who go down to the Pit."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 30,
+          "text": "30 There are the princes of the north, All of them, and all the Sidonians, Who have gone down with the slain In shame at the terror which they caused by their might; They lie uncircumcised with those slain by the sword, And bear their shame with those who go down to the Pit."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 31,
+          "text": "31 \u201cPharaoh will see them And be comforted over all his multitude, Pharaoh and all his army, Slain by the sword,\u201d Says the L\u1d0f\u0280\u1d05 God."
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 32,
+          "verse": 32,
+          "text": "32 \u201cFor I have caused My terror in the land of the living; And he shall be placed in the midst of the uncircumcised With those slain by the sword, Pharaoh and all his multitude,\u201d Says the L\u1d0f\u0280\u1d05 God."
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T18:03:34.352525"
+    },
+    {
+      "reference": "Psalm 80",
+      "version": "NKJV",
+      "verses": [
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 1,
+          "text": "1 To the Chief Musician. Set to \u2018The Lilies.\u2019 A Testimony of Asaph. A Psalm. Give ear, O Shepherd of Israel, You who lead Joseph like a flock; You who dwell between the cherubim, shine forth!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 2,
+          "text": "2 Before Ephraim, Benjamin, and Manasseh, Stir up Your strength, And come and save us!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 3,
+          "text": "3 Restore us, O God; Cause Your face to shine, And we shall be saved!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 4,
+          "text": "4 O L\u1d0f\u0280\u1d05 God of hosts, How long will You be angry Against the prayer of Your people?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 5,
+          "text": "5 You have fed them with the bread of tears, And given them tears to drink in great measure."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 6,
+          "text": "6 You have made us a strife to our neighbors, And our enemies laugh among themselves."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 7,
+          "text": "7 Restore us, O God of hosts; Cause Your face to shine, And we shall be saved!"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 8,
+          "text": "8 You have brought a vine out of Egypt; You have cast out the nations, and planted it."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 9,
+          "text": "9 You prepared room for it, And caused it to take deep root, And it filled the land."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 10,
+          "text": "10 The hills were covered with its shadow, And the mighty cedars with its boughs."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 11,
+          "text": "11 She sent out her boughs to the Sea, And her branches to the River."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 12,
+          "text": "12 Why have You broken down her hedges, So that all who pass by the way pluck her fruit?"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 13,
+          "text": "13 The boar out of the woods uproots it, And the wild beast of the field devours it."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 14,
+          "text": "14 Return, we beseech You, O God of hosts; Look down from heaven and see, And visit this vine"
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 15,
+          "text": "15 And the vineyard which Your right hand has planted, And the branch that You made strong for Yourself."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 16,
+          "text": "16 It is burned with fire, it is cut down; They perish at the rebuke of Your countenance."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 17,
+          "text": "17 Let Your hand be upon the man of Your right hand, Upon the son of man whom You made strong for Yourself."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 18,
+          "text": "18 Then we will not turn back from You; Revive us, and we will call upon Your name."
+        },
+        {
+          "book": "Psalm",
+          "chapter": 80,
+          "verse": 19,
+          "text": "19 Restore us, O L\u1d0f\u0280\u1d05 God of hosts; Cause Your face to shine, And we shall be saved!"
+        }
+      ],
+      "highlights": [],
+      "fetched_at": "2026-02-05T18:03:34.979011"
+    }
+  ]
+}

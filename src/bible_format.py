@@ -1,6 +1,15 @@
 import re
 from datetime import datetime, timedelta
 
+def strip_leading_verse_number(text: str) -> str:
+    """
+    Removes redundant leading verse numbers from verse text.
+    E.g. "27 But Jesus looked at them..." -> "But Jesus looked at them..."
+    """
+    # Pattern: start of string, digits, optional period/colon, whitespace
+    return re.sub(r'^\d+[.:]?\s+', '', text)
+
+
 def remove_footnotes(text: str) -> str:
     """
     Removes footnotes in the format [a], [b], etc., along with a single space before them.
@@ -102,13 +111,14 @@ def render_psalm_119(text: str, verse: int, day_offset: int, text_only: bool) ->
 
 
 def clean_verse_text(
-        text: str, 
-        verse: int, 
-        chapter: int, 
-        book: str, 
+        text: str,
+        verse: int,
+        chapter: int,
+        book: str,
         day_offset: int,
         text_only: bool = False
         ) -> str:
+    text = strip_leading_verse_number(text)
     text = remove_footnotes(text)
     text = correct_quotations(text)
     text = correct_quotations(text)
